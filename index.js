@@ -32,8 +32,6 @@ async function getLocations(lat, lng, cursor) {
   );
   const data = await res.json();
   const newCursor = data.cursor;
-  // console.log(newCursor);
-  // console.log("data", data);
   if (newCursor) {
     const rest = await getLocations(lat, lng, newCursor);
     return [...data.locations, ...rest];
@@ -51,16 +49,14 @@ async function main () {
 
 }
 
-var extent = NZbbox//[-70.823364, -33.553984, -70.473175, -33.302986];
+var extent = NZbbox
 var cellSide = 3;
 var options = {units: 'kilometers'};
 
 var grid = turf.pointGrid(extent, cellSide, options);
 for(var i = 0; i < grid.features.length; i++) {
     const coords = grid.features[i].geometry.coordinates
-    // console.log(coords);
 }
 
-// console.log('grid',grid)
 
 main()
