@@ -70,7 +70,6 @@ async function main () {
   var options = {units: 'kilometers', mask: nz};
 
   var grid = turf.pointGrid(extent, cellSide, options);
-  console.log(grid.features.length)
   for(var i = 0; i < grid.features.length; i++) {
       const coords = grid.features[i].geometry.coordinates
       await getLocations(coords[1], coords[0]);
