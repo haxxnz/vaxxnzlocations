@@ -32,20 +32,35 @@ async function getLocations(lat, lng, cursor) {
   );
   const data = await res.json();
   const newCursor = data.cursor;
-  console.log(newCursor);
-  console.log("data", data.locations.length);
+  // console.log(newCursor);
+  // console.log("data", data);
   if (newCursor) {
-    return getLocations(lat, lng,newCursor);
+    const rest = await getLocations(lat, lng, newCursor);
+    return [...data.locations, ...rest];
+  }
+  else {
+    return data.locations
   }
 }
 
-getLocations(-36.8534194, 174.7595025);
+async function main () {
+
+  const locations = await getLocations(-36.8534194, 174.7595025);
+  console.log(locations)
+  
+
+}
 
 var extent = NZbbox//[-70.823364, -33.553984, -70.473175, -33.302986];
 var cellSide = 3;
 var options = {units: 'kilometers'};
 
 var grid = turf.pointGrid(extent, cellSide, options);
+for(var i = 0; i < grid.features.length; i++) {
+    const coords = grid.features[i].geometry.coordinates
+    // console.log(coords);
+}
 
-console.log('grid',grid)
+// console.log('grid',grid)
 
+main()
