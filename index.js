@@ -1,5 +1,5 @@
 const fetch = require("node-fetch");
-async function getLocations(cursor) {
+async function getLocations(lat, lng, cursor) {
   const res = await fetch(
     "https://skl-api.bookmyvaccine.covid19.health.nz/public/locations/search",
     {
@@ -8,7 +8,7 @@ async function getLocations(cursor) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        location: { lat: -36.8534194, lng: 174.7595025 },
+        location: { lat, lng },
         fromDate: "2021-08-31",
         vaccineData: "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ==",
         locationQuery: {
@@ -18,7 +18,7 @@ async function getLocations(cursor) {
         },
         doseNumber: 1,
         groupSize: 1,
-        limit: 20,
+        limit: 10000,
         cursor: cursor,
         locationType: "CombinedBooking",
         filterTags: [],
@@ -32,8 +32,8 @@ async function getLocations(cursor) {
   console.log(newCursor);
   console.log("data", data.locations.length);
   if (newCursor) {
-    return getLocations(newCursor);
+    return getLocations(lat, lng,newCursor);
   }
 }
 
-getLocations();
+getLocations(-36.8534194, 174.7595025);
