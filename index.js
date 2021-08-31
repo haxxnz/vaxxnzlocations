@@ -1,8 +1,25 @@
 const fetch = require("node-fetch");
 const turf = require("@turf/turf");
 const nz = require('./nz.json')
+const fs = require('fs')
 const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
 
+let isFirst = true
+function saveLocationsJson(data) {
+  const str = JSON.stringify(data)
+  console.log(str)
+  if (isFirst) {
+    isFirst = false
+    fs.writeFileSync('locations.json', "[" + str + "\n")
+  }
+  else {
+    fs.appendFileSync("locations.json", "," + str + "\n");
+  }
+}
+
+function endLocationsJson(data) {
+  fs.appendFileSync("locations.json", "]\n");
+}
 
 async function getLocations(lat, lng, cursor) {
   const res = await fetch(
@@ -36,6 +53,10 @@ async function getLocations(lat, lng, cursor) {
   const newCursor = data.cursor;
   if (newCursor) {
     const rest = await getLocations(lat, lng, newCursor);
+    for (let i = 0; i < data.locations.length; i++) {
+      const location = data.locations[i];
+      saveLocationsJson(location);      
+    }
     return [...data.locations, ...rest];
   }
   else {
@@ -44,11 +65,6 @@ async function getLocations(lat, lng, cursor) {
 }
 
 async function main () {
-
-  // const locations = await getLocations(-36.8534194, 174.7595025);
-  // console.log(locations)
-  
-
   var extent = NZbbox
   var cellSide = 30;
   var options = {units: 'kilometers', mask: nz};
@@ -57,9 +73,8 @@ async function main () {
   console.log(grid.features.length)
   for(var i = 0; i < grid.features.length; i++) {
       const coords = grid.features[i].geometry.coordinates
+      await getLocations(coords[1], coords[0]);
   }
-
-
-
+  endLocationsJson()
 }
 main()
