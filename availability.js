@@ -1,5 +1,6 @@
 const fetch = require("node-fetch");
 const uniqLocations = require("./uniqLocations.json");
+const fs = require("fs");
 
 async function getSlots(location, availability) {
   console.log(`Getting slot for ${location.name} - ${availability.date}`);
@@ -52,13 +53,24 @@ async function getAvailability(location) {
     }
   );
   const data = await res.json();
+  const slots = [];
   for (const availability of data.availability) {
     if (!availability.available) {
       continue;
     }
     const slot = await getSlots(location, availability);
-    console.log(slot.slotsWithAvailability);
+    slots.push(slot);
   }
+
+  const output = {};
+  for (const slot of slots) {
+    output[slot.date] = slot.slotsWithAvailability;
+  }
+
+  fs.writeFileSync(
+    `./availability/${location.extId}.json`,
+    JSON.stringify(output)
+  );
 }
 
 async function main() {
