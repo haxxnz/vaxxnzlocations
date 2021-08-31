@@ -8,16 +8,12 @@ async function getLocations(cursor) {
         "Content-Type": "application/json",
       },
       body: JSON.stringify({
-        // location: { lat: -36.8560865, lng: 174.8232806 },
         location: { lat: -36.8534194, lng: 174.7595025 },
-
-        // lng:
         fromDate: "2021-08-31",
         vaccineData: "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ==",
         locationQuery: {
           includePools: ["default"],
           includeTags: [],
-          //   excludeTags: ["a0p4a000000CInuAAG"],
           excludeTags: [],
         },
         doseNumber: 1,
