@@ -47,16 +47,16 @@ async function main () {
   console.log(locations)
   
 
+  var extent = NZbbox
+  var cellSide = 3;
+  var options = {units: 'kilometers'};
+
+  var grid = turf.pointGrid(extent, cellSide, options);
+  for(var i = 0; i < grid.features.length; i++) {
+      const coords = grid.features[i].geometry.coordinates
+  }
+
+
+
 }
-
-var extent = NZbbox
-var cellSide = 3;
-var options = {units: 'kilometers'};
-
-var grid = turf.pointGrid(extent, cellSide, options);
-for(var i = 0; i < grid.features.length; i++) {
-    const coords = grid.features[i].geometry.coordinates
-}
-
-
 main()
