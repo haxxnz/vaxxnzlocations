@@ -1,4 +1,7 @@
 const fetch = require("node-fetch");
+const turf = require("@turf/turf");
+const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
+
 async function getLocations(lat, lng, cursor) {
   const res = await fetch(
     "https://skl-api.bookmyvaccine.covid19.health.nz/public/locations/search",
@@ -37,3 +40,12 @@ async function getLocations(lat, lng, cursor) {
 }
 
 getLocations(-36.8534194, 174.7595025);
+
+var extent = NZbbox//[-70.823364, -33.553984, -70.473175, -33.302986];
+var cellSide = 3;
+var options = {units: 'kilometers'};
+
+var grid = turf.pointGrid(extent, cellSide, options);
+
+console.log('grid',grid)
+
