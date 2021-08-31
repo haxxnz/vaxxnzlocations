@@ -66,7 +66,7 @@ async function getLocations(lat, lng, cursor) {
 
 async function main () {
   var extent = NZbbox
-  var cellSide = 30;
+  var cellSide = 10;
   var options = {units: 'kilometers', mask: nz};
 
   var grid = turf.pointGrid(extent, cellSide, options);
