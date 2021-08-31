@@ -7,7 +7,7 @@ const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
 let isFirst = true
 function saveLocationsJson(data) {
   const str = JSON.stringify(data)
-  console.log(str)
+  console.log(data.extId, data.displayAddress)
   if (isFirst) {
     isFirst = false
     fs.writeFileSync('locations.json', "[" + str + "\n")
@@ -74,6 +74,7 @@ async function main () {
   for(var i = 0; i < grid.features.length; i++) {
       const coords = grid.features[i].geometry.coordinates
       await getLocations(coords[1], coords[0]);
+      console.log(`${i}/${grid.features.length}`)
   }
   endLocationsJson()
 }
