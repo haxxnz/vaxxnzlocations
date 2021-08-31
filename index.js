@@ -1,6 +1,8 @@
 const fetch = require("node-fetch");
 const turf = require("@turf/turf");
+const nz = require('./nz.json')
 const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
+
 
 async function getLocations(lat, lng, cursor) {
   const res = await fetch(
@@ -43,15 +45,16 @@ async function getLocations(lat, lng, cursor) {
 
 async function main () {
 
-  const locations = await getLocations(-36.8534194, 174.7595025);
-  console.log(locations)
+  // const locations = await getLocations(-36.8534194, 174.7595025);
+  // console.log(locations)
   
 
   var extent = NZbbox
   var cellSide = 3;
-  var options = {units: 'kilometers'};
+  var options = {units: 'kilometers', mask: nz};
 
   var grid = turf.pointGrid(extent, cellSide, options);
+  console.log(grid.features.length)
   for(var i = 0; i < grid.features.length; i++) {
       const coords = grid.features[i].geometry.coordinates
   }
