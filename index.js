@@ -50,7 +50,7 @@ async function main () {
   
 
   var extent = NZbbox
-  var cellSide = 3;
+  var cellSide = 30;
   var options = {units: 'kilometers', mask: nz};
 
   var grid = turf.pointGrid(extent, cellSide, options);
