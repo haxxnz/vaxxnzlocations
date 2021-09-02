@@ -45,7 +45,7 @@ async function getAvailability(location) {
 
   const startDateStr = new Date().toISOString().slice(0, 10);
   const endDate = new Date();
-  endDate.setMonth(endDate.getMonth() + 2);
+  endDate.setDate(endDate.getDate() + 60);
   const endDateStr = endDate.toISOString().slice(0, 10);
 
   console.log(
