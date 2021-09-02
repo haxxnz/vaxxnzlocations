@@ -40,7 +40,7 @@ async function getSlots(location, availability) {
 }
 
 async function getAvailability(location) {
-  const locationAvailability = require(`./availability/${location.extId}.json`)
+  const locationData = require(`./availability/${location.extId}.json`)
 
   const startDateStr = new Date().toISOString().slice(0, 10);
   const endDate = new Date();
@@ -83,7 +83,7 @@ async function getAvailability(location) {
 
   const slots = [];
   for (const availability of data.availability) {
-    if (!locationAvailability.availabilityDates[availability.date]) { // if we know this day has been previously booked out, skip
+    if (!locationData.availabilityDates[availability.date]) { // if we know this day has been previously booked out, skip
       // okay, this is not good actually. a slot might get unbooked.
       console.log('skipping previously booked out day')
       continue
