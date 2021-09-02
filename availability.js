@@ -1,6 +1,7 @@
 const fetch = require("node-fetch");
 const uniqLocations = require("./uniqLocations.json");
 const fs = require("fs");
+require('dotenv').config()
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -10,7 +11,7 @@ async function getSlots(location, availability) {
   console.log(`Getting slot for ${location.name} - ${availability.date}`);
 
   const res = await fetch(
-    `https://skl-api.bookmyvaccine.covid19.health.nz/public/locations/${location.extId}/date/${availability.date}/slots`,
+    `${process.env.PROXY_URL}/public/locations/${location.extId}/date/${availability.date}/slots`,
     {
       method: "POST",
       headers: {
@@ -55,7 +56,7 @@ async function getAvailability(location) {
   );
 
   const res = await fetch(
-    `https://skl-api.bookmyvaccine.covid19.health.nz/public/locations/${location.extId}/availability`,
+    `${process.env.PROXY_URL}/public/locations/${location.extId}/availability`,
     {
       method: "POST",
       headers: {
