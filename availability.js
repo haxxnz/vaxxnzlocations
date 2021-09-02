@@ -62,6 +62,8 @@ async function getAvailability(location) {
       }),
     }
   );
+  console.log(res.status);
+
   const data = await res.json();
   // await sleep(1000);
 
