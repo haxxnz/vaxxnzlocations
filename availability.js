@@ -29,9 +29,9 @@ async function getSlots(location, availability) {
 }
 
 async function getAvailability(location) {
-  if (fs.existsSync(`./availability/${location.extId}.json`)) {
-    return;
-  }
+  // if (fs.existsSync(`./availability/${location.extId}.json`)) {
+  //   return;
+  // }
 
   const startDateStr = new Date().toISOString().slice(0, 10);
   const endDate = new Date();
