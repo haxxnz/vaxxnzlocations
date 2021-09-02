@@ -7,6 +7,10 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+function save(file, str) {
+  fs.writeFileSync(file, str + "\n")
+}
+
 async function getSlots(location, availability) {
   console.log(`Getting slot for ${location.name} - ${availability.date}`);
 
@@ -113,11 +117,13 @@ async function getAvailability(location) {
 }
 
 async function main() {
+  save('startedScrapeAt.json', `"${new Date().toISOString()}"`)
   console.log('started at', new Date())
   for (const location of uniqLocations) {
     await getAvailability(location);
   }
   console.log('ended at', new Date())
+  save('endedScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 
 main();
