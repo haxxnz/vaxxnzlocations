@@ -1,0 +1,8 @@
+#!/bin/bash
+
+while true
+do
+	./crawl-availability
+    echo "performed ./crawl-availability at $(TZ='Pacific/Auckland' date)"
+	sleep 1
+done
