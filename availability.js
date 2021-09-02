@@ -33,6 +33,8 @@ async function getAvailability(location) {
   //   return;
   // }
 
+  const locationAvailability = require(`./availability/${location.extId}.json`)
+
   const startDateStr = new Date().toISOString().slice(0, 10);
   const endDate = new Date();
   endDate.setMonth(endDate.getMonth() + 2);
@@ -65,6 +67,10 @@ async function getAvailability(location) {
 
   const slots = [];
   for (const availability of data.availability) {
+    if (!locationAvailability[availability.date]) { // if we know this day has been previously booked out, skip
+      console.log('skipping previously booked out day')
+      continue
+    }
     if (!availability.available) {
       continue;
     }
@@ -80,7 +86,7 @@ async function getAvailability(location) {
 
   fs.writeFileSync(
     `./availability/${location.extId}.json`,
-    JSON.stringify(output)
+    JSON.stringify(output, null, 2)
   );
 }
 
