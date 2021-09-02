@@ -4,5 +4,4 @@ while true
 do
 	./crawl-availability
     echo "performed ./crawl-availability at $(TZ='Pacific/Auckland' date)"
-	sleep 30
 done
