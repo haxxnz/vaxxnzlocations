@@ -61,7 +61,7 @@ async function getAvailability(location) {
     }
   );
   const data = await res.json();
-  await sleep(1000);
+  // await sleep(1000);
 
   const slots = [];
   for (const availability of data.availability) {
@@ -69,7 +69,7 @@ async function getAvailability(location) {
       continue;
     }
     const slot = await getSlots(location, availability);
-    await sleep(100);
+    // await sleep(100);
     slots.push(slot);
   }
 
@@ -85,9 +85,11 @@ async function getAvailability(location) {
 }
 
 async function main() {
+  console.log('started at', new Date())
   for (const location of uniqLocations) {
     await getAvailability(location);
   }
+  console.log('ended at', new Date())
 }
 
 main();
