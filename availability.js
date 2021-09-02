@@ -117,15 +117,12 @@ async function main() {
     const lastUpdatedAt = locationData.lastUpdatedAt
     locationsWithDates.push({ lastUpdatedAt, location })
   }
-  const sortedLocations = sortByAsc(locationsWithDates, a => a.lastUpdatedAt)
-  console.log('sortedLocations',sortedLocations)
-  return
-
+  const sortedLocationsWithDates = sortByAsc(locationsWithDates, a => a.lastUpdatedAt)
 
   save('startedScrapeAt.json', `"${new Date().toISOString()}"`)
   console.log('started at', new Date())
-  for (const location of sortedLocations) {
-    await getAvailability(location);
+  for (const sortedLocationWithDate of sortedLocationsWithDates) {
+    await getAvailability(sortedLocationWithDate.location);
   }
   console.log('ended at', new Date())
   save('endedScrapeAt.json', `"${new Date().toISOString()}"`)
