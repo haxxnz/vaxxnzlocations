@@ -24,7 +24,17 @@ async function getSlots(location, availability) {
       }),
     }
   );
-  const data = await res.json();
+  const dataStr = await res.text();
+  let data
+  try {
+    data = JSON.parse(dataStr)
+  }
+  catch (e) {
+    console.log('Couldn\'t parse JSON. Response text below')
+    console.log('res.status', res.status)
+    console.log(dataStr)
+    throw e
+  }
   return data;
 }
 
@@ -62,9 +72,17 @@ async function getAvailability(location) {
       }),
     }
   );
-  console.log(res.status);
-
-  const data = await res.json();
+  const dataStr = await res.text();
+  let data
+  try {
+    data = JSON.parse(dataStr)
+  }
+  catch (e) {
+    console.log('Couldn\'t parse JSON. Response text below')
+    console.log('res.status', res.status)
+    console.log(dataStr)
+    throw e
+  }
   // await sleep(1000);
 
   const slots = [];
