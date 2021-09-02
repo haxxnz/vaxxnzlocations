@@ -99,6 +99,7 @@ async function getAvailability(location) {
   for (const slot of slots) {
     output[slot.date] = slot.slotsWithAvailability;
   }
+  output["lastUpdatedAt"] = new Date()
 
   fs.writeFileSync(
     `./availability/${location.extId}.json`,
