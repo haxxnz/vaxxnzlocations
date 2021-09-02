@@ -3,10 +3,6 @@ const uniqLocations = require("./uniqLocations.json");
 const fs = require("fs");
 require('dotenv').config()
 
-function sleep(ms) {
-  return new Promise((resolve) => setTimeout(resolve, ms));
-}
-
 function save(file, str) {
   fs.writeFileSync(file, str + "\n")
 }
@@ -44,10 +40,6 @@ async function getSlots(location, availability) {
 }
 
 async function getAvailability(location) {
-  // if (fs.existsSync(`./availability/${location.extId}.json`)) {
-  //   return;
-  // }
-
   const locationAvailability = require(`./availability/${location.extId}.json`)
 
   const startDateStr = new Date().toISOString().slice(0, 10);
@@ -88,7 +80,6 @@ async function getAvailability(location) {
     console.log(dataStr)
     throw e
   }
-  // await sleep(1000);
 
   const slots = [];
   for (const availability of data.availability) {
@@ -101,7 +92,6 @@ async function getAvailability(location) {
       continue;
     }
     const slot = await getSlots(location, availability);
-    // await sleep(100);
     slots.push(slot);
   }
 
