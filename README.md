@@ -1,4 +1,4 @@
-# Vaxx.nz locations
+# [Vaxx.nz](https://vaxx.nz) - JSON of all available slots
 
 Periodically updated JSON of all available slots
 
