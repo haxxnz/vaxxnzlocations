@@ -1,6 +1,12 @@
 const fetch = require("node-fetch");
 const cheerio = require('cheerio');
 
+function getItemprop($, propname) {
+  const propEls = $(`[itemprop="${propname}"]`)
+  const prop = propEls.length > 0 ? $(propEls[0]).text() : ''
+  return prop
+}
+
 async function fetchHealthpointLocation(healthpointLocation) {
   const url = `https://www.healthpoint.co.nz${healthpointLocation.url}`
   const res = await fetch(`https://www.healthpoint.co.nz${healthpointLocation.url}`)
@@ -21,10 +27,19 @@ async function fetchHealthpointLocation(healthpointLocation) {
 
   // const address = $('[itemprop="address"]').text()
   const address = $('[itemtype="http://schema.org/Place"] h3').text()
+  
+  const telephone = getItemprop($, 'telephone')
+  const faxNumber = getItemprop($, 'faxNumber')
+  // const telephoneElements = $('[itemprop="telephone"]')
+  // const phone = telephoneElements.length > 0 ? $(telephoneElements[0]).text() : ''
+
+  // faxNumber
 
   console.log('url',url)
   console.log('opennningHours',opennningHours)
   console.log('address',address)
+  console.log('telephone',telephone)
+  console.log('faxNumber',faxNumber)
   // console.log("$(hoursTable).find('tr')",$(hoursTable).find('tr'))
 
 
