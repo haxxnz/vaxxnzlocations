@@ -1,16 +1,30 @@
 {
   "availabilityDates": {
+    "2021-10-06": [
+      {
+        "localStartTime": "09:30:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "10:00:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "12:30:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "14:00:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "14:30:00",
+        "durationSeconds": 1800
+      }
+    ],
     "2021-10-07": [
       {
-        "localStartTime": "11:30:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "12:00:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "13:00:00",
+        "localStartTime": "08:30:00",
         "durationSeconds": 1800
       },
       {
@@ -30,13 +44,13 @@
         "durationSeconds": 1800
       }
     ],
-    "2021-10-08": [
+    "2021-10-09": [
       {
-        "localStartTime": "11:30:00",
+        "localStartTime": "12:30:00",
         "durationSeconds": 1800
       },
       {
-        "localStartTime": "12:30:00",
+        "localStartTime": "13:00:00",
         "durationSeconds": 1800
       },
       {
@@ -44,13 +58,21 @@
         "durationSeconds": 1800
       },
       {
+        "localStartTime": "14:00:00",
+        "durationSeconds": 1800
+      },
+      {
         "localStartTime": "14:30:00",
         "durationSeconds": 1800
       }
     ],
-    "2021-10-09": [
+    "2021-10-10": [
       {
-        "localStartTime": "12:30:00",
+        "localStartTime": "08:30:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "09:30:00",
         "durationSeconds": 1800
       },
       {
@@ -155,6 +177,10 @@
       },
       {
         "localStartTime": "15:00:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "17:30:00",
         "durationSeconds": 1800
       }
     ],
@@ -332,6 +358,10 @@
       {
         "localStartTime": "14:30:00",
         "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "15:00:00",
+        "durationSeconds": 1800
       }
     ],
     "2021-10-17": [
@@ -345,10 +375,6 @@
       },
       {
         "localStartTime": "09:30:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "10:00:00",
         "durationSeconds": 1800
       },
       {
@@ -1118,7 +1144,7 @@
         "durationSeconds": 1800
       },
       {
-        "localStartTime": "17:30:00",
+        "localStartTime": "19:30:00",
         "durationSeconds": 1800
       }
     ],
@@ -1568,6 +1594,10 @@
         "durationSeconds": 1800
       },
       {
+        "localStartTime": "18:00:00",
+        "durationSeconds": 1800
+      },
+      {
         "localStartTime": "18:30:00",
         "durationSeconds": 1800
       },
@@ -1581,5 +1611,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-05T22:55:12.368Z"
+  "lastUpdatedAt": "2021-09-05T23:29:06.890Z"
 }

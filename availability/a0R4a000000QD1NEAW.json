@@ -1,16 +1,40 @@
 {
   "availabilityDates": {
-    "2021-09-13": [
+    "2021-09-07": [
       {
-        "localStartTime": "08:00:00",
+        "localStartTime": "10:30:00",
         "durationSeconds": 1800
       },
+      {
+        "localStartTime": "11:30:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "14:00:00",
+        "durationSeconds": 1800
+      }
+    ],
+    "2021-09-12": [
+      {
+        "localStartTime": "13:30:00",
+        "durationSeconds": 1800
+      }
+    ],
+    "2021-09-13": [
       {
         "localStartTime": "14:30:00",
         "durationSeconds": 1800
       }
     ],
     "2021-09-14": [
+      {
+        "localStartTime": "08:00:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "14:00:00",
+        "durationSeconds": 1800
+      },
       {
         "localStartTime": "17:00:00",
         "durationSeconds": 1800
@@ -122,6 +146,12 @@
         "durationSeconds": 1800
       }
     ],
+    "2021-09-18": [
+      {
+        "localStartTime": "08:30:00",
+        "durationSeconds": 1800
+      }
+    ],
     "2021-09-19": [
       {
         "localStartTime": "11:30:00",
@@ -143,6 +173,10 @@
       },
       {
         "localStartTime": "11:30:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "13:00:00",
         "durationSeconds": 1800
       },
       {
@@ -1163,10 +1197,6 @@
       },
       {
         "localStartTime": "11:20:00",
-        "durationSeconds": 600
-      },
-      {
-        "localStartTime": "11:30:00",
         "durationSeconds": 600
       },
       {
@@ -3613,6 +3643,14 @@
       },
       {
         "localStartTime": "11:50:00",
+        "durationSeconds": 600
+      },
+      {
+        "localStartTime": "14:00:00",
+        "durationSeconds": 600
+      },
+      {
+        "localStartTime": "14:10:00",
         "durationSeconds": 600
       },
       {
@@ -6409,5 +6447,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-05T22:54:07.970Z"
+  "lastUpdatedAt": "2021-09-05T23:28:05.685Z"
 }
