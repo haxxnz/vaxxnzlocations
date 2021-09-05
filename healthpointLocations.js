@@ -31,26 +31,25 @@ async function fetchHealthpointLocation(healthpointLocation) {
   const faxNumber = getItemprop($, 'faxNumber')
 
 
-  const instruction = $('#section-covidVaccination .content').html()
+  const instruction = $('#section-covidVaccination .content').html().trim()
   const bookButton = $('#section-covidVaccinationBookingUrl')
 
   const instructionLisEls = $('#section-covidVaccination .content ul li')
   const instructionLis = instructionLisEls.map((i, li) => $(li).text()).get()
 
+  const isBookable = bookButton.length > 0
 
-
-  
-
-  console.log('url',url)
-  console.log('name',name)
-  console.log('opennningHours',opennningHours)
-  console.log('address',address)
-  console.log('telephone',telephone)
-  console.log('faxNumber',faxNumber)
-  console.log('instruction',instruction)
-  console.log('bookButton.length',bookButton.length)
-  console.log('instructionLis',instructionLis)
-
+  return {
+    ...healthpointLocation,
+    name,
+    opennningHours,
+    address,
+    telephone,
+    faxNumber,
+    instruction,
+    instructionLis,
+    isBookable,
+  }
 
   return opennningHours
 }
@@ -62,7 +61,8 @@ async function main() {
   const {results} = data
 
   const firstHealthpointLocation = results[2]
-  const info = await fetchHealthpointLocation(firstHealthpointLocation)
+  const enrichedHpLocation = await fetchHealthpointLocation(firstHealthpointLocation)
+  console.log('enrichedHpLocation',enrichedHpLocation)
 
 }
 
