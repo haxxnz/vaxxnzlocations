@@ -14,8 +14,8 @@ function trimHtmlWhitespace(str) {
 }
 
 async function fetchHealthpointLocation(healthpointLocation) {
-  const url = `https://www.healthpoint.co.nz${healthpointLocation.url}`
-  const res = await fetch(url)
+  const fullUrl = `https://www.healthpoint.co.nz${healthpointLocation.url}`
+  const res = await fetch(fullUrl)
   const body = await res.text()
   const $ = cheerio.load(body);
   const table = $('table.hours')
@@ -47,6 +47,7 @@ async function fetchHealthpointLocation(healthpointLocation) {
 
   return {
     ...healthpointLocation,
+    fullUrl,
     name,
     opennningHours,
     address,
