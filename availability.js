@@ -90,11 +90,6 @@ async function getAvailability(location) {
 
   const slots = [];
   for (const availability of data.availability) {
-    // if (!locationData.availabilityDates[availability.date]) { // if we know this day has been previously booked out, skip
-    //   // okay, this is not good actually. a slot might get unbooked.
-    //   console.log('skipping previously booked out day')
-    //   continue
-    // }
     if (!availability.available) {
       continue;
     }
