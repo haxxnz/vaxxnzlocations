@@ -73,7 +73,22 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
       const [key, value] = holidayHoursText.split(':')
       exceptions.set(key, value)
     })
-    console.log('exceptions',exceptions)
+    // console.log('exceptions',exceptions)
+
+    const noteEls = $('#section-hours2 p')
+    const notes: string[] = []
+    noteEls.each((i, el) => {
+      const className = $(el).attr('class')
+      console.log('className',className)
+      if (typeof className === 'undefined') {
+        const note = $(el).text().trim()
+        if (note.length) {
+          notes.push(note)
+        }
+      }
+    })
+    console.log('notes',notes)
+
 
     const sectionHours = $('#section-hours2 .content').html()??""
     const isOther = sectionHours.includes("Other")
@@ -90,7 +105,8 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
 
   const opennningHours = {
     schedule,
-    exceptions
+    exceptions,
+    notes
   }
 
   const result = {
