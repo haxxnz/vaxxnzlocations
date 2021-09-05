@@ -88,14 +88,15 @@ async function getAvailability(location) {
     throw e
   }
 
-  const slots = [];
+  const slotsPromises = []
   for (const availability of data.availability) {
     if (!availability.available) {
       continue;
     }
-    const slot = await getSlots(location, availability);
-    slots.push(slot);
+    const slotsPromise = getSlots(location, availability);
+    slotsPromises.push(slotsPromise);
   }
+  const slots = await Promise.all(slotsPromises);
 
   const output = {};
   for (const slot of slots) {
