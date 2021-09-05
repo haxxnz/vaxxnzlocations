@@ -16,7 +16,6 @@ async function fetchHealthpointLocation(healthpointLocation) {
   const table = $('table.hours')
   const opennningHours = new Map()
   $(table).find('tr').each((i, tr) => {
-    // console.log('tr',tr)
     const day = $(tr).find('th').text()
     const hours = $(tr).find('td').text()
     console.log('day',day)
@@ -25,23 +24,18 @@ async function fetchHealthpointLocation(healthpointLocation) {
     opennningHours[day] = hours
   })
 
-  // const address = $('[itemprop="address"]').text()
   const name = $('#heading h1').text()
   const address = $('[itemtype="http://schema.org/Place"] h3').text()
   
   const telephone = getItemprop($, 'telephone')
   const faxNumber = getItemprop($, 'faxNumber')
-  // const telephoneElements = $('[itemprop="telephone"]')
-  // const phone = telephoneElements.length > 0 ? $(telephoneElements[0]).text() : ''
 
-  // faxNumber
 
   const instruction = $('#section-covidVaccination .content').html()
   const bookButton = $('#section-covidVaccinationBookingUrl')
 
   const instructionListItemsEls = $('#section-covidVaccination .content ul li')
   const instructionListItems = instructionListItemsEls.map((i, li) => $(li).text()).get()
-  // const 
 
 
 
@@ -56,7 +50,6 @@ async function fetchHealthpointLocation(healthpointLocation) {
   console.log('instruction',instruction)
   console.log('bookButton.length',bookButton.length)
   console.log('instructionListItems',instructionListItems)
-  // console.log("$(hoursTable).find('tr')",$(hoursTable).find('tr'))
 
 
   return opennningHours
