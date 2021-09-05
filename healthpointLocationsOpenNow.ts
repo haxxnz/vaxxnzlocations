@@ -20,7 +20,7 @@ function getItempropText($: CheerioAPI, propname: string): string | undefined {
 let isFirst = true
 function saveHealthpointLocationJson(data: HealthpointLocation) {
   const str = JSON.stringify(data)
-  console.log(data.name)
+  // console.log(data.name)
   if (isFirst) {
     isFirst = false
     fs.writeFileSync('healthpointLocations.json', "[" + str + "\n")
@@ -34,18 +34,28 @@ function endHealthpointLocationJson() {
   fs.appendFileSync("healthpointLocations.json", "]\n");
 }
 
-function nameAddressNormal($) {
-  const address = $('[itemtype="http://schema.org/Place"]:first h3').text();
+function nameAddressNormal($: CheerioAPI) {
+  const address = $('[itemtype="http://schema.org/Place"]').first().find('h3').text();
   const name = $('#heading h1').text() // TODO: this is the name of the page, not the location
   return {address, name}
 
 }
-function nameAddressCommunity($) {
-  const address = ($('[itemprop="address"]:first p').html() ?? '').replace(/<br>/g, ', ');
-  const nameMatch = ($('[itemtype="http://schema.org/Place"]:first h3 a').html() ?? '').match(/^(.*?),/)
-  let name = ''
-  if (nameMatch) {
-    name = nameMatch[1] 
+function nameAddressCommunity($: CheerioAPI) {
+  const addressStr = ($('[itemprop="address"]').first().find('p').html() ?? '').replace(/<br>/g, ', ');
+  const address = addressStr.trim()
+  const nameFull = $('[itemtype="http://schema.org/Place"]').first().find('h3 a').html() ?? ''
+  let name: string = ''
+  if (nameFull) {
+    const nameMatch = nameFull.match(/^(.*?),/)
+    if (nameMatch) {
+      name = nameMatch[1] 
+    }
+    else {
+      name = nameFull
+    }
+  }
+  else {
+    name = $('[itemprop="name"]').text()
   }
   return {address, name}
 
@@ -54,10 +64,11 @@ function nameAddressCommunity($) {
 async function getHealthpointLocation(body: string, url: string, branch: Branch) {
   const $ = cheerio.load(body);
   const {name, address} = branch === "community" ? nameAddressCommunity($) : nameAddressNormal($)
-  console.log('url',url)
-  console.log('branch',branch)
-  console.log('name',name)
-  console.log('address',address)
+  console.log('--> url',url)
+  console.log({branch,name,address})
+  // console.log('branch',branch)
+  // console.log('name',name)
+  // console.log('address',address)
 
   const latStr = getItemprop($, "latitude");
   const lat = latStr ? parseFloat(latStr) : undefined
@@ -184,6 +195,9 @@ async function main() {
   const results = data.results;
 
   for (const healthpointLocation of results) {
+    if (healthpointLocation.branch !== "community") { // FYI: debugging
+      continue
+    }
     await fetchHealthpointPage(
       healthpointLocation
     );
