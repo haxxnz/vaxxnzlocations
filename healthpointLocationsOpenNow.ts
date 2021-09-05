@@ -19,6 +19,11 @@ function getItemprop($: CheerioAPI, propname: string): string | undefined {
   const prop = propEls.length > 0 ? $(propEls[0]).attr("content") : undefined;
   return prop;
 }
+function getItempropText($: CheerioAPI, propname: string): string | undefined {
+  const propEls = $(`[itemprop="${propname}"]`);
+  const prop = propEls.length > 0 ? $(propEls[0]).text() : "";
+  return prop;
+}
 
 async function getHealthpointLocation(body: string, url: string, branch: Branch) {
   const $ = cheerio.load(body);
@@ -29,7 +34,16 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   const openningText = $('#section-openingStatusToday .opening-hours').text()
   const isOpenToday = openningText.includes('Open today') ? true : openningText.includes('Closed today') ? false : undefined
 
-  // const isOpenToday = 
+
+  const instructionUl = $("#section-covidVaccination .content ul:first");
+  const instructionLisEls = $(instructionUl).find("li");
+  const instructionLis = instructionLisEls.map((i, li) => $(li).text()).get();
+
+
+  const telephone = getItempropText($, "telephone");
+  const faxNumber = getItempropText($, "faxNumber");
+
+
 
   console.log('latitude',latitude);
   console.log('longitude',longitude);
@@ -37,7 +51,10 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   console.log('branch',branch);
   // console.log(url, openningText)
   console.log('isOpenToday',isOpenToday)
+  console.log('instructionLis',instructionLis)
   console.log('address',address);
+  console.log('telephone',telephone);
+  console.log('faxNumber',faxNumber);
 
 }
 
