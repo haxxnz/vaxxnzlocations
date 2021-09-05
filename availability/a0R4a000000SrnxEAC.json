@@ -1,5 +1,15 @@
 {
   "availabilityDates": {
+    "2021-09-07": [
+      {
+        "localStartTime": "11:00:00",
+        "durationSeconds": 180
+      },
+      {
+        "localStartTime": "12:48:00",
+        "durationSeconds": 180
+      }
+    ],
     "2021-09-09": [
       {
         "localStartTime": "14:06:00",
@@ -14,7 +24,7 @@
     ],
     "2021-09-14": [
       {
-        "localStartTime": "12:12:00",
+        "localStartTime": "15:12:00",
         "durationSeconds": 180
       }
     ],
@@ -410,17 +420,9 @@
       {
         "localStartTime": "15:09:00",
         "durationSeconds": 180
-      },
-      {
-        "localStartTime": "15:12:00",
-        "durationSeconds": 180
       }
     ],
     "2021-09-21": [
-      {
-        "localStartTime": "10:15:00",
-        "durationSeconds": 180
-      },
       {
         "localStartTime": "12:51:00",
         "durationSeconds": 180
@@ -3252,10 +3254,6 @@
         "durationSeconds": 180
       },
       {
-        "localStartTime": "11:48:00",
-        "durationSeconds": 180
-      },
-      {
         "localStartTime": "13:03:00",
         "durationSeconds": 180
       },
@@ -3269,6 +3267,16 @@
       },
       {
         "localStartTime": "13:12:00",
+        "durationSeconds": 180
+      }
+    ],
+    "2021-10-19": [
+      {
+        "localStartTime": "11:00:00",
+        "durationSeconds": 180
+      },
+      {
+        "localStartTime": "12:06:00",
         "durationSeconds": 180
       }
     ],
@@ -3301,10 +3309,6 @@
       },
       {
         "localStartTime": "10:48:00",
-        "durationSeconds": 180
-      },
-      {
-        "localStartTime": "10:57:00",
         "durationSeconds": 180
       },
       {
@@ -3763,10 +3767,6 @@
     "2021-11-02": [
       {
         "localStartTime": "09:57:00",
-        "durationSeconds": 180
-      },
-      {
-        "localStartTime": "10:03:00",
         "durationSeconds": 180
       },
       {
@@ -4871,5 +4871,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-05T21:42:36.226Z"
+  "lastUpdatedAt": "2021-09-05T22:15:53.510Z"
 }
