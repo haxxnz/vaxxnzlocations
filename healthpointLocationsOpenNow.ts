@@ -35,14 +35,14 @@ function endHealthpointLocationJson() {
 }
 
 function nameAddressNormal($) {
-  const address = $('[itemtype="http://schema.org/Place"] h3').text();
+  const address = $('[itemtype="http://schema.org/Place"]:first h3').text();
   const name = $('#heading h1').text() // TODO: this is the name of the page, not the location
   return {address, name}
 
 }
 function nameAddressCommunity($) {
   const address = ($('[itemprop="address"]:first p').html() ?? '').replace(/<br>/g, ', ');
-  const nameMatch = ($('[itemtype="http://schema.org/Place"] h3 a').html() ?? '').match(/^(.*?),/)
+  const nameMatch = ($('[itemtype="http://schema.org/Place"]:first h3 a').html() ?? '').match(/^(.*?),/)
   let name = ''
   if (nameMatch) {
     name = nameMatch[1] 
