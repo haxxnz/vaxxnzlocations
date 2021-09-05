@@ -29,8 +29,8 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   const $ = cheerio.load(body);
   const address = $('[itemtype="http://schema.org/Place"] h3').text();
   const name = $('#heading h1').text()
-  const latitude = getItemprop($, "latitude");
-  const longitude = getItemprop($, "longitude");
+  const lat = getItemprop($, "latitude");
+  const lng = getItemprop($, "longitude");
   const openningText = $('#section-openingStatusToday .opening-hours').text()
   const isOpenToday = openningText.includes('Open today') ? true : openningText.includes('Closed today') ? false : undefined
 
@@ -62,11 +62,10 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     exceptions: {}, // TODO: implement
   }
 
-  console.log('latitude',latitude);
-  console.log('longitude',longitude);
+  console.log('latitude',lat);
+  console.log('longitude',lng);
   console.log('name',name);
   console.log('branch',branch);
-  // console.log(url, openningText)
   console.log('isOpenToday',isOpenToday)
   console.log('instructionLis',instructionLis)
   console.log('address',address);
