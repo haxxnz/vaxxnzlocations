@@ -1,38 +1,9 @@
 import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
+import { HealthpointLocation } from "./types";
 
-type Branch = "primary" | "pharmacy" | "community"
 
-interface HealthpointPage {
-  lat: number;
-  lng: number;
-  name: string;
-  id: number;
-  url: string;
-  branch: Branch;
-}
-interface OpennningHours {
-  schedule: Record<string, string>;
-  exceptions: Record<string, string>;
-}
-interface HealthpointLocation {
-  lat?: number;
-  lng?: number;
-  name: string;
-  branch: string;
-  isOpenToday?: boolean;
-  instructionLis: string[];
-  address: string;
-  faxNumber?: string;
-  telephone?: string;
-  opennningHours: OpennningHours;
-}
-
-interface HealthpointData {
-  results: HealthpointPage[];
-  total: number
-}
 
 function getItemprop($: CheerioAPI, propname: string): string | undefined {
   const propEls = $(`[itemprop="${propname}"]`);
