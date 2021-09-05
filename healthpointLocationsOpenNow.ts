@@ -44,6 +44,23 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   const faxNumber = getItempropText($, "faxNumber");
 
 
+  const table = $("table.hours");
+  const schedule: Record<string, string> = {}
+  $(table)
+    .find("tr")
+    .each((i, tr) => {
+      const day = $(tr).find("th").text();
+      const hours = $(tr).find("td").text();
+
+      schedule[day] = hours;
+    });
+
+
+
+  const opennningHours = {
+    schedule,
+    exceptions: {}, // TODO: implement
+  }
 
   console.log('latitude',latitude);
   console.log('longitude',longitude);
@@ -55,6 +72,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   console.log('address',address);
   console.log('telephone',telephone);
   console.log('faxNumber',faxNumber);
+  console.log('opennningHours',opennningHours);
 
 }
 
