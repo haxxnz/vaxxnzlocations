@@ -2,6 +2,7 @@ import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
+import { uniqBy } from "./arrayUtilsTs";
 
 
 
@@ -155,8 +156,6 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   }
 
   saveHealthpointLocationJson(result);
-
-
 }
 
 async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
@@ -193,11 +192,12 @@ async function main() {
   const data = (await res.json()) as HealthpointData;
 
   const results = data.results;
+  const healthpointLocations = uniqBy(results, a => a.id.toString())
 
-  for (const healthpointLocation of results) {
-    if (healthpointLocation.branch !== "community") { // FYI: debugging
-      continue
-    }
+  for (const healthpointLocation of healthpointLocations) {
+    // if (healthpointLocation.branch !== "community") { // FYI: debugging
+    //   continue
+    // }
     await fetchHealthpointPage(
       healthpointLocation
     );
