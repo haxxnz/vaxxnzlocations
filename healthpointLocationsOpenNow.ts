@@ -34,10 +34,31 @@ function endHealthpointLocationJson() {
   fs.appendFileSync("healthpointLocations.json", "]\n");
 }
 
-async function getHealthpointLocation(body: string, url: string, branch: Branch) {
-  const $ = cheerio.load(body);
+function nameAddressNormal($) {
   const address = $('[itemtype="http://schema.org/Place"] h3').text();
   const name = $('#heading h1').text() // TODO: this is the name of the page, not the location
+  return {address, name}
+
+}
+function nameAddressCommunity($) {
+  const address = ($('[itemprop="address"]:first p').html() ?? '').replace(/<br>/g, ', ');
+  const nameMatch = ($('[itemtype="http://schema.org/Place"] h3 a').html() ?? '').match(/^(.*?),/)
+  let name = ''
+  if (nameMatch) {
+    name = nameMatch[1] 
+  }
+  return {address, name}
+
+}
+
+async function getHealthpointLocation(body: string, url: string, branch: Branch) {
+  const $ = cheerio.load(body);
+  const {name, address} = branch === "community" ? nameAddressCommunity($) : nameAddressNormal($)
+  console.log('url',url)
+  console.log('branch',branch)
+  console.log('name',name)
+  console.log('address',address)
+
   const latStr = getItemprop($, "latitude");
   const lat = latStr ? parseFloat(latStr) : undefined
   const lngStr = getItemprop($, "longitude");
