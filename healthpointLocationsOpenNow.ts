@@ -1,7 +1,7 @@
 import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
-import { HealthpointLocation } from "./types";
+import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 
 
 
@@ -131,6 +131,7 @@ async function main() {
       healthpointLocation
     );
   }
+  endHealthpointLocationJson()
 }
 
 main();
