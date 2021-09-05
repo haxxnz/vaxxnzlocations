@@ -4,6 +4,7 @@
     lng: 174.7566101,
     name: "The Calder Centre",
     branch: "primary",
+    isOpenToday: true,
     instructionLis: [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -28,6 +29,7 @@
     lng: 174.7566101,
     name: "Ilia's cool pharmacy",
     branch: "pharmacy",
+    isOpenToday: true,
     instructionLis: [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -52,6 +54,7 @@
     lng: 174.7566101,
     name: "Walt's medical community",
     branch: "community",
+    isOpenToday: true,
     instructionLis: [
       "Anyone currently eligible can access",
       "Make an appointment",
