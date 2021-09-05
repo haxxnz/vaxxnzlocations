@@ -17,15 +17,12 @@ async function fetchHealthpointLocation(healthpointLocation) {
   const url = `https://www.healthpoint.co.nz${healthpointLocation.url}`
   const res = await fetch(url)
   const body = await res.text()
-  // console.log('body',body)
   const $ = cheerio.load(body);
   const table = $('table.hours')
   const opennningHours = new Map()
   $(table).find('tr').each((i, tr) => {
     const day = $(tr).find('th').text()
     const hours = $(tr).find('td').text()
-    // console.log('day',day)
-    // console.log('hours',hours)
     
     opennningHours[day] = hours
   })
@@ -44,7 +41,6 @@ async function fetchHealthpointLocation(healthpointLocation) {
   const instructionUl = $('#section-covidVaccination .content ul:first')
   const instructionLisEls = $(instructionUl).find('li')
   const instructionLis = instructionLisEls.map((i, li) => $(li).text()).get()
-  // console.log('instructionLis',instructionLis)
 
 
   const isBookable = bookButton.length > 0
@@ -60,8 +56,6 @@ async function fetchHealthpointLocation(healthpointLocation) {
     instructionLis,
     isBookable,
   }
-
-  return opennningHours
 }
 
 async function main() {
