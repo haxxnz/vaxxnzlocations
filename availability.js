@@ -41,7 +41,13 @@ async function getSlots(location, availability) {
 }
 
 async function getAvailability(location) {
-  const locationData = require(`./availability/${location.extId}.json`)
+  let locationData = {availabilityDates: {}, lastUpdatedAt: new Date(0).toISOString()}
+  try {
+    locationData = require(`./availability/${location.extId}.json`)
+  }
+  catch (e) {
+    console.log('No availability data for', location.name, location.extId)
+  }
 
   const startDateStr = new Date().toISOString().slice(0, 10);
   const endDate = new Date();
@@ -84,11 +90,11 @@ async function getAvailability(location) {
 
   const slots = [];
   for (const availability of data.availability) {
-    if (!locationData.availabilityDates[availability.date]) { // if we know this day has been previously booked out, skip
-      // okay, this is not good actually. a slot might get unbooked.
-      console.log('skipping previously booked out day')
-      continue
-    }
+    // if (!locationData.availabilityDates[availability.date]) { // if we know this day has been previously booked out, skip
+    //   // okay, this is not good actually. a slot might get unbooked.
+    //   console.log('skipping previously booked out day')
+    //   continue
+    // }
     if (!availability.available) {
       continue;
     }
@@ -113,8 +119,14 @@ async function main() {
 
   const locationsWithDates = []
   for (const location of uniqLocations) {
-    const locationData = require(`./availability/${location.extId}.json`)
-    const lastUpdatedAt = locationData.lastUpdatedAt
+    let locationData = {availabilityDates: {}, lastUpdatedAt: new Date(0).toISOString()}
+    try {
+      locationData = require(`./availability/${location.extId}.json`)
+    }
+    catch (e) {
+      console.log('No availability data for', location.name, location.extId)
+    }
+    const lastUpdatedAt = locationData.lastUpdatedAt || new Date(0).toISOString()
     locationsWithDates.push({ lastUpdatedAt, location })
   }
   const sortedLocationsWithDates = sortByAsc(locationsWithDates, a => a.lastUpdatedAt)
