@@ -6,6 +6,12 @@ function getItemprop($, propname) {
   const prop = propEls.length > 0 ? $(propEls[0]).text() : ''
   return prop
 }
+function trimHtmlWhitespace(str) {
+  return str.replace(/\n/g, "")
+    .replace(/[\t ]+\</g, "<")
+    .replace(/\>[\t ]+\</g, "><")
+    .replace(/\>[\t ]+$/g, ">")
+}
 
 async function fetchHealthpointLocation(healthpointLocation) {
   const url = `https://www.healthpoint.co.nz${healthpointLocation.url}`
@@ -32,11 +38,14 @@ async function fetchHealthpointLocation(healthpointLocation) {
 
 
   let instruction = $('#section-covidVaccination .content').html()
-  instruction = instruction ? instruction.trim() : ''
+  instruction = instruction ? trimHtmlWhitespace(instruction.trim()) : ''
   const bookButton = $('#section-covidVaccinationBookingUrl')
 
-  const instructionLisEls = $('#section-covidVaccination .content ul li')
+  const instructionUl = $('#section-covidVaccination .content ul:first')
+  const instructionLisEls = $(instructionUl).find('li')
   const instructionLis = instructionLisEls.map((i, li) => $(li).text()).get()
+  // console.log('instructionLis',instructionLis)
+
 
   const isBookable = bookButton.length > 0
 
@@ -63,7 +72,8 @@ async function main() {
 
   for (const healthpointLocation of results) {
     const healthpointLocationWithHours = await fetchHealthpointLocation(healthpointLocation)
-    console.log(healthpointLocationWithHours)
+    // console.log(JSON.stringify(healthpointLocationWithHours))
+    console.log((healthpointLocationWithHours))
   }
   // const firstHealthpointLocation = results[2]
   // const enrichedHpLocation = await fetchHealthpointLocation(firstHealthpointLocation)
