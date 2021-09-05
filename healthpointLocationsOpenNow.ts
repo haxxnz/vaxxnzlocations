@@ -56,21 +56,41 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
 
 
   const table = $("table.hours");
-  const schedule: Record<string, string> = {}
+  const schedule: Map<string, string> = new Map<string, string>();
   $(table)
     .find("tr")
     .each((i, tr) => {
       const day = $(tr).find("th").text();
       const hours = $(tr).find("td").text();
 
-      schedule[day] = hours;
+      schedule.set(day, hours);
     });
+
+    const holidayHoursEls = $('#section-hours2 .hours-holidays')
+    const holidayHoursTexts = holidayHoursEls.map((i, el) => $(el).text()).get();
+    let exceptions = new Map<string, string>()
+    holidayHoursTexts.map(holidayHoursText => {
+      const [key, value] = holidayHoursText.split(':')
+      exceptions.set(key, value)
+    })
+    console.log('exceptions',exceptions)
+
+    const sectionHours = $('#section-hours2 .content').html()??""
+    const isOther = sectionHours.includes("Other")
+    console.log('url',url)
+    console.log('isOther',isOther)
+    if (isOther) {
+      // process.exit(0)
+      return
+    }
+
+
 
 
 
   const opennningHours = {
     schedule,
-    exceptions: {}, // TODO: implement
+    exceptions
   }
 
   const result = {
@@ -98,6 +118,7 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
   const $ = cheerio.load(body);
   const latitude = getItemprop($, "latitude");
   const longitude = getItemprop($, "longitude");
+  console.log('fullUrl',fullUrl)
   if (latitude && longitude) {
     await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
   } else {
