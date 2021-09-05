@@ -3,6 +3,7 @@ import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
 
 type Branch = "primary" | "pharmacy" | "community"
+
 interface HealthpointPage {
   lat: number;
   lng: number;
@@ -15,7 +16,6 @@ interface OpennningHours {
   schedule: Record<string, string>;
   exceptions: Record<string, string>;
 }
-
 interface HealthpointLocation {
   lat?: number;
   lng?: number;
@@ -29,11 +29,9 @@ interface HealthpointLocation {
   opennningHours: OpennningHours;
 }
 
-
-
-
-interface Data {
+interface HealthpointData {
   results: HealthpointPage[];
+  total: number
 }
 
 function getItemprop($: CheerioAPI, propname: string): string | undefined {
@@ -152,7 +150,7 @@ async function main() {
   const res = await fetch(
     "https://www.healthpoint.co.nz/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone"
   );
-  const data = (await res.json()) as Data;
+  const data = (await res.json()) as HealthpointData;
 
   const results = data.results;
 
