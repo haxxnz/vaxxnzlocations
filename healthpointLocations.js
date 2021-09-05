@@ -34,8 +34,8 @@ async function fetchHealthpointLocation(healthpointLocation) {
   const instruction = $('#section-covidVaccination .content').html()
   const bookButton = $('#section-covidVaccinationBookingUrl')
 
-  const instructionListItemsEls = $('#section-covidVaccination .content ul li')
-  const instructionListItems = instructionListItemsEls.map((i, li) => $(li).text()).get()
+  const instructionLisEls = $('#section-covidVaccination .content ul li')
+  const instructionLis = instructionLisEls.map((i, li) => $(li).text()).get()
 
 
 
@@ -49,7 +49,7 @@ async function fetchHealthpointLocation(healthpointLocation) {
   console.log('faxNumber',faxNumber)
   console.log('instruction',instruction)
   console.log('bookButton.length',bookButton.length)
-  console.log('instructionListItems',instructionListItems)
+  console.log('instructionLis',instructionLis)
 
 
   return opennningHours
