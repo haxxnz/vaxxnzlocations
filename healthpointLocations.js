@@ -9,7 +9,7 @@ function getItemprop($, propname) {
 
 async function fetchHealthpointLocation(healthpointLocation) {
   const url = `https://www.healthpoint.co.nz${healthpointLocation.url}`
-  const res = await fetch(`https://www.healthpoint.co.nz${healthpointLocation.url}`)
+  const res = await fetch(url)
   const body = await res.text()
   console.log('body',body)
   const $ = cheerio.load(body);
@@ -26,6 +26,7 @@ async function fetchHealthpointLocation(healthpointLocation) {
   })
 
   // const address = $('[itemprop="address"]').text()
+  const name = $('#heading h1').text()
   const address = $('[itemtype="http://schema.org/Place"] h3').text()
   
   const telephone = getItemprop($, 'telephone')
@@ -37,7 +38,11 @@ async function fetchHealthpointLocation(healthpointLocation) {
 
   const instruction = $('#section-covidVaccination .content').html()
   const bookButton = $('#section-covidVaccinationBookingUrl')
-  const name = $('#heading h1').text()
+
+  const instructionListItemsEls = $('#section-covidVaccination .content ul li')
+  const instructionListItems = instructionListItemsEls.map((i, li) => $(li).text()).get()
+  // const 
+
 
 
   
@@ -50,6 +55,7 @@ async function fetchHealthpointLocation(healthpointLocation) {
   console.log('faxNumber',faxNumber)
   console.log('instruction',instruction)
   console.log('bookButton.length',bookButton.length)
+  console.log('instructionListItems',instructionListItems)
   // console.log("$(hoursTable).find('tr')",$(hoursTable).find('tr'))
 
 
