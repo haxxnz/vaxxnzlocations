@@ -11,12 +11,12 @@ interface HealthpointPage {
   url: string;
   branch: Branch;
 }
-export interface OpennningHours {
+interface OpennningHours {
   schedule: Record<string, string>;
   exceptions: Record<string, string>;
 }
 
-export interface HealthpointLocation {
+interface HealthpointLocation {
   lat?: number;
   lng?: number;
   name: string;
