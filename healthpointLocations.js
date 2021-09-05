@@ -69,9 +69,9 @@ async function main() {
   for (const healthpointLocation of results) {
     branches.push(healthpointLocation.branch)
     // const branch = await fetchHealthpointLocation(healthpointLocation)
-    const healthpointLocationWithHours = await fetchHealthpointLocation(healthpointLocation)
+    // const healthpointLocationWithHours = await fetchHealthpointLocation(healthpointLocation)
     // console.log(JSON.stringify(healthpointLocationWithHours))
-    console.log((healthpointLocationWithHours))
+    // console.log(healthpointLocationWithHours)
   }
   console.log(new Set([...branches]))
   // const firstHealthpointLocation = results[2]
