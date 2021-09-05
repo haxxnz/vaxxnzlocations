@@ -31,7 +31,7 @@ async function getLocations(lat, lng, cursor) {
       },
       body: JSON.stringify({
         location: { lat, lng },
-        fromDate: "2021-08-31",
+        fromDate: "2021-09-05",
         vaccineData: "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ==",
         locationQuery: {
           includePools: ["default"],
