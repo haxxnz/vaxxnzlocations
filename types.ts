@@ -10,7 +10,7 @@ export interface HealthpointPage {
 }
 export interface OpennningHours {
   schedule: Record<string, string>;
-  exceptions: Map<string, string>;
+  exceptions: Record<string, string>;
 }
 export interface HealthpointLocation {
   lat?: number;

@@ -56,22 +56,22 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
 
 
   const table = $("table.hours");
-  const schedule: Map<string, string> = new Map<string, string>();
+  const schedule: Record<string, string> = {};
   $(table)
     .find("tr")
     .each((i, tr) => {
       const day = $(tr).find("th").text();
       const hours = $(tr).find("td").text();
 
-      schedule.set(day, hours);
+      schedule[day]  = hours;
     });
 
     const holidayHoursEls = $('#section-hours2 .hours-holidays')
     const holidayHoursTexts = holidayHoursEls.map((i, el) => $(el).text()).get();
-    let exceptions = new Map<string, string>()
+    let exceptions: Record<string, string> = {}
     holidayHoursTexts.map(holidayHoursText => {
       const [key, value] = holidayHoursText.split(':')
-      exceptions.set(key, value)
+      exceptions[key] = value
     })
     // console.log('exceptions',exceptions)
 
