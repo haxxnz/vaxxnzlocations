@@ -1,13 +1,14 @@
 import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
 
+type Branch = "primary" | "pharmacy" | "community"
 interface HealthpointPage {
   lat: number;
   lng: number;
   name: string;
   id: number;
   url: string;
-  branch: "primary" | "pharmacy" | "community";
+  branch: Branch;
 }
 interface Data {
   results: HealthpointPage[];
@@ -19,9 +20,23 @@ function getItemprop($: CheerioAPI, propname: string): string | undefined {
   return prop;
 }
 
-async function getHealthpointLocation(body: string) {
+async function getHealthpointLocation(body: string, url: string, branch: Branch) {
   const $ = cheerio.load(body);
   const address = $('[itemtype="http://schema.org/Place"] h3').text();
+  const name = $('#heading h1').text()
+  const latitude = getItemprop($, "latitude");
+  const longitude = getItemprop($, "longitude");
+  const openningText = $('#section-openingStatusToday .opening-hours').text()
+  const isOpenToday = openningText.includes('Open today') ? true : openningText.includes('Closed today') ? false : undefined
+
+  // const isOpenToday = 
+
+  console.log('latitude',latitude);
+  console.log('longitude',longitude);
+  console.log('name',name);
+  console.log('branch',branch);
+  // console.log(url, openningText)
+  console.log('isOpenToday',isOpenToday)
   console.log('address',address);
 
 }
@@ -34,7 +49,7 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
   const latitude = getItemprop($, "latitude");
   const longitude = getItemprop($, "longitude");
   if (latitude && longitude) {
-    await getHealthpointLocation(body);
+    await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
   } else {
     const serviceLocationsEl = $(".service-location h3 a");
     const serviceLocationLinks = serviceLocationsEl
@@ -42,11 +57,12 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
       .get();
     for (const serviceLocationLink of serviceLocationLinks) {
       console.log('going into', serviceLocationLink)
+      const fullUrl = `https://www.healthpoint.co.nz${serviceLocationLink}`
       const res = await fetch(
         `https://www.healthpoint.co.nz${serviceLocationLink}`
       );
       const body = await res.text();
-      const serviceLocationPage = await getHealthpointLocation(body);
+      const serviceLocationPage = await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
     }
   }
 
