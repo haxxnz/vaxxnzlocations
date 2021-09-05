@@ -2,7 +2,8 @@ const fetch = require("node-fetch");
 const cheerio = require('cheerio');
 
 async function fetchHealthpointLocation(healthpointLocation) {
-  const res = await fetch(`https://www.healthpoint.co.nz/${healthpointLocation.url}`)
+  const url = `https://www.healthpoint.co.nz${healthpointLocation.url}`
+  const res = await fetch(`https://www.healthpoint.co.nz${healthpointLocation.url}`)
   const body = await res.text()
   // console.log('body',body)
   const $ = cheerio.load(body);
@@ -17,11 +18,17 @@ async function fetchHealthpointLocation(healthpointLocation) {
     
     opennningHours[day] = hours
   })
+
+  // const address = $('[itemprop="address"]').text()
+  const address = $('[itemtype="http://schema.org/Place"] h3').text()
+
+  console.log('url',url)
   console.log('opennningHours',opennningHours)
+  console.log('address',address)
   // console.log("$(hoursTable).find('tr')",$(hoursTable).find('tr'))
 
 
-  return body
+  return opennningHours
 }
 
 async function main() {
@@ -31,7 +38,7 @@ async function main() {
   const {results} = data
 
   const firstHealthpointLocation = results[2]
-  fetchHealthpointLocation(firstHealthpointLocation)
+  const info = await fetchHealthpointLocation(firstHealthpointLocation)
 
 }
 
