@@ -1,5 +1,6 @@
 import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
+import fs from 'fs';
 
 type Branch = "primary" | "pharmacy" | "community"
 interface HealthpointPage {
@@ -10,6 +11,27 @@ interface HealthpointPage {
   url: string;
   branch: Branch;
 }
+export interface OpennningHours {
+  schedule: Record<string, string>;
+  exceptions: Record<string, string>;
+}
+
+export interface HealthpointLocation {
+  lat?: number;
+  lng?: number;
+  name: string;
+  branch: string;
+  isOpenToday?: boolean;
+  instructionLis: string[];
+  address: string;
+  faxNumber?: string;
+  telephone?: string;
+  opennningHours: OpennningHours;
+}
+
+
+
+
 interface Data {
   results: HealthpointPage[];
 }
@@ -25,12 +47,32 @@ function getItempropText($: CheerioAPI, propname: string): string | undefined {
   return prop;
 }
 
+
+let isFirst = true
+function saveHealthpointLocationJson(data: HealthpointLocation) {
+  const str = JSON.stringify(data)
+  console.log(data.name)
+  if (isFirst) {
+    isFirst = false
+    fs.writeFileSync('healthpointLocations.json', "[" + str + "\n")
+  }
+  else {
+    fs.appendFileSync("healthpointLocations.json", "," + str + "\n");
+  }
+}
+
+function endHealthpointLocationJson() {
+  fs.appendFileSync("healthpointLocations.json", "]\n");
+}
+
 async function getHealthpointLocation(body: string, url: string, branch: Branch) {
   const $ = cheerio.load(body);
   const address = $('[itemtype="http://schema.org/Place"] h3').text();
   const name = $('#heading h1').text()
-  const lat = getItemprop($, "latitude");
-  const lng = getItemprop($, "longitude");
+  const latStr = getItemprop($, "latitude");
+  const lat = latStr ? parseFloat(latStr) : undefined
+  const lngStr = getItemprop($, "longitude");
+  const lng = lngStr ? parseFloat(lngStr) : undefined
   const openningText = $('#section-openingStatusToday .opening-hours').text()
   const isOpenToday = openningText.includes('Open today') ? true : openningText.includes('Closed today') ? false : undefined
 
@@ -62,16 +104,21 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     exceptions: {}, // TODO: implement
   }
 
-  console.log('latitude',lat);
-  console.log('longitude',lng);
-  console.log('name',name);
-  console.log('branch',branch);
-  console.log('isOpenToday',isOpenToday)
-  console.log('instructionLis',instructionLis)
-  console.log('address',address);
-  console.log('telephone',telephone);
-  console.log('faxNumber',faxNumber);
-  console.log('opennningHours',opennningHours);
+  const result = {
+    lat,
+    lng,
+    name,
+    branch,
+    isOpenToday,
+    instructionLis,
+    address,
+    telephone,
+    faxNumber,
+    opennningHours,
+  }
+
+  saveHealthpointLocationJson(result);
+
 
 }
 
