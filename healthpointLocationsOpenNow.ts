@@ -79,7 +79,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     const notes: string[] = []
     noteEls.each((i, el) => {
       const className = $(el).attr('class')
-      console.log('className',className)
+      // console.log('className',className)
       if (typeof className === 'undefined') {
         const note = $(el).text().trim()
         if (note.length) {
@@ -87,13 +87,13 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
         }
       }
     })
-    console.log('notes',notes)
+    // console.log('notes',notes)
 
 
     const sectionHours = $('#section-hours2 .content').html()??""
     const isOther = sectionHours.includes("Other")
-    console.log('url',url)
-    console.log('isOther',isOther)
+    // console.log('url',url)
+    // console.log('isOther',isOther)
     if (isOther) {
       // process.exit(0)
       return
@@ -134,7 +134,7 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
   const $ = cheerio.load(body);
   const latitude = getItemprop($, "latitude");
   const longitude = getItemprop($, "longitude");
-  console.log('fullUrl',fullUrl)
+  // console.log('fullUrl',fullUrl)
   if (latitude && longitude) {
     await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
   } else {
@@ -146,7 +146,7 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
       console.log('going into', serviceLocationLink)
       const fullUrl = `https://www.healthpoint.co.nz${serviceLocationLink}`
       const res = await fetch(
-        `https://www.healthpoint.co.nz${serviceLocationLink}`
+        fullUrl
       );
       const body = await res.text();
       await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
