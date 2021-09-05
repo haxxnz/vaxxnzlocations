@@ -1,8 +1,7 @@
 import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
 
-
-interface HealthpointLocation {
+interface HealthpointPage {
   lat: number;
   lng: number;
   name: string;
@@ -11,10 +10,8 @@ interface HealthpointLocation {
   branch: "primary" | "pharmacy" | "community";
 }
 interface Data {
-  results: HealthpointLocation[];
+  results: HealthpointPage[];
 }
-
-
 
 function getItemprop($: CheerioAPI, propname: string): string | undefined {
   const propEls = $(`[itemprop="${propname}"]`);
@@ -22,16 +19,37 @@ function getItemprop($: CheerioAPI, propname: string): string | undefined {
   return prop;
 }
 
-async function fetchHealthpointLocation(
-  healthpointLocation: HealthpointLocation
-) {
-  const fullUrl = `https://www.healthpoint.co.nz${healthpointLocation.url}`;
+async function getHealthpointLocation(body: string) {
+  const $ = cheerio.load(body);
+  const address = $('[itemtype="http://schema.org/Place"] h3').text();
+  console.log('address',address);
+
+}
+
+async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
+  const fullUrl = `https://www.healthpoint.co.nz${healthpointPage.url}`;
   const res = await fetch(fullUrl);
   const body = await res.text();
   const $ = cheerio.load(body);
   const latitude = getItemprop($, "latitude");
   const longitude = getItemprop($, "longitude");
-  console.log(latitude, longitude)
+  if (latitude && longitude) {
+    await getHealthpointLocation(body);
+  } else {
+    const serviceLocationsEl = $(".service-location h3 a");
+    const serviceLocationLinks = serviceLocationsEl
+      .map((i, el) => $(el).attr("href"))
+      .get();
+    for (const serviceLocationLink of serviceLocationLinks) {
+      console.log('going into', serviceLocationLink)
+      const res = await fetch(
+        `https://www.healthpoint.co.nz${serviceLocationLink}`
+      );
+      const body = await res.text();
+      const serviceLocationPage = await getHealthpointLocation(body);
+    }
+  }
+
 }
 async function main() {
   const res = await fetch(
@@ -43,9 +61,9 @@ async function main() {
 
   for (const healthpointLocation of results) {
     // branches.push(healthpointLocation.branch);
-    const healthpointLocationWithHours = await fetchHealthpointLocation(healthpointLocation)
-    // console.log(JSON.stringify(healthpointLocationWithHours))
-    // console.log(healthpointLocationWithHours)
+    const healthpointLocationWithHours = await fetchHealthpointPage(
+      healthpointLocation
+    );
   }
 }
 
