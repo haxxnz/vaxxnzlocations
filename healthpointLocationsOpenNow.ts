@@ -37,7 +37,7 @@ function endHealthpointLocationJson() {
 async function getHealthpointLocation(body: string, url: string, branch: Branch) {
   const $ = cheerio.load(body);
   const address = $('[itemtype="http://schema.org/Place"] h3').text();
-  const name = $('#heading h1').text()
+  const name = $('#heading h1').text() // TODO: this is the name of the page, not the location
   const latStr = getItemprop($, "latitude");
   const lat = latStr ? parseFloat(latStr) : undefined
   const lngStr = getItemprop($, "longitude");
@@ -112,7 +112,7 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
         `https://www.healthpoint.co.nz${serviceLocationLink}`
       );
       const body = await res.text();
-      const serviceLocationPage = await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
+      await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
     }
   }
 
@@ -126,8 +126,7 @@ async function main() {
   const results = data.results;
 
   for (const healthpointLocation of results) {
-    // branches.push(healthpointLocation.branch);
-    const healthpointLocationWithHours = await fetchHealthpointPage(
+    await fetchHealthpointPage(
       healthpointLocation
     );
   }
