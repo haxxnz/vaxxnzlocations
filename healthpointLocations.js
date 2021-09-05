@@ -11,15 +11,15 @@ async function fetchHealthpointLocation(healthpointLocation) {
   const url = `https://www.healthpoint.co.nz${healthpointLocation.url}`
   const res = await fetch(url)
   const body = await res.text()
-  console.log('body',body)
+  // console.log('body',body)
   const $ = cheerio.load(body);
   const table = $('table.hours')
   const opennningHours = new Map()
   $(table).find('tr').each((i, tr) => {
     const day = $(tr).find('th').text()
     const hours = $(tr).find('td').text()
-    console.log('day',day)
-    console.log('hours',hours)
+    // console.log('day',day)
+    // console.log('hours',hours)
     
     opennningHours[day] = hours
   })
@@ -31,7 +31,8 @@ async function fetchHealthpointLocation(healthpointLocation) {
   const faxNumber = getItemprop($, 'faxNumber')
 
 
-  const instruction = $('#section-covidVaccination .content').html().trim()
+  let instruction = $('#section-covidVaccination .content').html()
+  instruction = instruction ? instruction.trim() : ''
   const bookButton = $('#section-covidVaccinationBookingUrl')
 
   const instructionLisEls = $('#section-covidVaccination .content ul li')
@@ -60,9 +61,13 @@ async function main() {
   const data = await res.json()
   const {results} = data
 
-  const firstHealthpointLocation = results[2]
-  const enrichedHpLocation = await fetchHealthpointLocation(firstHealthpointLocation)
-  console.log('enrichedHpLocation',enrichedHpLocation)
+  for (const healthpointLocation of results) {
+    const healthpointLocationWithHours = await fetchHealthpointLocation(healthpointLocation)
+    console.log(healthpointLocationWithHours)
+  }
+  // const firstHealthpointLocation = results[2]
+  // const enrichedHpLocation = await fetchHealthpointLocation(firstHealthpointLocation)
+  // console.log('enrichedHpLocation',enrichedHpLocation)
 
 }
 
