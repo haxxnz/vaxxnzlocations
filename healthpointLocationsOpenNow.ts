@@ -60,8 +60,6 @@ function nameAddressNormal($: CheerioAPI) {
 
 }
 function nameAddressCommunity($: CheerioAPI) {
-  const addressStr = ($('[itemprop="address"]').first().find('p').html() ?? '').replace(/<br>/g, ', ');
-  const address = addressStr.trim()
   const nameFull = $('[itemtype="http://schema.org/Place"]').first().find('h3 a').html() ?? ''
   let name: string = ''
   if (nameFull) {
@@ -76,6 +74,17 @@ function nameAddressCommunity($: CheerioAPI) {
   else {
     name = $('[itemprop="name"]').text()
   }
+
+  const addressEl = $('[itemprop="address"]').first().find('p')
+  let address: string = ''
+  if (addressEl.html()) {
+    const addressStr = (addressEl.html() ?? '').replace(/<br>/g, ', ');
+    address = addressStr.trim()      
+  }
+  else {
+    address = nameFull
+  }
+
   return {address, name}
 
 }
