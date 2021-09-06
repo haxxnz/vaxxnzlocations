@@ -62,10 +62,10 @@ function nameAddressCommunity($: CheerioAPI) {
 
 }
 
-async function getHealthpointLocation(body: string, url: string, branch: Branch) {
+async function getHealthpointLocation(body: string, website: string, branch: Branch) {
   const $ = cheerio.load(body);
   const {name, address} = branch === "community" ? nameAddressCommunity($) : nameAddressNormal($)
-  console.log('--> url',url)
+  console.log('--> url',website)
   console.log({branch,name,address})
   // console.log('branch',branch)
   // console.log('name',name)
@@ -152,6 +152,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     address,
     telephone,
     faxNumber,
+    website,
     opennningHours,
   }
 
