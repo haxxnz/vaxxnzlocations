@@ -10,15 +10,15 @@ function saveLocationsJson(data) {
   console.log(data.extId, data.displayAddress)
   if (isFirst) {
     isFirst = false
-    fs.writeFileSync('uniqLocations.json', "[" + str + "\n")
+    fs.writeFileSync('uniqLocationsNew.json', "[" + str + "\n")
   }
   else {
-    fs.appendFileSync("uniqLocations.json", "," + str + "\n");
+    fs.appendFileSync("uniqLocationsNew.json", "," + str + "\n");
   }
 }
 
 function endLocationsJson(data) {
-  fs.appendFileSync("uniqLocations.json", "]\n");
+  fs.appendFileSync("uniqLocationsNew.json", "]\n");
 }
 
 const locationIds = new Set([])
