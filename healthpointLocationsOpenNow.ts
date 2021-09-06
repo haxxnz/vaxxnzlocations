@@ -123,13 +123,13 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     })
 
     const noteEls = $('#section-hours2 p')
-    const notes: string[] = []
+    const notesHtml: string[] = []
     noteEls.each((i, el) => {
       const className = $(el).attr('class')
       if (typeof className === 'undefined') {
-        const note = ($(el).html() ?? "").trim()
-        if (note.length) {
-          notes.push(note)
+        const noteHtml = ($(el).html() ?? "").trim()
+        if (noteHtml.length) {
+          notesHtml.push(noteHtml)
         }
       }
     })
@@ -148,7 +148,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   const opennningHours = {
     schedule,
     exceptions,
-    notes
+    notesHtml
   }
 
   const result = {
