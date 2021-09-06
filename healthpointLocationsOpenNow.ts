@@ -236,9 +236,6 @@ async function main() {
   const healthpointLocations = uniqBy(results, a => a.id.toString())
 
   for (const healthpointLocation of healthpointLocations) {
-    // if (healthpointLocation.branch !== "community") { // FYI: debugging
-    //   continue
-    // }
     await fetchHealthpointPage(
       healthpointLocation
     );
