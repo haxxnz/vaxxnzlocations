@@ -183,6 +183,10 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     exceptions,
     notesHtml
   }
+  if (!(lat && lng)) {
+    return // skip saving this location
+  }
+
   const result = {
     lat,
     lng,
