@@ -4,6 +4,10 @@ const nz = require('./nz.json')
 const fs = require('fs')
 const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
 
+function save(file, str) {
+  fs.writeFileSync(file, str + "\n")
+}
+
 let isFirst = true
 function saveLocationsJson(data) {
   const str = JSON.stringify(data)
@@ -74,6 +78,7 @@ async function main () {
   var cellSide = 30;
   var options = {units: 'kilometers', mask: nz};
 
+  save('startedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
   var grid = turf.pointGrid(extent, cellSide, options);
   for(var i = 0; i < grid.features.length; i++) {
       const coords = grid.features[i].geometry.coordinates
@@ -81,5 +86,6 @@ async function main () {
       console.log(`${i}/${grid.features.length}`)
   }
   endLocationsJson()
+  save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 main()
