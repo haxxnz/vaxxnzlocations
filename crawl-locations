@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd "$(dirname "$0")"
 node index.js > /home/ec2-user/vaxxnzlocationslocations.log 2>&1
 git add .
 git commit -m "updated locations from $(TZ='Pacific/Auckland' date)"
