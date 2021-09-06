@@ -16,15 +16,15 @@ function saveLocationsJson(data) {
   console.log(data.extId, data.displayAddress)
   if (isFirst) {
     isFirst = false
-    fs.writeFileSync('uniqLocationsNew.json', "[" + str + "\n")
+    fs.writeFileSync('uniqLocations.json', "[" + str + "\n")
   }
   else {
-    fs.appendFileSync("uniqLocationsNew.json", "," + str + "\n");
+    fs.appendFileSync("uniqLocations.json", "," + str + "\n");
   }
 }
 
 function endLocationsJson(data) {
-  fs.appendFileSync("uniqLocationsNew.json", "]\n");
+  fs.appendFileSync("uniqLocations.json", "]\n");
 }
 
 const locationIds = new Set([])
@@ -77,7 +77,7 @@ async function getLocations(lat, lng, cursor) {
 
 async function main () {
   var extent = NZbbox
-  var cellSide = 30;
+  var cellSide = 10;
   var options = {units: 'kilometers', mask: nz};
 
   save('startedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
