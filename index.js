@@ -3,6 +3,7 @@ const turf = require("@turf/turf");
 const nz = require('./nz.json')
 const fs = require('fs')
 const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
+require('dotenv').config()
 
 function save(file, str) {
   fs.writeFileSync(file, str + "\n")
@@ -29,7 +30,7 @@ const locationIds = new Set([])
 
 async function getLocations(lat, lng, cursor) {
   const res = await fetch(
-    "https://skl-api.bookmyvaccine.covid19.health.nz/public/locations/search",
+    `${process.env.PROXY_URL}/public/locations/search`,
     {
       method: "POST",
       headers: {
