@@ -127,7 +127,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     noteEls.each((i, el) => {
       const className = $(el).attr('class')
       if (typeof className === 'undefined') {
-        const note = $(el).text().trim()
+        const note = ($(el).html() ?? "").trim()
         if (note.length) {
           notes.push(note)
         }
