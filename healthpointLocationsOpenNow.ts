@@ -4,6 +4,8 @@ import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 import { uniqBy } from "./arrayUtilsTs";
 
+const HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
+
 
 
 function getItemprop($: CheerioAPI, propname: string): string | undefined {
@@ -150,8 +152,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
 }
 
 async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
-  const fullUrl = `https://www.healthpoint.co.nz${healthpointPage.url}`;
-  const res = await fetch(fullUrl);
+  const res = await fetch(`${HEALTHPOINT_URL}${healthpointPage.url}`);
   const body = await res.text();
   const $ = cheerio.load(body);
   const latitude = getItemprop($, "latitude");
@@ -165,9 +166,8 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
       .get();
     for (const serviceLocationLink of serviceLocationLinks) {
       console.log('going into', serviceLocationLink)
-      const fullUrl = `https://www.healthpoint.co.nz${serviceLocationLink}`
       const res = await fetch(
-        fullUrl
+        `${HEALTHPOINT_URL}${serviceLocationLink}`
       );
       const body = await res.text();
       await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
@@ -177,7 +177,7 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
 }
 async function main() {
   const res = await fetch(
-    "https://www.healthpoint.co.nz/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone"
+    `${HEALTHPOINT_URL}/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone`
   );
   const data = (await res.json()) as HealthpointData;
 
