@@ -125,6 +125,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   
   const openningText = $('#section-openingStatusToday .opening-hours').text()
   const isOpenToday = openningText.includes('Open today') ? true : openningText.includes('Closed today') ? false : undefined
+  const openTodayHours = openningText.replace(/Open today/g, '').replace(/Closed today/g, '').trim()
 
 
   const instructionUl = $("#section-covidVaccination .content ul:first");
@@ -193,6 +194,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     name,
     branch,
     isOpenToday,
+    openTodayHours,
     instructionLis,
     address,
     telephone,
