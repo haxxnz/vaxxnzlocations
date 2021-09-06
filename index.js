@@ -2,6 +2,7 @@ const fetch = require("node-fetch");
 const turf = require("@turf/turf");
 const nz = require('./nz.json')
 const fs = require('fs')
+const {format} = require('date-fns')
 const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
 require('dotenv').config()
 
@@ -38,7 +39,7 @@ async function getLocations(lat, lng, cursor) {
       },
       body: JSON.stringify({
         location: { lat, lng },
-        fromDate: "2021-09-05",
+        fromDate: format(new Date(), 'yyyy-MM-dd'),
         vaccineData: "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ==",
         locationQuery: {
           includePools: ["default"],
