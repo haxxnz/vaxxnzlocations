@@ -1,7 +1,9 @@
 #!/bin/bash
 
 cd "$(dirname "$0")"
+echo "started index.js"
 node index.js > /home/ec2-user/vaxxnzlocationslocations.log 2>&1
+echo "index.js finished"
 git add .
 git commit -m "updated locations from $(TZ='Pacific/Auckland' date)"
 git pull --rebase
