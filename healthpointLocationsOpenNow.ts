@@ -3,6 +3,7 @@ import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 import { uniqBy } from "./arrayUtilsTs";
+var md5 = require('md5');
 
 const HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
 const ACTUAL_HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
@@ -12,9 +13,16 @@ function fullUrl(url: string) {
 }
 
 function fetchSite(hpUrl: string) {
+  const file = `./healthpoint/${md5(hpUrl)}.txt`
+  // let fileContent
+
+  if (fs.existsSync(file)) {
+    return fs.readFileSync(file).toString()
+  }
   return fetch(`${HEALTHPOINT_URL}${hpUrl}`)
     .then(res => res.text())
     .then(body => {
+      fs.writeFileSync(file, body)
       return body
     })
 }
