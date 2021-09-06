@@ -21,7 +21,6 @@ function getItempropText($: CheerioAPI, propname: string): string | undefined {
 let isFirst = true
 function saveHealthpointLocationJson(data: HealthpointLocation) {
   const str = JSON.stringify(data)
-  // console.log(data.name)
   if (isFirst) {
     isFirst = false
     fs.writeFileSync('healthpointLocations.json', "[" + str + "\n")
@@ -67,9 +66,6 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   const {name, address} = branch === "community" ? nameAddressCommunity($) : nameAddressNormal($)
   console.log('--> url',url)
   console.log({branch,name,address})
-  // console.log('branch',branch)
-  // console.log('name',name)
-  // console.log('address',address)
 
   const latStr = getItemprop($, "latitude");
   const lat = latStr ? parseFloat(latStr) : undefined
@@ -106,13 +102,11 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
       const [key, value] = holidayHoursText.split(':')
       exceptions[key] = value
     })
-    // console.log('exceptions',exceptions)
 
     const noteEls = $('#section-hours2 p')
     const notes: string[] = []
     noteEls.each((i, el) => {
       const className = $(el).attr('class')
-      // console.log('className',className)
       if (typeof className === 'undefined') {
         const note = $(el).text().trim()
         if (note.length) {
@@ -120,15 +114,11 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
         }
       }
     })
-    // console.log('notes',notes)
 
 
     const sectionHours = $('#section-hours2 .content').html()??""
     const isOther = sectionHours.includes("Other")
-    // console.log('url',url)
-    // console.log('isOther',isOther)
     if (isOther) {
-      // process.exit(0)
       return
     }
 
@@ -166,7 +156,6 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
   const $ = cheerio.load(body);
   const latitude = getItemprop($, "latitude");
   const longitude = getItemprop($, "longitude");
-  // console.log('fullUrl',fullUrl)
   if (latitude && longitude) {
     await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
   } else {
