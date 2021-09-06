@@ -6,8 +6,16 @@
   "dependencies": {
     "@turf/point-grid": "^6.5.0",
     "@turf/turf": "^6.5.0",
+    "@types/node-fetch": "^2.5.2",
+    "cheerio": "^1.0.0-rc.10",
     "date-fns": "^2.23.0",
     "dotenv": "^10.0.0",
-    "node-fetch": "^2.6.1"
+    "md5": "^2.3.0",
+    "node-fetch": "^2.6.1",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "devDependencies": {
+    "http-server": "^13.0.1"
   }
 }
