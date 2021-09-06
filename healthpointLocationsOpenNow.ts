@@ -8,6 +8,29 @@ var md5 = require('md5');
 const HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
 const ACTUAL_HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
 
+interface LatLong {
+  lat: number;
+  lng: number;
+}
+const missingLatLongs: Record<string,LatLong> = {
+  'Unichem Walls and Roche Pharmacy': {
+    lat: -36.9116026,
+    lng: 174.7761956
+  },
+  'Mountain Lakes Medical': {
+    lat: -45.012970,
+    lng: 168.742910
+  },
+  'Te Rūnanga o Ngāti Porou': {
+    lat: -38.674660,
+    lng: 178.050940
+  }, 
+  'Te Tini o Porou': {
+    lat: -38.674660,
+    lng: 178.050940
+  }, 
+}
+
 function fullUrl(url: string) {
   return `${ACTUAL_HEALTHPOINT_URL}${url}`
 }
@@ -96,9 +119,10 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   console.log({branch,name,address})
 
   const latStr = getItemprop($, "latitude");
-  const lat = latStr ? parseFloat(latStr) : undefined
+  const lat = latStr ? parseFloat(latStr) : missingLatLongs[name]?.lat ?? undefined;
   const lngStr = getItemprop($, "longitude");
-  const lng = lngStr ? parseFloat(lngStr) : undefined
+  const lng = lngStr ? parseFloat(lngStr) : missingLatLongs[name]?.lng ?? undefined;
+  
   const openningText = $('#section-openingStatusToday .opening-hours').text()
   const isOpenToday = openningText.includes('Open today') ? true : openningText.includes('Closed today') ? false : undefined
 
@@ -159,7 +183,6 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     exceptions,
     notesHtml
   }
-
   const result = {
     lat,
     lng,
