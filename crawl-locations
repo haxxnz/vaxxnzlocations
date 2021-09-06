@@ -1,8 +1,7 @@
 #!/bin/bash
 
-set -e
-node index.js
-# node uniq.js
+node index.js > /home/ec2-user/vaxxnzlocationslocations.log 2>&1
 git add .
-git commit -m "updated from $(TZ='Pacific/Auckland' date)"
-git pull --rebase && git push
+git commit -m "updated locations from $(TZ='Pacific/Auckland' date)"
+git pull --rebase
+git push
