@@ -2,7 +2,7 @@
 
 set -e
 node index.js
-node uniq.js
+# node uniq.js
 git add .
 git commit -m "updated from $(TZ='Pacific/Auckland' date)"
 git pull --rebase && git push

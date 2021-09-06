@@ -10,16 +10,18 @@ function saveLocationsJson(data) {
   console.log(data.extId, data.displayAddress)
   if (isFirst) {
     isFirst = false
-    fs.writeFileSync('locations.json', "[" + str + "\n")
+    fs.writeFileSync('uniqLocations.json', "[" + str + "\n")
   }
   else {
-    fs.appendFileSync("locations.json", "," + str + "\n");
+    fs.appendFileSync("uniqLocations.json", "," + str + "\n");
   }
 }
 
 function endLocationsJson(data) {
-  fs.appendFileSync("locations.json", "]\n");
+  fs.appendFileSync("uniqLocations.json", "]\n");
 }
+
+const locationIds = new Set([])
 
 async function getLocations(lat, lng, cursor) {
   const res = await fetch(
@@ -55,7 +57,10 @@ async function getLocations(lat, lng, cursor) {
     const rest = await getLocations(lat, lng, newCursor);
     for (let i = 0; i < data.locations.length; i++) {
       const location = data.locations[i];
-      saveLocationsJson(location);      
+      if (!locationIds.has(location.extId)) {
+        locationIds.add(location.extId)
+        saveLocationsJson(location);      
+      }
     }
     return [...data.locations, ...rest];
   }
