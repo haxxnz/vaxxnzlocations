@@ -5,8 +5,19 @@ import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from ".
 import { uniqBy } from "./arrayUtilsTs";
 
 const HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
+const ACTUAL_HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
 
+function fullUrl(url: string) {
+  return `${ACTUAL_HEALTHPOINT_URL}${url}`
+}
 
+function fetchSite(hpUrl: string) {
+  return fetch(`${HEALTHPOINT_URL}${hpUrl}`)
+    .then(res => res.text())
+    .then(body => {
+      return body
+    })
+}
 
 function getItemprop($: CheerioAPI, propname: string): string | undefined {
   const propEls = $(`[itemprop="${propname}"]`);
@@ -152,34 +163,32 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
 }
 
 async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
-  const res = await fetch(`${HEALTHPOINT_URL}${healthpointPage.url}`);
-  const body = await res.text();
+  const url = healthpointPage.url
+  const body = await fetchSite(url);
   const $ = cheerio.load(body);
   const latitude = getItemprop($, "latitude");
   const longitude = getItemprop($, "longitude");
   if (latitude && longitude) {
-    await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
+    await getHealthpointLocation(body, fullUrl(url), healthpointPage.branch);
   } else {
     const serviceLocationsEl = $(".service-location h3 a");
     const serviceLocationLinks = serviceLocationsEl
       .map((i, el) => $(el).attr("href"))
       .get();
     for (const serviceLocationLink of serviceLocationLinks) {
+      const url = serviceLocationLink
       console.log('going into', serviceLocationLink)
-      const res = await fetch(
-        `${HEALTHPOINT_URL}${serviceLocationLink}`
-      );
-      const body = await res.text();
-      await getHealthpointLocation(body, fullUrl, healthpointPage.branch);
+      const body = await fetchSite(serviceLocationLink);
+      await getHealthpointLocation(body, fullUrl(url), healthpointPage.branch);
     }
   }
 
 }
 async function main() {
-  const res = await fetch(
-    `${HEALTHPOINT_URL}/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone`
+  const body = await fetchSite(
+    '/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone'
   );
-  const data = (await res.json()) as HealthpointData;
+  const data = JSON.parse(body) as HealthpointData;
 
   const results = data.results;
   const healthpointLocations = uniqBy(results, a => a.id.toString())
