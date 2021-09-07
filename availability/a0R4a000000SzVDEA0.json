@@ -1,12 +1,16 @@
 {
   "availabilityDates": {
-    "2021-09-10": [
+    "2021-09-09": [
       {
-        "localStartTime": "12:00:00",
+        "localStartTime": "15:00:00",
         "durationSeconds": 900
       },
       {
-        "localStartTime": "16:15:00",
+        "localStartTime": "15:15:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "15:30:00",
         "durationSeconds": 900
       },
       {
@@ -14,9 +18,27 @@
         "durationSeconds": 900
       }
     ],
+    "2021-09-10": [
+      {
+        "localStartTime": "12:00:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "15:30:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "16:15:00",
+        "durationSeconds": 900
+      }
+    ],
     "2021-09-11": [
       {
         "localStartTime": "10:15:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "11:00:00",
         "durationSeconds": 900
       },
       {
@@ -64,15 +86,15 @@
         "durationSeconds": 900
       },
       {
-        "localStartTime": "16:45:00",
-        "durationSeconds": 900
-      },
-      {
         "localStartTime": "17:15:00",
         "durationSeconds": 900
       }
     ],
     "2021-09-15": [
+      {
+        "localStartTime": "09:30:00",
+        "durationSeconds": 900
+      },
       {
         "localStartTime": "10:00:00",
         "durationSeconds": 900
@@ -175,6 +197,10 @@
       },
       {
         "localStartTime": "13:45:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "14:00:00",
         "durationSeconds": 900
       },
       {
@@ -2860,6 +2886,10 @@
         "durationSeconds": 900
       },
       {
+        "localStartTime": "11:00:00",
+        "durationSeconds": 900
+      },
+      {
         "localStartTime": "12:15:00",
         "durationSeconds": 900
       },
@@ -4225,5 +4255,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-07T09:25:57.702Z"
+  "lastUpdatedAt": "2021-09-07T10:07:23.480Z"
 }
