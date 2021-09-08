@@ -1,6 +1,26 @@
 {
   "availabilityDates": {
+    "2021-09-13": [
+      {
+        "localStartTime": "12:00:00",
+        "durationSeconds": 300
+      }
+    ],
+    "2021-09-21": [
+      {
+        "localStartTime": "09:50:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "12:55:00",
+        "durationSeconds": 300
+      }
+    ],
     "2021-10-04": [
+      {
+        "localStartTime": "12:00:00",
+        "durationSeconds": 300
+      },
       {
         "localStartTime": "12:30:00",
         "durationSeconds": 300
@@ -55,6 +75,10 @@
       }
     ],
     "2021-10-11": [
+      {
+        "localStartTime": "08:09:00",
+        "durationSeconds": 180
+      },
       {
         "localStartTime": "08:21:00",
         "durationSeconds": 180
@@ -411,6 +435,10 @@
       },
       {
         "localStartTime": "13:30:00",
+        "durationSeconds": 360
+      },
+      {
+        "localStartTime": "13:42:00",
         "durationSeconds": 360
       },
       {
@@ -3857,7 +3885,13 @@
         "localStartTime": "16:18:00",
         "durationSeconds": 360
       }
+    ],
+    "2021-10-30": [
+      {
+        "localStartTime": "13:00:00",
+        "durationSeconds": 360
+      }
     ]
   },
-  "lastUpdatedAt": "2021-09-08T04:08:28.763Z"
+  "lastUpdatedAt": "2021-09-08T04:47:44.087Z"
 }

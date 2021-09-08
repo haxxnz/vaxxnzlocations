@@ -108,6 +108,10 @@
         "durationSeconds": 180
       },
       {
+        "localStartTime": "12:21:00",
+        "durationSeconds": 180
+      },
+      {
         "localStartTime": "12:24:00",
         "durationSeconds": 180
       },
@@ -456,14 +460,6 @@
     ],
     "2021-09-18": [
       {
-        "localStartTime": "09:00:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "09:05:00",
-        "durationSeconds": 300
-      },
-      {
         "localStartTime": "09:10:00",
         "durationSeconds": 300
       },
@@ -617,10 +613,6 @@
       },
       {
         "localStartTime": "12:25:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "12:30:00",
         "durationSeconds": 300
       },
       {
@@ -859,10 +851,6 @@
       },
       {
         "localStartTime": "11:09:00",
-        "durationSeconds": 180
-      },
-      {
-        "localStartTime": "11:15:00",
         "durationSeconds": 180
       },
       {
@@ -4002,10 +3990,6 @@
     ],
     "2021-10-05": [
       {
-        "localStartTime": "12:03:00",
-        "durationSeconds": 180
-      },
-      {
         "localStartTime": "12:06:00",
         "durationSeconds": 180
       },
@@ -4622,10 +4606,6 @@
         "durationSeconds": 300
       },
       {
-        "localStartTime": "12:30:00",
-        "durationSeconds": 300
-      },
-      {
         "localStartTime": "12:35:00",
         "durationSeconds": 300
       },
@@ -4766,11 +4746,21 @@
         "durationSeconds": 300
       }
     ],
-    "2021-10-11": [
+    "2021-10-10": [
       {
-        "localStartTime": "11:57:00",
-        "durationSeconds": 180
+        "localStartTime": "13:30:00",
+        "durationSeconds": 300
       },
+      {
+        "localStartTime": "14:40:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "14:55:00",
+        "durationSeconds": 300
+      }
+    ],
+    "2021-10-11": [
       {
         "localStartTime": "12:21:00",
         "durationSeconds": 180
@@ -5561,5 +5551,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-08T04:13:41.951Z"
+  "lastUpdatedAt": "2021-09-08T04:53:04.875Z"
 }
