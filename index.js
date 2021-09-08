@@ -74,7 +74,7 @@ async function main () {
       await getLocations(coords[1], coords[0]);
       console.log(`${i}/${grid.features.length}`)
   }
-  save('uniqLocations.json', JSON.stringify(uniqLocations))
+  save('uniqLocations.json', JSON.stringify(uniqLocations, null, 2))
   save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 main()
