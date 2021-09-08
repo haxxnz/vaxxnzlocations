@@ -10,24 +10,26 @@ function save(file, str) {
   fs.writeFileSync(file, str + "\n")
 }
 
-let isFirst = true
-function saveLocationsJson(data) {
-  const str = JSON.stringify(data)
-  console.log(data.extId, data.displayAddress)
-  if (isFirst) {
-    isFirst = false
-    fs.writeFileSync('uniqLocations.json', "[" + str + "\n")
-  }
-  else {
-    fs.appendFileSync("uniqLocations.json", "," + str + "\n");
-  }
-}
+// let isFirst = true
+// function saveLocationsJson(data) {
+//   const str = JSON.stringify(data)
+//   console.log(data.extId, data.displayAddress)
+//   if (isFirst) {
+//     isFirst = false
+//     fs.writeFileSync('uniqLocations.json', "[" + str + "\n")
+//   }
+//   else {
+//     fs.appendFileSync("uniqLocations.json", "," + str + "\n");
+//   }
+// }
 
-function endLocationsJson(data) {
-  fs.appendFileSync("uniqLocations.json", "]\n");
-}
+// function endLocationsJson(data) {
+//   fs.appendFileSync("uniqLocations.json", "]\n");
+// }
 
 const locationIds = new Set([])
+
+const uniqLocations = []
 
 async function getLocations(lat, lng, cursor) {
   const res = await fetch(
@@ -65,7 +67,7 @@ async function getLocations(lat, lng, cursor) {
       const location = data.locations[i];
       if (!locationIds.has(location.extId)) {
         locationIds.add(location.extId)
-        saveLocationsJson(location);      
+        uniqLocations.push(location);      
       }
     }
     return [...data.locations, ...rest];
@@ -87,7 +89,8 @@ async function main () {
       await getLocations(coords[1], coords[0]);
       console.log(`${i}/${grid.features.length}`)
   }
-  endLocationsJson()
+  // endLocationsJson()
+  fs.writeFileSync('uniqLocations.json', JSON.stringify(uniqLocations))
   save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 main()
