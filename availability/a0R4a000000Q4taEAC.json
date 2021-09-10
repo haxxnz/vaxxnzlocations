@@ -1028,10 +1028,6 @@
         "durationSeconds": 1800
       },
       {
-        "localStartTime": "10:00:00",
-        "durationSeconds": 1800
-      },
-      {
         "localStartTime": "10:30:00",
         "durationSeconds": 1800
       },
@@ -1471,6 +1467,10 @@
       }
     ],
     "2021-10-30": [
+      {
+        "localStartTime": "08:30:00",
+        "durationSeconds": 1800
+      },
       {
         "localStartTime": "09:00:00",
         "durationSeconds": 1800
@@ -2105,5 +2105,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-10T10:48:42.646Z"
+  "lastUpdatedAt": "2021-09-10T12:10:28.471Z"
 }
