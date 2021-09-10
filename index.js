@@ -73,7 +73,7 @@ async function main () {
   const data = await getAllCoordsToCheck()
   console.log('data', data.features.length)
 
-  var maxDistance = 30;
+  var maxDistance = 10;
   console.log('maxDistance',maxDistance)
   var clustered = turf.clustersDbscan(data, maxDistance, {units: "kilometers"});
 
@@ -100,6 +100,7 @@ async function main () {
       console.log(`${i}/${featuresToCheck.length}`)
   }
   save('uniqLocations.json', JSON.stringify(uniqLocations, null, 2))
+  console.log('uniqLocations.length',uniqLocations.length)
   save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 main()
