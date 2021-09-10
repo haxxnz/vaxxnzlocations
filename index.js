@@ -63,7 +63,7 @@ async function getLocations(lat, lng, cursor) {
   }
 }
 
-const getAllCoordsToCheck = async () => {
+const getAllPointsToCheck = async () => {
   const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json")
   const data = await res.json()
   return data
@@ -71,22 +71,19 @@ const getAllCoordsToCheck = async () => {
 
 async function main () {
 
-  const data = await getAllCoordsToCheck()
-  console.log('data', data.features.length)
+  const pointsToCheck = await getAllPointsToCheck()
+  console.log('data', pointsToCheck.features.length)
 
   var maxDistance = 10; // keep this as 10km clustering
   console.log('maxDistance',maxDistance)
-  var clustered = turf.clustersDbscan(data, maxDistance, {units: "kilometers"});
+  var clustered = turf.clustersDbscan(pointsToCheck, maxDistance, {units: "kilometers"});
 
-  let initialValue = 0
   const clusterFeatures = []
   turf.clusterReduce(clustered, 'cluster', function (previousValue, cluster, clusterValue, currentIndex) {
     clusterFeatures.push(cluster.features[0])
-    console.log('cluster',cluster.features[0].geometry.coordinates)
+    console.log('clusterPoint',cluster.features[0].geometry.coordinates)
     return previousValue++;
-  }, initialValue);
-  console.log('initialValue',initialValue)
-
+  }, 0);
 
   const otherFeatures = clustered.features.filter(f => f.properties.dbscan === "noise")
   console.log('otherPoints', otherFeatures.length)
@@ -105,7 +102,7 @@ async function main () {
   save('uniqLocations.json', JSON.stringify(sortedLocations, null, 2))
   console.log('sortedLocations.length',sortedLocations.length)
 
-  const differenceLocations = differenceBy(uniqLocations, data.features.map(f => ({ extId: f.properties.locationID })), 'extId')
+  const differenceLocations = differenceBy(uniqLocations, pointsToCheck.features.map(f => ({ extId: f.properties.locationID })), 'extId')
   console.log('differenceLocations',differenceLocations)
   console.log('differenceLocations.length',differenceLocations.length)
   save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
