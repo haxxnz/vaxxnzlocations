@@ -72,7 +72,7 @@ const getAllPointsToCheck = async () => {
 async function main () {
 
   const pointsToCheck = await getAllPointsToCheck()
-  console.log('data', pointsToCheck.features.length)
+  console.log('pointsToCheck count', pointsToCheck.features.length)
 
   var maxDistance = 10; // keep this as 10km clustering
   console.log('maxDistance',maxDistance)
@@ -86,7 +86,7 @@ async function main () {
   }, 0);
 
   const otherFeatures = clustered.features.filter(f => f.properties.dbscan === "noise")
-  console.log('otherPoints', otherFeatures.length)
+  console.log('otherPoints count', otherFeatures.length)
 
 
   save('startedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
