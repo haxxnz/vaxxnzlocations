@@ -3,7 +3,7 @@ const turf = require("@turf/turf");
 const nz = require('./nz.json')
 const fs = require('fs')
 const {format} = require('date-fns');
-const { differenceBy } = require("lodash");
+const { differenceBy, sortBy } = require("lodash");
 const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
 require('dotenv').config()
 
@@ -74,7 +74,7 @@ async function main () {
   const data = await getAllCoordsToCheck()
   console.log('data', data.features.length)
 
-  var maxDistance = 10;
+  var maxDistance = 30;
   console.log('maxDistance',maxDistance)
   var clustered = turf.clustersDbscan(data, maxDistance, {units: "kilometers"});
 
@@ -100,8 +100,10 @@ async function main () {
       await getLocations(coords[1], coords[0]);
       console.log(`${i}/${featuresToCheck.length}`)
   }
-  save('uniqLocations.json', JSON.stringify(uniqLocations, null, 2))
-  console.log('uniqLocations.length',uniqLocations.length)
+  const sortedLocations = sortBy(uniqLocations, 'extId')
+
+  save('uniqLocations.json', JSON.stringify(sortedLocations, null, 2))
+  console.log('sortedLocations.length',sortedLocations.length)
 
   const differenceLocations = differenceBy(uniqLocations, data.features.map(f => ({ extId: f.properties.locationID })), 'extId')
   console.log('differenceLocations',differenceLocations)
