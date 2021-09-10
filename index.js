@@ -77,9 +77,6 @@ const getAllCoordsToCheck = async () => {
 
 async function main () {
 
-  var points = turf.randomPoint(100, {bbox: [0, 30, 20, 50]});
-  console.log('points', points.features.length)
-
   const data = await getAllCoordsToCheck()
   console.log('data', data.features.length)
 
