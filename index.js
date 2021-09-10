@@ -76,9 +76,6 @@ const getAllCoordsToCheck = async () => {
 }
 
 async function main () {
-  // var extent = NZbbox
-  // var cellSide = 10;
-  // var options = {units: 'kilometers', mask: nz};
 
   var points = turf.randomPoint(100, {bbox: [0, 30, 20, 50]});
   console.log('points', points.features.length)
@@ -88,36 +85,26 @@ async function main () {
 
   var maxDistance = 30;
   var clustered = turf.clustersDbscan(data, maxDistance, {units: "kilometers"});
-  // console.log('corePoints', clustered.features)
 
   let initialValue = 0
   const clusterFeatures = []
   turf.clusterReduce(clustered, 'cluster', function (previousValue, cluster, clusterValue, currentIndex) {
     clusterFeatures.push(cluster.features[0])
     console.log('cluster',cluster.features[0].geometry.coordinates)
-    //=previousValue
-    //=cluster
-    //=clusterValue
-    //=currentIndex
     return previousValue++;
   }, initialValue);
   console.log('initialValue',initialValue)
 
 
-  // console.log('clustered', clustered.features.map(f => f.geometry.coordinates))
   const otherFeatures = clustered.features.filter(f => f.properties.dbscan === "noise")
   console.log('otherPoints', otherFeatures.length)
 
-  // console.log('coordsToCheck',coordsToCheck)
 
   save('startedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
-  // var grid = turf.pointGrid(extent, cellSide, options);
   const featuresToCheck = [...clusterFeatures, ...otherFeatures]
   for(var i = 0; i < featuresToCheck.length; i++) {
       const coords = featuresToCheck[i].geometry.coordinates
 
-      // const coords = clustered[i]
-      // console.log('coords',coords)
       await getLocations(coords[1], coords[0]);
       console.log(`${i}/${featuresToCheck.length}`)
   }
