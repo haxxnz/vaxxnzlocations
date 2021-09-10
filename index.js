@@ -74,7 +74,7 @@ async function main () {
   const data = await getAllCoordsToCheck()
   console.log('data', data.features.length)
 
-  var maxDistance = 30;
+  var maxDistance = 20;
   console.log('maxDistance',maxDistance)
   var clustered = turf.clustersDbscan(data, maxDistance, {units: "kilometers"});
 
