@@ -1,10 +1,8 @@
 const fetch = require("node-fetch");
 const turf = require("@turf/turf");
-const nz = require('./nz.json')
 const fs = require('fs')
 const {format} = require('date-fns');
 const { differenceBy, sortBy } = require("lodash");
-const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
 require('dotenv').config()
 
 function save(file, str) {
