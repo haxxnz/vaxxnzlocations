@@ -65,13 +65,6 @@ async function getLocations(lat, lng, cursor) {
 const getAllCoordsToCheck = async () => {
   const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json")
   const data = await res.json()
-  const coordsToCheck = []
-  // const
-  // data.features.forEach(f => {
-  //   const geometry = f.geometry
-  //   const coordinates = geometry.coordinates
-  //   coordsToCheck.push(coordinates)
-  // })
   return data
 }
 
@@ -81,6 +74,7 @@ async function main () {
   console.log('data', data.features.length)
 
   var maxDistance = 30;
+  console.log('maxDistance',maxDistance)
   var clustered = turf.clustersDbscan(data, maxDistance, {units: "kilometers"});
 
   let initialValue = 0
