@@ -2,7 +2,8 @@ const fetch = require("node-fetch");
 const turf = require("@turf/turf");
 const nz = require('./nz.json')
 const fs = require('fs')
-const {format} = require('date-fns')
+const {format} = require('date-fns');
+const { differenceBy } = require("lodash");
 const NZbbox = [166.509144322, -46.641235447, 178.517093541, -34.4506617165];
 require('dotenv').config()
 
@@ -101,6 +102,10 @@ async function main () {
   }
   save('uniqLocations.json', JSON.stringify(uniqLocations, null, 2))
   console.log('uniqLocations.length',uniqLocations.length)
+
+  const differenceLocations = differenceBy(uniqLocations, data.features.map(f => ({ extId: f.properties.locationID })), 'extId')
+  console.log('differenceLocations',differenceLocations)
+  console.log('differenceLocations.length',differenceLocations.length)
   save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 main()
