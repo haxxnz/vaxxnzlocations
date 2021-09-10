@@ -62,17 +62,32 @@ async function getLocations(lat, lng, cursor) {
   }
 }
 
+const getAllCoordsToCheck = async () => {
+  const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json")
+  const data = await res.json()
+  const coordsToCheck = []
+  // const
+  data.features.forEach(f => {
+    const geometry = f.geometry
+    const coordinates = geometry.coordinates
+    coordsToCheck.push(coordinates)
+  })
+  return coordsToCheck
+}
+
 async function main () {
   var extent = NZbbox
   var cellSide = 10;
   var options = {units: 'kilometers', mask: nz};
 
+  const coordsToCheck = await getAllCoordsToCheck()
+
   save('startedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
   var grid = turf.pointGrid(extent, cellSide, options);
-  for(var i = 0; i < grid.features.length; i++) {
-      const coords = grid.features[i].geometry.coordinates
+  for(var i = 0; i < coordsToCheck; i++) {
+      const coords = coordsToCheck[i]
       await getLocations(coords[1], coords[0]);
-      console.log(`${i}/${grid.features.length}`)
+      console.log(`${i}/${coordsToCheck}`)
   }
   save('uniqLocations.json', JSON.stringify(uniqLocations, null, 2))
   save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
