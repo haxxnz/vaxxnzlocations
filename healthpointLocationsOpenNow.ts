@@ -123,7 +123,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
   const lngStr = getItemprop($, "longitude");
   const lng = lngStr ? parseFloat(lngStr) : missingLatLongs[name]?.lng ?? undefined;
   
-  const openningText = $('#section-openingStatusToday .opening-hours').text()
+  const openningText = $('#section-openingStatusToday .opening-hours').last().text()
   const isOpenToday = openningText.includes('Open today') ? true : openningText.includes('Closed today') ? false : undefined
   const openTodayHours = openningText.replace(/Open today/g, '').replace(/Closed today/g, '').trim()
 
