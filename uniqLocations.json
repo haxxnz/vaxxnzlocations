@@ -6114,7 +6114,7 @@
   },
   {
     "displayAddress": "33 Victoria Street,   Levin  5510",
-    "distanceInMeters": 59386.77283414,
+    "distanceInMeters": 39838.67285054,
     "extId": "a0R4a000000QaNeEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -18252,6 +18252,27 @@
     "name": "Pauanui Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "15:15:00"
+      },
       {
         "days": [
           "thu"
