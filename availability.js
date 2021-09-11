@@ -1,7 +1,8 @@
 const fetch = require("node-fetch");
 const uniqLocations = require("./uniqLocations.json");
+const pLimit = require('p-limit');
 const fs = require("fs");
-const {sortByAsc} = require('./arrayUtils.js')
+const { sortByAsc } = require('./arrayUtils.js')
 require('dotenv').config()
 
 function save(file, str) {
@@ -41,7 +42,7 @@ async function getSlots(location, availability) {
 }
 
 async function getAvailability(location) {
-  let locationData = {availabilityDates: {}, lastUpdatedAt: new Date(0).toISOString()}
+  let locationData = { availabilityDates: {}, lastUpdatedAt: new Date(0).toISOString() }
   try {
     locationData = require(`./availability/${location.extId}.json`)
   }
@@ -88,15 +89,17 @@ async function getAvailability(location) {
     throw e
   }
 
-  const slots = [];
+  // Making it configurable so that we can easily pump the number up from env if w want to
+  const maxPromiseRunningTotal = parseInt(process.env.MAX_PROMISE).toString() === 'NaN' ? 2 : parseInt(process.env.MAX_PROMISE)
+  const limit = pLimit(maxPromiseRunningTotal);
+  const promiseQueue = [];
   for (const availability of data.availability) {
     if (!availability.available) {
       continue;
     }
-    const slot = await getSlots(location, availability);
-    slots.push(slot);
+    promiseQueue.push(limit(() => getSlots(location, availability)))
   }
-
+  const slots = await Promise.all(promiseQueue);
   const output = {};
   for (const slot of slots) {
     output[slot.date] = slot.slotsWithAvailability;
