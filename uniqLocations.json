@@ -718,15 +718,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Waipawa Rugby Clubrooms, Coronation Park, Tikokino Road, Waipawa  4210",
-    "distanceInMeters": 0.54271981,
+    "displayAddress": "26A Mitchell Street   Waipukurau  4200",
+    "distanceInMeters": 5521.70751555,
     "extId": "a0R4a000000PvSyEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
     "endDate": "2021-12-10",
     "location": {
-      "lng": 176.576,
-      "lat": -39.9443
+      "lng": 176.563,
+      "lat": -39.9931
     },
     "name": "Waipawa Vaccination Centre",
     "timezone": "Pacific/Auckland",
@@ -6107,6 +6107,51 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-18",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "33 Victoria Street,   Levin  5510",
+    "distanceInMeters": 59386.77283414,
+    "extId": "a0R4a000000QaNeEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-01",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 175.273,
+      "lat": -40.6228
+    },
+    "name": "Horowhenua Events Centre (Near the Showgrounds)",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Horowhenua+Events+Centre/@-40.6234438,175.2713929,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40f354b7e4eec1:0xfffdfb36cfa94f1b!8m2!3d-40.6233435!4d175.2736634",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-01",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
