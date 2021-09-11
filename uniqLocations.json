@@ -6351,6 +6351,65 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Entrance 3, TPMH, 95 Cashmere Road, Cashmere, Christchurch 8022",
+    "distanceInMeters": 4383.85219189,
+    "extId": "a0R4a000000Qeb9EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-01",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 172.62,
+      "lat": -43.5702
+    },
+    "name": "The Princess Margaret Hospital",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/fSp8s7N9PYr23Cue8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "18 Woollcombe Street, Timaru 7910",
     "distanceInMeters": 0.50374759,
     "extId": "a0R4a000000Qf41EAC",
@@ -11360,7 +11419,7 @@
   },
   {
     "displayAddress": "174 High Street, Rangiora 7400",
-    "distanceInMeters": 26158.00421117,
+    "distanceInMeters": 8545.76722761,
     "extId": "a0R4a000000ST0gEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
