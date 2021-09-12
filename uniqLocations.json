@@ -19534,14 +19534,14 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:15:00"
       },
       {
         "days": [
-          "fri"
+          "sat"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:15:00"
@@ -20187,35 +20187,35 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "16:30:00"
       }
     ],
@@ -20348,7 +20348,7 @@
           "sun"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:45:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/4xEqRXvxKJrNGHmp7",
@@ -21906,14 +21906,14 @@
           "sun"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "18:15:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "18:15:00"
       },
       {
         "days": [
@@ -22083,49 +22083,49 @@
           "sun"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "15:15:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "15:15:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+Onehunga+Centre+Pharmacy/@-36.9231895,174.7814542,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d48ad7e41904b:0xb8ed597ff66aa036!8m2!3d-36.9231817!4d174.783793",
@@ -24462,6 +24462,13 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "09:30:00",
@@ -24796,7 +24803,7 @@
   },
   {
     "displayAddress": "104 Weymouth Rd Manurewa  Auckland  2102",
-    "distanceInMeters": 46234.50230074,
+    "distanceInMeters": 59256.7629142,
     "extId": "a0R4a000000UZQfEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
@@ -26168,6 +26175,65 @@
       }
     ],
     "mapUrl": "https://goo.gl/maps/NGQ7NPuNpmxpygDP8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-08",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "5/115 Church Street Otahuhu  Auckland  1062",
+    "distanceInMeters": 36337.38132915,
+    "extId": "a0R4a000000V199EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-13",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.847,
+      "lat": -36.9443
+    },
+    "name": "Wecare Family Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "mapUrl": "https://g.page/wecare-family-health-centre?share",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-08",
