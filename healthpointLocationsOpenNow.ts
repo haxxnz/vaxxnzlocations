@@ -37,9 +37,9 @@ function fullUrl(url: string) {
 
 function fetchSite(hpUrl: string) {
   const file = `./healthpoint/${md5(hpUrl)}.txt`
-  if (fs.existsSync(file)) {
-    return fs.readFileSync(file).toString()
-  }
+  // if (fs.existsSync(file)) { // only for dev
+  //   return fs.readFileSync(file).toString()
+  // }
   return fetch(`${HEALTHPOINT_URL}${hpUrl}`)
     .then(res => res.text())
     .then(body => {
