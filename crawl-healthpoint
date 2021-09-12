@@ -1,5 +1,6 @@
 #!/bin/bash
 
+cd "$(dirname "$0")"
 yarn ts-node healthpointLocationsOpenNow.ts > /home/ec2-user/vaxxnzlocationshealthpoint.log 2>&1
 git add .
 git commit -m "updated healthpoint from $(TZ='Pacific/Auckland' date)"
