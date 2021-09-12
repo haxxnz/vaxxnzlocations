@@ -4,8 +4,9 @@ import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 import { uniqBy } from "./arrayUtilsTs";
 var md5 = require('md5');
+require('dotenv').config()
 
-const HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
+const HEALTHPOINT_URL = process.env.HEALTHPOINT_PROXY ?? 'https://www.healthpoint.co.nz';
 const ACTUAL_HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
 
 interface LatLong {
@@ -36,7 +37,7 @@ function fullUrl(url: string) {
 }
 
 function fetchSite(hpUrl: string) {
-  const file = `./healthpoint/${md5(hpUrl)}.txt`
+  const file = `./healthpoint_cache/${md5(hpUrl)}.txt`
   // if (fs.existsSync(file)) { // only for dev
   //   return fs.readFileSync(file).toString()
   // }
