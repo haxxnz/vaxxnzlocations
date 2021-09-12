@@ -61,7 +61,7 @@ function getItempropText($: CheerioAPI, propname: string): string | undefined {
 }
 
 
-const healthpointLocations: HealthpointLocation[] = []
+const healthpointLocationsResult: HealthpointLocation[] = []
 
 function nameAddressNormal($: CheerioAPI) {
   const address = $('[itemtype="http://schema.org/Place"]').first().find('h3').text();
@@ -190,7 +190,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     opennningHours,
   }
 
-  healthpointLocations.push(result)
+  healthpointLocationsResult.push(result)
 }
 
 async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
@@ -234,7 +234,7 @@ async function main() {
       healthpointLocation
     );
   }
-  save('healthpointLocations.json', JSON.stringify(healthpointLocations, null, 2))
+  save('healthpointLocations.json', JSON.stringify(healthpointLocationsResult, null, 2))
   save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 
