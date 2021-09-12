@@ -228,7 +228,12 @@ async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
   }
 
 }
+
+function save(file: string, str: string) {
+  fs.writeFileSync(file, str + "\n")
+}
 async function main() {
+  save('startedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
   const body = await fetchSite(
     '/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone'
   );
@@ -243,6 +248,7 @@ async function main() {
     );
   }
   endHealthpointLocationJson()
+  save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 
 main();
