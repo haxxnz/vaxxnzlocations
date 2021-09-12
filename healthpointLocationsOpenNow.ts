@@ -61,21 +61,7 @@ function getItempropText($: CheerioAPI, propname: string): string | undefined {
 }
 
 
-let isFirst = true
-function saveHealthpointLocationJson(data: HealthpointLocation) {
-  const str = JSON.stringify(data)
-  if (isFirst) {
-    isFirst = false
-    fs.writeFileSync('healthpointLocations.json', "[" + str + "\n")
-  }
-  else {
-    fs.appendFileSync("healthpointLocations.json", "," + str + "\n");
-  }
-}
-
-function endHealthpointLocationJson() {
-  fs.appendFileSync("healthpointLocations.json", "]\n");
-}
+const healthpointLocations: HealthpointLocation[] = []
 
 function nameAddressNormal($: CheerioAPI) {
   const address = $('[itemtype="http://schema.org/Place"]').first().find('h3').text();
@@ -204,7 +190,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     opennningHours,
   }
 
-  saveHealthpointLocationJson(result);
+  healthpointLocations.push(result)
 }
 
 async function fetchHealthpointPage(healthpointPage: HealthpointPage) {
@@ -248,7 +234,7 @@ async function main() {
       healthpointLocation
     );
   }
-  endHealthpointLocationJson()
+  save('healthpointLocations.json', JSON.stringify(healthpointLocations, null, 2))
   save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 
