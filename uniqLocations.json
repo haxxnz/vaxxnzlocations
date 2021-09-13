@@ -952,7 +952,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 65470.20374394,
+    "distanceInMeters": 1898.39580301,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -4150,7 +4150,7 @@
   },
   {
     "displayAddress": "11 Quay Street   Whakatane 3120",
-    "distanceInMeters": 61880.88454384,
+    "distanceInMeters": 69393.06810167,
     "extId": "a0R4a000000QVAOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -7149,7 +7149,7 @@
   },
   {
     "displayAddress": "32 Racecourse Rd Allenton  Ashburton  7700",
-    "distanceInMeters": 63457.88419767,
+    "distanceInMeters": 2117.51158497,
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -9265,7 +9265,7 @@
   },
   {
     "displayAddress": "254 Moore Street, Ashburton 7700",
-    "distanceInMeters": 65627.99844352,
+    "distanceInMeters": 2212.76565993,
     "extId": "a0R4a000000SJx0EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -9311,7 +9311,7 @@
   },
   {
     "displayAddress": "33 Archibald Street   Tinwald  7700",
-    "distanceInMeters": 1860.69806539,
+    "distanceInMeters": 2987.12130693,
     "extId": "a0R4a000000SJyIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -13347,7 +13347,7 @@
   },
   {
     "displayAddress": "7-11 Allens Road Allenton  Ashburton  7700",
-    "distanceInMeters": 65398.20234862,
+    "distanceInMeters": 0.57737424,
     "extId": "a0R4a000000SY8yEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -15308,7 +15308,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 64985.53339181,
+    "distanceInMeters": 415.23754487,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -17915,7 +17915,7 @@
   },
   {
     "displayAddress": "57 High Street, Leeston 7632",
-    "distanceInMeters": 19390.49880661,
+    "distanceInMeters": 47364.3902051,
     "extId": "a0R4a000000TPWoEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
@@ -26351,6 +26351,65 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+Pharmacy/@-39.5231359,176.8685821,15z/data=!4m5!3m4!1s0x0:0xb5fbc98bd4d8615b!8m2!3d-39.5231564!4d176.8685913",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-08",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "221 Chadwick Road   Tauranga  3112",
+    "distanceInMeters": 5303.03073013,
+    "extId": "a0R4a000000V1hIEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 176.131,
+      "lat": -37.7264
+    },
+    "name": "Unichem Greerton Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/u4Ycj3Ng3jHHM4UX7",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-08",
