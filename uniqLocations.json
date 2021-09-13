@@ -2935,6 +2935,7 @@
         "localEnd": "15:00:00"
       }
     ],
+    "description": "Behind Boulcott Hospital - in the Hutt Valley Health Hub\r\nAppointments only - no walk ins. Everyone aged over 12 requires an appointment.",
     "mapUrl": "https://www.google.com/maps/place/135+Witako+Street,+Epuni,+Lower+Hutt+5011/@-41.2049137,174.9244816,17z/data=!3m1!4b1!4m5!3m4!1s0x6d38aa892e456757:0x8716026426cba72c!8m2!3d-41.2049178!4d174.9266703",
     "tags": [],
     "type": "OnlineBooking",
@@ -3798,49 +3799,49 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localEnd": "19:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localEnd": "19:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localEnd": "19:30:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localEnd": "19:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:15:00"
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
       }
     ],
     "description": "COVID-19 Vaccination Centre in the heart of Richmond",
@@ -14600,7 +14601,7 @@
         "localEnd": "11:45:00"
       }
     ],
-    "description": "Hastings Health Centre is vaccinating at the rear of Clubs Hastings at 307 Albert Street.",
+    "description": "Hastings Health Centre is vaccinating at the rear of Clubs Hastings at 307 Albert Street. Walk-in’s welcome.",
     "mapUrl": "https://www.google.com/maps/place/307+Albert+Street,+Hastings+4122/@-39.6400778,176.8521587,3a,75y,226.07h,90t/data=!3m6!1e1!3m4!1s2RVQ8dH8QwW60UcJ2Uu-ow!2e0!7i16384!8i8192!4m5!3m4!1s0x6d69ca45558d6451:0x4c1812f052f11c3d!8m2!3d-39.6402215!4d176.8519201?hl",
     "tags": [],
     "type": "OnlineBooking",
@@ -17637,7 +17638,7 @@
     "extId": "a0R4a000000TH2GEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
-    "endDate": "2021-12-31",
+    "endDate": "2021-10-30",
     "location": {
       "lng": 175.279,
       "lat": -37.782
@@ -23408,13 +23409,6 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/46ZBkGsPrFMu4CEx9",
@@ -23839,6 +23833,52 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-07",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "53 Commerce Street   Kaitaia  410",
+    "distanceInMeters": 51792.03123578,
+    "extId": "a0R4a000000UOukEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-01",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 173.265,
+      "lat": -35.115
+    },
+    "name": "Far North Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "11:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "11:15:00"
+      }
+    ],
+    "description": "Toilets- No\r\nDisability Access- Wheelchair ramp access \r\nForeign language translation service provided- No\r\nSign language translator on site- By appointment only \r\nParking- On-site parking  ",
+    "mapUrl": "https://www.google.com/maps/place/53+Commerce+Street,+Kaitaia+0410,+New+Zealand/@-35.1148899,173.262722,17z/data=!4m5!3m4!1s0x6d0974a76e885e3d:0x2bb8c0f2ca39b68!8m2!3d-35.1149785!4d173.264795",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-30",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -27076,15 +27116,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "23-25 Maraetai Road   Tokoroa  3420",
-    "distanceInMeters": 52512.75231906,
+    "displayAddress": "1 Maraetai Road   Tokoroa  3420",
+    "distanceInMeters": 52534.7392253,
     "extId": "a0R4a000000V3cxEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
     "endDate": "2021-12-17",
     "location": {
       "lng": 175.872,
-      "lat": -38.2275
+      "lat": -38.2276
     },
     "name": "Tokoroa Whare Rongoā Āraimate SWPICS DRIVE-THROUGH Community Vaccination Centre",
     "timezone": "Pacific/Auckland",
@@ -27162,35 +27202,35 @@
           "fri"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:15:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/Rc86Vp2i5oUK6vek9",
