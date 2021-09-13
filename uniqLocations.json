@@ -719,7 +719,7 @@
   },
   {
     "displayAddress": "Waipawa Coronation Park, Tikokino Road   Waipawa  4210",
-    "distanceInMeters": 39744.44526904,
+    "distanceInMeters": 0.54534207,
     "extId": "a0R4a000000PvSyEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -3641,6 +3641,72 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "295 Palmerston Road, Gisborne  4010",
+    "distanceInMeters": 66624.59387325,
+    "extId": "a0R4a000000QNR1EAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-19",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 178.023,
+      "lat": -38.6621
+    },
+    "name": "Gisborne Community Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/dir//295+Palmerston+Road,+Gisborne+4010",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-16",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -14277,6 +14343,37 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "24 Kitchener St, Wairoa 4108",
+    "distanceInMeters": 855.90300176,
+    "extId": "a0R4a000000Sm1JEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-30",
+    "endDate": "2021-11-26",
+    "location": {
+      "lng": 177.416,
+      "lat": -39.0409
+    },
+    "name": "Wairoa Hospital VC",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/24+Kitchener+Street,+Wairoa+4108,+New+Zealand/@-39.0412346,177.4161753,18.35z/data=!4m5!3m4!1s0x6d6899874f44fb89:0xadf2e031dd885cc6!8m2!3d-39.0409902!4d177.4157053",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Dent Street, Ngatea  3503",
     "distanceInMeters": 15604.28310173,
     "extId": "a0R4a000000SpkTEAS",
@@ -18266,6 +18363,44 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/295+State+Highway+12,+%C5%8Cm%C4%81pere+0473,+New+Zealand/@-35.5338607,173.3881215,334m/data=!3m1!1e3!4m8!1m2!2m1!1s295+Harbour+View+Road,+Omapere+0473!3m4!1s0x6d09450df7336c17:0x822b2ea47d9c4765!8m2!3d-35.5332156!4d173.3",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "65 Queen Street   Wairoa  4108",
+    "distanceInMeters": 0.47775209,
+    "extId": "a0R4a000000TRDbEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-01",
+    "endDate": "2021-11-25",
+    "location": {
+      "lng": 177.42,
+      "lat": -39.0341
+    },
+    "name": "Kahungunu Executive Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "16:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/qSKp3koToeRQZBTg8",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-12",
@@ -26788,6 +26923,51 @@
     "timezone": "Pacific/Auckland",
     "openHours": [],
     "mapUrl": "https://www.google.com/maps/place/Wakatipu+Rugby+Club/@-45.0293024,168.6608801,15z/data=!4m5!3m4!1s0x0:0x43b31ab610088b7c!8m2!3d-45.0291832!4d168.6610183",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-08",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "245 Gloucester Street Taradale  Napier  4112",
+    "distanceInMeters": 15097.52890396,
+    "extId": "a0R4a000000V37CEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-16",
+    "endDate": "2021-11-28",
+    "location": {
+      "lng": 176.848,
+      "lat": -39.5352
+    },
+    "name": "Glenns Pharmacy Ltd",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/4dPkCMMTcdGgJoYm6",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-08",
