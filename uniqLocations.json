@@ -314,7 +314,7 @@
   },
   {
     "displayAddress": "1 Rogan Street Welbourn  New Plymouth  4310",
-    "distanceInMeters": 1216.38215603,
+    "distanceInMeters": 2110.10175138,
     "extId": "a0R4a000000PiTuEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -338,7 +338,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 0.22695513,
+    "distanceInMeters": 1748.86409133,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -719,7 +719,7 @@
   },
   {
     "displayAddress": "Waipawa Coronation Park, Tikokino Road   Waipawa  4210",
-    "distanceInMeters": 0.54534207,
+    "distanceInMeters": 39744.44526904,
     "extId": "a0R4a000000PvSyEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -1033,6 +1033,13 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "07:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
           "sun"
         ],
         "localStart": "08:00:00",
@@ -1055,13 +1062,6 @@
       {
         "days": [
           "thu"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "wed"
         ],
         "localStart": "07:30:00",
         "localEnd": "18:30:00"
@@ -3641,72 +3641,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-24",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "295 Palmerston Road, Gisborne  4010",
-    "distanceInMeters": 66624.59387325,
-    "extId": "a0R4a000000QNR1EAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-19",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 178.023,
-      "lat": -38.6621
-    },
-    "name": "Gisborne Community Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/dir//295+Palmerston+Road,+Gisborne+4010",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-16",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -6952,7 +6886,7 @@
   },
   {
     "displayAddress": "23 Taupiri Street   Te Kuiti  3910",
-    "distanceInMeters": 67565.3936468,
+    "distanceInMeters": 55324.00577641,
     "extId": "a0R4a000000RKVaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-26",
@@ -7377,7 +7311,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 15875.66742923,
+    "distanceInMeters": 17360.53248617,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -7467,7 +7401,7 @@
   },
   {
     "displayAddress": "Ryburn Building, Ryburn Road (off Hague Road), Waikato Hospital Campus",
-    "distanceInMeters": 8298.35629205,
+    "distanceInMeters": 7025.98186121,
     "extId": "a0R4a000000Rsq6EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-13",
@@ -7860,7 +7794,7 @@
   },
   {
     "displayAddress": "Corner of Hyde Avenue and Grandview Road, Nawton Shopping Centre, Hamilton",
-    "distanceInMeters": 6545.32143157,
+    "distanceInMeters": 3415.93328024,
     "extId": "a0R4a000000RyGnEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-29",
@@ -7934,7 +7868,7 @@
   },
   {
     "displayAddress": "161 Commerce Street Frankton  Hamilton  3204",
-    "distanceInMeters": 6523.65602823,
+    "distanceInMeters": 4632.97516351,
     "extId": "a0R4a000000RzYKEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -8190,7 +8124,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 1748.64690132,
+    "distanceInMeters": 0.65385398,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8409,7 +8343,7 @@
   },
   {
     "displayAddress": "1913 Cambridge Road   Cambridge  3434",
-    "distanceInMeters": 23873.22921412,
+    "distanceInMeters": 24224.5511268,
     "extId": "a0R4a000000SEWpEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -8475,7 +8409,7 @@
   },
   {
     "displayAddress": "1007 Heaphy Terrace Fairfield  Hamilton  3214",
-    "distanceInMeters": 4746.22597217,
+    "distanceInMeters": 4300.28548136,
     "extId": "a0R4a000000SFyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-24",
@@ -8608,7 +8542,7 @@
   },
   {
     "displayAddress": "156 Teasdale St   Te Awamutu  3800",
-    "distanceInMeters": 31492.33270628,
+    "distanceInMeters": 29688.93112821,
     "extId": "a0R4a000000SG2AEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -8631,7 +8565,7 @@
   },
   {
     "displayAddress": "31 Pembroke Street Hamilton Lake  Hamilton  3204",
-    "distanceInMeters": 7423.17274792,
+    "distanceInMeters": 6123.04770869,
     "extId": "a0R4a000000SG3wEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -8704,7 +8638,7 @@
   },
   {
     "displayAddress": "32 Rawhiti Ave Matamata  Waikato  3400",
-    "distanceInMeters": 45099.6324665,
+    "distanceInMeters": 47420.25301679,
     "extId": "a0R4a000000SGD8EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-07",
@@ -8771,7 +8705,7 @@
   },
   {
     "displayAddress": "28 Ailsa Street   Te Kuiti  3910",
-    "distanceInMeters": 67978.7589626,
+    "distanceInMeters": 56039.86690605,
     "extId": "a0R4a000000SGReEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -8837,7 +8771,7 @@
   },
   {
     "displayAddress": "21 Whatawhata Road. Dinsdale , Waikato, 3204",
-    "distanceInMeters": 7667.33935539,
+    "distanceInMeters": 4987.63943069,
     "extId": "a0R4a000000SGSSEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-28",
@@ -11329,7 +11263,7 @@
   },
   {
     "displayAddress": "Pope Terrace Leamington  Cambridge  3432",
-    "distanceInMeters": 25656.13997776,
+    "distanceInMeters": 26006.00595644,
     "extId": "a0R4a000000SP0wEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-28",
@@ -11929,7 +11863,7 @@
   },
   {
     "displayAddress": "48 Alpha Street   Cambridge  3434",
-    "distanceInMeters": 24936.72969503,
+    "distanceInMeters": 25343.55859054,
     "extId": "a0R4a000000ST9IEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -12542,7 +12476,7 @@
   },
   {
     "displayAddress": "3/670 Cambridge Road Te Awamutu  Waikato  3800",
-    "distanceInMeters": 31539.76004616,
+    "distanceInMeters": 29908.59793433,
     "extId": "a0R4a000000SWkVEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -14067,7 +14001,7 @@
   },
   {
     "displayAddress": "Inside New Nawton Shopping Centre, cnr of Grandview Road and Hyde Ave Nawton  Hamilton  3200",
-    "distanceInMeters": 6545.32143157,
+    "distanceInMeters": 3415.93328024,
     "extId": "a0R4a000000SkqUEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -14270,7 +14204,7 @@
   },
   {
     "displayAddress": "9 Thackeray Street Hamilton Central  Hamilton  3204",
-    "distanceInMeters": 7009.5471619,
+    "distanceInMeters": 5862.77412503,
     "extId": "a0R4a000000SlgmEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -14343,37 +14277,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "24 Kitchener St, Wairoa 4108",
-    "distanceInMeters": 855.90300176,
-    "extId": "a0R4a000000Sm1JEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-30",
-    "endDate": "2021-11-26",
-    "location": {
-      "lng": 177.416,
-      "lat": -39.0409
-    },
-    "name": "Wairoa Hospital VC",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/24+Kitchener+Street,+Wairoa+4108,+New+Zealand/@-39.0412346,177.4161753,18.35z/data=!4m5!3m4!1s0x6d6899874f44fb89:0xadf2e031dd885cc6!8m2!3d-39.0409902!4d177.4157053",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-30",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Dent Street, Ngatea  3503",
     "distanceInMeters": 15604.28310173,
     "extId": "a0R4a000000SpkTEAS",
@@ -14420,7 +14323,7 @@
   },
   {
     "displayAddress": "6 Avalon Drive Nawton  Hamilton  3200",
-    "distanceInMeters": 5951.00306346,
+    "distanceInMeters": 3302.1645255,
     "extId": "a0R4a000000SpqWEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -15061,7 +14964,7 @@
   },
   {
     "displayAddress": "Cnr Cambridge Road And Masters Avenue   Hamilton  3216",
-    "distanceInMeters": 8635.68380757,
+    "distanceInMeters": 8514.19577976,
     "extId": "a0R4a000000Srq3EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
@@ -15643,7 +15546,7 @@
   },
   {
     "displayAddress": "1 Urlich Avenue Glenview  Hamilton  3206",
-    "distanceInMeters": 9732.54783773,
+    "distanceInMeters": 8184.42367057,
     "extId": "a0R4a000000SwbtEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -16566,7 +16469,7 @@
   },
   {
     "displayAddress": "283 Arapuni Road   Waotu  3481",
-    "distanceInMeters": 54642.12898954,
+    "distanceInMeters": 55199.05652254,
     "extId": "a0R4a000000T0ftEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-09",
@@ -17386,7 +17289,7 @@
   },
   {
     "displayAddress": "244 Arawata Street   Te Awamutu  3800",
-    "distanceInMeters": 31416.65037718,
+    "distanceInMeters": 29678.66658144,
     "extId": "a0R4a000000TCrtEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -17633,7 +17536,7 @@
   },
   {
     "displayAddress": "750 Victoria Street,   Hamilton  3204",
-    "distanceInMeters": 5863.22275141,
+    "distanceInMeters": 4773.45462256,
     "extId": "a0R4a000000TH2GEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
@@ -18363,44 +18266,6 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/295+State+Highway+12,+%C5%8Cm%C4%81pere+0473,+New+Zealand/@-35.5338607,173.3881215,334m/data=!3m1!1e3!4m8!1m2!2m1!1s295+Harbour+View+Road,+Omapere+0473!3m4!1s0x6d09450df7336c17:0x822b2ea47d9c4765!8m2!3d-35.5332156!4d173.3",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-12",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "65 Queen Street   Wairoa  4108",
-    "distanceInMeters": 0.47775209,
-    "extId": "a0R4a000000TRDbEAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-01",
-    "endDate": "2021-11-25",
-    "location": {
-      "lng": 177.42,
-      "lat": -39.0341
-    },
-    "name": "Kahungunu Executive Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "16:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/qSKp3koToeRQZBTg8",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-12",
@@ -19855,7 +19720,7 @@
   },
   {
     "displayAddress": "173 Anglesea Street   Hamilton  3204",
-    "distanceInMeters": 6914.08859306,
+    "distanceInMeters": 5790.5264789,
     "extId": "a0R4a000000Tg7qEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-21",
@@ -21004,7 +20869,7 @@
   },
   {
     "displayAddress": "951 Wairere Dr Hamilton East  Hamilton  3216",
-    "distanceInMeters": 7691.0590275,
+    "distanceInMeters": 7446.79791662,
     "extId": "a0R4a000000TrQGEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -21056,7 +20921,7 @@
   },
   {
     "displayAddress": "130 Rostrevor Street Hamilton Central,  Hamilton  3204",
-    "distanceInMeters": 6019.82976526,
+    "distanceInMeters": 4612.24225283,
     "extId": "a0R4a000000TrcMEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -22762,7 +22627,7 @@
   },
   {
     "displayAddress": "16 Beale Street Hamilton East  Hamilton  3216",
-    "distanceInMeters": 6893.41306033,
+    "distanceInMeters": 6242.21528342,
     "extId": "a0R4a000000U5NQEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -23735,7 +23600,7 @@
   },
   {
     "displayAddress": "283 Devon Street West   New Plymouth  4310",
-    "distanceInMeters": 633.50527513,
+    "distanceInMeters": 1394.66744389,
     "extId": "a0R4a000000UOrIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -23846,7 +23711,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 1178.00093007,
+    "distanceInMeters": 2798.22920338,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -24134,7 +23999,7 @@
   },
   {
     "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
-    "distanceInMeters": 7754.05901737,
+    "distanceInMeters": 9295.07969822,
     "extId": "a0R4a000000UPXsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -24246,7 +24111,7 @@
   },
   {
     "displayAddress": "235 Broadway   Stratford  4332",
-    "distanceInMeters": 36054.36343145,
+    "distanceInMeters": 35281.61987696,
     "extId": "a0R4a000000UPhIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -24284,7 +24149,7 @@
   },
   {
     "displayAddress": "95 Vivian Street   New Plymouth  4310",
-    "distanceInMeters": 226.95963627,
+    "distanceInMeters": 1531.03798905,
     "extId": "a0R4a000000UPs2EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -24412,7 +24277,7 @@
   },
   {
     "displayAddress": "9 Wallis street   Raglan  3225",
-    "distanceInMeters": 36392.77348383,
+    "distanceInMeters": 33243.95775863,
     "extId": "a0R4a000000UR8SEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -24694,7 +24559,7 @@
   },
   {
     "displayAddress": "960 Victoria Street Whitiora  Hamilton  3200",
-    "distanceInMeters": 5561.86936996,
+    "distanceInMeters": 4426.1225227,
     "extId": "a0R4a000000UUyaEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -25496,7 +25361,7 @@
         "localEnd": "16:00:00"
       }
     ],
-    "description": "Open from 08.30am - 4.00pm",
+    "description": "Drive through vaccination centre | Open from 08.30am - 4.00pm",
     "mapUrl": "https://www.google.com/maps/place/42+Verissimo+Drive,+M%C4%81ngere,+Auckland+2022/@-36.9904124,174.7862457,17z/data=!4m13!1m7!3m6!1s0x6d0d4fecad0db6f3:0x8b992114a9ec41da!2s42+Verissimo+Drive,+M%C4%81ngere,+Auckland+2022!3b1!8m2!3d-36.9904167!4d174.7884344",
     "tags": [],
     "type": "OnlineBooking",
@@ -26057,7 +25922,7 @@
         "localEnd": "14:45:00"
       }
     ],
-    "description": "Onsite parking | Drop-off area at North Shore Aero Club | Wheelchair accessible | Accessible toilets available | Low sensory environment - available on request - light and noise.",
+    "description": "Drive-Through Vaccination Centre | Accessible toilets available | Low sensory environment - available on request - light and noise.",
     "mapUrl": "https://www.google.com/maps/place/272+Postman+Road,+Dairy+Flat+0794,+New+Zealand/@-36.6567328,174.6507386,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d232955be186d:0x62f8c51a807da03a!8m2!3d-36.6567328!4d174.6529273",
     "tags": [],
     "type": "OnlineBooking",
@@ -26092,7 +25957,7 @@
   },
   {
     "displayAddress": "cnr Ranfurly &, Turongo Street   Otorohanga  3900",
-    "distanceInMeters": 50701.39769697,
+    "distanceInMeters": 48124.62390204,
     "extId": "a0R4a000000UltPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -26932,51 +26797,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "245 Gloucester Street Taradale  Napier  4112",
-    "distanceInMeters": 15097.52890396,
-    "extId": "a0R4a000000V37CEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-16",
-    "endDate": "2021-11-28",
-    "location": {
-      "lng": 176.848,
-      "lat": -39.5352
-    },
-    "name": "Glenns Pharmacy Ltd",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "14:30:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/4dPkCMMTcdGgJoYm6",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-08",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "18 Glenda Drive Frankton  Queenstown  9300",
     "distanceInMeters": 7429.703337,
     "extId": "a0R4a000000V37MEAS",
@@ -27263,7 +27083,7 @@
   },
   {
     "displayAddress": "1 Elliot Street Inglewood  Taranaki  4330",
-    "distanceInMeters": 16019.32083895,
+    "distanceInMeters": 15854.5555836,
     "extId": "a0R4a000000V8QmEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
