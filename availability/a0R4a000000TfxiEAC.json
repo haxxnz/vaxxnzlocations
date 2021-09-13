@@ -1,16 +1,6 @@
 {
   "availabilityDates": {
-    "2021-09-20": [
-      {
-        "localStartTime": "10:00:00",
-        "durationSeconds": 900
-      }
-    ],
     "2021-09-22": [
-      {
-        "localStartTime": "11:45:00",
-        "durationSeconds": 900
-      },
       {
         "localStartTime": "13:30:00",
         "durationSeconds": 900
@@ -36,6 +26,10 @@
       {
         "localStartTime": "12:00:00",
         "durationSeconds": 900
+      },
+      {
+        "localStartTime": "17:30:00",
+        "durationSeconds": 900
       }
     ],
     "2021-10-01": [
@@ -58,27 +52,15 @@
         "durationSeconds": 900
       }
     ],
+    "2021-10-03": [
+      {
+        "localStartTime": "15:30:00",
+        "durationSeconds": 900
+      }
+    ],
     "2021-10-04": [
       {
         "localStartTime": "12:30:00",
-        "durationSeconds": 900
-      }
-    ],
-    "2021-10-06": [
-      {
-        "localStartTime": "09:30:00",
-        "durationSeconds": 900
-      }
-    ],
-    "2021-10-07": [
-      {
-        "localStartTime": "16:00:00",
-        "durationSeconds": 900
-      }
-    ],
-    "2021-10-15": [
-      {
-        "localStartTime": "19:45:00",
         "durationSeconds": 900
       }
     ],
@@ -88,25 +70,31 @@
         "durationSeconds": 900
       }
     ],
-    "2021-10-22": [
-      {
-        "localStartTime": "14:15:00",
-        "durationSeconds": 900
-      }
-    ],
-    "2021-10-28": [
-      {
-        "localStartTime": "18:15:00",
-        "durationSeconds": 900
-      }
-    ],
     "2021-10-29": [
+      {
+        "localStartTime": "10:30:00",
+        "durationSeconds": 900
+      },
       {
         "localStartTime": "11:00:00",
         "durationSeconds": 900
       }
     ],
+    "2021-10-31": [
+      {
+        "localStartTime": "14:00:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "14:30:00",
+        "durationSeconds": 900
+      }
+    ],
     "2021-11-01": [
+      {
+        "localStartTime": "09:30:00",
+        "durationSeconds": 900
+      },
       {
         "localStartTime": "10:00:00",
         "durationSeconds": 900
@@ -935,5 +923,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-13T08:20:10.314Z"
+  "lastUpdatedAt": "2021-09-13T08:42:01.568Z"
 }
