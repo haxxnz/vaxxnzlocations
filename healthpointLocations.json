@@ -3166,12 +3166,13 @@
     "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-roskill-village-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon": "8:30 AM – 6:00 AM",
-        "Tue": "8:30 AM – 8:30 AM",
-        "Wed": "8:30 AM – 6:00 AM",
-        "Thu": "8:30 AM – 8:30 AM",
-        "Fri": "8:30 AM – 6:00 AM",
+        "Mon": "8:30 AM – 6:00 PM",
+        "Tue": "8:30 AM – 8:00 PM",
+        "Wed": "8:30 AM – 6:00 PM",
+        "Thu": "8:30 AM – 8:00 PM",
+        "Fri": "8:30 AM – 6:00 PM",
         "Sat": "9:00 AM – 6:00 AM",
+        "Mon – Fri": "8:30 AM – 6:00 AM",
         "Sun": "9:00 AM – 5:00 AM"
       },
       "exceptions": {
@@ -3527,35 +3528,6 @@
       "notesHtml": [
         "Closed Sundays and public holidays"
       ]
-    }
-  },
-  {
-    "lat": -36.882994,
-    "lng": 174.73359500000004,
-    "name": "Life Pharmacy St Lukes",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "St Lukes Westfield Centre, 80 St Lukes Road, Mt Albert, Auckland",
-    "telephone": "(09) 846 3213",
-    "faxNumber": "(09) 846 3363",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-st-lukes/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 6:00 PM",
-        "Thu – Fri": "9:00 AM – 9:00 PM",
-        "Sat": "9:00 AM – 6:00 PM",
-        "Sun": "10:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": " Closed Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10"
-      },
-      "notesHtml": []
     }
   },
   {
@@ -11620,38 +11592,6 @@
     }
   },
   {
-    "lat": -37.7793882,
-    "lng": 175.2762571,
-    "name": "960 Victoria Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 4:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Drive through"
-    ],
-    "address": "Level 1, 960 Victoria Street, Whitiora, Hamilton, Waikato 3200",
-    "telephone": "(07) 834 1482",
-    "faxNumber": "(07) 839 9921",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/kaute-pasifika-trust/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "8:30 AM – 4:30 PM",
-        "Wed – Thu": "8:30 AM – 7:00 PM",
-        "Fri": "8:30 AM – 4:30 PM",
-        "Sat": "12:00 PM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": " Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "Available after hours and on public holidays by phone. If no immediate response please leave a message or text and a Registered Nurse will make contact as soon as possible.&nbsp; 022 544 5030",
-        "If it is a crisis or emergency please call 0800 50 50 50 or 111 for police if there is a risk to your safety or the safety of others."
-      ]
-    }
-  },
-  {
     "lat": -45.8699743,
     "lng": 170.5061753,
     "name": "Bargain Chemist George Street (Dunedin)",
@@ -16114,7 +16054,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d5b0b8b4bcb995b2baa7b0b8b0b1bcb6b4b9fbb6bafbbbaf\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e88d85898184a88f879a8d858d8c818b8984c68b87c68692\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -16250,6 +16190,38 @@
     }
   },
   {
+    "lat": -37.7793882,
+    "lng": 175.2762571,
+    "name": "960 Victoria Street",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 4:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Drive through"
+    ],
+    "address": "Level 1, 960 Victoria Street, Whitiora, Hamilton, Waikato 3200",
+    "telephone": "(07) 834 1482",
+    "faxNumber": "(07) 839 9921",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/kaute-pasifika-trust/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "8:30 AM – 4:30 PM",
+        "Wed – Thu": "8:30 AM – 7:00 PM",
+        "Fri": "8:30 AM – 4:30 PM",
+        "Sat": "12:00 PM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": " Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "Available after hours and on public holidays by phone. If no immediate response please leave a message or text and a Registered Nurse will make contact as soon as possible.&nbsp; 022 544 5030",
+        "If it is a crisis or emergency please call 0800 50 50 50 or 111 for police if there is a risk to your safety or the safety of others."
+      ]
+    }
+  },
+  {
     "lat": -36.7365497,
     "lng": 174.7254325,
     "name": "Healthcare Pharmacy Rosedale",
@@ -16276,6 +16248,36 @@
       "notesHtml": [
         "OPEN EVERY DAY OF THE YEAR (incl public holidays)."
       ]
+    }
+  },
+  {
+    "lat": -36.882994,
+    "lng": 174.73359500000004,
+    "name": "Life Pharmacy St Lukes",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "St Lukes Westfield Centre, 80 St Lukes Road, Mt Albert, Auckland",
+    "telephone": "(09) 846 3213",
+    "faxNumber": "(09) 846 3363",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-st-lukes/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 6:00 PM",
+        "Thu – Fri": "9:00 AM – 9:00 PM",
+        "Sat": "9:00 AM – 6:00 PM",
+        "Sun": "10:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": " Closed Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10"
+      },
+      "notesHtml": []
     }
   }
 ]
