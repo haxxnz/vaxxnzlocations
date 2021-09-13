@@ -4091,28 +4091,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "19:00:00"
@@ -4126,7 +4105,28 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "sun"
         ],
         "localStart": "10:00:00",
         "localEnd": "19:00:00"
@@ -4500,21 +4500,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:30:00"
@@ -4528,10 +4514,24 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/4uchnw41j4hyvsY46",
@@ -7234,52 +7234,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-20",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "4 Aotaki Street   Ōtaki  5512",
-    "distanceInMeters": 54450.13699191,
-    "extId": "a0R4a000000RewYEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-21",
-    "endDate": "2021-12-01",
-    "location": {
-      "lng": 175.14,
-      "lat": -40.7528
-    },
-    "name": "Hamish Barham Pharmacy Vaccination Site, Ōtaki",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "description": "The vaccination site is directly across the road from the Hamish Barham Pharmacy",
-    "mapUrl": "https://www.google.com/maps/place/80+Main+Street,+%C5%8Ctaki+5512,+New+Zealand/@-40.7529333,175.1402443,20.5z/data=!4m5!3m4!1s0x6d4090e6feddc727:0x2dd01a6c25b062de!8m2!3d-40.7528191!4d175.1403632",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-09",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -24091,7 +24045,7 @@
           "sun"
         ],
         "localStart": "10:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "16:00:00"
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/Vivian+Pharmacy/@-39.0617877,174.0657748,17z/data=!3m1!4b1!4m5!3m4!1s0x6d144e5c96b947a9:0x3d3f66a083dfbb90!8m2!3d-39.0617919!4d174.0679635",
@@ -25141,6 +25095,65 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "6 Sinclair Street Ebdentown  Upper Hutt  5018",
+    "distanceInMeters": 17054.39920933,
+    "extId": "a0R4a000000UblXEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-15",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 175.073,
+      "lat": -41.1218
+    },
+    "name": "Unichem Health Centre Upper Hutt",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Unichem+Upper+Hutt+Health+Pharmacy/@-41.1221079,175.0710249,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40adb0dfc6859b:0x83184d550278cb21!8m2!3d-41.122112!4d175.0732136",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-01",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "65-67 Central Park Drive Henderson  Auckland  610",
     "distanceInMeters": 17340.01996414,
     "extId": "a0R4a000000UbvwEAC",
@@ -25846,50 +25859,50 @@
         "days": [
           "sun"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "15:45:00"
+        "localStart": "10:30:00",
+        "localEnd": "15:30:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "16:00:00"
+        "localStart": "10:30:00",
+        "localEnd": "15:30:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-40.9172628,175.0012447,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a43b477e70a9:0x2bcf10d180e1105e!8m2!3d-40.9172628!4d175.0034334",
