@@ -139,7 +139,7 @@ async function getHealthpointLocation(body: string, url: string, branch: Branch)
     const holidayHoursTexts = holidayHoursEls.map((i, el) => $(el).text()).get();
     let exceptions: Record<string, string> = {}
     holidayHoursTexts.map(holidayHoursText => {
-      const [key, value] = holidayHoursText.split(':')
+      const [key, value] = holidayHoursText.split(': ')
       exceptions[key] = value
     })
 
