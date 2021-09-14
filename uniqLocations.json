@@ -142,7 +142,7 @@
   },
   {
     "displayAddress": "Level 2 Departmental Building, 37 Chapel Street   Masterton  5810",
-    "distanceInMeters": 68273.31439547,
+    "distanceInMeters": 66531.90671024,
     "extId": "a0R4a000000Pd7IEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -314,7 +314,7 @@
   },
   {
     "displayAddress": "1 Rogan Street Welbourn  New Plymouth  4310",
-    "distanceInMeters": 1727.54424067,
+    "distanceInMeters": 2110.10175138,
     "extId": "a0R4a000000PiTuEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -338,7 +338,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 633.62705423,
+    "distanceInMeters": 1748.86409133,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -719,7 +719,7 @@
   },
   {
     "displayAddress": "Waipawa Coronation Park, Tikokino Road   Waipawa  4210",
-    "distanceInMeters": 0.54534207,
+    "distanceInMeters": 39744.44526904,
     "extId": "a0R4a000000PvSyEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -3891,35 +3891,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:30:00"
@@ -3933,9 +3905,37 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
         "localEnd": "16:30:00"
       }
     ],
@@ -4745,21 +4745,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "11:00:00",
         "localEnd": "18:00:00"
@@ -4773,10 +4759,24 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "11:00:00",
         "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/usCjjZxXTtDdZzrYA",
@@ -7082,8 +7082,8 @@
         "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/zkaS34A51uX1XQau9",
@@ -7279,7 +7279,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 16493.09020445,
+    "distanceInMeters": 17360.53248617,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8092,7 +8092,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 1394.18906173,
+    "distanceInMeters": 0.65385398,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -18688,14 +18688,14 @@
           "sun"
         ],
         "localStart": "09:00:00",
-        "localEnd": "20:15:00"
+        "localEnd": "19:45:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "20:15:00"
+        "localEnd": "19:45:00"
       },
       {
         "days": [
@@ -18730,7 +18730,7 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "20:15:00"
+        "localEnd": "19:45:00"
       }
     ],
     "description": "Onsite parking | Accessible toilets onsite.",
@@ -19966,14 +19966,14 @@
         "days": [
           "sun"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:30:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:30:00",
         "localEnd": "16:00:00"
       },
       {
@@ -23644,7 +23644,7 @@
   },
   {
     "displayAddress": "283 Devon Street West   New Plymouth  4310",
-    "distanceInMeters": 0.31178074,
+    "distanceInMeters": 1394.66744389,
     "extId": "a0R4a000000UOrIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -23801,7 +23801,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 1802.73335817,
+    "distanceInMeters": 2798.22920338,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -24089,7 +24089,7 @@
   },
   {
     "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
-    "distanceInMeters": 8365.99187892,
+    "distanceInMeters": 9295.07969822,
     "extId": "a0R4a000000UPXsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -24239,7 +24239,7 @@
   },
   {
     "displayAddress": "95 Vivian Street   New Plymouth  4310",
-    "distanceInMeters": 456.84606111,
+    "distanceInMeters": 1531.03798905,
     "extId": "a0R4a000000UPs2EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -25758,29 +25758,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Caernarvon Drive Flaxmere  Hastings  4120",
-    "distanceInMeters": 9744.30098545,
-    "extId": "a0R4a000000UfrAEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-10",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 176.783,
-      "lat": -39.6216
-    },
-    "name": "Totara Health Flaxmere Popup",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Totara+Health/@-39.6222566,176.7830868,15z/data=!4m5!3m4!1s0x0:0xe592756b6a355822!8m2!3d-39.6222948!4d176.7830063",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-02",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "1/217 Blenheim Road Riccarton  Christchurch  8041",
     "distanceInMeters": 14652.58217637,
     "extId": "a0R4a000000UftpEAC",
@@ -27219,7 +27196,7 @@
   },
   {
     "displayAddress": "1 Elliot Street Inglewood  Taranaki  4330",
-    "distanceInMeters": 16419.78566099,
+    "distanceInMeters": 15854.5555836,
     "extId": "a0R4a000000V8QmEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
@@ -27399,8 +27376,75 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Shop 40 Johnsonville Shopping Centre, 16 Broderick Road Johnsonville  Wellington  6037",
+    "distanceInMeters": 10171.30183696,
+    "extId": "a0R4a000000VIOhEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-16",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.806,
+      "lat": -41.2233
+    },
+    "name": "Life Pharmacy Johnsonville",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "description": "-",
+    "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Johnsonville/@-41.2232691,174.8055197,17.75z/data=!4m5!3m4!1s0x6d38adb7ca5510db:0x552e74cf0f92b313!8m2!3d-41.2233141!4d174.8071201",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "1 Rogan Street Welbourn  New Plymouth  4310",
-    "distanceInMeters": 1496.35256576,
+    "distanceInMeters": 1891.49506779,
     "extId": "a0R4a000000VMn1EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-18",
