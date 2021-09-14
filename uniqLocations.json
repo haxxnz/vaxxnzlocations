@@ -486,7 +486,7 @@
   },
   {
     "displayAddress": "237 High Street   Rangiora  7400",
-    "distanceInMeters": 8669.40388463,
+    "distanceInMeters": 171.03905913,
     "extId": "a0R4a000000PrZgEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -553,7 +553,7 @@
   },
   {
     "displayAddress": "15 Durham Street, Rangiora 7400",
-    "distanceInMeters": 8707.50767982,
+    "distanceInMeters": 164.19101554,
     "extId": "a0R4a000000PrgtEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -951,6 +951,73 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "262 East Street   Ashburton  7700",
+    "distanceInMeters": 1898.39580301,
+    "extId": "a0R4a000000Q4nwEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 171.747,
+      "lat": -43.9048
+    },
+    "name": "Ashburton - Life Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "20:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "20:30:00"
+      }
+    ],
+    "description": "Toilets: Yes – wheelchair accessible, Wheelchair ramp access. Onsite parking available except Sat, street parking only.",
+    "mapUrl": "https://goo.gl/maps/emUsLFqSwQKcxw6e9",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "35 Graham Street, Auckland 1010",
     "distanceInMeters": 23103.86147454,
     "extId": "a0R4a000000Q4pdEAC",
@@ -1083,52 +1150,6 @@
     ],
     "description": "Wheelchair accessible. Wheelchair ramp. On-site parking",
     "mapUrl": "https://goo.gl/maps/SEiWit9m5DakerUa6",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-08",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "67 Skyhawk Road Wigram  Christchurch  8042",
-    "distanceInMeters": 2884.26144216,
-    "extId": "a0R4a000000Q4pxEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-19",
-    "endDate": "2021-12-12",
-    "location": {
-      "lng": 172.557,
-      "lat": -43.5518
-    },
-    "name": "Wigram - WeCare",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
-    "mapUrl": "https://g.page/wecare-health-wigram?share",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-08",
@@ -7113,46 +7134,46 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "6/3 Vernon Drive, Halswell, Lincoln ,7608",
-    "distanceInMeters": 14652.7341369,
-    "extId": "a0R4a000000Reo0EAC",
+    "displayAddress": "32 Racecourse Rd Allenton  Ashburton  7700",
+    "distanceInMeters": 2117.51158497,
+    "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-21",
+    "startDate": "2021-08-23",
     "endDate": "2021-12-12",
     "location": {
-      "lng": 172.475,
-      "lat": -43.6419
+      "lng": 171.764,
+      "lat": -43.8887
     },
-    "name": "Lincoln - WeCare",
+    "name": "Eastfield Health at Ashburton Raceway",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
         "days": [
-          "tue"
+          "sat"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "16:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "16:45:00"
+        "localStart": "14:30:00",
+        "localEnd": "19:30:00"
       },
       {
         "days": [
-          "mon"
+          "tue"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "16:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "14:00:00"
       }
     ],
-    "description": "Wheelchair ramp access. Onsite parking.",
-    "mapUrl": "https://g.page/wecare-health-lincoln?share",
+    "description": "Wheelchair accessible. On-site parking",
+    "mapUrl": "https://goo.gl/maps/t771H1rUbYj6CEwX6",
     "tags": [],
     "type": "OnlineBooking",
-    "availableDate": "2021-07-20",
+    "availableDate": "2021-07-13",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -7896,7 +7917,7 @@
   },
   {
     "displayAddress": "50 Douglas Road, Amberley  7410",
-    "distanceInMeters": 18364.87546114,
+    "distanceInMeters": 19980.32465955,
     "extId": "a0R4a000000S17cEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -9237,7 +9258,7 @@
   },
   {
     "displayAddress": "42 Charles Street, Kaiapoi 7630",
-    "distanceInMeters": 8152.25143986,
+    "distanceInMeters": 18347.99716545,
     "extId": "a0R4a000000SJuBEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -9273,6 +9294,84 @@
     ],
     "description": "Wheelchair ramp access. Onsite parking.",
     "mapUrl": "https://goo.gl/maps/7mgZByevjB2Js9Vt8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "254 Moore Street, Ashburton 7700",
+    "distanceInMeters": 2212.76565993,
+    "extId": "a0R4a000000SJx0EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-09",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 171.747,
+      "lat": -43.9079
+    },
+    "name": "Ashburton - Moore Street Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:30:00"
+      }
+    ],
+    "description": "Toilets - Yes, wheelchair accessible. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/NDfAwxJFpcw431dg7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "33 Archibald Street   Tinwald  7700",
+    "distanceInMeters": 2987.12130693,
+    "extId": "a0R4a000000SJyIEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 171.729,
+      "lat": -43.9152
+    },
+    "name": "Tinwald Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/vtTKn9GQnat319a66",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-22",
@@ -11313,7 +11412,7 @@
   },
   {
     "displayAddress": "174 High Street, Rangiora 7400",
-    "distanceInMeters": 8545.76722761,
+    "distanceInMeters": 0.1111726,
     "extId": "a0R4a000000ST0gEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -13286,6 +13385,66 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "7-11 Allens Road Allenton  Ashburton  7700",
+    "distanceInMeters": 0.57737424,
+    "extId": "a0R4a000000SY8yEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 171.738,
+      "lat": -43.8891
+    },
+    "name": "Three Rivers Health - Ashburton",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "12:45:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/xNJQTeC6AuSnmtpA7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "64 Albert Street   Whitianga  3510",
     "distanceInMeters": 36911.41620743,
     "extId": "a0R4a000000SaclEAC",
@@ -15201,6 +15360,45 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
+    "distanceInMeters": 415.23754487,
+    "extId": "a0R4a000000SwFwEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-31",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 171.743,
+      "lat": -43.8872
+    },
+    "name": "Allenton Pharmacy - Ashburton",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "10:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      }
+    ],
+    "description": "Onsite parking. Wheelchair accessible. Wheelchair ramp.",
+    "mapUrl": "https://goo.gl/maps/bBMDBkDWncC4HvcBA",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "29 Albany Street   Dunedin  9016",
     "distanceInMeters": 450.96800595,
     "extId": "a0R4a000000SwO8EAK",
@@ -15563,7 +15761,7 @@
   },
   {
     "displayAddress": "52 Pegasus Main Street, Pegasus Town, Pegasus  7691",
-    "distanceInMeters": 0.33361308,
+    "distanceInMeters": 8545.9443899,
     "extId": "a0R4a000000SyDUEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-04",
@@ -16693,7 +16891,7 @@
   },
   {
     "displayAddress": "36 Charles Street, Kaiapoi 7630",
-    "distanceInMeters": 8124.78225628,
+    "distanceInMeters": 18378.07504892,
     "extId": "a0R4a000000T7XVEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -17760,6 +17958,59 @@
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets available.",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Papakura/@-37.0592787,174.9394222,17z/data=!3m1!4b1!4m5!3m4!1s0x6d72acd8e47749b5:0xc939eff4e53e49ae!8m2!3d-37.059486!4d174.9417917",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "57 High Street, Leeston 7632",
+    "distanceInMeters": 47364.3902051,
+    "extId": "a0R4a000000TPWoEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-08",
+    "endDate": "2021-12-05",
+    "location": {
+      "lng": 172.3,
+      "lat": -43.7614
+    },
+    "name": "Leeston Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "13:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "14:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "14:15:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/fYV44DaoPdSwaS5f7",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-12",
