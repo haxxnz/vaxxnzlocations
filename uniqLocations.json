@@ -952,7 +952,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 65470.20374394,
+    "distanceInMeters": 47204.06986018,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -2071,7 +2071,7 @@
   },
   {
     "displayAddress": "16A Bakerfield Place, Manukau City Centre, Auckland 2104",
-    "distanceInMeters": 42316.86887366,
+    "distanceInMeters": 60534.24881676,
     "extId": "a0R4a000000QCynEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -3841,14 +3841,14 @@
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
@@ -3891,28 +3891,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "sun"
         ],
-        "localStart": "09:00:00",
+        "localStart": "10:00:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
+          "sat"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:30:00"
@@ -3926,16 +3912,30 @@
       },
       {
         "days": [
-          "sat"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
-          "sun"
+          "wed"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
         "localEnd": "16:30:00"
       }
     ],
@@ -4039,28 +4039,7 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "fri"
+          "sun"
         ],
         "localStart": "10:00:00",
         "localEnd": "19:00:00"
@@ -4074,7 +4053,28 @@
       },
       {
         "days": [
-          "sun"
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "19:00:00"
@@ -4403,7 +4403,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "13:00:00",
         "localEnd": "17:30:00"
@@ -4417,7 +4417,7 @@
       },
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "13:00:00",
         "localEnd": "17:30:00"
@@ -4448,14 +4448,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:30:00"
@@ -4469,17 +4469,17 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:30:00"
       },
       {
         "days": [
-          "sat"
+          "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "17:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/4uchnw41j4hyvsY46",
@@ -4707,14 +4707,14 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "sun"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
-          "sun"
+          "sat"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -4745,14 +4745,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "fri"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "18:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "11:00:00",
         "localEnd": "18:00:00"
@@ -4766,17 +4766,17 @@
       },
       {
         "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "11:00:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
-          "fri"
+          "mon"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
+        "localStart": "11:00:00",
+        "localEnd": "18:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/usCjjZxXTtDdZzrYA",
@@ -4865,16 +4865,16 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "wed"
         ],
-        "localStart": "13:30:00",
+        "localStart": "14:00:00",
         "localEnd": "17:30:00"
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
-        "localStart": "14:00:00",
+        "localStart": "13:30:00",
         "localEnd": "17:30:00"
       }
     ],
@@ -4903,7 +4903,7 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "15:00:00"
@@ -4917,7 +4917,7 @@
       },
       {
         "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "15:00:00"
@@ -4948,14 +4948,14 @@
     "openHours": [
       {
         "days": [
-          "wed"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
-          "thu"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:00:00"
@@ -5068,14 +5068,7 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:30:00"
@@ -5089,7 +5082,14 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:30:00"
@@ -5128,14 +5128,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "12:00:00",
         "localEnd": "19:00:00"
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "12:00:00",
         "localEnd": "19:00:00"
@@ -5263,13 +5263,6 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "10:30:00",
@@ -5278,6 +5271,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:30:00"
@@ -6211,7 +6211,7 @@
     "extId": "a0R4a000000QaaOEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
-    "endDate": "2021-10-31",
+    "endDate": "2021-12-31",
     "location": {
       "lng": 176.098,
       "lat": -40.2119
@@ -7167,6 +7167,52 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "6/3 Vernon Drive, Halswell, Lincoln ,7608",
+    "distanceInMeters": 0.57811176,
+    "extId": "a0R4a000000Reo0EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-18",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 172.475,
+      "lat": -43.6419
+    },
+    "name": "Lincoln - WeCare",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "description": "Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://g.page/wecare-health-lincoln?share",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-20",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -8623,7 +8669,7 @@
           "thu"
         ],
         "localStart": "09:15:00",
-        "localEnd": "18:30:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
@@ -8644,7 +8690,7 @@
           "tue"
         ],
         "localStart": "09:15:00",
-        "localEnd": "18:30:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
@@ -19202,6 +19248,37 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "327 Lake Road, Hauraki, Auckland, 0622",
+    "distanceInMeters": 19249.14457697,
+    "extId": "a0R4a000000Tc5UEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-24",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.779,
+      "lat": -36.7968
+    },
+    "name": "Medplus Lake Road",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "12:45:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/PUieaZQZz1toGerVA",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "B3/51 Corinthian Dr Albany  Auckland  632",
     "distanceInMeters": 10125.88969966,
     "extId": "a0R4a000000Te8wEAC",
@@ -23769,24 +23846,24 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "12:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "08:45:00",
-        "localEnd": "11:15:00"
+        "localEnd": "11:45:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "08:45:00",
-        "localEnd": "11:15:00"
+        "localEnd": "11:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "16:15:00"
       }
     ],
     "description": "Toilets- No\r\nDisability Access- Wheelchair ramp access \r\nForeign language translation service provided- No\r\nSign language translator on site- By appointment only \r\nParking- On-site parking  ",
@@ -25521,6 +25598,80 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "19 Delta Ave, New Lynn, Auckland 0600",
+    "distanceInMeters": 27725.97062777,
+    "extId": "a0R4a000000UeDkEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-15",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.684,
+      "lat": -36.9049
+    },
+    "name": "The Doctors New Lynn (Delta Ave)",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      }
+    ],
+    "description": "Parking onsite | Wheelchair accessible | No toilets onsite during Alert Levels 3 & 4",
+    "mapUrl": "https://goo.gl/maps/Nv29mtktwBSojxin6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "555 Colombo Street Christchurch Central City  Christchurch  8011",
     "distanceInMeters": 17339.00538883,
     "extId": "a0R4a000000UeS1EAK",
@@ -26062,7 +26213,7 @@
   },
   {
     "displayAddress": "7 Ronwood Ave Manukau City Centre  Auckland  2104",
-    "distanceInMeters": 42110.02744575,
+    "distanceInMeters": 61117.7620506,
     "extId": "a0R4a000000Uro6EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -27218,8 +27369,81 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "1/283 Ponsonby Road Ponsonby  Auckland  1011",
+    "distanceInMeters": 22782.81744623,
+    "extId": "a0R4a000000V8xOEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-15",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.744,
+      "lat": -36.848
+    },
+    "name": "Unichem Ponsonby Three Lamps Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/EkJH8MHHTDJWoJs89",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Manukau Supa Centa, Shop 201a Corner of Cavendish and Lambie Drive Manukau  Auckland  2104",
-    "distanceInMeters": 41789.36807207,
+    "distanceInMeters": 61813.73776153,
     "extId": "a0R4a000000VB4UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
