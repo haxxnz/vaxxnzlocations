@@ -2625,7 +2625,7 @@
   },
   {
     "displayAddress": "Level 2,  211 Ormiston Road Flat Bush  Auckland  2019",
-    "distanceInMeters": 41489.44358337,
+    "distanceInMeters": 58935.30500205,
     "extId": "a0R4a000000QD7uEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -19190,7 +19190,7 @@
   },
   {
     "displayAddress": "124 Dawson Road Flat Bush  Auckland  2023",
-    "distanceInMeters": 41642.83790366,
+    "distanceInMeters": 59991.90600228,
     "extId": "a0R4a000000TbuHEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -21362,7 +21362,7 @@
   },
   {
     "displayAddress": "8a/597 Great South Road Manukau City Centre  Auckland  2104",
-    "distanceInMeters": 41577.81454953,
+    "distanceInMeters": 61243.19146934,
     "extId": "a0R4a000000TsNMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -21379,49 +21379,49 @@
           "sun"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/FREE+PRESCRIPTIONS+-+ProHealth+Manukau+Pharmacy/@-36.9842988,174.8786501,15z/data=!4m5!3m4!1s0x0:0x7dad73f0566ea2e!8m2!3d-36.9842984!4d174.8786512",
@@ -22486,6 +22486,65 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "53B Rawhiti Rd Manly  Whangaparaoa  932",
+    "distanceInMeters": 10284.38004443,
+    "extId": "a0R4a000000U2KbEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.763,
+      "lat": -36.6311
+    },
+    "name": "Unichem Manly Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Unichem+Manly/@-36.6314045,174.7612296,17z/data=!4m9!1m2!2m1!1sUnichem+Manly!3m5!1s0x6d0d257149dcd8c3:0x9500fe639b31fcaa!8m2!3d-36.6313673!4d174.7634142!15sCg1VbmljaGVtIE1hbmx5IgOIAQFaDyINdW5pY2hlbSBtYW5seZIBCHBoYXJtYWN",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "195b Main South Road Green Island  Dunedin  9018",
     "distanceInMeters": 6915.83710022,
     "extId": "a0R4a000000U2KqEAK",
@@ -22844,6 +22903,79 @@
     ],
     "description": "Toilets- No\r\nForeign language translation service provided- No\r\nSign language translator on site- No\r\nParking- On-site parking  ",
     "mapUrl": "https://www.google.com/maps/place/81+King+Street,+Temuka+7920,+New+Zealand/@-44.2450078,171.2753919,17z/data=!3m1!4b1!4m5!3m4!1s0x6d2cee4333c45cd9:0x3852d3b3d99a5381!8m2!3d-44.2450078!4d171.2775806",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "205 Great South Road, Greenlane, Auckland 1051",
+    "distanceInMeters": 28867.70181732,
+    "extId": "a0R4a000000U5pZEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-15",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.794,
+      "lat": -36.8905
+    },
+    "name": "The Doctors Greenlane",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/The+Doctors+Greenlane/@-36.8904916,174.7915165,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4960768d07eb:0xc17a3ed10b067a5a!8m2!3d-36.8904916!4d174.7937052",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-24",
@@ -24846,7 +24978,7 @@
   },
   {
     "displayAddress": "1021 Heaphy Terrace Fairfield  Hamilton  3214",
-    "distanceInMeters": 73773.27992505,
+    "distanceInMeters": 4298.26033027,
     "extId": "a0R4a000000UWw0EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -26635,6 +26767,58 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-08",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "3B/160 Hobsonville Point Road Hobsonville  Auckland  618",
+    "distanceInMeters": 15144.92404031,
+    "extId": "a0R4a000000V0yuEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-16",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.661,
+      "lat": -36.7927
+    },
+    "name": "Hobsonville Point Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "11:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hobsonville+Point+Pharmacy/@-36.792883,174.6586239,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d3f1d9ffeab8d:0x3ad6bf12a2059438!8m2!3d-36.7929021!4d174.6608363",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-14",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
