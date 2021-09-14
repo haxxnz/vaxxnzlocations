@@ -2518,13 +2518,6 @@
       },
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "09:00:00",
@@ -8080,7 +8073,7 @@
     "extId": "a0R4a000000S8KjEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2021-11-01",
+    "endDate": "2021-12-20",
     "location": {
       "lng": 175.281,
       "lat": -39.4274
@@ -15566,31 +15559,38 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:45:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Glenview+Medical+Centre/@-37.8167866,175.2805807,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6d1f4334328241:0xd46eb2b9d1638b23!8m2!3d-37.8167866!4d175.2827694",
@@ -24201,7 +24201,7 @@
   },
   {
     "displayAddress": "235 Broadway   Stratford  4332",
-    "distanceInMeters": 36269.50566028,
+    "distanceInMeters": 10354.04397044,
     "extId": "a0R4a000000UPhIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27393,6 +27393,29 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "1 Rogan Street Welbourn  New Plymouth  4310",
+    "distanceInMeters": 1496.35256576,
+    "extId": "a0R4a000000VMn1EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-18",
+    "endDate": "2021-12-08",
+    "location": {
+      "lng": 174.079,
+      "lat": -39.0661
+    },
+    "name": "New Plymouth Racecourse Mass Event",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.co.nz/maps/place/1A+Rogan+Street,+Welbourn,+New+Plymouth+4310,+New+Zealand/@-39.0660915,174.0789334,17z/data=!4m13!1m7!3m6!1s0x6d144e3fe8cbb2af:0x8c290a6d986924e4!2s1A+Rogan+Street,+Welbourn,+New+Plymouth+4310,+New+Zealand!3b1!8m2!3d-39",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-14",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
