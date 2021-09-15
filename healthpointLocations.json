@@ -469,33 +469,6 @@
     }
   },
   {
-    "lat": -37.77133660000001,
-    "lng": 175.28258140000003,
-    "name": "Fairfield Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "1021 Heaphy Terrace, Fairfield, Hamilton",
-    "telephone": "(07) 855 2079",
-    "faxNumber": "(07) 855 3718",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/fairfield-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": " Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "After Hours: Please call the practice and follow instructions for the afterhours service."
-      ]
-    }
-  },
-  {
     "lat": -37.77127580000001,
     "lng": 175.29252859999997,
     "name": "Five Cross Roads Medical Centre",
@@ -4988,32 +4961,6 @@
     }
   },
   {
-    "lat": -45.8990089,
-    "lng": 170.4840968,
-    "name": "Dunedin Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "78 David Street, Caversham, Dunedin",
-    "telephone": "(03) 487 7169",
-    "faxNumber": "(03) 487 7168",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/dunedin-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": " Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": " Dunedin Urgent Doctors & Accident Centre."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -45.096573,
     "lng": 170.9706678,
     "name": "Central Medical Oamaru",
@@ -5669,66 +5616,6 @@
       },
       "notesHtml": [
         "If you require advice outside of our opening hours, please phone 0274 953 353.&nbsp; After-hours call-outs will incur a fee."
-      ]
-    }
-  },
-  {
-    "lat": -46.23777690000001,
-    "lng": 169.73927760000004,
-    "name": "Bates Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:45 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "40 Clyde Street, Balclutha",
-    "telephone": "(03) 418 1369",
-    "faxNumber": "(03) 418 1368",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/bates-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:45 AM – 5:30 PM",
-        "Fri": "8:45 AM – 6:00 PM",
-        "Sat": "9:30 AM – 1:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "We are open alternate Saturdays and closed on Sundays.&nbsp;",
-        "Dedicated customer car park at the back entrance. Wheelchair and mobility scooter access from front and back entrances.",
-        "Please phone the pharmacy for local delivery service assistance.",
-        "Daily courier service running to Owaka &amp; the Catlins.",
-        "Free trial currently available on Medico Blister packaging.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -45.09721529999999,
-    "lng": 170.97161119999998,
-    "name": "Oamaru Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "171-173 Thames Street, Ōamaru",
-    "telephone": "(03) 434 8741",
-    "faxNumber": "(03) 434 8168",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/oamaru-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM",
-        "Sat": "9:30 AM – 5:00 PM",
-        "Sun": "10:30 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": " Open on all public holidays.."
-      },
-      "notesHtml": [
-        "<strong>Public Holidays</strong> we are open 11AM - 12PM and 5PM - 5:30PM."
       ]
     }
   },
@@ -11395,16 +11282,27 @@
   {
     "lat": -43.556888,
     "lng": 172.61871070000007,
-    "name": "Barrington Shopping Centre, Spreydon, Christchurch",
+    "name": "Barrington Shopping Centre",
     "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
     "address": "256 Barrington Street, Spreydon, Christchurch, Canterbury 8024",
     "telephone": "",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/barrington-shopping-centre-spreydon-christchurch/",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/barrington-covid-vaccination-hub/",
     "opennningHours": {
-      "schedule": {},
+      "schedule": {
+        "Mon": "9:00 AM – 7:30 PM",
+        "Tue": "8:00 AM – 5:30 PM",
+        "Wed": "9:00 AM – 5:30 PM",
+        "Thu": "9:00 AM – 7:30 PM",
+        "Fri": "8:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
       "exceptions": {},
       "notesHtml": []
     }
@@ -15525,32 +15423,6 @@
     }
   },
   {
-    "lat": -36.7294937,
-    "lng": 174.70401909999998,
-    "name": "Unichem Albany Mega Centre Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "11 Coliseum Drive, Albany, Auckland",
-    "telephone": "(09) 415 0655",
-    "faxNumber": "(09) 415 0656",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-albany-mega-centre-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sat": "9:00 AM – 6:00 PM",
-        "Sun": "10:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": " Closed Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10"
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.7959284,
     "lng": 175.28108029999999,
     "name": "Hamilton Lake Clinic",
@@ -15692,7 +15564,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a1c4ccc0c8cde1c6ced3c4ccc4c5c8c2c0cd8fc2ce8fcfdb\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"b8ddd5d9d1d4f8dfd7caddd5dddcd1dbd9d496dbd796d6c2\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -17502,7 +17374,8 @@
     "openTodayHours": "7:00 AM to 11:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "By invitation only"
+      "Make an appointment",
+      "No appointment required"
     ],
     "address": "Eastcare, 260 Botany Road, Golflands, Auckland",
     "telephone": "(09) 277 1516",
@@ -17519,6 +17392,149 @@
         "<strong>A&amp;M Services</strong> – East Care is a 7 days a week Accident and Medical Centre located at 260 Botany Road, Golflands, Auckland.",
         "East Care is an extension of your local doctors practice. It is staffed and managed by your own and other family doctors who are committed to ensuring you have access to health care 7 days a week."
       ]
+    }
+  },
+  {
+    "lat": -45.8990089,
+    "lng": 170.4840968,
+    "name": "Dunedin Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "78 David Street, Caversham, Dunedin",
+    "telephone": "(03) 487 7169",
+    "faxNumber": "(03) 487 7168",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/dunedin-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": " Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": " Dunedin Urgent Doctors & Accident Centre."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.77133660000001,
+    "lng": 175.28258140000003,
+    "name": "Fairfield Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment",
+      "No appointment required"
+    ],
+    "address": "1021 Heaphy Terrace, Fairfield, Hamilton",
+    "telephone": "(07) 855 2079",
+    "faxNumber": "(07) 855 3718",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/fairfield-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": " Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "After Hours: Please call the practice and follow instructions for the afterhours service."
+      ]
+    }
+  },
+  {
+    "lat": -45.09721529999999,
+    "lng": 170.97161119999998,
+    "name": "Oamaru Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required"
+    ],
+    "address": "171-173 Thames Street, Ōamaru",
+    "telephone": "(03) 434 8741",
+    "faxNumber": "(03) 434 8168",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/oamaru-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat": "9:30 AM – 5:00 PM",
+        "Sun": "10:30 AM – 4:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": " Open on all public holidays.."
+      },
+      "notesHtml": [
+        "<strong>Public Holidays</strong> we are open 11AM - 12PM and 5PM - 5:30PM."
+      ]
+    }
+  },
+  {
+    "lat": -46.23777690000001,
+    "lng": 169.73927760000004,
+    "name": "Bates Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:45 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "40 Clyde Street, Balclutha",
+    "telephone": "(03) 418 1369",
+    "faxNumber": "(03) 418 1368",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/bates-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:45 AM – 5:30 PM",
+        "Fri": "8:45 AM – 6:00 PM",
+        "Sat": "9:30 AM – 1:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "We are open alternate Saturdays and closed on Sundays.&nbsp;",
+        "Dedicated customer car park at the back entrance. Wheelchair and mobility scooter access from front and back entrances.",
+        "Please phone the pharmacy for local delivery service assistance.",
+        "Daily courier service running to Owaka &amp; the Catlins.",
+        "Free trial currently available on Medico Blister packaging.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.7294937,
+    "lng": 174.70401909999998,
+    "name": "Unichem Albany Mega Centre Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "11 Coliseum Drive, Albany, Auckland",
+    "telephone": "(09) 415 0655",
+    "faxNumber": "(09) 415 0656",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-albany-mega-centre-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sat": "9:00 AM – 6:00 PM",
+        "Sun": "10:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": " Closed Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10"
+      },
+      "notesHtml": []
     }
   }
 ]
