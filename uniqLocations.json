@@ -12709,7 +12709,7 @@
   },
   {
     "displayAddress": "2/63 St George Street Papatoetoe  Auckland  2025",
-    "distanceInMeters": 63507.76586998,
+    "distanceInMeters": 40111.75055367,
     "extId": "a0R4a000000SX2UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -14603,13 +14603,6 @@
     "name": "Tairua Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
       {
         "days": [
           "fri"
@@ -27344,58 +27337,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "161 Onehunga Mall Onehunga  Auckland  1061",
-    "distanceInMeters": 31848.07136133,
-    "extId": "a0R4a000000V647EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-09",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.786,
-      "lat": -36.9226
-    },
-    "name": "Onehunga Family Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Onehunga+Family+Medical+Centre/@-36.9235475,174.785642,15z/data=!4m5!3m4!1s0x0:0x5892c9b78e8912a7!8m2!3d-36.9235475!4d174.785642",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-09",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Freedom Church, 174 Bedford Street Cannons Creek  Porirua  5024",
     "distanceInMeters": 8608.68655956,
     "extId": "a0R4a000000V67QEAS",
@@ -27666,7 +27607,7 @@
       "lng": 174.772,
       "lat": -41.2925
     },
-    "name": "St Peters Anglican Church, Garden Room",
+    "name": "City Gps St Peters Anglican Church, Garden Room",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
