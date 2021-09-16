@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@sentry/node": "^6.12.0",
+    "@sentry/tracing": "^6.12.0",
     "@turf/point-grid": "^6.5.0",
     "@turf/turf": "^6.5.0",
     "@types/node-fetch": "^2.5.2",
@@ -21,4 +23,3 @@
     "http-server": "^13.0.1"
   }
 }
-
