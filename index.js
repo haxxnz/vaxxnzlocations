@@ -1,9 +1,15 @@
 const fetch = require("node-fetch");
+const Sentry = require("@sentry/node");
 const turf = require("@turf/turf");
 const fs = require('fs')
 const {format} = require('date-fns');
 const { differenceBy, sortBy } = require("lodash");
 require('dotenv').config()
+
+Sentry.init({
+  dsn: "https://f557fb3089024cb2a6eb50e51934348c@o265348.ingest.sentry.io/5962322",
+  tracesSampleRate: 1.0,
+});
 
 function save(file, str) {
   fs.writeFileSync(file, str + "\n")
@@ -63,6 +69,19 @@ async function getLocations(lat, lng, cursor) {
 
 const getAllPointsToCheck = async () => {
   const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json")
+  if (res.status !== 200) {
+    Sentry.captureException(new Error("Scraper failed"), (scope) => {
+      scope.addBreadcrumb({
+        data: res.status,
+        message: res.text()
+      })
+      scope.addBreadcrumb({
+        data: res.text(),
+        message: 'Response string'
+      })
+    });
+    throw new Error("Stop scraper")
+  }
   const data = await res.json()
   return data
 }
@@ -70,6 +89,10 @@ const getAllPointsToCheck = async () => {
 async function main () {
 
   const pointsToCheck = await getAllPointsToCheck()
+  if (pointsToCheck.features.length === 0) {
+    Sentry.captureException(new Error("MoH responses is empty, abort scraping"));
+    return
+  }
   console.log('pointsToCheck count', pointsToCheck.features.length)
 
   var maxDistance = 10; // keep this as 10km clustering
