@@ -17696,7 +17696,7 @@
   },
   {
     "displayAddress": "Westgate Shopping Centre, 13E Maki Street, Massey, Auckland 0614",
-    "distanceInMeters": 47168.50392763,
+    "distanceInMeters": 30463.64179357,
     "extId": "a0R4a000000TL5tEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -18964,65 +18964,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "65 Rosebank Road, Avondale, Auckland 1026",
-    "distanceInMeters": 19702.51223621,
-    "extId": "a0R4a000000TbSUEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-06",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.697,
-      "lat": -36.8944
-    },
-    "name": "Rosebank Road Medical Services",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/RUqBJXWraurowcH19",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-03",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -20924,7 +20865,7 @@
   },
   {
     "displayAddress": "951 Wairere Dr Hamilton East  Hamilton  3216",
-    "distanceInMeters": 73014.15352325,
+    "distanceInMeters": 2121.93283017,
     "extId": "a0R4a000000TrQGEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -26083,6 +26024,79 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Shop 27, Rotorua Central Mall, 1170 Amohau Street   Rotorua  3010",
+    "distanceInMeters": 47174.58794444,
+    "extId": "a0R4a000000UjI2EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-03",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 176.25,
+      "lat": -38.1408
+    },
+    "name": "Unichem the Mall Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Unichem+The+Mall+Pharmacy/@-38.1407502,176.250419,18z/data=!4m5!3m4!1s0x6d6c277b7c2aeaa1:0x53d6c03d4403817d!8m2!3d-38.1407419!4d176.2509822?shorturl=1",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-03",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "2A Dun Road   Kaingaroa Forest  3073",
     "distanceInMeters": 43058.38243489,
     "extId": "a0R4a000000UjYjEAK",
@@ -27779,6 +27793,44 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Opotiki Community Health Centre, 32 King Street   Opotiki  3122",
+    "distanceInMeters": 51484.23776748,
+    "extId": "a0R4a000000VHVdEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-17",
+    "endDate": "2021-12-21",
+    "location": {
+      "lng": 177.283,
+      "lat": -38.0065
+    },
+    "name": "Whakatohea Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "18:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Opotiki+Community+Health+Centre/@-38.0064613,177.2833057,17z/data=!3m1!4b1!4m18!1m12!4m11!1m3!2m2!1d177.2854944!2d-38.006288!1m6!1m2!1s0x6d6f743eb8ad5e6b:0x5dbf859ec48ae1b9!2sOpotiki+Community+Health+Centre+32+King+Street",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Shop 40 Johnsonville Shopping Centre, 16 Broderick Road Johnsonville  Wellington  6037",
     "distanceInMeters": 2841.97244021,
     "extId": "a0R4a000000VIOhEAO",
@@ -28003,6 +28055,29 @@
     ],
     "description": "Free onsite parking | Wheelchair accessible | Accessible toilets",
     "mapUrl": "https://goo.gl/maps/M6N8vh4fL7qyLP126",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "13 Kakamutu Road   Otorohanga  3900",
+    "distanceInMeters": 43714.41989934,
+    "extId": "a0R4a000000VThSEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-16",
+    "location": {
+      "lng": 175.206,
+      "lat": -38.1811
+    },
+    "name": "Otorohanga Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/Otorohanga+Medical+Centre/@-38.1811234,175.206112,1757m/data=!3m1!1e3!4m5!3m4!1s0x6d6cc0dd892d74cf:0xa0b52708f0ec91ac!8m2!3d-38.1811235!4d175.2104891?hl=en-US",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-15",
