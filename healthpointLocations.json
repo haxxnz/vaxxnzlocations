@@ -2193,38 +2193,6 @@
     }
   },
   {
-    "lat": -41.253412,
-    "lng": 173.09589000000005,
-    "name": "Mapua Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "62 Aranui Road, Mapua",
-    "telephone": "(03) 540 2211",
-    "faxNumber": "(03) 540 2621",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mapua-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Nelson Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Medical and Injury Centre Ltd."
-      },
-      "notesHtml": [
-        "<strong>After Hours: </strong>",
-        "Call clinic phone to speak to an after hours service , or go direct to Medical and Injury Centre Or Nelson A&amp;E.",
-        "&nbsp;",
-        "<strong>Monthly Staff Meeting:</strong>",
-        "Every 3rd Tuesday 0800-0900."
-      ]
-    }
-  },
-  {
     "lat": -41.3106263,
     "lng": 173.23604649999993,
     "name": "Stoke Medical Centre",
@@ -9910,23 +9878,6 @@
     }
   },
   {
-    "lat": -36.8833807,
-    "lng": 174.6331328,
-    "name": "Henderson Vaccination Centre, 28 Catherine Street, Henderson",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "28 Catherine Street, Henderson, Auckland 0612",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/henderson-vaccination-centre-28-catherine/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -35.6826017,
     "lng": 174.3008766,
     "name": "420 Kamo Road",
@@ -10951,84 +10902,18 @@
   {
     "lat": -36.8833807,
     "lng": 174.6331328,
-    "name": "Henderson Vaccination Centre",
+    "name": "Henderson Vaccination Centre, 28 Catherine Street, Henderson",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 4:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
+    "openTodayHours": "",
+    "instructionLis": [],
     "address": "28 Catherine Street, Henderson, Auckland 0612",
     "telephone": "",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-auckland-covid-19-vaccination-centres/at/henderson-vaccination-centre-28-catherine/",
+    "url": "https://www.healthpoint.co.nz/henderson-vaccination-centre-28-catherine/",
     "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 4:30 PM",
-        "Sat": "9:00 AM – 2:00 PM"
-      },
+      "schedule": {},
       "exceptions": {},
-      "notesHtml": [
-        "Mon - Fri: 8am - 4.30pm (first appointments at 9am, last appointments at 3.30pm)<br>Sat: 9am-2pm (last appointments at 1pm)<br><br><strong>Accessibility</strong><br>Public Transport: The train and bus interchange on Railside Avenue is one block away.<br>Accessible toilets: Yes<br>Unisex toilets: Yes<br>Accessible parking: Yes<br>Drop off zones available: Yes<br>Not to be confused with the COVID-19 testing station on the same street."
-      ]
-    }
-  },
-  {
-    "lat": -36.8228644,
-    "lng": 174.6118132,
-    "name": "Westgate Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Westgate Vaccination Centre, 11 Westgate Drive, Westgate",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-auckland-covid-19-vaccination-centres/at/westgate-vaccination-centre-11-westgate-drive/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Mon – Sun: 8am – 4pm (first appointments at 8.30am, last appointments at 3pm)",
-        "<strong>Accessibility</strong><br>Public Transport: Excellently located for several bus routes with bus stops opposite and others a short walk away on Fernhill Drive. Destinations include New Lynn and City Centre with Whenuapai, Hobsonville, Henderson, Riverhead, Helensville and Constellation from the stops at Fernhill Drive.<br>Accessible toilets: Yes<br>Unisex toilets: Yes<br>Accessible parking: Yes - two mobility parks, with additional parking close to the entrance for those with mobility challenges.<br>Drop off zones available: Yes<br>Low sensory environment: Not available"
-      ]
-    }
-  },
-  {
-    "lat": -36.8622204,
-    "lng": 174.6354227,
-    "name": "The Trust Arena COVID-19 Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 3:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "65 Central Park Drive, Henderson, Auckland 0610",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-auckland-covid-19-vaccination-centres/at/the-trust-arena-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:30 AM – 3:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Walk-In</strong>"
-      ]
+      "notesHtml": []
     }
   },
   {
@@ -11052,147 +10937,6 @@
       },
       "exceptions": {},
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.025224,
-    "lng": 174.857295,
-    "name": "Manurewa Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "81 Finlayson Avenue, Clendon Park, Auckland 2103",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/manurewa-vaccination-centre-81-finlayson/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 3:30 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Mon-Fri: 9am- 3.30pm (last appointments at 3pm)<br>Sat: 9am-1pm (last appointments at 12pm)<br>Sun: Closed",
-        "-<br>Located at Manurewa Marae.<br><br><strong>Accessibility</strong><br>Public Transport: Bus #361 Ōtara and Manukau. The bus stop is directly opposite the marae.<br>Accessible toilets: Yes<br>Unisex toilets: No - separate male and female toilets. Both have their own accessible toilets.<br>Accessible parking: Yes – follow the signs.<br>Drop off zones available: Yes – Wardens can direct you or look out for the orange cones.<br>Please note: There is a free bus service for Manurewa and Clendon Residents called Manurewa Link – Te Manurewatanga. Call 0800 66 00 44 or visit&nbsp;<a title=\"Manurewa Link website\" href=\"https://www.manurewalink.co.nz/\">manurewalink.co.nz</a>."
-      ]
-    }
-  },
-  {
-    "lat": -36.9594182,
-    "lng": 174.8706227,
-    "name": "Ōtara Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "5 Otara Road, Ōtara, Auckland 2023",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/otara-vaccination-centre-5-otara-road-otara/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Mon-Sun: 8am - 4pm (last appointments at 3.30pm)",
-        "<strong>Accessibility</strong><br>Public Transport: Bus routes #325 Māngere/Manukau on Ōtara Road, #31 Botany, #314 Ormiston, #325 Manukau, #361 Ōtara at town centre stops.<br>Accessible toilets: Yes – on the right hand side of the entrance.<br>Unisex toilets: Yes. There are also other toilets by the entrance.<br>Accessible parking: Yes – though Gate A at 5 Ōtara Road. For people with mobility issues only.<br>Drop off zones available: Yes<br>Note: The main entrance faces 5 Ōtara Road. There is on road parking here."
-      ]
-    }
-  },
-  {
-    "lat": -37.201594,
-    "lng": 174.9056792,
-    "name": "Pukekohe Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "6 Roulston Street, Pukekohe, Auckland 2120",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/pukekohe-vaccination-centre-6-roulston-street/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM",
-        "Sat": "8:00 AM – 12:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Mon - Fri: 8am - 5pm (first appointments at 8.30am, last appointments at 4pm)<br>Sat: 8am - 12pm (first appointments at 8.30am, last appointments at 11am)<br>Sun: Closed",
-        "<strong>Accessibility</strong><br>Public Transport: Bus routes #392, #394, #396 + Pukekohe train station<br>Accessible toilets: Yes<br>Unisex toilets: Yes<br>Accessible parking: Yes<br>Drop off zones available: Yes"
-      ]
-    }
-  },
-  {
-    "lat": -37.03390540000001,
-    "lng": 174.9088124,
-    "name": "Takanini Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 4:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "8 Great South Road, Takanini, Auckland 2105",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/takanini-vaccination-centre-8-great-south/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:30 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Mon - Sun: 8.30am - 4.30pm (last appointments at 3pm)",
-        "-<br>Behind the Gull Petrol Station.<br><br><strong>Accessibility</strong><br>Public Transport: Bus routes #33 Papakura &amp; Otahuhu. The bus stop is nearby on Great South Road. Train - Te Mahia Station.<br>Accessible toilets: Yes - just past the registration area. Staff can assist.<br>Unisex toilets: Yes. There are also outside portable public toilets.<br>Accessible parking: Yes – drive to the checkpoint and around the one-way system to near the exit and the front of building. There are 20 priority parking spaces.<br>Drop off zones available: Yes - follow the one-way lane to the front of the building."
-      ]
-    }
-  },
-  {
-    "lat": -36.9904167,
-    "lng": 174.7884344,
-    "name": "Airport Park and Ride Drive Through COVID-19 Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 3:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "42 Verissimo Drive, Māngere, Auckland 2022",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/airport-park-and-ride-drive-through-covid/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:30 AM – 3:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Drive Through Only (No walk-in)</strong>"
-      ]
     }
   },
   {
@@ -12649,7 +12393,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"056068646c6945626a77606860616c6664692b666a2b6b7f\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a1c4ccc0c8cde1c6ced3c4ccc4c5c8c2c0cd8fc2ce8fcfdb\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -17571,6 +17315,89 @@
       },
       "notesHtml": [
         "The clinic has reduced hours during Covid alert levels 3 and 4, weekdays 8am-5pm and weekends 8am-2pm"
+      ]
+    }
+  },
+  {
+    "lat": -37.025224,
+    "lng": 174.857295,
+    "name": "Manurewa Marae Vaccination Centre, 81 Finlayson Avenue, Clendon Park, Manukau City",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "81 Finlayson Avenue, Clendon Park, Auckland 2103",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/manurewa-marae-vaccination-centre-81-finlayson/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.253412,
+    "lng": 173.09589000000005,
+    "name": "Mapua Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "62 Aranui Road, Mapua",
+    "telephone": "(03) 540 2211",
+    "faxNumber": "(03) 540 2621",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mapua-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Nelson Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Medical and Injury Centre Ltd."
+      },
+      "notesHtml": [
+        "<strong>After Hours: </strong>",
+        "Call clinic phone to speak to an after hours service , or go direct to Medical and Injury Centre Or Nelson A&amp;E.",
+        "&nbsp;",
+        "<strong>Monthly Staff Meeting:</strong>",
+        "Every 3rd Tuesday 0800-0900."
+      ]
+    }
+  },
+  {
+    "lat": -36.9009175,
+    "lng": 174.8574874,
+    "name": "Panmure Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "204 Queens Road, Panmure, Auckland",
+    "telephone": "(09) 570 4019",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/panmure-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "During Covid 19 the surgery will close at 5.30pm. You may receive a telephone consultation instead of face to face to reduce the risk of transmission. All appointments will be assessed by a Doctor or Nurse before the appointment is confirmed.&nbsp;",
+        "Open Saturdays for urgent consults - 9am until 12pm.",
+        "Closed Sundays and Public Holidays",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;"
       ]
     }
   }
