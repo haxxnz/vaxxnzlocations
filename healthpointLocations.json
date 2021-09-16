@@ -6613,40 +6613,6 @@
     }
   },
   {
-    "lat": -36.8833408,
-    "lng": 174.7611331,
-    "name": "Mt Eden Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:45 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "457 Mount Eden Road, Mount Eden, Auckland",
-    "telephone": "(09) 638 8718",
-    "faxNumber": "(09) 630 1480",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mt-eden-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:00 AM – 6:45 PM",
-        "Fri": "8:00 AM – 5:45 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
-      },
-      "notesHtml": [
-        "Note: Saturday Clinic information:",
-        "1.&nbsp; Patient to phone for an appointment",
-        "2.&nbsp; Saturday Surcharge applies. Please note we are closed on Public Holiday weekends After Hours When the surgery is closed, our phones are attended by a Registered Nurse, who will advise you regarding appropriate medical attention.",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -36.86907790000001,
     "lng": 174.7776076,
     "name": "Newmarket Medical Centre",
@@ -12712,7 +12678,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"92f7fff3fbfed2f5fde0f7fff7f6fbf1f3febcf1fdbcfce8\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"553038343c3915323a27303830313c3634397b363a7b3b2f\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -17540,6 +17506,70 @@
         "Public Holidays": "Closed Labour Day (25 Oct), Nelson Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.747317,
+    "lng": 174.73959939999997,
+    "name": "Sunset Road Family Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "3/317 Sunset Road, Sunnynook, Auckland",
+    "telephone": "(09) 478 2878",
+    "faxNumber": "(09) 478 3007",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/sunset-road-family-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:30 AM – 6:00 PM",
+        "Fri": "8:30 AM – 5:00 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
+      },
+      "notesHtml": [
+        "After hours contact Shorecare at Takapuna or Northcross -&nbsp;phone (09) 486 7777 for appointment or phone Healthline for advice from a registered nurse on 0800 611 116."
+      ]
+    }
+  },
+  {
+    "lat": -36.8833408,
+    "lng": 174.7611331,
+    "name": "Mt Eden Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:45 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "457 Mount Eden Road, Mount Eden, Auckland",
+    "telephone": "(09) 638 8718",
+    "faxNumber": "(09) 630 1480",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mt-eden-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:00 AM – 6:45 PM",
+        "Fri": "8:00 AM – 5:45 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
+      },
+      "notesHtml": [
+        "Note: Saturday Clinic information:",
+        "1.&nbsp; Patient to phone for an appointment",
+        "2.&nbsp; Saturday Surcharge applies. Please note we are closed on Public Holiday weekends After Hours When the surgery is closed, our phones are attended by a Registered Nurse, who will advise you regarding appropriate medical attention.",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;"
+      ]
     }
   }
 ]
