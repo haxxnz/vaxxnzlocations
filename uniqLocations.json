@@ -5713,14 +5713,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:00:00"
       },
       {
         "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:00:00"
@@ -5896,14 +5896,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "tue"
+          "sat"
         ],
         "localStart": "08:30:00",
         "localEnd": "15:30:00"
@@ -5924,14 +5917,21 @@
       },
       {
         "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "08:30:00",
         "localEnd": "15:30:00"
       },
       {
         "days": [
-          "sat"
+          "tue"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "08:30:00",
         "localEnd": "15:30:00"
@@ -6069,14 +6069,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
       },
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -6508,21 +6508,7 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:00:00"
-      },
-      {
-        "days": [
-          "fri"
+          "sun"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:00:00"
@@ -6536,7 +6522,21 @@
       },
       {
         "days": [
-          "sun"
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:00:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:00:00"
@@ -6567,7 +6567,7 @@
     "openHours": [
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:45:00",
         "localEnd": "14:30:00"
@@ -6581,7 +6581,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:45:00",
         "localEnd": "14:30:00"
@@ -6627,7 +6627,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:30:00"
@@ -6641,7 +6641,7 @@
       },
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:30:00"
@@ -14424,7 +14424,7 @@
     "extId": "a0R4a000000SqWLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
-    "endDate": "2021-12-16",
+    "endDate": "2021-12-05",
     "location": {
       "lng": 176.852,
       "lat": -39.6402
@@ -17696,7 +17696,7 @@
   },
   {
     "displayAddress": "Westgate Shopping Centre, 13E Maki Street, Massey, Auckland 0614",
-    "distanceInMeters": 30463.64179357,
+    "distanceInMeters": 47168.50392763,
     "extId": "a0R4a000000TL5tEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -27939,6 +27939,73 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "9/597 Great South Road Manukau City Centre  Auckland  2104",
+    "distanceInMeters": 818.51753205,
+    "extId": "a0R4a000000VTLEEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-17",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.879,
+      "lat": -36.9844
+    },
+    "name": "Manukau Family Doctors Accident & Medical",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:45:00"
+      }
+    ],
+    "description": "Free onsite parking | Wheelchair accessible | Accessible toilets",
+    "mapUrl": "https://goo.gl/maps/M6N8vh4fL7qyLP126",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
