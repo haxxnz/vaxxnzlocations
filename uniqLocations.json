@@ -10619,21 +10619,21 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "491 Main Road Stoke Stoke  Nelson  7011",
-    "distanceInMeters": 3628.89319965,
+    "displayAddress": "470 Main Road Stoke Stoke  Nelson  7011",
+    "distanceInMeters": 3908.34372335,
     "extId": "a0R4a000000SLwAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
     "endDate": "2021-12-31",
     "location": {
-      "lng": 173.235,
-      "lat": -41.313
+      "lng": 173.236,
+      "lat": -41.3101
     },
-    "name": "Greenmeadows Community Centre",
+    "name": "Stoke Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [],
-    "description": "Stoke Medical Centre Vaccination Clinic at Greenmeadows Community Centre",
-    "mapUrl": "https://www.google.com/maps/place/Greenmeadows+Community+Centre/@-41.3135082,173.2346961,15z/data=!4m12!1m6!3m5!1s0x0:0x581d637ac96b8363!2sGreenmeadows+Community+Centre!8m2!3d-41.3135265!4d173.2346809!3m4!1s0x6d3b930a53ada9ef:0x581d637ac96b8363!8m2!3d-41.",
+    "description": "Stoke Medical Centre Vaccination Clinic",
+    "mapUrl": "https://www.google.com/maps/place/Stoke+Medical+Centre/@-41.3106443,173.235883,15z/data=!4m12!1m6!3m5!1s0x0:0x24a9c4a25b626dc9!2sStoke+Medical+Centre!8m2!3d-41.3106121!4d173.2358401!3m4!1s0x0:0x24a9c4a25b626dc9!8m2!3d-41.3106121!4d173.2358401",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-04",
@@ -12348,15 +12348,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "104a Wadestown Rd  or  Saturdays  60 Hanover St. Behind 118 Wadestown Road (Presbyterian Church Hall)  Wadestown  Wellington  6012",
-    "distanceInMeters": 2255.84005025,
+    "displayAddress": "104a Wadestown Rd  or  Saturdays by 58 Hanover St, behind 118 Wadestown Road (Presbyterian Church Hall)  Wadestown  Wellington  6012",
+    "distanceInMeters": 2235.422793,
     "extId": "a0R4a000000SUl3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-30",
     "endDate": "2021-11-19",
     "location": {
-      "lng": 174.773,
-      "lat": -41.2612
+      "lng": 174.774,
+      "lat": -41.2618
     },
     "name": "Wadestown Medical Practice",
     "timezone": "Pacific/Auckland",
@@ -12612,72 +12612,6 @@
     ],
     "description": "Located a short walk from the Smales Farm Bus Station and North Shore Hospital | Free and accessible parking available | Accessible toilets available | Sign Language translator and interpreter services available by appointment",
     "mapUrl": "https://www.google.com/maps/place/74+Taharoto+Road,+Takapuna,+Auckland+0622,+New+Zealand/@-36.7852,174.7505654,17z/data=!3m1!4b1!4m9!1m2!2m1!1sGround+Floor+AIA+building,+74+Taharoto+Road,+Takapuna,+Auckland+0622!3m5!1s0x6d0d39c80153a211:0xaa285340763ab74d",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-27",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "2/65 St George Street Papatoetoe  Auckland  2025",
-    "distanceInMeters": 2845.06086066,
-    "extId": "a0R4a000000SWxPEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-01",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.854,
-      "lat": -36.9797
-    },
-    "name": "Papatoetoe Family Doctors",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Papatoetoe+Family+Doctors+at+The+Health+Hub/@-36.9802059,174.8510596,17z/data=!4m13!1m7!3m6!1s0x6d0d4e79a47d291f:0x93852a2812282bcf!2s2%2F65+Saint+George+Street,+Papatoetoe,+Auckland+2025,+New+Zealand!3b1!8m2!3d-36.980205",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-27",
@@ -22871,13 +22805,6 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "10:00:00",
@@ -27590,6 +27517,79 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Shop 8, 112 Whitford Road Sommerville  Auckland  2014",
+    "distanceInMeters": 9454.27773785,
+    "extId": "a0R4a000000V91fEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-17",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.926,
+      "lat": -36.9137
+    },
+    "name": "Unichem Meadowlands Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/112+Whitford+Road,+Somerville,+Auckland+2014,+New+Zealand/@-36.9137107,174.9263079,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4b463404346f:0x264cf81b2b18296!8m2!3d-36.9137107!4d174.9284966",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-09",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "170 Victoria Street Te Aro  Wellington  6011",
     "distanceInMeters": 5358.14735308,
     "extId": "a0R4a000000V98UEAS",
@@ -28078,6 +28078,29 @@
     "timezone": "Pacific/Auckland",
     "openHours": [],
     "mapUrl": "https://www.google.com/maps/place/Otorohanga+Medical+Centre/@-38.1811234,175.206112,1757m/data=!3m1!1e3!4m5!3m4!1s0x6d6cc0dd892d74cf:0xa0b52708f0ec91ac!8m2!3d-38.1811235!4d175.2104891?hl=en-US",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Gallagher Academy of Performing Arts, Gate 2B Knighton Road Hillcrest  Hamilton  3216",
+    "distanceInMeters": 2917.56751454,
+    "extId": "a0R4a000000VUUFEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-23",
+    "endDate": "2021-09-23",
+    "location": {
+      "lng": 175.314,
+      "lat": -37.7842
+    },
+    "name": "University of Waikato",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/RjJVYmm4HR1zqpNs6",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-15",
