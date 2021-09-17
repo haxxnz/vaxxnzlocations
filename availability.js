@@ -29,7 +29,7 @@ async function getSlots(location, availability) {
     }
   );
   if (res.status !== 200) {
-    return catastropicResponseFailure(res);
+    await catastropicResponseFailure(res);
   }
   const data = await res.json();
   return data;
@@ -72,7 +72,7 @@ async function getAvailability(location) {
     }
   );
   if (res.status !== 200) {
-    return catastropicResponseFailure(res);
+    await catastropicResponseFailure(res);
   }
   const data = await res.json();
 
@@ -124,7 +124,7 @@ async function main() {
     save('endedScrapeAt.json', `"${new Date().toISOString()}"`)
   }
   catch (error) {
-    return catastropicFailure(error)
+    await catastropicFailure(error)
   }
 }
 

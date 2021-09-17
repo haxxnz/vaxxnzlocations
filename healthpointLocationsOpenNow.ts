@@ -45,7 +45,7 @@ async function fetchSite(hpUrl: string) {
   // }
   const res = await fetch(`${HEALTHPOINT_URL}${hpUrl}`)
   if (res.status !== 200) {
-    return catastropicResponseFailure(res);
+    await catastropicResponseFailure(res);
   }
   const body = await res.text()
   fs.writeFileSync(file, body)
@@ -245,7 +245,7 @@ async function main() {
     save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
   }
   catch (error) {
-    return catastropicFailure(error)
+    await catastropicFailure(error)
   }
 }
 

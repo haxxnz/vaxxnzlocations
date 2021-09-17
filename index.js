@@ -44,7 +44,7 @@ async function getLocations(lat, lng, cursor) {
     }
   );
   if (res.status !== 200) {
-    return catastropicResponseFailure(res);
+    await catastropicResponseFailure(res);
   }
   const data = await res.json();
   const newCursor = data.cursor;
@@ -67,7 +67,7 @@ async function getLocations(lat, lng, cursor) {
 const getAllPointsToCheck = async () => {
   const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json")
   if (res.status !== 200) {
-    return catastropicResponseFailure(res);
+    await catastropicResponseFailure(res);
   }
   const data = await res.json()
   return data
@@ -120,7 +120,7 @@ async function main () {
     save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
   }
   catch (error) {
-    return catastropicFailure(error)
+    await catastropicFailure(error)
   }
 }
 main()
