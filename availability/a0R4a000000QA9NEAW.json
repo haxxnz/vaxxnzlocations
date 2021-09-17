@@ -14,6 +14,16 @@
         "durationSeconds": 1800
       }
     ],
+    "2021-09-18": [
+      {
+        "localStartTime": "09:00:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "10:30:00",
+        "durationSeconds": 1800
+      }
+    ],
     "2021-09-22": [
       {
         "localStartTime": "09:00:00",
@@ -48,31 +58,13 @@
       {
         "localStartTime": "11:00:00",
         "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "15:00:00",
-        "durationSeconds": 1800
-      }
-    ],
-    "2021-09-27": [
-      {
-        "localStartTime": "10:30:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "12:00:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "13:30:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "16:00:00",
-        "durationSeconds": 1800
       }
     ],
     "2021-09-28": [
+      {
+        "localStartTime": "09:00:00",
+        "durationSeconds": 1800
+      },
       {
         "localStartTime": "13:00:00",
         "durationSeconds": 1800
@@ -115,6 +107,10 @@
       },
       {
         "localStartTime": "14:30:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "15:00:00",
         "durationSeconds": 1800
       }
     ],
@@ -289,6 +285,10 @@
     "2021-10-09": [
       {
         "localStartTime": "08:30:00",
+        "durationSeconds": 1800
+      },
+      {
+        "localStartTime": "09:00:00",
         "durationSeconds": 1800
       },
       {
@@ -782,10 +782,6 @@
     ],
     "2021-10-29": [
       {
-        "localStartTime": "12:00:00",
-        "durationSeconds": 1800
-      },
-      {
         "localStartTime": "12:30:00",
         "durationSeconds": 1800
       },
@@ -1178,6 +1174,10 @@
         "durationSeconds": 1800
       },
       {
+        "localStartTime": "09:00:00",
+        "durationSeconds": 1800
+      },
+      {
         "localStartTime": "09:30:00",
         "durationSeconds": 1800
       },
@@ -1359,5 +1359,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-17T05:32:21.253Z"
+  "lastUpdatedAt": "2021-09-17T05:55:21.228Z"
 }
