@@ -16,6 +16,24 @@ function save(file, str) {
 }
 
 
+function catastropicResponseFailure(res) {
+  Sentry.captureException(new Error("Scraper failed"), (scope) => {
+    scope.addBreadcrumb({
+      data: res.status,
+      message: res.text()
+    });
+    scope.addBreadcrumb({
+      data: res.text(),
+      message: 'Response string'
+    });
+  });
+  process.exit(1);
+}
+
+function catastropicFailure(errorMessage) {
+  Sentry.captureException(new Error(errorMessage));
+  process.exit(1)
+}
 
 const locationIds = new Set([])
 
@@ -49,6 +67,9 @@ async function getLocations(lat, lng, cursor) {
       }),
     }
   );
+  if (res.status !== 200) {
+    return catastropicResponseFailure(res);
+  }
   const data = await res.json();
   const newCursor = data.cursor;
   if (newCursor) {
@@ -70,17 +91,7 @@ async function getLocations(lat, lng, cursor) {
 const getAllPointsToCheck = async () => {
   const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json")
   if (res.status !== 200) {
-    Sentry.captureException(new Error("Scraper failed"), (scope) => {
-      scope.addBreadcrumb({
-        data: res.status,
-        message: res.text()
-      })
-      scope.addBreadcrumb({
-        data: res.text(),
-        message: 'Response string'
-      })
-    });
-    throw new Error("Stop scraper")
+    return catastropicResponseFailure(res);
   }
   const data = await res.json()
   return data
@@ -90,8 +101,7 @@ async function main () {
 
   const pointsToCheck = await getAllPointsToCheck()
   if (pointsToCheck.features.length === 0) {
-    Sentry.captureException(new Error("MoH responses is empty, abort scraping"));
-    return
+    return catastropicFailure("No points to check")
   }
   console.log('pointsToCheck count', pointsToCheck.features.length)
 
