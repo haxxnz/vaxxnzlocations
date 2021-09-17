@@ -107,7 +107,7 @@ async function main () {
     }
     const sortedLocations = sortBy(uniqLocations, 'extId')
 
-    if (sortedLocations.features.length === 0) {
+    if (sortedLocations.length === 0) {
       throw new Error("No locations to save")
     }
 
