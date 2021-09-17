@@ -327,39 +327,6 @@
     }
   },
   {
-    "lat": -35.38818699999999,
-    "lng": 174.01259819999996,
-    "name": "Moerewa Medical Services",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "44 Main Road, Moerewa",
-    "telephone": "(09) 404 0328",
-    "faxNumber": "(09) 404 0329",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/moerewa-medical-services/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Northland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Patients are to phone GP practice 09 4040328 and follow instructions. You will be transferred to the after hours triage service who may advise you to contact your GP clinic for an appointment the following day, or if required, to refer you to the after hours GP on call - during week nights 5pm to 10pm or arrange an appointment to see the on call GP on weekends and Public holidays.",
-        "Please refer to the Mid North After Hours GP roster for GP's on call",
-        "Please refer to the Mid North After Hours Roster for Southern Bays Clinics (Includes Moerewa, Paihia, Bayview, Russell, Commercial Street and Kawakawa Medical Services) for <strong>Saturday 8am to 1pm clinics.</strong>",
-        "&nbsp;PLEASE NOTE:",
-        "<strong>Moerewa Medical Services are open during normal working hours</strong>. Please otherwise refer to the Mid North GP after hours roster for 'Emergency' out of hours GP care.&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -35.69527540000001,
     "lng": 174.3207197,
     "name": "Te Hau Āwhiowhio ō Otangarei Health Centre",
@@ -9898,36 +9865,6 @@
     }
   },
   {
-    "lat": -36.9658829,
-    "lng": 174.9117592,
-    "name": "Ormiston Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "By invitation only",
-      "Make an appointment",
-      "Drive through"
-    ],
-    "address": "211 Ormiston Road, Flat Bush, Auckland",
-    "telephone": "(09) 265 1325",
-    "faxNumber": "09 277 0094",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ormiston-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
-      },
-      "notesHtml": [
-        "Please call Eastcare on (09) 277 1516 for out of hours assistance."
-      ]
-    }
-  },
-  {
     "lat": -36.9235475,
     "lng": 174.78564200000005,
     "name": "Onehunga Family Medical Centre",
@@ -11139,7 +11076,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at e<a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"5c313d35301c3b332e39313938353f3d30723f33723226\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ef8a828e8683af88809d8a828a8b868c8e83c18c80c18195\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -17570,6 +17507,69 @@
       "schedule": {},
       "exceptions": {},
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -35.38818699999999,
+    "lng": 174.01259819999996,
+    "name": "Moerewa Medical Services",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "44 Main Road, Moerewa",
+    "telephone": "(09) 404 0328",
+    "faxNumber": "(09) 404 0329",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/moerewa-medical-services/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Northland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Patients are to phone GP practice 09 4040328 and follow instructions. You will be transferred to the after hours triage service who may advise you to contact your GP clinic for an appointment the following day, or if required, to refer you to the after hours GP on call - during week nights 5pm to 10pm or arrange an appointment to see the on call GP on weekends and Public holidays.",
+        "Please refer to the Mid North After Hours GP roster for GP's on call",
+        "Please refer to the Mid North After Hours Roster for Southern Bays Clinics (Includes Moerewa, Paihia, Bayview, Russell, Commercial Street and Kawakawa Medical Services) for <strong>Saturday 8am to 1pm clinics.</strong>",
+        "&nbsp;PLEASE NOTE:",
+        "<strong>Moerewa Medical Services are open during normal working hours</strong>. Please otherwise refer to the Mid North GP after hours roster for 'Emergency' out of hours GP care.&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.9658829,
+    "lng": 174.9117592,
+    "name": "Ormiston Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "By invitation only",
+      "Make an appointment",
+      "Drive through"
+    ],
+    "address": "211 Ormiston Road, Flat Bush, Auckland",
+    "telephone": "(09) 265 1325",
+    "faxNumber": "09 277 0094",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ormiston-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
+      },
+      "notesHtml": [
+        "Please call Eastcare on (09) 277 1516 for out of hours assistance."
+      ]
     }
   }
 ]
