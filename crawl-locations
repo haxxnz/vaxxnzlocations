@@ -1,9 +1,16 @@
 #!/bin/bash
 
 cd "$(dirname "$0")"
-echo "started index.js"
+echo "started index.js (locations job)"
 node index.js > /home/ec2-user/vaxxnzlocationslocations.log 2>&1
-echo "index.js finished"
+if [ $? -eq 0 ]; then
+    echo "index.js (locations job) completed successfully"
+else
+    echo "index.js (locations job) failed. skipping."
+    git fetch
+    git reset --hard origin/main
+    exit 1
+fi
 git add .
 git commit -m "updated locations from $(TZ='Pacific/Auckland' date)"
 git pull --rebase

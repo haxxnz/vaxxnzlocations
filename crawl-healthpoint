@@ -1,7 +1,16 @@
 #!/bin/bash
 
 cd "$(dirname "$0")"
+echo "started healthpointLocationsOpenNow.ts"
 yarn ts-node healthpointLocationsOpenNow.ts > /home/ec2-user/vaxxnzlocationshealthpoint.log 2>&1
+if [ $? -eq 0 ]; then
+    echo "healthpointLocationsOpenNow.ts completed successfully"
+else
+    echo "healthpointLocationsOpenNow.ts failed. skipping."
+    git fetch
+    git reset --hard origin/main
+    exit 1
+fi
 git add .
 git commit -m "updated healthpoint from $(TZ='Pacific/Auckland' date)"
 git pull --rebase
