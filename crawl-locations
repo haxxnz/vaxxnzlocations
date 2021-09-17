@@ -5,13 +5,13 @@ echo "started index.js (locations job)"
 node index.js > /home/ec2-user/vaxxnzlocationslocations.log 2>&1
 if [ $? -eq 0 ]; then
     echo "index.js (locations job) completed successfully"
+    git add .
+    git commit -m "updated locations from $(TZ='Pacific/Auckland' date)"
+    git pull --rebase
+    git push
 else
     echo "index.js (locations job) failed. skipping."
     git fetch
     git reset --hard origin/main
     exit 1
 fi
-git add .
-git commit -m "updated locations from $(TZ='Pacific/Auckland' date)"
-git pull --rebase
-git push
