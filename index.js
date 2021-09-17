@@ -4,6 +4,7 @@ const turf = require("@turf/turf");
 const fs = require('fs')
 const {format} = require('date-fns');
 const { differenceBy, sortBy } = require("lodash");
+const {catastropicResponseFailure, catastropicFailure} = require('./catastropicResponseFailure')
 require('dotenv').config()
 
 Sentry.init({
@@ -13,26 +14,6 @@ Sentry.init({
 
 function save(file, str) {
   fs.writeFileSync(file, str + "\n")
-}
-
-
-function catastropicResponseFailure(res) {
-  Sentry.captureException(new Error("Scraper failed"), (scope) => {
-    scope.addBreadcrumb({
-      data: res.status,
-      message: res.text()
-    });
-    scope.addBreadcrumb({
-      data: res.text(),
-      message: 'Response string'
-    });
-  });
-  process.exit(1);
-}
-
-function catastropicFailure(errorMessage) {
-  Sentry.captureException(new Error(errorMessage));
-  process.exit(1)
 }
 
 const locationIds = new Set([])
