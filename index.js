@@ -78,7 +78,7 @@ async function main () {
 
     const pointsToCheck = await getAllPointsToCheck()
     if (pointsToCheck.features.length === 0) {
-      throw new Error(`No points to check as of`)
+      throw new Error(`No points to check`)
     }
     console.log('pointsToCheck count', pointsToCheck.features.length)
 
@@ -108,7 +108,7 @@ async function main () {
     const sortedLocations = sortBy(uniqLocations, 'extId')
 
     if (sortedLocations.length === 0) {
-      throw new Error(`No locations to save as of`)
+      throw new Error(`No locations to save`)
     }
 
     save('uniqLocations.json', JSON.stringify(sortedLocations, null, 2))
