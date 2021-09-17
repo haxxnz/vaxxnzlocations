@@ -72,7 +72,9 @@ async function getAvailability(location) {
     }
   );
   if (res.status !== 200) {
-    await catastropicResponseFailure(res);
+    // we encountered 500s, so we'll try again in a minute.
+    process.exit(0)
+    return
   }
   const data = await res.json();
 
