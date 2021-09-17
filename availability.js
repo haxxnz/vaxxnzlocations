@@ -3,7 +3,7 @@ const uniqLocations = require("./uniqLocations.json");
 const pLimit = require('p-limit');
 const fs = require("fs");
 const { sortByAsc } = require('./arrayUtils.js')
-const {catastropicResponseFailure, catastropicFailure} = require('./catastropicResponseFailure')
+const {catastropicResponseFailure, catastropicFailure} = require('./lib/error')
 require('dotenv').config()
 
 function save(file, str) {

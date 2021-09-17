@@ -3,7 +3,7 @@ const turf = require("@turf/turf");
 const fs = require('fs')
 const {format} = require('date-fns');
 const { differenceBy, sortBy } = require("lodash");
-const {catastropicResponseFailure, catastropicFailure} = require('./catastropicResponseFailure')
+const {catastropicResponseFailure, catastropicFailure} = require('./lib/error')
 require('dotenv').config()
 
 
