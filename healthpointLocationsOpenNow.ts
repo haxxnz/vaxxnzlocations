@@ -238,6 +238,9 @@ async function main() {
         healthpointLocation
       );
     }
+    if (healthpointLocationsResult.length === 0) {
+      throw new Error("No healthpoint locations to save")
+    }
     save('healthpointLocations.json', JSON.stringify(healthpointLocationsResult, null, 2))
     save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
   }
