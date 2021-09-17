@@ -74,44 +74,49 @@ const getAllPointsToCheck = async () => {
 }
 
 async function main () {
+  try {
 
-  const pointsToCheck = await getAllPointsToCheck()
-  if (pointsToCheck.features.length === 0) {
-    return catastropicFailure("No points to check")
+    const pointsToCheck = await getAllPointsToCheck()
+    if (pointsToCheck.features.length === 0) {
+      throw new Error("No points to check")
+    }
+    console.log('pointsToCheck count', pointsToCheck.features.length)
+
+    var maxDistance = 10; // keep this as 10km clustering
+    console.log('maxDistance',maxDistance)
+    var clustered = turf.clustersDbscan(pointsToCheck, maxDistance, {units: "kilometers"});
+
+    const clusterFeatures = []
+    turf.clusterReduce(clustered, 'cluster', function (previousValue, cluster, clusterValue, currentIndex) {
+      clusterFeatures.push(cluster.features[0])
+      console.log('clusterPoint',cluster.features[0].geometry.coordinates)
+      return previousValue++;
+    }, 0);
+
+    const otherFeatures = clustered.features.filter(f => f.properties.dbscan === "noise")
+    console.log('otherPoints count', otherFeatures.length)
+
+
+    save('startedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
+    const featuresToCheck = [...clusterFeatures, ...otherFeatures]
+    for(var i = 0; i < featuresToCheck.length; i++) {
+        const coords = featuresToCheck[i].geometry.coordinates
+
+        await getLocations(coords[1], coords[0]);
+        console.log(`${i}/${featuresToCheck.length}`)
+    }
+    const sortedLocations = sortBy(uniqLocations, 'extId')
+
+    save('uniqLocations.json', JSON.stringify(sortedLocations, null, 2))
+    console.log('sortedLocations.length',sortedLocations.length)
+
+    const differenceLocations = differenceBy(uniqLocations, pointsToCheck.features.map(f => ({ extId: f.properties.locationID })), 'extId')
+    console.log('differenceLocations',differenceLocations)
+    console.log('differenceLocations.length',differenceLocations.length)
+    save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
   }
-  console.log('pointsToCheck count', pointsToCheck.features.length)
-
-  var maxDistance = 10; // keep this as 10km clustering
-  console.log('maxDistance',maxDistance)
-  var clustered = turf.clustersDbscan(pointsToCheck, maxDistance, {units: "kilometers"});
-
-  const clusterFeatures = []
-  turf.clusterReduce(clustered, 'cluster', function (previousValue, cluster, clusterValue, currentIndex) {
-    clusterFeatures.push(cluster.features[0])
-    console.log('clusterPoint',cluster.features[0].geometry.coordinates)
-    return previousValue++;
-  }, 0);
-
-  const otherFeatures = clustered.features.filter(f => f.properties.dbscan === "noise")
-  console.log('otherPoints count', otherFeatures.length)
-
-
-  save('startedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
-  const featuresToCheck = [...clusterFeatures, ...otherFeatures]
-  for(var i = 0; i < featuresToCheck.length; i++) {
-      const coords = featuresToCheck[i].geometry.coordinates
-
-      await getLocations(coords[1], coords[0]);
-      console.log(`${i}/${featuresToCheck.length}`)
+  catch (error) {
+    return catastropicFailure(error)
   }
-  const sortedLocations = sortBy(uniqLocations, 'extId')
-
-  save('uniqLocations.json', JSON.stringify(sortedLocations, null, 2))
-  console.log('sortedLocations.length',sortedLocations.length)
-
-  const differenceLocations = differenceBy(uniqLocations, pointsToCheck.features.map(f => ({ extId: f.properties.locationID })), 'extId')
-  console.log('differenceLocations',differenceLocations)
-  console.log('differenceLocations.length',differenceLocations.length)
-  save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
 }
 main()
