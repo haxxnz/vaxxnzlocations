@@ -48,8 +48,6 @@ async function getLocations(lat, lng, cursor) {
   }
   const data = await res.json();
   const newCursor = data.cursor;
-  // if (newCursor) {
-    // const rest = await getLocations(lat, lng, newCursor);
   for (let i = 0; i < data.locations.length; i++) {
     const location = data.locations[i];
     if (!locationIds.has(location.extId)) {
@@ -57,11 +55,6 @@ async function getLocations(lat, lng, cursor) {
       uniqLocations.push(location);      
     }
   }
-    // return [...data.locations, ...rest];
-  // }
-  // else {
-  //   return data.locations
-  // }
 }
 
 const getAllPointsToCheck = async () => {
