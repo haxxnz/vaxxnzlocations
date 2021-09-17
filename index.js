@@ -107,6 +107,10 @@ async function main () {
     }
     const sortedLocations = sortBy(uniqLocations, 'extId')
 
+    if (sortedLocations.features.length === 0) {
+      throw new Error("No locations to save")
+    }
+
     save('uniqLocations.json', JSON.stringify(sortedLocations, null, 2))
     console.log('sortedLocations.length',sortedLocations.length)
 
