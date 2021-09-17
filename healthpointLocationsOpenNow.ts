@@ -245,7 +245,7 @@ async function main() {
     save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
   }
   catch (error) {
-    await catastropicFailure(new Error(`${(error as Error).message} as of ${new Date().toISOString()}`))
+    await catastropicFailure(error)
   }
 }
 
