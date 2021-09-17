@@ -124,7 +124,7 @@ async function main() {
     save('endedScrapeAt.json', `"${new Date().toISOString()}"`)
   }
   catch (error) {
-    await catastropicFailure(error)
+    await catastropicFailure(new Error(`${error.message} as of ${new Date().toISOString()}`))
   }
 }
 
