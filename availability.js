@@ -3,6 +3,7 @@ const uniqLocations = require("./uniqLocations.json");
 const pLimit = require('p-limit');
 const fs = require("fs");
 const { sortByAsc } = require('./arrayUtils.js')
+const {catastropicResponseFailure, catastropicFailure} = require('./catastropicResponseFailure')
 require('dotenv').config()
 
 function save(file, str) {
@@ -27,6 +28,9 @@ async function getSlots(location, availability) {
       }),
     }
   );
+  if (res.status !== 200) {
+    return catastropicResponseFailure(res);
+  }
   const data = await res.json();
   return data;
 }
@@ -67,6 +71,9 @@ async function getAvailability(location) {
       }),
     }
   );
+  if (res.status !== 200) {
+    return catastropicResponseFailure(res);
+  }
   const data = await res.json();
 
   // Making it configurable so that we can easily pump the number up from env if w want to
@@ -93,29 +100,32 @@ async function getAvailability(location) {
 
 async function main() {
 
-
-
-  const locationsWithDates = []
-  for (const location of uniqLocations) {
-    let locationData = {availabilityDates: {}, lastUpdatedAt: new Date(0).toISOString()}
-    try {
-      locationData = require(`./availability/${location.extId}.json`)
+  try {
+    const locationsWithDates = []
+    for (const location of uniqLocations) {
+      let locationData = {availabilityDates: {}, lastUpdatedAt: new Date(0).toISOString()}
+      try {
+        locationData = require(`./availability/${location.extId}.json`)
+      }
+      catch (e) {
+        console.log('No availability data for', location.name, location.extId)
+      }
+      const lastUpdatedAt = locationData.lastUpdatedAt || new Date(0).toISOString()
+      locationsWithDates.push({ lastUpdatedAt, location })
     }
-    catch (e) {
-      console.log('No availability data for', location.name, location.extId)
-    }
-    const lastUpdatedAt = locationData.lastUpdatedAt || new Date(0).toISOString()
-    locationsWithDates.push({ lastUpdatedAt, location })
-  }
-  const sortedLocationsWithDates = sortByAsc(locationsWithDates, a => a.lastUpdatedAt)
+    const sortedLocationsWithDates = sortByAsc(locationsWithDates, a => a.lastUpdatedAt)
 
-  save('startedScrapeAt.json', `"${new Date().toISOString()}"`)
-  console.log('started at', new Date())
-  for (const sortedLocationWithDate of sortedLocationsWithDates) {
-    await getAvailability(sortedLocationWithDate.location);
+    save('startedScrapeAt.json', `"${new Date().toISOString()}"`)
+    console.log('started at', new Date())
+    for (const sortedLocationWithDate of sortedLocationsWithDates) {
+      await getAvailability(sortedLocationWithDate.location);
+    }
+    console.log('ended at', new Date())
+    save('endedScrapeAt.json', `"${new Date().toISOString()}"`)
   }
-  console.log('ended at', new Date())
-  save('endedScrapeAt.json', `"${new Date().toISOString()}"`)
+  catch (error) {
+    return catastropicFailure(error)
+  }
 }
 
 main();
