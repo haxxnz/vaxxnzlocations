@@ -48,19 +48,12 @@ async function getLocations(lat, lng, cursor) {
   }
   const data = await res.json();
   const newCursor = data.cursor;
-  if (newCursor) {
-    const rest = await getLocations(lat, lng, newCursor);
-    for (let i = 0; i < data.locations.length; i++) {
-      const location = data.locations[i];
-      if (!locationIds.has(location.extId)) {
-        locationIds.add(location.extId)
-        uniqLocations.push(location);      
-      }
+  for (let i = 0; i < data.locations.length; i++) {
+    const location = data.locations[i];
+    if (!locationIds.has(location.extId)) {
+      locationIds.add(location.extId)
+      uniqLocations.push(location);      
     }
-    return [...data.locations, ...rest];
-  }
-  else {
-    return data.locations
   }
 }
 
@@ -78,7 +71,7 @@ async function main () {
 
     const pointsToCheck = await getAllPointsToCheck()
     if (pointsToCheck.features.length === 0) {
-      throw new Error(`No points to check as of`)
+      throw new Error(`No points to check`)
     }
     console.log('pointsToCheck count', pointsToCheck.features.length)
 
@@ -108,7 +101,7 @@ async function main () {
     const sortedLocations = sortBy(uniqLocations, 'extId')
 
     if (sortedLocations.length === 0) {
-      throw new Error(`No locations to save as of`)
+      throw new Error(`No locations to save`)
     }
 
     save('uniqLocations.json', JSON.stringify(sortedLocations, null, 2))
@@ -120,7 +113,7 @@ async function main () {
     save('endedLocationsScrapeAt.json', `"${new Date().toISOString()}"`)
   }
   catch (error) {
-    await catastropicFailure(new Error(`${error.message} as of ${new Date().toISOString()}`))
+    await catastropicFailure(error)
   }
 }
 main()
