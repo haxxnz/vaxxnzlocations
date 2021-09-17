@@ -1,5 +1,4 @@
 const fetch = require("node-fetch");
-const Sentry = require("@sentry/node");
 const turf = require("@turf/turf");
 const fs = require('fs')
 const {format} = require('date-fns');
@@ -7,10 +6,6 @@ const { differenceBy, sortBy } = require("lodash");
 const {catastropicResponseFailure, catastropicFailure} = require('./catastropicResponseFailure')
 require('dotenv').config()
 
-Sentry.init({
-  dsn: "https://f557fb3089024cb2a6eb50e51934348c@o265348.ingest.sentry.io/5962322",
-  tracesSampleRate: 1.0,
-});
 
 function save(file, str) {
   fs.writeFileSync(file, str + "\n")
