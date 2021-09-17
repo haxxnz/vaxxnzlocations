@@ -1,9 +1,0 @@
-#!/bin/bash
-
-while true
-do
-    echo "Crawling locations..."
-	./crawl-locations
-    echo "performed ./crawl-locations at $(TZ='Pacific/Auckland' date)"
-    sleep 30m
-done

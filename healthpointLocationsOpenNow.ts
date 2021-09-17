@@ -3,6 +3,8 @@ import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 import { uniqBy } from "./arrayUtilsTs";
+import {catastropicResponseFailure, catastropicFailure} from './lib/error'
+
 var md5 = require('md5');
 require('dotenv').config()
 
@@ -36,17 +38,18 @@ function fullUrl(url: string) {
   return `${ACTUAL_HEALTHPOINT_URL}${url}`
 }
 
-function fetchSite(hpUrl: string) {
+async function fetchSite(hpUrl: string) {
   const file = `./healthpoint_cache/${md5(hpUrl)}.txt`
   // if (fs.existsSync(file)) { // only for dev
   //   return fs.readFileSync(file).toString()
   // }
-  return fetch(`${HEALTHPOINT_URL}${hpUrl}`)
-    .then(res => res.text())
-    .then(body => {
-      fs.writeFileSync(file, body)
-      return body
-    })
+  const res = await fetch(`${HEALTHPOINT_URL}${hpUrl}`)
+  if (res.status !== 200) {
+    await catastropicResponseFailure(res);
+  }
+  const body = await res.text()
+  fs.writeFileSync(file, body)
+  return body
 }
 
 function getItemprop($: CheerioAPI, propname: string): string | undefined {
@@ -220,22 +223,30 @@ function save(file: string, str: string) {
   fs.writeFileSync(file, str + "\n")
 }
 async function main() {
-  save('startedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
-  const body = await fetchSite(
-    '/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone'
-  );
-  const data = JSON.parse(body) as HealthpointData;
-
-  const results = data.results;
-  const healthpointLocations = uniqBy(results, a => a.id.toString())
-
-  for (const healthpointLocation of healthpointLocations) {
-    await fetchHealthpointPage(
-      healthpointLocation
+  try {
+    save('startedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
+    const body = await fetchSite(
+      '/geo.do?zoom=22&minLat=-50.054063301361936&maxLat=-30.13148344991528&minLng=97.2021141875&maxLng=-110.4834326875&lat=&lng=&region=&addr=&branch=covid-19-vaccination&options=anyone'
     );
+    const data = JSON.parse(body) as HealthpointData;
+
+    const results = data.results;
+    const healthpointLocations = uniqBy(results, a => a.id.toString())
+
+    for (const healthpointLocation of healthpointLocations) {
+      await fetchHealthpointPage(
+        healthpointLocation
+      );
+    }
+    if (healthpointLocationsResult.length === 0) {
+      throw new Error(`No healthpoint locations to save`)
+    }
+    save('healthpointLocations.json', JSON.stringify(healthpointLocationsResult, null, 2))
+    save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
   }
-  save('healthpointLocations.json', JSON.stringify(healthpointLocationsResult, null, 2))
-  save('endedHealthpointScrapeAt.json', `"${new Date().toISOString()}"`)
+  catch (error) {
+    await catastropicFailure(new Error(`${(error as Error).message} as of ${new Date().toISOString()}`))
+  }
 }
 
 main();
