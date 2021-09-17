@@ -27,17 +27,7 @@ async function getSlots(location, availability) {
       }),
     }
   );
-  const dataStr = await res.text();
-  let data
-  try {
-    data = JSON.parse(dataStr)
-  }
-  catch (e) {
-    console.log('Couldn\'t parse JSON. Response text below')
-    console.log('res.status', res.status)
-    console.log(dataStr)
-    throw e
-  }
+  const data = await res.json();
   return data;
 }
 
@@ -77,17 +67,7 @@ async function getAvailability(location) {
       }),
     }
   );
-  const dataStr = await res.text();
-  let data
-  try {
-    data = JSON.parse(dataStr)
-  }
-  catch (e) {
-    console.log('Couldn\'t parse JSON. Response text below')
-    console.log('res.status', res.status)
-    console.log(dataStr)
-    throw e
-  }
+  const data = await res.json();
 
   // Making it configurable so that we can easily pump the number up from env if w want to
   const maxPromiseRunningTotal = parseInt(process.env.MAX_PROMISE).toString() === 'NaN' ? 2 : parseInt(process.env.MAX_PROMISE)
