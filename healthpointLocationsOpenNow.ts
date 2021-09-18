@@ -1,8 +1,8 @@
 import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
-import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
-import { uniqBy } from "./arrayUtilsTs";
+import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./lib/types";
+import { uniqBy } from "./lib/arrayUtilsTs";
 import {catastropicFailure} from './lib/error'
 import { hpFetch } from "./lib/fetch";
 
