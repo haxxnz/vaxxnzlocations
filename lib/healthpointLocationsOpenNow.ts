@@ -3,13 +3,11 @@ import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 import { uniqBy } from "./arrayUtilsTs";
-import {catastropicResponseFailure, catastropicFailure} from './lib/error'
+import {catastropicFailure} from './error'
+import { hpFetch } from "./fetch";
 
 var md5 = require('md5');
 require('dotenv').config()
-
-const HEALTHPOINT_URL = process.env.HEALTHPOINT_PROXY ?? 'https://www.healthpoint.co.nz';
-const ACTUAL_HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
 
 interface LatLong {
   lat: number;
@@ -35,7 +33,7 @@ const missingLatLongs: Record<string,LatLong> = {
 }
 
 function fullUrl(url: string) {
-  return `${ACTUAL_HEALTHPOINT_URL}${url}`
+  return `https://www.healthpoint.co.nz${url}`
 }
 
 async function fetchSite(hpUrl: string) {
@@ -43,16 +41,12 @@ async function fetchSite(hpUrl: string) {
   // if (fs.existsSync(file)) { // only for dev
   //   return fs.readFileSync(file).toString()
   // }
-  const res = await fetch(`${HEALTHPOINT_URL}${hpUrl}`, {
+  const body: string = await hpFetch(`${process.env.HEALTHPOINT_PROXY}${hpUrl}`, {
     headers: {
       "User-Agent": "vaxx.nz - crawler",
       "X-Contact-Us": "info@vaxx.nz"
     }
   })
-  if (res.status !== 200) {
-    await catastropicResponseFailure(res);
-  }
-  const body = await res.text()
   fs.writeFileSync(file, body)
   return body
 }
