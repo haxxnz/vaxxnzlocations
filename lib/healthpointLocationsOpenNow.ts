@@ -1,10 +1,10 @@
 import fetch from "node-fetch";
 import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
-import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./lib/types";
-import { uniqBy } from "./lib/arrayUtilsTs";
-import {catastropicFailure} from './lib/error'
-import { hpFetch } from "./lib/fetch";
+import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
+import { uniqBy } from "./arrayUtilsTs";
+import {catastropicFailure} from './error'
+import { hpFetch } from "./fetch";
 
 var md5 = require('md5');
 require('dotenv').config()
