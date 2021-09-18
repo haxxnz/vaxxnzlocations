@@ -3,7 +3,7 @@ import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 import { uniqBy } from "./arrayUtilsTs";
-import {catastropicResponseFailure, catastropicFailure} from './lib/error'
+import {catastropicFailure} from './lib/error'
 import { hpFetch } from "./lib/fetch";
 
 var md5 = require('md5');
