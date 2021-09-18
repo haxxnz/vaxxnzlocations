@@ -2,7 +2,7 @@ const fetch = require("node-fetch");
 const uniqLocations = require("./uniqLocations.json");
 const pLimit = require('p-limit');
 const fs = require("fs");
-const { sortByAsc } = require('./arrayUtils.js')
+const { sortByAsc } = require('./lib/arrayUtils.js')
 const {catastropicFailure} = require('./lib/error')
 const {bmvFetch} = require('./lib/fetch')
 require('dotenv').config()
