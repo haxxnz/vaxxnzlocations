@@ -16,7 +16,7 @@ const locationIds = new Set([])
 const uniqLocations = []
 
 async function getLocations(lat, lng, cursor) {
-  const data = await mohFetch(
+  const data = await bmvFetch(
     `${process.env.PROXY_URL}/public/locations/search`,
     {
       method: "POST",
@@ -54,7 +54,7 @@ async function getLocations(lat, lng, cursor) {
 }
 
 const getAllPointsToCheck = async () => {
-  const data = await mohFetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json", {
+  const data = await bmvFetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json", {
     headers: {
       "Content-Type": "application/json",
     }

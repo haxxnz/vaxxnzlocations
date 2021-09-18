@@ -4,7 +4,7 @@ const pLimit = require('p-limit');
 const fs = require("fs");
 const { sortByAsc } = require('./arrayUtils.js')
 const {catastropicFailure} = require('./lib/error')
-const {mohFetch} = require('./lib/fetch')
+const {bmvFetch} = require('./lib/fetch')
 require('dotenv').config()
 
 function save(file, str) {
@@ -14,7 +14,7 @@ function save(file, str) {
 async function getSlots(location, availability) {
   console.log(`Getting slot for ${location.name} - ${availability.date}`);
 
-  const data = await mohFetch(
+  const data = await bmvFetch(
     `${process.env.PROXY_URL}/public/locations/${location.extId}/date/${availability.date}/slots`,
     {
       method: "POST",
@@ -50,7 +50,7 @@ async function getAvailability(location) {
     `Getting availability for ${location.name} between ${startDateStr} and ${endDateStr}`
   );
 
-  const data = await mohFetch(
+  const data = await bmvFetch(
     `${process.env.PROXY_URL}/public/locations/${location.extId}/availability`,
     {
       method: "POST",
