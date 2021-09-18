@@ -8,9 +8,6 @@ import {catastropicResponseFailure, catastropicFailure} from './lib/error'
 var md5 = require('md5');
 require('dotenv').config()
 
-const HEALTHPOINT_URL = process.env.HEALTHPOINT_PROXY ?? 'https://www.healthpoint.co.nz';
-const ACTUAL_HEALTHPOINT_URL = 'https://www.healthpoint.co.nz';
-
 interface LatLong {
   lat: number;
   lng: number;
@@ -35,7 +32,7 @@ const missingLatLongs: Record<string,LatLong> = {
 }
 
 function fullUrl(url: string) {
-  return `${ACTUAL_HEALTHPOINT_URL}${url}`
+  return `https://www.healthpoint.co.nz${url}`
 }
 
 async function fetchSite(hpUrl: string) {
@@ -43,7 +40,7 @@ async function fetchSite(hpUrl: string) {
   // if (fs.existsSync(file)) { // only for dev
   //   return fs.readFileSync(file).toString()
   // }
-  const res = await fetch(`${HEALTHPOINT_URL}${hpUrl}`, {
+  const res = await fetch(`${process.env.HEALTHPOINT_PROXY}${hpUrl}`, {
     headers: {
       "User-Agent": "vaxx.nz - crawler",
       "X-Contact-Us": "info@vaxx.nz"
