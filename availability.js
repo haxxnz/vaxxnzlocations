@@ -3,7 +3,8 @@ const uniqLocations = require("./uniqLocations.json");
 const pLimit = require('p-limit');
 const fs = require("fs");
 const { sortByAsc } = require('./arrayUtils.js')
-const {catastropicResponseFailure, catastropicFailure} = require('./lib/error')
+const {catastropicFailure} = require('./lib/error')
+const {mohFetch} = require('./lib/fetch')
 require('dotenv').config()
 
 function save(file, str) {
@@ -13,14 +14,12 @@ function save(file, str) {
 async function getSlots(location, availability) {
   console.log(`Getting slot for ${location.name} - ${availability.date}`);
 
-  const res = await fetch(
+  const data = await mohFetch(
     `${process.env.PROXY_URL}/public/locations/${location.extId}/date/${availability.date}/slots`,
     {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "User-Agent": "vaxx.nz - crawler",
-        "X-Contact-Us": "info@vaxx.nz"
       },
       body: JSON.stringify({
         vaccineData: "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ==",
@@ -30,10 +29,6 @@ async function getSlots(location, availability) {
       }),
     }
   );
-  if (res.status !== 200) {
-    await catastropicResponseFailure(res);
-  }
-  const data = await res.json();
   return data;
 }
 
@@ -55,14 +50,12 @@ async function getAvailability(location) {
     `Getting availability for ${location.name} between ${startDateStr} and ${endDateStr}`
   );
 
-  const res = await fetch(
+  const data = await mohFetch(
     `${process.env.PROXY_URL}/public/locations/${location.extId}/availability`,
     {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "User-Agent": "vaxx.nz - crawler",
-        "X-Contact-Us": "info@vaxx.nz"
       },
       body: JSON.stringify({
         startDate: startDateStr,
@@ -75,12 +68,6 @@ async function getAvailability(location) {
       }),
     }
   );
-  if (res.status !== 200) {
-    // we encountered 500s, so we'll try again in a minute.
-    process.exit(0)
-    return
-  }
-  const data = await res.json();
 
   // Making it configurable so that we can easily pump the number up from env if w want to
   const maxPromiseRunningTotal = parseInt(process.env.MAX_PROMISE).toString() === 'NaN' ? 2 : parseInt(process.env.MAX_PROMISE)
