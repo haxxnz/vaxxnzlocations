@@ -19,6 +19,8 @@ async function getSlots(location, availability) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
+        "User-Agent": "vaxx.nz - crawler",
+        "X-Contact-Us": "info@vaxx.nz"
       },
       body: JSON.stringify({
         vaccineData: "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ==",
@@ -59,6 +61,8 @@ async function getAvailability(location) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
+        "User-Agent": "vaxx.nz - crawler",
+        "X-Contact-Us": "info@vaxx.nz"
       },
       body: JSON.stringify({
         startDate: startDateStr,

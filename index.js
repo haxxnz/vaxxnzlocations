@@ -22,6 +22,8 @@ async function getLocations(lat, lng, cursor) {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
+        "User-Agent": "vaxx.nz - crawler",
+        "X-Contact-Us": "info@vaxx.nz"
       },
       body: JSON.stringify({
         location: { lat, lng },
@@ -58,7 +60,13 @@ async function getLocations(lat, lng, cursor) {
 }
 
 const getAllPointsToCheck = async () => {
-  const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json")
+  const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json", {
+    headers: {
+      "Content-Type": "application/json",
+      "User-Agent": "vaxx.nz - crawler",
+      "X-Contact-Us": "info@vaxx.nz"
+    }
+  })
   if (res.status !== 200) {
     await catastropicResponseFailure(res);
   }

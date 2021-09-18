@@ -43,7 +43,12 @@ async function fetchSite(hpUrl: string) {
   // if (fs.existsSync(file)) { // only for dev
   //   return fs.readFileSync(file).toString()
   // }
-  const res = await fetch(`${HEALTHPOINT_URL}${hpUrl}`)
+  const res = await fetch(`${HEALTHPOINT_URL}${hpUrl}`, {
+    headers: {
+      "User-Agent": "vaxx.nz - crawler",
+      "X-Contact-Us": "info@vaxx.nz"
+    }
+  })
   if (res.status !== 200) {
     await catastropicResponseFailure(res);
   }
