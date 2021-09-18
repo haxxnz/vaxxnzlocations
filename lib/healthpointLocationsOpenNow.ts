@@ -1,4 +1,4 @@
-import fetch from "node-fetch";
+require('dotenv').config()
 import cheerio, { CheerioAPI } from "cheerio";
 import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
@@ -7,7 +7,6 @@ import {catastropicFailure} from './error'
 import { hpFetch } from "./fetch";
 
 var md5 = require('md5');
-require('dotenv').config()
 
 interface LatLong {
   lat: number;
