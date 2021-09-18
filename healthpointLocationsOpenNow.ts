@@ -4,6 +4,7 @@ import fs from 'fs';
 import { Branch, HealthpointData, HealthpointLocation, HealthpointPage } from "./types";
 import { uniqBy } from "./arrayUtilsTs";
 import {catastropicResponseFailure, catastropicFailure} from './lib/error'
+import { hpFetch } from "./lib/fetch";
 
 var md5 = require('md5');
 require('dotenv').config()
@@ -40,16 +41,12 @@ async function fetchSite(hpUrl: string) {
   // if (fs.existsSync(file)) { // only for dev
   //   return fs.readFileSync(file).toString()
   // }
-  const res = await fetch(`${process.env.HEALTHPOINT_PROXY}${hpUrl}`, {
+  const body: string = await hpFetch(`${process.env.HEALTHPOINT_PROXY}${hpUrl}`, {
     headers: {
       "User-Agent": "vaxx.nz - crawler",
       "X-Contact-Us": "info@vaxx.nz"
     }
   })
-  if (res.status !== 200) {
-    await catastropicResponseFailure(res);
-  }
-  const body = await res.text()
   fs.writeFileSync(file, body)
   return body
 }
