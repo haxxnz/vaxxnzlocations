@@ -3,7 +3,7 @@ const turf = require("@turf/turf");
 const fs = require('fs')
 const {format} = require('date-fns');
 const { differenceBy, sortBy } = require("lodash");
-const {catastropicResponseFailure, catastropicFailure} = require('./lib/error')
+const {catastropicFailure} = require('./lib/error')
 require('dotenv').config()
 
 
@@ -16,14 +16,12 @@ const locationIds = new Set([])
 const uniqLocations = []
 
 async function getLocations(lat, lng, cursor) {
-  const res = await fetch(
+  const data = await mohFetch(
     `${process.env.PROXY_URL}/public/locations/search`,
     {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
-        "User-Agent": "vaxx.nz - crawler",
-        "X-Contact-Us": "info@vaxx.nz"
       },
       body: JSON.stringify({
         location: { lat, lng },
@@ -45,10 +43,6 @@ async function getLocations(lat, lng, cursor) {
       }),
     }
   );
-  if (res.status !== 200) {
-    await catastropicResponseFailure(res);
-  }
-  const data = await res.json();
   const newCursor = data.cursor;
   for (let i = 0; i < data.locations.length; i++) {
     const location = data.locations[i];
@@ -60,17 +54,11 @@ async function getLocations(lat, lng, cursor) {
 }
 
 const getAllPointsToCheck = async () => {
-  const res = await fetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json", {
+  const data = await mohFetch("https://maps.bookmyvaccine.covid19.health.nz/booking_site_availability.json", {
     headers: {
       "Content-Type": "application/json",
-      "User-Agent": "vaxx.nz - crawler",
-      "X-Contact-Us": "info@vaxx.nz"
     }
   })
-  if (res.status !== 200) {
-    await catastropicResponseFailure(res);
-  }
-  const data = await res.json()
   return data
 }
 
