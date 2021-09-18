@@ -4,6 +4,7 @@ const fs = require('fs')
 const {format} = require('date-fns');
 const { differenceBy, sortBy } = require("lodash");
 const {catastropicFailure} = require('./lib/error')
+const {bmvFetch} = require('./lib/fetch')
 require('dotenv').config()
 
 
