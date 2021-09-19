@@ -14147,6 +14147,13 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:00:00",
@@ -14169,13 +14176,6 @@
       {
         "days": [
           "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:30:00"
@@ -28400,58 +28400,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "161 Onehunga Mall Onehunga  Auckland  1061",
-    "distanceInMeters": 1671.0330233,
-    "extId": "a0R4a000000V647EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-21",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.786,
-      "lat": -36.9226
-    },
-    "name": "Onehunga Family Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Onehunga+Family+Medical+Centre/@-36.9235475,174.785642,15z/data=!4m5!3m4!1s0x0:0x5892c9b78e8912a7!8m2!3d-36.9235475!4d174.785642",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-09",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Freedom Church, 174 Bedford Street Cannons Creek  Porirua  5024",
     "distanceInMeters": 13029.98011744,
     "extId": "a0R4a000000V67QEAS",
@@ -29739,6 +29687,51 @@
       }
     ],
     "mapUrl": "https://goo.gl/maps/Wfg8y69vP9WvEisy5",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "8 Romeo Street   Stratford  4332",
+    "distanceInMeters": 36856.12510459,
+    "extId": "a0R4a000000VeDXEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-20",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.286,
+      "lat": -39.3478
+    },
+    "name": "Avon Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/jMGKmmAkoENDQEuC6",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-17",
