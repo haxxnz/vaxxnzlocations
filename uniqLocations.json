@@ -228,7 +228,7 @@
         "localEnd": "16:00:00"
       }
     ],
-    "description": "Currently:\r\nBookings from 08.30am to 12.30pm will take place at the Departmental Building at 35-37 Chapel St, Masterton. \r\nBookings after12.30pm will take place at our DRIVE-THROUGH clinic at the Masterton Netball Courts, at 10 Colombo Road, Masterton. Please attend the clinic at the Masterton Netball Courts, even if you receive an automated text reminder stating the clinic is at the Departmental Building.\r\nWheelchair accessible, Wheelchair ramp access\r\nForeign language translation service provided By appointment only \r\nSign language translator on site By appointment only\r\nOn-site parking  ",
+    "description": "Currently this clinic is open for bookings and walk-ins from 10.15am to 6.45pm Monday to Saturday. Last appointment at 6.15pm. It is located at the Departmental Building at 35-37 Chapel St, Masterton. The clinic at the Netball Courts on Colombo Road is NOT operating. On Monday the 20th of September this clinic will close early at 3.30pm, last appointment at 2.45pm.\r\nWheelchair accessible, Wheelchair ramp access\r\nForeign language translation service provided By appointment only \r\nSign language translator on site By appointment only\r\nOn-site parking  ",
     "mapUrl": "https://goo.gl/maps/CRw79fQHMRFsettv5",
     "tags": [],
     "type": "OnlineBooking",
@@ -340,7 +340,7 @@
         "localEnd": "15:45:00"
       }
     ],
-    "description": "Wheelchair accessible toilets, Wheelchair ramp access to site.\r\nCurrently clinic bookings are running from 10:00am until 6.45pm. Foreign language translation service provided by appointment only \r\nSign language translator on site by appointment only\r\nOn-site parking  ",
+    "description": "Currently this clinic is open on Tuesday, Friday and Saturday for bookings and walk-ins from 10.00am to 4.45pm (last appointment at 4.00pm). It is open on Wednesday and Thursday for bookings and walk-ins from Noon to 6.45pm (last appointment 6.00pm). On Monday the 20th of September there is also a clinic running from 10.00am to 3.30pm (last appointment at 2.45pm).\r\nWheelchair accessible toilets, Wheelchair ramp access to site.\r\nForeign language translation service provided by appointment only \r\nSign language translator on site by appointment only\r\nOn-site parking  ",
     "mapUrl": "https://goo.gl/maps/6rLsQJP3GxbJkDcK6",
     "tags": [],
     "type": "OnlineBooking",
@@ -1808,7 +1808,7 @@
   },
   {
     "displayAddress": "End of Oaklands Road Albany  Auckland  0632",
-    "distanceInMeters": 20569.41511816,
+    "distanceInMeters": 71891.94926476,
     "extId": "a0R4a000000QCwwEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-29",
@@ -19037,6 +19037,65 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "3 Watford Street Otara  Auckland  2023",
+    "distanceInMeters": 10505.87712503,
+    "extId": "a0R4a000000TZi4EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.874,
+      "lat": -36.9614
+    },
+    "name": "Otara Local Doctors",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "15:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/The+Local+Doctors/@-36.9620398,174.8729223,15z/data=!4m5!3m4!1s0x0:0xdbcb6ff78c4f11f1!8m2!3d-36.962045!4d174.8728249",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-20",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "10/792 Great South Road, Wiri,  Auckland  2104",
     "distanceInMeters": 14260.24104132,
     "extId": "a0R4a000000Ta0wEAC",
@@ -24126,7 +24185,7 @@
           "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:00:00"
+        "localEnd": "12:30:00"
       },
       {
         "days": [
@@ -29687,6 +29746,51 @@
       }
     ],
     "mapUrl": "https://goo.gl/maps/Wfg8y69vP9WvEisy5",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "5/10 Porter Drive   Havelock North  4130",
+    "distanceInMeters": 16391.4675976,
+    "extId": "a0R4a000000VdLzEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-30",
+    "endDate": "2021-11-28",
+    "location": {
+      "lng": 176.877,
+      "lat": -39.6707
+    },
+    "name": "Gilmours Havelock North Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Gilmours+Pharmacy/@-39.6709223,176.8761622,19z/data=!4m5!3m4!1s0x0:0x5aa21cb56eaac8ea!8m2!3d-39.6706723!4d176.8769141?shorturl=1",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-17",
