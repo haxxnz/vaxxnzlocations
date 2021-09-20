@@ -1407,7 +1407,7 @@
   },
   {
     "displayAddress": "7-11 Westgate Drive Westgate  Auckland  614",
-    "distanceInMeters": 17528.54345061,
+    "distanceInMeters": 47339.98657154,
     "extId": "a0R4a000000Q4taEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
@@ -9253,6 +9253,13 @@
     "openHours": [
       {
         "days": [
+          "thu"
+        ],
+        "localStart": "18:00:00",
+        "localEnd": "21:00:00"
+      },
+      {
+        "days": [
           "mon"
         ],
         "localStart": "18:00:00",
@@ -14616,7 +14623,7 @@
     "extId": "a0R4a000000Sm1JEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-30",
-    "endDate": "2021-12-10",
+    "endDate": "2021-12-12",
     "location": {
       "lng": 177.416,
       "lat": -39.0409
@@ -15467,7 +15474,7 @@
     "extId": "a0R4a000000StrXEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
-    "endDate": "2021-12-31",
+    "endDate": "2021-12-12",
     "location": {
       "lng": 176.844,
       "lat": -39.6367
@@ -15498,7 +15505,7 @@
     "extId": "a0R4a000000SttFEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
-    "endDate": "2021-12-31",
+    "endDate": "2021-12-12",
     "location": {
       "lng": 176.783,
       "lat": -39.6221
@@ -24495,20 +24502,6 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "10:00:00",
@@ -27887,7 +27880,7 @@
     "extId": "a0R4a000000V0yuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
-    "endDate": "2021-12-23",
+    "endDate": "2021-12-18",
     "location": {
       "lng": 174.661,
       "lat": -36.7927
@@ -28025,7 +28018,7 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "14:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/NGQ7NPuNpmxpygDP8",
@@ -30300,6 +30293,65 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "55 Tukapa Street Westown  New Plymouth  4310",
+    "distanceInMeters": 2425.49927896,
+    "extId": "a0R4a000000VX91EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-20",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.062,
+      "lat": -39.0711
+    },
+    "name": "Unichem Westown Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/15CuSQMCMnutenGj7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
     "distanceInMeters": 2763.67950242,
     "extId": "a0R4a000000VXrDEAW",
@@ -30870,7 +30922,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -30884,7 +30936,7 @@
       },
       {
         "days": [
-          "mon"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -30915,17 +30967,17 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
       },
       {
         "days": [
@@ -31005,13 +31057,6 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "10:00:00",
@@ -31023,6 +31068,13 @@
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:45:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/R8kyYRFDdCmue8gx6",
