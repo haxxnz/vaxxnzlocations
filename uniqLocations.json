@@ -6042,42 +6042,42 @@
           "sat"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/38+Fitzherbert+Avenue,+Palmerston+North+4410,+New+Zealand/@-40.3582214,175.6102222,17z/data=!3m1!4b1!4m5!3m4!1s0x6d41b2d00114dca3:0x22a54c0616cb9f13!8m2!3d-40.3582214!4d175.6124109",
@@ -16357,29 +16357,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-20",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "108 Ridge Road, Howick, Auckland 2014",
-    "distanceInMeters": 13265.60629263,
-    "extId": "a0R4a000000Sz39EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-11",
-    "endDate": "2021-12-20",
-    "location": {
-      "lng": 174.923,
-      "lat": -36.8956
-    },
-    "name": "Howick Health and Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/EQ5nhVQCiYokb6j46",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-16",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -27249,7 +27226,7 @@
     "extId": "a0R4a000000UltPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
-    "endDate": "2021-10-28",
+    "endDate": "2021-11-30",
     "location": {
       "lng": 175.211,
       "lat": -38.1835
@@ -29733,8 +29710,81 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Shop A8/A9 Bethlehem Town Centre, 19 Bethlehem Road Bethlehem  Tauranga  3110",
+    "distanceInMeters": 10281.88352569,
+    "extId": "a0R4a000000VQ2vEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 176.109,
+      "lat": -37.6945
+    },
+    "name": "Unichem Metro Pharmacy Bethlehem",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/29BzErjrY4VLAyB66",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "AUT Millennium (Ground floor), 17 Antares Place Rosedale  North Shore, Auckland  0632",
-    "distanceInMeters": 38534.73276427,
+    "distanceInMeters": 19027.25929846,
     "extId": "a0R4a000000VSbGEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -30699,21 +30749,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
           "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -30738,6 +30781,13 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
       }
     ],
     "description": "Toilets available. Wheelchair ramp access. Onsite parking.",
@@ -30768,6 +30818,51 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "6 Hibiscus Coast Highway Silverdale  Auckland  932",
+    "distanceInMeters": 24791.65378017,
+    "extId": "a0R4a000000VmPNEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-24",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.668,
+      "lat": -36.6226
+    },
+    "name": "Silverdale Rugby Club",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/R8kyYRFDdCmue8gx6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-20",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
