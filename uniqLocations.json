@@ -5505,17 +5505,17 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "1 Memorial Street   Queenstown  9300",
-    "distanceInMeters": 0.17081594,
+    "displayAddress": "9 Isle Street   Queenstown  9300",
+    "distanceInMeters": 201.92671899,
     "extId": "a0R4a000000QWVCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
     "endDate": "2021-12-05",
     "location": {
-      "lng": 168.662,
-      "lat": -45.0291
+      "lng": 168.66,
+      "lat": -45.0294
     },
-    "name": "Queenstown Medical Centre - Queenstown Memorial Hall",
+    "name": "Queenstown Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -5554,7 +5554,7 @@
         "localEnd": "11:00:00"
       }
     ],
-    "mapUrl": "https://goo.gl/maps/J1zi6eTYhEfFPd5C8",
+    "mapUrl": "https://www.google.com/maps/place/Queenstown+Medical+Centre/@-45.0350048,168.6755235,15z/data=!4m5!3m4!1s0x0:0x84e0b6a5dfd5b172!8m2!3d-45.0300006!4d168.6582286",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-17",
@@ -14616,7 +14616,7 @@
     "extId": "a0R4a000000Sm1JEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-30",
-    "endDate": "2021-11-26",
+    "endDate": "2021-12-10",
     "location": {
       "lng": 177.416,
       "lat": -39.0409
@@ -14624,6 +14624,34 @@
     "name": "Wairoa Hospital VC",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
       {
         "days": [
           "fri"
@@ -16845,7 +16873,15 @@
     },
     "name": "Mangakaretu Marae",
     "timezone": "Pacific/Auckland",
-    "openHours": [],
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
+      }
+    ],
     "mapUrl": "https://www.google.com/maps/place/283+Arapuni+Road,+Waotu+3481,+New+Zealand/@-38.0606784,175.7302819,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6c507b3a415469:0x67300ed2f4eefe52!8m2!3d-38.0606826!4d175.7324706",
     "tags": [],
     "type": "OnlineBooking",
@@ -27250,15 +27286,15 @@
         "days": [
           "sun"
         ],
-        "localStart": "10:30:00",
-        "localEnd": "15:30:00"
+        "localStart": "10:15:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "10:30:00",
-        "localEnd": "15:30:00"
+        "localStart": "10:15:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
