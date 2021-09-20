@@ -7265,7 +7265,7 @@
   },
   {
     "displayAddress": "121 Hakiaha Street, Taumarunui, 3920",
-    "distanceInMeters": 61706.56819265,
+    "distanceInMeters": 54341.87086314,
     "extId": "a0R4a000000RKWsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -19199,7 +19199,7 @@
   },
   {
     "displayAddress": "Phone number:  09 9515334\r\n3/226 Great South Road, Takanini, Auckland 2112",
-    "distanceInMeters": 20440.14564644,
+    "distanceInMeters": 17120.62768784,
     "extId": "a0R4a000000TafPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -19762,7 +19762,7 @@
   },
   {
     "displayAddress": "B3/51 Corinthian Dr Albany  Auckland  632",
-    "distanceInMeters": 20416.02209468,
+    "distanceInMeters": 71732.97184166,
     "extId": "a0R4a000000Te8wEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -29674,6 +29674,111 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "AUT Millennium (Ground floor), 17 Antares Place Rosedale  North Shore, Auckland  0632",
+    "distanceInMeters": 19027.25929846,
+    "extId": "a0R4a000000VSbGEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.733,
+      "lat": -36.7422
+    },
+    "name": "Healthzone Medical (AUT Millennium)",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "14:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "14:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "14:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "14:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "14:00:00"
+      }
+    ],
+    "description": "Free onsite accessible parking | Drop off area outside of entrance | Wheelchair accessible | Accessible toilets | Foreign language translation service available by appointment | NZ sign language interpreter available by appointment | A quiet or low sensory environment for both noise and light available | Lying down vaccinations offered",
+    "mapUrl": "https://goo.gl/maps/EcaM8fxbwvVXpQUy7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "10 Percy St, Warkworth 0910",
+    "distanceInMeters": 34529.3510834,
+    "extId": "a0R4a000000VTClEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-04",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.666,
+      "lat": -36.3992
+    },
+    "name": "Kowhai Surgery",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Kowhai+Surgery/@-36.3992345,174.6658031,18.94z/data=!4m12!1m6!3m5!1s0x6d0cdc2179450245:0xf42b3fdcb0dd27a8!2sKowhai+Surgery!8m2!3d-36.3991017!4d174.6659266!3m4!1s0x6d0cdc2179450245:0xf42b3fdcb0dd27a8!8m2!3d-36.3991017!4d",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "9/597 Great South Road Manukau City Centre  Auckland  2104",
     "distanceInMeters": 12357.35601706,
     "extId": "a0R4a000000VTLEEA4",
@@ -29732,6 +29837,65 @@
     ],
     "description": "Free onsite parking | Wheelchair accessible | Accessible toilets",
     "mapUrl": "https://goo.gl/maps/M6N8vh4fL7qyLP126",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "766 Great South Road Penrose  Auckland  1061",
+    "distanceInMeters": 3712.08292551,
+    "extId": "a0R4a000000VTSvEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.817,
+      "lat": -36.9101
+    },
+    "name": "Penrose Clinic",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Penrose+Clinic/@-36.9103363,174.8146654,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4920c59da703:0x63da73f04168a68c!8m2!3d-36.9103363!4d174.8168541",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-15",
