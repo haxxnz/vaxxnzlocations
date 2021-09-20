@@ -1955,7 +1955,7 @@
   },
   {
     "displayAddress": "8 Great South Road Takanini  Auckland  2105",
-    "distanceInMeters": 18161.36086967,
+    "distanceInMeters": 18529.45861975,
     "extId": "a0R4a000000QCxVEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-23",
@@ -7607,21 +7607,7 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:30:00"
@@ -7635,7 +7621,21 @@
       },
       {
         "days": [
-          "fri"
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:30:00"
@@ -8209,14 +8209,28 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:30:00"
       },
       {
         "days": [
-          "tue"
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:30:00"
@@ -8230,31 +8244,17 @@
       },
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:30:00"
       },
       {
         "days": [
-          "fri"
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:00:00"
       }
     ],
     "description": "Foreign language translation service provided: Cantonese, Mandarin, Hindi, Punjabi, Tamil, Malaysian, Arabic\r\n\r\nEasy off street parking available\r\n\r\nConcierge service available for those with mobility or disability needs",
@@ -8307,27 +8307,6 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -8335,7 +8314,7 @@
       },
       {
         "days": [
-          "fri"
+          "sun"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -8349,7 +8328,28 @@
       },
       {
         "days": [
-          "sun"
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -8381,17 +8381,17 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "15:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "10:00:00",
         "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/144+Somme+Parade,+Aramoho,+Whanganui+4500,+New+Zealand/@-39.9091564,175.0512852,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40024fcba152ab:0xd6fa690ec20b51cc!8m2!3d-39.9091564!4d175.0534739",
@@ -16363,6 +16363,44 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "108 Ridge Road, Howick, Auckland 2014",
+    "distanceInMeters": 13265.60629263,
+    "extId": "a0R4a000000Sz39EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-11",
+    "endDate": "2021-12-20",
+    "location": {
+      "lng": 174.923,
+      "lat": -36.8956
+    },
+    "name": "Howick Health and Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/EQ5nhVQCiYokb6j46",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "133 Pah Street   Motueka  7120",
     "distanceInMeters": 30084.82875732,
     "extId": "a0R4a000000Sz5AEAS",
@@ -18050,14 +18088,14 @@
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "19:00:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "19:00:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
@@ -25027,6 +25065,44 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "192 High Street   Hāwera  4610",
+    "distanceInMeters": 61541.67181215,
+    "extId": "a0R4a000000UPXrEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-20",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.281,
+      "lat": -39.5885
+    },
+    "name": "Assembly of God Church",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Hawera+Assembly+of+God+Church/@-39.5885071,174.2804502,20.06z/data=!4m13!1m7!3m6!1s0x6d1575e4ab787c95:0x3034dc0ba5997db1!2s192+High+Street,+H%C4%81wera+4610,+New+Zealand!3b1!8m2!3d-39.5884069!4d174.2807135!3m4!1s0x6d157",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
     "distanceInMeters": 6578.76163881,
     "extId": "a0R4a000000UPXsEAO",
@@ -28316,20 +28392,6 @@
         ],
         "localStart": "10:00:00",
         "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "18:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Pacific+Trust+Otago/@-45.8959188,170.478467,15z/data=!4m5!3m4!1s0x0:0x630fb1a3fdf1f98a!8m2!3d-45.895927!4d170.4784661",
@@ -28591,6 +28653,58 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "161 Onehunga Mall Onehunga  Auckland  1061",
+    "distanceInMeters": 1671.0330233,
+    "extId": "a0R4a000000V647EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.786,
+      "lat": -36.9226
+    },
+    "name": "Onehunga Family Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Onehunga+Family+Medical+Centre/@-36.9235475,174.785642,15z/data=!4m5!3m4!1s0x0:0x5892c9b78e8912a7!8m2!3d-36.9235475!4d174.785642",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-09",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -29784,7 +29898,7 @@
   },
   {
     "displayAddress": "AUT Millennium (Ground floor), 17 Antares Place Rosedale  North Shore, Auckland  0632",
-    "distanceInMeters": 19027.25929846,
+    "distanceInMeters": 38534.73276427,
     "extId": "a0R4a000000VSbGEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -30096,21 +30210,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "11:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "11:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "11:30:00"
@@ -30124,7 +30224,21 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "11:30:00"
@@ -30613,6 +30727,58 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
+    "distanceInMeters": 74715.19139645,
+    "extId": "a0R4a000000Vc9WEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 177.058,
+      "lat": -37.9723
+    },
+    "name": "Ohope Beach Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Ohope+Beach+Medical+Centre/@-37.972356,177.058401,15z/data=!4m5!3m4!1s0x0:0x809033bad22d7e59!8m2!3d-37.972356!4d177.058401",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Mokoia Intermediate, 29 Brent Road Ōwhata  Rotorua  3010",
     "distanceInMeters": 51789.4372589,
     "extId": "a0R4a000000VcgOEAS",
@@ -30659,7 +30825,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:30:00"
@@ -30673,7 +30839,7 @@
       },
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:30:00"
@@ -30704,7 +30870,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -30718,7 +30884,7 @@
       },
       {
         "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -30749,27 +30915,6 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "10:00:00",
@@ -30784,7 +30929,28 @@
       },
       {
         "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
           "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
