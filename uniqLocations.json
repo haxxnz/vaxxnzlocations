@@ -21296,7 +21296,7 @@
   },
   {
     "displayAddress": "Unit 17/94 Rosedale Road, Rosedale, Auckland  0632",
-    "distanceInMeters": 19786.97187508,
+    "distanceInMeters": 72295.57395131,
     "extId": "a0R4a000000Tqy4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-04",
@@ -23975,6 +23975,13 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:15:00",
@@ -23983,13 +23990,6 @@
       {
         "days": [
           "wed"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "09:45:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:15:00",
         "localEnd": "09:45:00"
@@ -25316,7 +25316,7 @@
   },
   {
     "displayAddress": "Units B2 and B3 / 372 Rosedale Road, Albany, Auckland 0632",
-    "distanceInMeters": 19856.77188643,
+    "distanceInMeters": 72591.92279433,
     "extId": "a0R4a000000USDSEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -29734,6 +29734,73 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "283 Penrose Road, Mt Wellington  Auckland  1060",
+    "distanceInMeters": 5304.72631158,
+    "extId": "a0R4a000000VSjjEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.835,
+      "lat": -36.908
+    },
+    "name": "Mt Wellington Family Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:45:00"
+      }
+    ],
+    "description": "Free onsite parking | Wheelchair accessible | Accessible toilets",
+    "mapUrl": "https://www.google.co.nz/maps/place/Mount+Wellington+Family+Health+Centre+(Penrose+Road)/@-36.9080248,174.8346899,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d494014b2bc77:0xd60f9eb42b799b5a!8m2!3d-36.9080291!4d174.8368786?hl=en&shorturl=1",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "10 Percy St, Warkworth 0910",
     "distanceInMeters": 34529.3510834,
     "extId": "a0R4a000000VTClEAO",
@@ -29896,6 +29963,65 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Penrose+Clinic/@-36.9103363,174.8146654,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4920c59da703:0x63da73f04168a68c!8m2!3d-36.9103363!4d174.8168541",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "10 Turua Street St Heliers   Auckland 1071",
+    "distanceInMeters": 9975.3166645,
+    "extId": "a0R4a000000VTaHEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.859,
+      "lat": -36.8503
+    },
+    "name": "St Heliers Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Saint+Heliers+Medical+Centre/@-36.8563274,174.8538998,16z/data=!4m5!3m4!1s0x6d0d4a0245a54605:0x2ebb9b6e71aa7dcd!8m2!3d-36.8506238!4d174.8586677?hl=en",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-15",
