@@ -10264,37 +10264,6 @@
     }
   },
   {
-    "lat": -36.9567364,
-    "lng": 174.83386180000002,
-    "name": "The Doctors Middlemore",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "By invitation only",
-      "Make an appointment"
-    ],
-    "address": "215 Massey Road, Māngere East, Auckland",
-    "telephone": "(09) 275 9977",
-    "faxNumber": "(09) 275 3353",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-middlemore/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 4:00 PM",
-        "Sat – Sun": "9:00 AM – 4:00 PM",
-        "Mon – Sun": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays..",
-        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
-      },
-      "notesHtml": [
-        "Please call East Care Accident &amp; Medical 24 Hour Clinic 09-2771516 for out of hours assistance."
-      ]
-    }
-  },
-  {
     "lat": -36.9087734,
     "lng": 174.7553448,
     "name": "Three Kings Accident & Medical",
@@ -10579,7 +10548,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e98c84888085a98e869b8c848c8d808a8885c78a86c78793\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"690c04080005290e061b0c040c0d000a0805470a06470713\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -18063,6 +18032,89 @@
       },
       "exceptions": {},
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9104783,
+    "lng": 174.77481910000006,
+    "name": "Unichem Royal Oak Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Royal Oak Mall, 691 Manukau Road, Royal Oak, Auckland",
+    "telephone": "(09) 624 3024",
+    "faxNumber": "(09) 624 3469",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-royal-oak-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 5:00 PM",
+        "Sun": "10:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr). Open Labour Day (25 Oct, 10:00 AM – 5:00 PM), Auckland Anniversary (31 Jan, 10:00 AM – 5:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 5:00 PM), Easter Sunday (17 Apr, 10:00 AM – 5:00 PM), Easter Monday (18 Apr, 10:00 AM – 5:00 PM), ANZAC Day (25 Apr, 10:00 AM – 5:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 5:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -45.9063193,
+    "lng": 170.5078472,
+    "name": "Victoria Road Car Park",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "Victoria Road Car Park , (next to the Dunedin Ice Stadium), Saint Kilda, Dunedin, Otago 9012",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-kaika-pop-up-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Wed – Sun": "11:00 AM – 6:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9567364,
+    "lng": 174.83386180000002,
+    "name": "The Doctors Middlemore",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "By invitation only",
+      "Make an appointment"
+    ],
+    "address": "215 Massey Road, Māngere East, Auckland",
+    "telephone": "(09) 275 9977",
+    "faxNumber": "(09) 275 3353",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-middlemore/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM",
+        "Sat – Sun": "9:00 AM – 5:00 PM",
+        "Mon – Sun": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays..",
+        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
+      },
+      "notesHtml": [
+        "Please call East Care Accident &amp; Medical 24 Hour Clinic 09-2771516 for out of hours assistance."
+      ]
     }
   }
 ]
