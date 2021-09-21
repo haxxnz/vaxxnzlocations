@@ -13768,35 +13768,35 @@
           "tue"
         ],
         "localStart": "09:45:00",
-        "localEnd": "12:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:45:00",
-        "localEnd": "12:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:45:00",
-        "localEnd": "12:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:45:00",
-        "localEnd": "12:45:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:45:00",
-        "localEnd": "12:45:00"
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "17:00:00"
       }
     ],
     "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
@@ -24603,6 +24603,7 @@
         "localEnd": "19:30:00"
       }
     ],
+    "description": "Evening appointments available Sunday - Friday",
     "mapUrl": "https://www.google.com/maps/place/Unichem+Mainstreet+Pharmacy/@-38.6874655,176.0674202,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6bf0faaaaaaaab:0x428aa17fda3967d9!8m2!3d-38.6874678!4d176.0696201",
     "tags": [],
     "type": "OnlineBooking",
@@ -27660,6 +27661,7 @@
         "localEnd": "19:00:00"
       }
     ],
+    "description": "Evening appointments available Tuesday - Thursday",
     "mapUrl": "https://www.google.com/maps/place/Unichem+Rotorua+Central+Pharmacy/@-38.1354955,176.2464368,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6c277bd5c447e3:0xdff78187f1e9a70e!8m2!3d-38.1354955!4d176.2486255",
     "tags": [],
     "type": "OnlineBooking",
@@ -29187,6 +29189,79 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "45 Picton Street Howick  Auckland  2014",
+    "distanceInMeters": 13967.4133013,
+    "extId": "a0R4a000000VAmaEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.931,
+      "lat": -36.8934
+    },
+    "name": "Unichem Main Street Pharmacy Howick",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/45+Picton+Street,+Howick,+Auckland+2014,+New+Zealand/@-36.8933761,174.9305203,18.75z/data=!4m5!3m4!1s0x6d0d4b28b91eb409:0x93930c936c441c93!8m2!3d-36.8936567!4d174.9308474",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
