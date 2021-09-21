@@ -18227,7 +18227,7 @@
   },
   {
     "displayAddress": "Westgate Shopping Centre, 13E Maki Street, Massey, Auckland 0614",
-    "distanceInMeters": 46996.34267284,
+    "distanceInMeters": 17449.77356509,
     "extId": "a0R4a000000TL5tEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -20108,65 +20108,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-17",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "215 Massey Road Mangere East  Auckland  2024",
-    "distanceInMeters": 7364.58223113,
-    "extId": "a0R4a000000Tf8JEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-02",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.834,
-      "lat": -36.9567
-    },
-    "name": "The Doctors Middlemore ",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "17:45:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/The+Doctors+Middlemore/@-36.9568272,174.8337352,19z/data=!4m19!1m13!4m12!1m4!2m2!1d174.8339466!2d-36.9567826!4e1!1m6!1m2!1s0x6d0d4eecf07a820b:0x31e4d2354b7a2f6c!2sthe+doctors+middlemore!2m2!1d174.8340398!2d-36.9567674!3",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-25",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -30284,6 +30225,79 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Shop 7, 7 Fred Taylor Drive, NorthWest Shopping Centre Massey  Auckland  814",
+    "distanceInMeters": 46807.07210965,
+    "extId": "a0R4a000000VSvpEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-23",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.609,
+      "lat": -36.8185
+    },
+    "name": "Life Pharmacy NorthWest",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "20:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Life+Pharmacy+NorthWest/@-36.8184968,174.6094733,17z/data=!4m5!3m4!1s0x6d0d3fe47bf13c23:0x676235bf35ffd256!8m2!3d-36.8184885!4d174.6116871",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
