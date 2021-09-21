@@ -1067,7 +1067,7 @@
         "localEnd": "18:30:00"
       }
     ],
-    "description": "Relocated from Elliot Street to 35 Graham Street  | Public Transport: Bus stops 1053 and 1324 on Victoria Street or stops at Victoria Park | Drop off zone | Accessible car park | Limited parking available | Accessible toilets | Low Sensory available - light and noise.",
+    "description": "Relocated from Elliot Street to 35 Graham Street  | Public transport: The 1053 bus stop (route #24) and the 1324 bus stop (route #22) on Victoria Street are a three-minute walk from the centre.  There are additional stops at Victoria Park or the centre is a ten-minute walk from St Patrick’s Cathedral, Wyndham Street | Limited paid parking on the street | Drop off zone available | One accessible car park | Unisex accessible toilet | Low Sensory available - light and noise.",
     "mapUrl": "https://goo.gl/maps/KgxBpAAjds9SXLC46",
     "tags": [],
     "type": "OnlineBooking",
@@ -3382,24 +3382,24 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
           "thu"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "20:00:00"
+        "localStart": "12:00:00",
+        "localEnd": "19:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "08:00:00",
-        "localEnd": "20:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:30:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
@@ -7265,7 +7265,7 @@
   },
   {
     "displayAddress": "121 Hakiaha Street, Taumarunui, 3920",
-    "distanceInMeters": 54341.87086314,
+    "distanceInMeters": 73335.49057114,
     "extId": "a0R4a000000RKWsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -21583,7 +21583,7 @@
   },
   {
     "displayAddress": "396 Don Buck Road Massey  Auckland  614",
-    "distanceInMeters": 17522.755649,
+    "distanceInMeters": 48654.37963008,
     "extId": "a0R4a000000TrBDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -30137,6 +30137,29 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "8 Donovan Street Blockhouse Bay  Auckland  600",
+    "distanceInMeters": 6874.36775001,
+    "extId": "a0R4a000000VTESEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-17",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.7,
+      "lat": -36.9224
+    },
+    "name": "Donovan Street Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.co.nz/maps/place/Donovan+Street+Medical+Centre/@-36.9224161,174.6995895,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d441d641e37ef:0xef322fb7cd847879!8m2!3d-36.9224204!4d174.7017782?hl=en&shorturl=1",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "9/597 Great South Road Manukau City Centre  Auckland  2104",
     "distanceInMeters": 12357.35601706,
     "extId": "a0R4a000000VTLEEA4",
@@ -30383,21 +30406,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
@@ -30411,7 +30420,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
@@ -30952,7 +30975,7 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:30:00"
@@ -30966,7 +30989,7 @@
       },
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:30:00"
@@ -31042,28 +31065,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -31077,10 +31079,31 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Toilets available. Wheelchair ramp access. Onsite parking.",
@@ -31139,17 +31162,17 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/R8kyYRFDdCmue8gx6",
