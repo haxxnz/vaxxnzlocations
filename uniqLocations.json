@@ -18227,7 +18227,7 @@
   },
   {
     "displayAddress": "Westgate Shopping Centre, 13E Maki Street, Massey, Auckland 0614",
-    "distanceInMeters": 17449.77356509,
+    "distanceInMeters": 46996.34267284,
     "extId": "a0R4a000000TL5tEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -22831,7 +22831,7 @@
   },
   {
     "displayAddress": "4/106 Sunnynook Road Sunnynook  Auckland  620",
-    "distanceInMeters": 17019.53083047,
+    "distanceInMeters": 40534.93274713,
     "extId": "a0R4a000000U2CDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -23164,35 +23164,35 @@
           "thu"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+South+City+Pharmacy/@-46.4272568,168.3594692,17z/data=!4m5!3m4!1s0xa9d2c45f06d3d3c1:0xb2656eefe02f22bf!8m2!3d-46.4272605!4d168.3616579",
@@ -28956,7 +28956,7 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "16:15:00"
       },
       {
         "days": [
@@ -28991,7 +28991,7 @@
           "sun"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "13:45:00"
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/11+West+Street,+Pukekohe,+Auckland+2120,+New+Zealand/@-37.2007264,174.9002466,21z/data=!4m13!1m7!3m6!1s0x6d12aa884bfef863:0xfd2e36b23a4127e!2s11+West+Street,+Pukekohe,+Auckland+2120,+New+Zealand!3b1!8m2!3d-37.2007411!4d",
@@ -29450,6 +29450,65 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.7878775,174.7699741,15z/data=!4m5!3m4!1s0x0:0xad0819cd55540a7f!8m2!3d-36.7878775!4d174.7699741",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "12b Picton St Howick  Auckland  2014",
+    "distanceInMeters": 13928.27423189,
+    "extId": "a0R4a000000VAvNEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-27",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.93,
+      "lat": -36.8923
+    },
+    "name": "Crawford Medical at 12b Picton St",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/12B+Picton+Street,+Howick,+Auckland+2014/@-36.8923765,174.9299573,20.44z/data=!4m5!3m4!1s0x6d0d4b2883bb2087:0x7ca9b1e51e21a0b5!8m2!3d-36.89235!4d174.9299036",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-10",
@@ -31138,21 +31197,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "sat"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -31166,17 +31218,24 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
       },
       {
         "days": [
-          "sat"
+          "tue"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
       }
     ],
     "description": "Toilets available. Wheelchair ramp access. Onsite parking.",
@@ -31228,14 +31287,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:45:00"
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:45:00"
