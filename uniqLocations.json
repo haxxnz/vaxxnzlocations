@@ -2625,37 +2625,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "14 Highland Park Drive, Highland Park  Auckland  2010",
-    "distanceInMeters": 11875.83678813,
-    "extId": "a0R4a000000QD5ZEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-18",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.908,
-      "lat": -36.8999
-    },
-    "name": "Highland Park Medical",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/SnZsBg9DAvsC3zoX6",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-10",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "316 Ti Rakau Drive, Burswood, Auckland 2013",
     "distanceInMeters": 11080.16557468,
     "extId": "a0R4a000000QD7LEAW",
@@ -7732,66 +7701,6 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Taihape+Rural+Health+Centre/@-39.6801678,175.7927126,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6a6f17a446e83d:0xd519d9182f9fe806!8m2!3d-39.6801719!4d175.7949066",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-13",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Ryburn Building, Ryburn Road (off Hague Road), Waikato Hospital Campus",
-    "distanceInMeters": 1290.2544067,
-    "extId": "a0R4a000000Rsq6EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-13",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 175.285,
-      "lat": -37.8034
-    },
-    "name": "Waikato Hospital (Ryburn) Community Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "14:45:00"
-      }
-    ],
-    "description": "Limited disability parking available near clinic. All other parking in car park building. Please allow for extra time due to this.",
-    "mapUrl": "https://www.google.com/maps/place/Waikato+District+Health+Board/@-37.8034425,175.2848023,20z/data=!4m5!3m4!1s0x0:0xa7f5607e558d9728!8m2!3d-37.8044818!4d175.2830896",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-13",
@@ -16888,15 +16797,7 @@
     },
     "name": "Mangakaretu Marae",
     "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:30:00"
-      }
-    ],
+    "openHours": [],
     "mapUrl": "https://www.google.com/maps/place/283+Arapuni+Road,+Waotu+3481,+New+Zealand/@-38.0606784,175.7302819,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6c507b3a415469:0x67300ed2f4eefe52!8m2!3d-38.0606826!4d175.7324706",
     "tags": [],
     "type": "OnlineBooking",
@@ -18409,35 +18310,35 @@
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "16:45:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets available.",
@@ -22890,7 +22791,7 @@
   },
   {
     "displayAddress": "4/106 Sunnynook Road Sunnynook  Auckland  620",
-    "distanceInMeters": 40534.93274713,
+    "distanceInMeters": 17019.53083047,
     "extId": "a0R4a000000U2CDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -30101,35 +30002,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
@@ -30143,10 +30016,38 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/29BzErjrY4VLAyB66",
