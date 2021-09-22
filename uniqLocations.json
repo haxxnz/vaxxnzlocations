@@ -1721,20 +1721,6 @@
         ],
         "localStart": "08:00:00",
         "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
       }
     ],
     "description": "Public Transport: Bus routes #747 Panmure & Glen Innes on Morrin Road; #650 Pt Chevalier and Glen Innes on Merton Rd. Glen Innes train station is a distance away |\r\nFrom Morrin Road, it is a considerable but flat walk to the vaccination centre |\r\nAccessible parking – enter through the main gate and staff will direct you |\r\nDrop off zones available – enter through the main gate and staff will direct you |\r\nAccessible toilets – located downstairs |\r\nUnisex toilets |\r\nLow sensory environment - Available on request - noise only.",
@@ -2507,65 +2493,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "260 Botany Road Golflands  Auckland  2013",
-    "distanceInMeters": 12329.75052936,
-    "extId": "a0R4a000000QD47EAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-20",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.913,
-      "lat": -36.9221
-    },
-    "name": "Eastcare Accident & Medical",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/EAv2rine18oLW9Ut5",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-10",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "45B Te Roto Drive   Paraparaumu  5032",
     "distanceInMeters": 41962.7570377,
     "extId": "a0R4a000000QD5FEAW",
@@ -2616,6 +2543,37 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/45B+Te+Roto+Drive,+Paraparaumu+5032/@-40.9034295,174.9981312,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a112fdc462df:0x913e658ec10ec0c6!8m2!3d-40.9034295!4d175.0003199",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "14 Highland Park Drive, Highland Park  Auckland  2010",
+    "distanceInMeters": 11875.83678813,
+    "extId": "a0R4a000000QD5ZEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-18",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.908,
+      "lat": -36.8999
+    },
+    "name": "Highland Park Medical",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/SnZsBg9DAvsC3zoX6",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-10",
@@ -29904,21 +29862,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:15:00",
         "localEnd": "15:15:00"
@@ -29932,7 +29876,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:15:00",
         "localEnd": "15:15:00"
@@ -31413,6 +31371,44 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-20",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "110 Russell Street South   Hastings  4110",
+    "distanceInMeters": 13421.23659378,
+    "extId": "a0R4a000000Vvu8EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-27",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 176.843,
+      "lat": -39.6427
+    },
+    "name": "The Doctors Hastings",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "10:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/The+Doctors+Hastings/@-39.6427757,176.8428107,15z/data=!4m5!3m4!1s0x0:0x78894838a8c825ff!8m2!3d-39.6427757!4d176.8428107",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-22",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
