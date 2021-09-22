@@ -1083,7 +1083,7 @@
     "extId": "a0R4a000000Q4pnEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
-    "endDate": "2021-12-12",
+    "endDate": "2021-10-31",
     "location": {
       "lng": 172.575,
       "lat": -43.5319
@@ -7488,24 +7488,24 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
+        "localEnd": "16:30:00"
       }
     ],
     "description": "The vaccination site is directly across the road from the Hamish Barham Pharmacy",
