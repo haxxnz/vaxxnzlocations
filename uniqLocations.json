@@ -894,21 +894,21 @@
         "days": [
           "fri"
         ],
-        "localStart": "08:00:00",
+        "localStart": "12:00:00",
         "localEnd": "15:30:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "08:00:00",
+        "localStart": "12:00:00",
         "localEnd": "15:30:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "08:00:00",
+        "localStart": "12:00:00",
         "localEnd": "15:30:00"
       },
       {
@@ -19716,7 +19716,7 @@
   },
   {
     "displayAddress": "5 Waimahia Avenue Weymouth  Auckland  2103",
-    "distanceInMeters": 17771.00443189,
+    "distanceInMeters": 16788.80356555,
     "extId": "a0R4a000000Te9GEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -30486,65 +30486,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "766 Great South Road Penrose  Auckland  1061",
-    "distanceInMeters": 3712.08292551,
-    "extId": "a0R4a000000VTSvEAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-21",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.817,
-      "lat": -36.9101
-    },
-    "name": "Penrose Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Penrose+Clinic/@-36.9103363,174.8146654,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4920c59da703:0x63da73f04168a68c!8m2!3d-36.9103363!4d174.8168541",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-15",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "10 Turua Street St Heliers   Auckland 1071",
     "distanceInMeters": 9975.3166645,
     "extId": "a0R4a000000VTaHEAW",
@@ -31476,6 +31417,37 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-20",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "53 Paramount Parade   Tikipunga  112",
+    "distanceInMeters": 114.46240264,
+    "extId": "a0R4a000000Vp3jEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-02",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.323,
+      "lat": -35.6835
+    },
+    "name": "Doctors Tikipunga Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/The+Doctors+Tikipunga/@-35.6836166,174.3230317,20.5z/data=!4m5!3m4!1s0x0:0xccf2ca803190fbe1!8m2!3d-35.6835328!4d174.3230339",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
