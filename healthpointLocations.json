@@ -2178,28 +2178,6 @@
     }
   },
   {
-    "lat": -39.3400527,
-    "lng": 174.2829428,
-    "name": "Stratford Vaccination Centre",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Stratford War Memorial Centre, 4332/55 Miranda Street, Stratford, Taranaki 4332",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/stratford-covid-19-vaccination-event/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {
-        "Public Holidays": "Closed on all public holidays."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -38.6820388,
     "lng": 176.0878576,
     "name": "Taupō COVID-19 Immunisation Hub, 6/29 Totara Street, Taupō",
@@ -14643,7 +14621,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"07626a666e6b47606875626a62636e64666b29646829697d\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"6f0a020e06032f08001d0a020a0b060c0e03410c00410115\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -18528,33 +18506,6 @@
     }
   },
   {
-    "lat": -36.8571007,
-    "lng": 174.76169749999997,
-    "name": "The Auckland City Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "419 Queen Street, Auckland Central, Auckland",
-    "telephone": "(09) 368 4240",
-    "faxNumber": "(09) 368 4241",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/the-auckland-city-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 6:00 PM",
-        "Sat – Sun": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.5692985,
     "lng": 172.6224024,
     "name": "The Princess Margaret Hospital",
@@ -18664,6 +18615,33 @@
         "For 24/7 urgent care clinics see listings for <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/white-cross-accident-urgent-medical-ascot/\">White Cross Ascot</a> and <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/white-cross-accident-urgent-medical-henderson/\">White Cross Henderson</a>.",
         "&nbsp;"
       ]
+    }
+  },
+  {
+    "lat": -36.8571007,
+    "lng": 174.76169749999997,
+    "name": "The Auckland City Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "419 Queen Street, Auckland Central, Auckland",
+    "telephone": "(09) 368 4240",
+    "faxNumber": "(09) 368 4241",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/the-auckland-city-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM",
+        "Sat – Sun": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
     }
   }
 ]
