@@ -27475,21 +27475,21 @@
         "days": [
           "thu"
         ],
-        "localStart": "18:00:00",
+        "localStart": "17:45:00",
         "localEnd": "19:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "18:00:00",
+        "localStart": "17:45:00",
         "localEnd": "19:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "18:00:00",
+        "localStart": "17:45:00",
         "localEnd": "19:00:00"
       }
     ],
@@ -28983,7 +28983,7 @@
   },
   {
     "displayAddress": "Shop 8, 112 Whitford Road Sommerville  Auckland  2014",
-    "distanceInMeters": 21250.37445811,
+    "distanceInMeters": 31936.82083873,
     "extId": "a0R4a000000V91fEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -31748,6 +31748,65 @@
     ],
     "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access.",
     "mapUrl": "https://goo.gl/maps/KGyC5MafQxpwASUX6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "39 Layard Street Avondale  Auckland  1026",
+    "distanceInMeters": 15149.85160263,
+    "extId": "a0R4a000000VrLNEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-27",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.699,
+      "lat": -36.8983
+    },
+    "name": "Avondale Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Avondale+Health+Centre/@-36.8983059,174.6967548,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d46c86776c63b:0x363eda3e21574bb!8m2!3d-36.8983096!4d174.6989589?hl=en&shorturl=1",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-21",
