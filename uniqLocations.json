@@ -1547,66 +1547,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "72 School Road, Wellsford 0900",
-    "distanceInMeters": 18766.32628275,
-    "extId": "a0R4a000000QCrPEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-08",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.513,
-      "lat": -36.2837
-    },
-    "name": "Wellsford Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:15:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:15:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:15:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:15:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:15:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "description": "Free on-site parking | Accessible parking | Accessible toilets",
-    "mapUrl": "https://goo.gl/maps/2nq2tpEeJDpZeEZk7",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-10",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "26-30 Constable Road   Waiuku  2123",
     "distanceInMeters": 16494.44304133,
     "extId": "a0R4a000000QCshEAG",
@@ -3170,7 +3110,7 @@
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:45:00"
+        "localEnd": "18:45:00"
       },
       {
         "days": [
@@ -19657,7 +19597,7 @@
   },
   {
     "displayAddress": "5 Waimahia Avenue Weymouth  Auckland  2103",
-    "distanceInMeters": 16788.80356555,
+    "distanceInMeters": 17771.00443189,
     "extId": "a0R4a000000Te9GEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -31354,21 +31294,7 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -31382,10 +31308,24 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Toilets available. Wheelchair ramp access. Onsite parking.",
@@ -31596,6 +31536,184 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "308 Havelock Street, Ashburton 7700",
+    "distanceInMeters": 61861.92337408,
+    "extId": "a0R4a000000VqL1EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-29",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 171.751,
+      "lat": -43.9058
+    },
+    "name": "Ashburton Health First",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access.",
+    "mapUrl": "https://goo.gl/maps/KGyC5MafQxpwASUX6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "301F Botany Road Golflands  Auckland  2013",
+    "distanceInMeters": 12350.99405512,
+    "extId": "a0R4a000000VvRMEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-24",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.913,
+      "lat": -36.925
+    },
+    "name": "Botany Terrace Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "15:15:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/vSyMA8bhsigJTfGv5",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "5 Home Place Rosedale  Auckland  632",
+    "distanceInMeters": 39229.17984858,
+    "extId": "a0R4a000000VvgGEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-24",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.729,
+      "lat": -36.749
+    },
+    "name": "Northcare Accident and Medical",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Northcare+Accident+and+Medical/@-36.7490773,174.7285571,15z/data=!4m5!3m4!1s0x0:0x6bed2cb071738ca0!8m2!3d-36.7490773!4d174.7285571?shorturl=1",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-22",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
