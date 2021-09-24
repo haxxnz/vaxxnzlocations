@@ -810,11 +810,19 @@
     ],
     "2021-10-11": [
       {
+        "localStartTime": "11:00:00",
+        "durationSeconds": 900
+      },
+      {
         "localStartTime": "11:30:00",
         "durationSeconds": 900
       },
       {
         "localStartTime": "13:45:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "16:15:00",
         "durationSeconds": 900
       }
     ],
@@ -855,10 +863,6 @@
       },
       {
         "localStartTime": "11:45:00",
-        "durationSeconds": 900
-      },
-      {
-        "localStartTime": "13:30:00",
         "durationSeconds": 900
       },
       {
@@ -1319,5 +1323,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-24T03:14:09.812Z"
+  "lastUpdatedAt": "2021-09-24T03:40:38.244Z"
 }
