@@ -6897,7 +6897,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a6c3cbc7cfcae6c1c9d4c3cbc3c2cfc5c7ca88c5c988c8dc\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e1848c80888da1868e93848c84858882808dcf828ecf8f9b\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -18117,6 +18117,61 @@
     }
   },
   {
+    "lat": -37.20048,
+    "lng": 174.9026545,
+    "name": "Liddells Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "48 King Street, Pukekohe",
+    "telephone": "(09) 238 7166",
+    "faxNumber": "(09) 238 9495",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/liddells-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "Closed Sundays and public holidays"
+      ]
+    }
+  },
+  {
+    "lat": -37.5610921,
+    "lng": 175.9150637,
+    "name": "Katikati RSA and Citizens Club Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Katikati RSA and Citizens Club, Corner of Henry &amp; Main Roads, Katikati, Bay of Plenty 3129",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/western-bay-of-plenty-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -36.77290120000001,
     "lng": 174.76527450000003,
     "name": "Unichem Milford Pharmacy",
@@ -18779,61 +18834,6 @@
         "Parking is at Alexandra Park, entry from Campbell Crescent. Follow the arrows and traffic management staff who will direct you where to park.",
         "Mobility parking is available at 382 Manukau Road, accessed from the Southbound Lane (turn left) on Manukau Road.<br>Traffic direction signs will be in place along Manukau Road, Queen Mary Avenue, and Campbell Crescent."
       ]
-    }
-  },
-  {
-    "lat": -37.20048,
-    "lng": 174.9026545,
-    "name": "Liddells Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "48 King Street, Pukekohe",
-    "telephone": "(09) 238 7166",
-    "faxNumber": "(09) 238 9495",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/liddells-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "Closed Sundays and public holidays"
-      ]
-    }
-  },
-  {
-    "lat": -37.5610921,
-    "lng": 175.9150637,
-    "name": "Katikati RSA and Citizens Club Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Katikati RSA and Citizens Club, Corner of Henry &amp; Main Roads, Katikati, Bay of Plenty 3129",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/western-bay-of-plenty-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Wed": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
     }
   },
   {
