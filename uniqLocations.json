@@ -1083,7 +1083,7 @@
     "extId": "a0R4a000000Q4pnEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
-    "endDate": "2021-10-31",
+    "endDate": "2021-12-12",
     "location": {
       "lng": 172.575,
       "lat": -43.5319
@@ -1538,6 +1538,29 @@
     ],
     "description": "Public Transport: Bus routes #392, #394, #396 + Pukekohe train station |\r\nAccessible parking and drop off zones | \r\nAccessible and unisex toilets |\r\nForeign language translation service available |\r\nLow sensory environment - Available on request - lighting and noise.",
     "mapUrl": "https://goo.gl/maps/532wgmZBhrpqGAb56",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "14 Domett Street Waitara  Taranaki  4320",
+    "distanceInMeters": 14662.4328708,
+    "extId": "a0R4a000000QCqgEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-06-22",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.237,
+      "lat": -39.0028
+    },
+    "name": "Tui Ora, Domett Street, Waitara - Reserve",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/6U2HJ1tb1JLT6wdVA",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-10",
@@ -2524,7 +2547,7 @@
   },
   {
     "displayAddress": "316 Ti Rakau Drive, Burswood, Auckland 2013",
-    "distanceInMeters": 20773.75036302,
+    "distanceInMeters": 30437.17016804,
     "extId": "a0R4a000000QD7LEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -19768,7 +19791,7 @@
   },
   {
     "displayAddress": "6/507 Great South Road, Otahuhu, Auckland 1062",
-    "distanceInMeters": 20589.65319286,
+    "distanceInMeters": 28617.25229985,
     "extId": "a0R4a000000TeQ2EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -19945,6 +19968,65 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-25",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "68 Beach Road Auckland CBD  Auckland  1010",
+    "distanceInMeters": 8366.27017048,
+    "extId": "a0R4a000000TfUZEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-25",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.774,
+      "lat": -36.8476
+    },
+    "name": "The Doctors QuayMed - Britomart",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/GkLaYDeFBPGTRVXN6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-17",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -32121,6 +32203,37 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "3/317 Sunset Road Sunnynook  Auckland  632",
+    "distanceInMeters": 3624.11823646,
+    "extId": "a0R4a000000W1SYEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-29",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.74,
+      "lat": -36.7472
+    },
+    "name": "Sunset Road Family Doctors",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Sunset+Road+Family+Doctors/@-36.7472328,174.739737,15z/data=!4m5!3m4!1s0x0:0x9b0052a4713b3a2c!8m2!3d-36.7472328!4d174.739737",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-23",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
