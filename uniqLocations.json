@@ -16066,6 +16066,44 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "157 Great South Road Manurewa  Auckland  2102",
+    "distanceInMeters": 20000.28301118,
+    "extId": "a0R4a000000SyoLEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-27",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.895,
+      "lat": -37.0206
+    },
+    "name": "Manurewa Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "15:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Manurewa+Medical+Centre/@-37.020707,174.8927794,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d527e915be845:0xee78ecf510c00c9f!8m2!3d-37.020707!4d174.8949681",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Orewa Medical Plaza, 08 Tamariki Avenue, Orewa 0931",
     "distanceInMeters": 21101.23042631,
     "extId": "a0R4a000000Syu4EAC",
@@ -29989,6 +30027,79 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "280 Richmond Road Grey Lynn  Auckland  1021",
+    "distanceInMeters": 9602.60771707,
+    "extId": "a0R4a000000VSIgEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-24",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.732,
+      "lat": -36.8549
+    },
+    "name": "Home Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/280+Richmond+Road,+Grey+Lynn,+Auckland+1021,+New+Zealand/@-36.8551457,174.7297349,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d479e18a25c9b:0xb4ec9eb65151fb44!8m2!3d-36.8551457!4d174.7319236",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "2/8 Greenhithe Road Greenhithe  Auckland  0632",
     "distanceInMeters": 8520.98483744,
     "extId": "a0R4a000000VSMOEA4",
@@ -30243,6 +30354,7 @@
         "localEnd": "13:00:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets",
     "mapUrl": "https://goo.gl/maps/gUx6q3F5WNBABYua7",
     "tags": [],
     "type": "OnlineBooking",
@@ -30765,29 +30877,6 @@
       }
     ],
     "mapUrl": "https://goo.gl/maps/vaz8vEhtKeTpkJTW8",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-15",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Gallagher Academy of Performing Arts, Gate 2B Knighton Road Hillcrest  Hamilton  3216",
-    "distanceInMeters": 2917.56751454,
-    "extId": "a0R4a000000VUUFEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-23",
-    "endDate": "2021-09-23",
-    "location": {
-      "lng": 175.314,
-      "lat": -37.7842
-    },
-    "name": "University of Waikato",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/RjJVYmm4HR1zqpNs6",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-15",
