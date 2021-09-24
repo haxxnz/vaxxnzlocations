@@ -12667,7 +12667,7 @@
   },
   {
     "displayAddress": "463 Great South Road, Otahuhu, Auckland 1062",
-    "distanceInMeters": 20453.19463932,
+    "distanceInMeters": 28749.8379714,
     "extId": "a0R4a000000SWtSEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -18890,6 +18890,65 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "3 Watford Street Otara  Auckland  2023",
+    "distanceInMeters": 26654.79501858,
+    "extId": "a0R4a000000TZi4EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.874,
+      "lat": -36.9614
+    },
+    "name": "Otara Local Doctors",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/The+Local+Doctors/@-36.9620398,174.8729223,15z/data=!4m5!3m4!1s0x0:0xdbcb6ff78c4f11f1!8m2!3d-36.962045!4d174.8728249",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-20",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -32144,6 +32203,65 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "377a Remuera Road Remuera  Auckland  1050",
+    "distanceInMeters": 12342.48989222,
+    "extId": "a0R4a000000W1ECEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-27",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.798,
+      "lat": -36.8807
+    },
+    "name": "Remuera Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Remuera+Medical+Centre/@-36.8808247,174.7958275,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d485ee03c5801:0xa6800229a7a75ef5!8m2!3d-36.8808369!4d174.7980121",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-23",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
