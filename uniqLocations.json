@@ -1570,6 +1570,66 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "72 School Road, Wellsford 0900",
+    "distanceInMeters": 18766.32628275,
+    "extId": "a0R4a000000QCrPEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-08",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.513,
+      "lat": -36.2837
+    },
+    "name": "Wellsford Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "Free on-site parking | Accessible parking | Accessible toilets | Accepting walk-ins",
+    "mapUrl": "https://goo.gl/maps/2nq2tpEeJDpZeEZk7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "26-30 Constable Road   Waiuku  2123",
     "distanceInMeters": 16494.44304133,
     "extId": "a0R4a000000QCshEAG",
@@ -12643,7 +12703,7 @@
   },
   {
     "displayAddress": "463 Great South Road, Otahuhu, Auckland 1062",
-    "distanceInMeters": 20453.19463932,
+    "distanceInMeters": 28749.8379714,
     "extId": "a0R4a000000SWtSEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -19516,6 +19576,7 @@
         "localEnd": "19:30:00"
       }
     ],
+    "description": "No onsite parking - pay parking available nearby | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://www.google.com/maps/place/Caring+Clinic+Doctors/@-36.8481,174.7632083,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d47fafcd6dfdb:0xec9fb939577eb79c!8m2!3d-36.8481!4d174.765397",
     "tags": [],
     "type": "OnlineBooking",
@@ -20114,6 +20175,7 @@
         "localEnd": "18:45:00"
       }
     ],
+    "description": "Free parking available | Wheelchair accessible | No toilets onsite.",
     "mapUrl": "https://www.google.com/maps/place/Chemist+Warehouse+Sylvia+Park/@-36.9135747,174.8390456,15z/data=!4m5!3m4!1s0x0:0xa70d0858c8eb16e3!8m2!3d-36.9135868!4d174.8389821",
     "tags": [],
     "type": "OnlineBooking",
@@ -22805,15 +22867,15 @@
         "days": [
           "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localStart": "10:00:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
@@ -31994,6 +32056,7 @@
         "localEnd": "16:45:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://www.google.co.nz/maps/place/Avondale+Health+Centre/@-36.8983059,174.6967548,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d46c86776c63b:0x363eda3e21574bb!8m2!3d-36.8983096!4d174.6989589?hl=en&shorturl=1",
     "tags": [],
     "type": "OnlineBooking",
@@ -32105,6 +32168,7 @@
         "localEnd": "15:15:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://goo.gl/maps/vSyMA8bhsigJTfGv5",
     "tags": [],
     "type": "OnlineBooking",
@@ -32450,6 +32514,29 @@
     "timezone": "Pacific/Auckland",
     "openHours": [],
     "mapUrl": "https://www.google.com/maps/place/Hirangi+Marae/@-38.9821397,175.8017224,20z/data=!4m12!1m6!3m5!1s0x6d6bbc8ece3c80e7:0xd3f957931284e50d!2sHirangi+Marae!8m2!3d-38.9820618!4d175.8021165!3m4!1s0x6d6bbc8ece3c80e7:0xd3f957931284e50d!8m2!3d-38.9820618!4d175.802",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "15 Larne Street   Waikawa  9884",
+    "distanceInMeters": 63054.87059285,
+    "extId": "a0R4a000000W8h8EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-06",
+    "endDate": "2021-11-18",
+    "location": {
+      "lng": 169.135,
+      "lat": -46.6225
+    },
+    "name": "Waikawa Niagara Community Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/15+Larne+Street,+Waikawa+9884,+New+Zealand/@-46.6225173,169.1326883,17z/data=!3m1!4b1!4m5!3m4!1s0xa82d6d4bc81ee10d:0xbe32657d76ccb1f!8m2!3d-46.6225173!4d169.134877",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-24",
