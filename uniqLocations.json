@@ -1626,7 +1626,7 @@
         "localEnd": "10:00:00"
       }
     ],
-    "description": "Situated at 30 Constable Road, Waiuku | Drive through vaccination centre by appointment only |  Follow the signs in the carpark on the left of our building | Please come 10 minutes before your appointment | Accessible and onsite parking available | Accessible toilets | If you have any issues with booking, you are welcome in the first instance to email our staff for assistance | Email to covidvax@waiukumedical.co.nz",
+    "description": "Situated at 30 Constable Road, Waiuku | Accessible and onsite parking available | Accessible toilets | If you have any issues with booking, you are welcome in the first instance to email our staff for assistance | Email to covidvax@waiukumedical.co.nz",
     "mapUrl": "https://goo.gl/maps/HftjBJKXYfCVFPaZ9",
     "tags": [],
     "type": "OnlineBooking",
@@ -12643,7 +12643,7 @@
   },
   {
     "displayAddress": "463 Great South Road, Otahuhu, Auckland 1062",
-    "distanceInMeters": 28749.8379714,
+    "distanceInMeters": 20453.19463932,
     "extId": "a0R4a000000SWtSEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -24513,7 +24513,7 @@
     "extId": "a0R4a000000UM0TEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
-    "endDate": "2021-12-31",
+    "endDate": "2021-12-05",
     "location": {
       "lng": 176.07,
       "lat": -38.6873
@@ -27186,66 +27186,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-03",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "272 Postman Road, Dairy Flat, Auckland 0794",
-    "distanceInMeters": 16351.85182344,
-    "extId": "a0R4a000000UjYtEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-15",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.653,
-      "lat": -36.6564
-    },
-    "name": "North Shore Airport",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "14:45:00"
-      }
-    ],
-    "description": "Drive-Through Vaccination Centre | Accessible toilets available | Low sensory environment - available on request - light and noise.",
-    "mapUrl": "https://www.google.com/maps/place/272+Postman+Road,+Dairy+Flat+0794,+New+Zealand/@-36.6567328,174.6507386,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d232955be186d:0x62f8c51a807da03a!8m2!3d-36.6567328!4d174.6529273",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-11",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -31704,21 +31644,7 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -31732,10 +31658,24 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Toilets available. Wheelchair ramp access. Onsite parking.",
