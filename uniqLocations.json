@@ -2576,7 +2576,7 @@
   },
   {
     "displayAddress": "14 Highland Park Drive, Highland Park  Auckland  2010",
-    "distanceInMeters": 33394.42215209,
+    "distanceInMeters": 18727.17457074,
     "extId": "a0R4a000000QD5ZEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-18",
@@ -5455,17 +5455,17 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "9 Isle Street   Queenstown  9300",
-    "distanceInMeters": 0.46756231,
+    "displayAddress": "1 Memorial Street, Queenstown  9300",
+    "distanceInMeters": 45.16037379,
     "extId": "a0R4a000000QWVCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
     "endDate": "2021-12-05",
     "location": {
       "lng": 168.66,
-      "lat": -45.0294
+      "lat": -45.0295
     },
-    "name": "Queenstown Medical Centre",
+    "name": "Queenstown Medical Centre - Memorial Hall",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -5504,7 +5504,7 @@
         "localEnd": "11:00:00"
       }
     ],
-    "mapUrl": "https://www.google.com/maps/place/Queenstown+Medical+Centre/@-45.0350048,168.6755235,15z/data=!4m5!3m4!1s0x0:0x84e0b6a5dfd5b172!8m2!3d-45.0300006!4d168.6582286",
+    "mapUrl": "https://goo.gl/maps/MTqU7vbAY4fA62fu8",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-17",
@@ -30977,6 +30977,7 @@
         "localEnd": "16:45:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory - not available.",
     "mapUrl": "https://www.google.co.nz/maps/place/Kowhai+Surgery/@-36.3992345,174.6658031,18.94z/data=!4m12!1m6!3m5!1s0x6d0cdc2179450245:0xf42b3fdcb0dd27a8!2sKowhai+Surgery!8m2!3d-36.3991017!4d174.6659266!3m4!1s0x6d0cdc2179450245:0xf42b3fdcb0dd27a8!8m2!3d-36.3991017!4d",
     "tags": [],
     "type": "OnlineBooking",
@@ -32218,66 +32219,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "39 Layard Street Avondale  Auckland  1026",
-    "distanceInMeters": 2677.35464647,
-    "extId": "a0R4a000000VrLNEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-27",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.699,
-      "lat": -36.8983
-    },
-    "name": "Avondale Health Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:45:00"
-      }
-    ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
-    "mapUrl": "https://www.google.co.nz/maps/place/Avondale+Health+Centre/@-36.8983059,174.6967548,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d46c86776c63b:0x363eda3e21574bb!8m2!3d-36.8983096!4d174.6989589?hl=en&shorturl=1",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-21",
-    "locationPool": "default",
-    "exhausted": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Whanau House, Corner Edsel & Catherine Streets Henderson  Auckland  0612",
     "distanceInMeters": 7702.19955143,
     "extId": "a0R4a000000VrpwEAC",
@@ -32463,6 +32404,29 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "501 Gloucester Street Taradale  Napier  4142",
+    "distanceInMeters": 3321.36468263,
+    "extId": "a0R4a000000VvhIEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-29",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 176.841,
+      "lat": -39.5457
+    },
+    "name": "EIT Hawkes Bay",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/EIT+Hawkes+Bay/@-39.5467268,176.8352971,17z/data=!4m5!3m4!1s0x6d69b471d13aadf9:0xe8d151884999b74f!8m2!3d-39.5458858!4d176.8408507",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "110 Russell Street South   Hastings  4110",
     "distanceInMeters": 13421.23659378,
     "extId": "a0R4a000000Vvu8EAC",
@@ -32516,14 +32480,7 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:15:00"
@@ -32537,7 +32494,14 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:15:00"
