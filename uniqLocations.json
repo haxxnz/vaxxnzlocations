@@ -12453,6 +12453,20 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "11:30:00",
@@ -21253,6 +21267,7 @@
         "localEnd": "16:45:00"
       }
     ],
+    "description": "Onsite parking | Accessible toilets.",
     "mapUrl": "https://goo.gl/maps/4xEqRXvxKJrNGHmp7",
     "tags": [],
     "type": "OnlineBooking",
@@ -21326,6 +21341,7 @@
         "localEnd": "17:30:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://www.google.com/maps/place/Shop+17%2F588+Chapel+Road,+Botany+Downs,+Auckland+2013,+New+Zealand/@-36.9335178,174.911221,17z/data=!3m2!4b1!5s0x6d0d4c9dc79bc35b:0xfa3b791211832620!4m5!3m4!1s0x6d0d4c9dce47d5bf:0x8ad0604c9c0e9405!8m2!3d-36.9335221!4d174",
     "tags": [],
     "type": "OnlineBooking",
@@ -21543,15 +21559,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Shop 228 | Level 2 | Glenfield Mall| Downing Street | Glenfield | Auckland",
-    "distanceInMeters": 15727.61676958,
+    "displayAddress": "Shop 228, Level 2, Glenfield Mall, Downing Street, Glenfield, Auckland 0629",
+    "distanceInMeters": 15668.83587625,
     "extId": "a0R4a000000Tr8iEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
     "endDate": "2021-12-23",
     "location": {
       "lng": 174.722,
-      "lat": -36.7819
+      "lat": -36.7824
     },
     "name": "Life Pharmacy Glenfield",
     "timezone": "Pacific/Auckland",
@@ -21606,6 +21622,7 @@
         "localEnd": "16:15:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | No toilets onsite - available in mall.",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.7825935,174.7199911,17z/data=!4m12!1m6!3m5!1s0x6d0d390f11e8a405:0xddedb5c366fc534e!2sLife+Pharmacy!8m2!3d-36.7825935!4d174.7221798!3m4!1s0x6d0d390f11e8a405:0xddedb5c366fc534e!8m2!3d-36.7825935!4d174.722",
     "tags": [],
     "type": "OnlineBooking",
@@ -22191,6 +22208,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible  Toilets available.",
     "mapUrl": "https://goo.gl/maps/BiMLEWbXXXZnma9V6",
     "tags": [],
     "type": "OnlineBooking",
@@ -23465,6 +23483,7 @@
         "localEnd": "15:45:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | No toilets available.",
     "mapUrl": "https://g.page/life_pharmacy_howick_village?share",
     "tags": [],
     "type": "OnlineBooking",
@@ -26939,8 +26958,8 @@
         "days": [
           "sun"
         ],
-        "localStart": "10:30:00",
-        "localEnd": "13:15:00"
+        "localStart": "10:00:00",
+        "localEnd": "14:15:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Southmall+Pharmacy+-+FREE+PRESCRIPTIONS.+FREE+BLISTER+PACKS.+DELIVERIES/@-37.0223894,174.8971063,15z/data=!4m5!3m4!1s0x0:0x230b93c60ca2a219!8m2!3d-37.0223894!4d174.8971063",
@@ -27240,7 +27259,7 @@
         "days": [
           "sun"
         ],
-        "localStart": "09:30:00",
+        "localStart": "10:15:00",
         "localEnd": "15:30:00"
       },
       {
@@ -27989,15 +28008,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Shop 2 Meadowbank Shopping Centre, 35 St Johns Road eadowbank  Auckland  1072",
-    "distanceInMeters": 12535.72908664,
+    "displayAddress": "Shop 2, Meadowbank Shopping Centre, 35 St Johns Road, Meadowbank, Auckland 1072",
+    "distanceInMeters": 12578.45371257,
     "extId": "a0R4a000000V12hEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-19",
     "endDate": "2021-12-23",
     "location": {
       "lng": 174.828,
-      "lat": -36.876
+      "lat": -36.8755
     },
     "name": "Life Pharmacy Meadowbank",
     "timezone": "Pacific/Auckland",
@@ -28052,6 +28071,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Meadowbank/@-36.8760131,174.8278125,15z/data=!4m5!3m4!1s0x0:0xc10189f8daedf83f!8m2!3d-36.8760131!4d174.8278125",
     "tags": [],
     "type": "OnlineBooking",
@@ -28142,6 +28162,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://goo.gl/maps/rHDwcLmjUX61Mjdk7",
     "tags": [],
     "type": "OnlineBooking",
@@ -30866,6 +30887,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "Free parking available | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://www.google.co.nz/maps/place/Life+Pharmacy+NorthWest/@-36.8184968,174.6094733,17z/data=!4m5!3m4!1s0x6d0d3fe47bf13c23:0x676235bf35ffd256!8m2!3d-36.8184885!4d174.6116871",
     "tags": [],
     "type": "OnlineBooking",
