@@ -32525,14 +32525,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
-          "mon"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:00:00"
@@ -32584,13 +32584,6 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:00:00",
@@ -32598,10 +32591,17 @@
       },
       {
         "days": [
-          "sat"
+          "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "14:00:00"
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
       },
       {
         "days": [
@@ -32612,10 +32612,10 @@
       },
       {
         "days": [
-          "wed"
+          "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "12:00:00"
+        "localEnd": "14:00:00"
       }
     ],
     "description": "Onsite parking | No toilets available.",
