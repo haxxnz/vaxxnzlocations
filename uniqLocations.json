@@ -22111,7 +22111,7 @@
   },
   {
     "displayAddress": "8a/597 Great South Road Manukau City Centre  Auckland  2104",
-    "distanceInMeters": 19183.85819004,
+    "distanceInMeters": 24112.5672809,
     "extId": "a0R4a000000TsNMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -27012,6 +27012,72 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "99 St Lukes Road St Lukes  Auckland  1025",
+    "distanceInMeters": 5154.74370231,
+    "extId": "a0R4a000000UegwEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-29",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.736,
+      "lat": -36.8851
+    },
+    "name": "St Lukes Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/HNFx6CdhNo44svaR9",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-02",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Queen Street Car Park, Queen Street   Upper Hutt  5018",
     "distanceInMeters": 27378.79046416,
     "extId": "a0R4a000000UeolEAC",
@@ -29009,14 +29075,14 @@
           "sun"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:30:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "17:30:00"
+        "localStart": "12:00:00",
+        "localEnd": "18:00:00"
       }
     ],
     "description": "A by Māori, for Māori partnership to increase the number of Māori vaccinations in our rohe",
@@ -31135,7 +31201,7 @@
   },
   {
     "displayAddress": "9/597 Great South Road Manukau City Centre  Auckland  2104",
-    "distanceInMeters": 19216.15726679,
+    "distanceInMeters": 24084.56133083,
     "extId": "a0R4a000000VTLEEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -32354,7 +32420,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "12:00:00"
@@ -32368,7 +32434,7 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "12:00:00"
@@ -32444,6 +32510,65 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "32 Mokoia Road Birkenhead  Auckland  626",
+    "distanceInMeters": 11209.54010808,
+    "extId": "a0R4a000000VunMEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-29",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.725,
+      "lat": -36.812
+    },
+    "name": "Life Pharmacy Birkenhead",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Birkenhead/@-36.8122036,174.7228466,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d38f3961e0f15:0x1965ca35aee3526!8m2!3d-36.8122282!4d174.7250308",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "226 West Coast Road Glen Eden  Auckland  602",
     "distanceInMeters": 2994.28890581,
     "extId": "a0R4a000000VuotEAC",
@@ -32459,13 +32584,6 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "09:00:00",
@@ -32473,10 +32591,17 @@
       },
       {
         "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "12:00:00"
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "14:00:00"
       },
       {
         "days": [
@@ -32487,10 +32612,10 @@
       },
       {
         "days": [
-          "sat"
+          "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "14:00:00"
+        "localEnd": "12:00:00"
       }
     ],
     "description": "Onsite parking | No toilets available.",
@@ -32772,7 +32897,7 @@
       },
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:15:00"
@@ -32786,7 +32911,7 @@
       },
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:15:00"
@@ -33067,6 +33192,13 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "08:00:00",
@@ -33081,20 +33213,6 @@
       },
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "08:00:00",
@@ -33103,6 +33221,13 @@
       {
         "days": [
           "fri"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sun"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -33140,6 +33265,13 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -33148,13 +33280,6 @@
       {
         "days": [
           "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
