@@ -10351,6 +10351,13 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "10:00:00",
@@ -10648,7 +10655,7 @@
         "days": [
           "sat"
         ],
-        "localStart": "09:00:00",
+        "localStart": "10:00:00",
         "localEnd": "14:00:00"
       },
       {
@@ -13913,7 +13920,7 @@
     "extId": "a0R4a000000SdIkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2021-11-30",
+    "endDate": "2021-10-30",
     "location": {
       "lng": 174.792,
       "lat": -41.2467
@@ -15632,6 +15639,30 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-23",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "55 Jack Hinton Drive Addington,Christchurch, 8024",
+    "distanceInMeters": 18083.48805789,
+    "extId": "a0R4a000000SwFcEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 172.601,
+      "lat": -43.5453
+    },
+    "name": "Christchurch Arena Drive Through Site*",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "**Please use the Wrights Road entrance to the stadium car park. You will be directed where to go upon entry.**\r\n*Please note this is a drive in clinic. For your and our safety, walk-ins will not be permitted.*\r\nPeople being vaccinated must be seated next to a window and their full arm/shoulder must be accessible through the window.\r\nYou’ll be asked to queue. You’ll need to park and wait for twenty minutes following your vaccination. Please allow at least 1 hour for the entire process. Bring a book, your knitting and/or your phone charger.",
+    "mapUrl": "https://goo.gl/maps/x6KqifajiWdpHJT79",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-19",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
@@ -33265,7 +33296,14 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -33286,14 +33324,7 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
