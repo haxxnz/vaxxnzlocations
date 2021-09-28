@@ -5555,7 +5555,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ceaba3afa7a28ea9a1bcaba3abaaa7adafa2e0ada1e0a0b4\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"dabfb7bbb3b69abdb5a8bfb7bfbeb3b9bbb6f4b9b5f4b4a0\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -9413,34 +9413,6 @@
         "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.6953635,
-    "lng": 174.751502,
-    "name": "Torbay Health (Torbay Medical Centre, Torbay Skin Clinic)",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "By invitation only"
-    ],
-    "address": "1042 Beach Road, Torbay, Auckland",
-    "telephone": "(09) 477 9000",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/torbay-health-torbay-medical-centre-torbay/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "<strong>Please note:&nbsp;</strong>&nbsp;",
-        "Outside of these hours, please call our number and you will be connected to Shore Care after hours clinic."
-      ]
     }
   },
   {
@@ -13331,36 +13303,6 @@
       "notesHtml": [
         "Due to COVID19 the opening hours have changed. Our normal opening hours for public holidays are 9 am - 2pm. We are closed on Easter day and Christmas day and some other dates.",
         "Please call and check as it may vary."
-      ]
-    }
-  },
-  {
-    "lat": -36.81225850000001,
-    "lng": 174.72502889999998,
-    "name": "Life Pharmacy Birkenhead",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Walk in"
-    ],
-    "address": "32 Mokoia Road, Birkenhead, Auckland",
-    "telephone": "(09) 480 7001",
-    "faxNumber": "(09) 480 7817",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-birkenhead/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat – Sun": "10:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Good Friday (15 Apr), Easter Sunday (17 Apr), ANZAC Day (25 Apr). Open Labour Day (25 Oct, 10:00 AM – 4:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 4:00 PM), Easter Monday (18 Apr, 10:00 AM – 4:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 4:00 PM)."
-      },
-      "notesHtml": [
-        "CLOSED FOR LUNCH BETWEEN 1-1:45PM&nbsp;",
-        "&nbsp;",
-        "&nbsp;"
       ]
     }
   },
@@ -19770,6 +19712,67 @@
       },
       "notesHtml": [
         "<strong>After Hours: </strong>Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you."
+      ]
+    }
+  },
+  {
+    "lat": -36.6953635,
+    "lng": 174.751502,
+    "name": "Torbay Health (Torbay Medical Centre, Torbay Skin Clinic)",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "1042 Beach Road, Torbay, Auckland",
+    "telephone": "(09) 477 9000",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/torbay-health-torbay-medical-centre-torbay/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "9:00 AM – 4:30 PM",
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "<strong>Please note:&nbsp;</strong>&nbsp;",
+        "Outside of these hours, please call our number and you will be connected to Shore Care after hours clinic."
+      ]
+    }
+  },
+  {
+    "lat": -36.81225850000001,
+    "lng": 174.72502889999998,
+    "name": "Life Pharmacy Birkenhead",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Walk in"
+    ],
+    "address": "32 Mokoia Road, Birkenhead, Auckland",
+    "telephone": "(09) 480 7001",
+    "faxNumber": "(09) 480 7817",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-birkenhead/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat": "9:00 AM – 5:30 PM",
+        "Sun": "10:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Good Friday (15 Apr), Easter Sunday (17 Apr), ANZAC Day (25 Apr). Open Labour Day (25 Oct, 10:00 AM – 4:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 4:00 PM), Easter Monday (18 Apr, 10:00 AM – 4:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 4:00 PM)."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "&nbsp;",
+        "&nbsp;"
       ]
     }
   }
