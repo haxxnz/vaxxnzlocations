@@ -3039,7 +3039,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"07626a666e6b47606875626a62636e64666b29646829697d\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"c2a7afa3abae82a5adb0a7afa7a6aba1a3aeeca1adecacb8\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -13347,33 +13347,6 @@
     }
   },
   {
-    "lat": -36.6204213,
-    "lng": 174.6715545,
-    "name": "Unichem Weiti Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "2/3 Brian Smith Drive, Silverdale",
-    "telephone": "(09) 972 5892",
-    "faxNumber": "(09) 972 5893",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-weiti-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat – Sun": "10:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10:00 AM – 2:00 PM), Auckland Anniversary (31 Jan, 10:00 AM – 2:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 2:00 PM), Easter Monday (18 Apr, 10:00 AM – 2:00 PM), ANZAC Day (25 Apr, 10:00 AM – 2:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 2:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.6750439,
     "lng": 176.222781,
     "name": "Life Pharmacy Bayfair",
@@ -19847,6 +19820,144 @@
       },
       "exceptions": {
         "Public Holidays": "Open on all public holidays.."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9415781,
+    "lng": 174.7872903,
+    "name": "Mangere Bridge Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "23 Coronation Road, Māngere Bridge, Auckland",
+    "telephone": "(09) 636 4249",
+    "faxNumber": "(09) 636 6228",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/mangere-bridge-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 3:00 PM",
+        "Sun": "10:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.4676543,
+    "lng": 175.28016379999997,
+    "name": "Te Waiora Community Health Services",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "By invitation only",
+      "Make an appointment"
+    ],
+    "address": "10 Ladys Mile, Foxton",
+    "telephone": "(06) 363 6030",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-waiora-community-health-services/at/10-ladys-mile-foxton/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Horowhenua After Hours Clinic."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.54682519999999,
+    "lng": 175.41198329999997,
+    "name": "Te Waiora Community Health Services",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "By invitation only",
+      "Make an appointment"
+    ],
+    "address": "2 Stout Street, Shannon",
+    "telephone": "(06) 363 6030",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-waiora-community-health-services/at/2-stout-street-shannon/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "8:00 AM – 5:00 PM",
+        "Wed": "8:00 AM – 5:00 PM",
+        "Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Horowhenua After Hours Clinic."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.3699631,
+    "lng": 175.2349365,
+    "name": "Te Waiora Community Health Services",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "1:30 PM to 3:30 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "By invitation only",
+      "Make an appointment"
+    ],
+    "address": "6 Koputara Road, Himatangi Beach",
+    "telephone": "(06) 363 6030",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-waiora-community-health-services/at/6-koputara-road-himatangi-beach/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "9:00 AM – 12:00 PM",
+        "Thu": "1:30 PM – 3:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Horowhenua After Hours Clinic."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.6204213,
+    "lng": 174.6715545,
+    "name": "Unichem Weiti Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "2/3 Brian Smith Drive, Silverdale",
+    "telephone": "(09) 972 5892",
+    "faxNumber": "(09) 972 5893",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-weiti-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat – Sun": "10:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10:00 AM – 2:00 PM), Auckland Anniversary (31 Jan, 10:00 AM – 2:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 2:00 PM), Easter Monday (18 Apr, 10:00 AM – 2:00 PM), ANZAC Day (25 Apr, 10:00 AM – 2:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 2:00 PM)."
       },
       "notesHtml": []
     }
