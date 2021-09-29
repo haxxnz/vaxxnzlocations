@@ -30485,21 +30485,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:15:00",
         "localEnd": "16:15:00"
@@ -30513,7 +30499,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:15:00",
         "localEnd": "16:15:00"
@@ -30545,14 +30545,14 @@
     "openHours": [
       {
         "days": [
-          "sun"
+          "sat"
         ],
         "localStart": "09:15:00",
         "localEnd": "16:15:00"
       },
       {
         "days": [
-          "sat"
+          "sun"
         ],
         "localStart": "09:15:00",
         "localEnd": "16:15:00"
@@ -30583,35 +30583,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
@@ -30625,10 +30597,38 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/29BzErjrY4VLAyB66",
@@ -31795,21 +31795,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "12:00:00",
         "localEnd": "17:00:00"
@@ -31823,7 +31809,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "12:00:00",
         "localEnd": "17:00:00"
@@ -32380,21 +32380,7 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -32408,10 +32394,24 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Toilets available. Wheelchair ramp access. Onsite parking.",
@@ -32723,14 +32723,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "12:00:00"
@@ -32744,7 +32737,14 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "12:00:00"
@@ -32776,13 +32776,6 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:00:00",
@@ -32794,6 +32787,13 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/9UySg9YLTJhYAFTP9",
@@ -32821,21 +32821,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "14:30:00",
         "localEnd": "16:15:00"
@@ -32849,7 +32835,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "14:30:00",
         "localEnd": "16:15:00"
@@ -32940,21 +32940,7 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
@@ -32968,7 +32954,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
@@ -32999,6 +32999,20 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "10:00:00",
@@ -33014,20 +33028,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:00:00"
@@ -33058,24 +33058,10 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "14:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
         "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
       },
       {
         "days": [
@@ -33086,10 +33072,24 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
         "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "14:00:00"
       }
     ],
     "description": "Onsite parking | No toilets available.",
@@ -33423,7 +33423,14 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
@@ -33444,14 +33451,7 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "mon"
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
@@ -33580,7 +33580,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "tue"
         ],
         "localStart": "15:00:00",
         "localEnd": "20:00:00"
@@ -33594,14 +33594,14 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "15:00:00",
         "localEnd": "20:00:00"
       },
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "15:00:00",
         "localEnd": "20:00:00"
@@ -33837,6 +33837,13 @@
     "openHours": [
       {
         "days": [
+          "tue"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
           "mon"
         ],
         "localStart": "13:00:00",
@@ -33844,7 +33851,7 @@
       },
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:15:00"
@@ -33859,13 +33866,6 @@
       {
         "days": [
           "thu"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "wed"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:15:00"
@@ -33919,7 +33919,7 @@
     "openHours": [
       {
         "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -33933,7 +33933,7 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -33992,21 +33992,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -34020,7 +34006,21 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -34051,6 +34051,20 @@
     "openHours": [
       {
         "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "mon"
         ],
         "localStart": "09:00:00",
@@ -34065,21 +34079,7 @@
       },
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
