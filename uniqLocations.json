@@ -2576,7 +2576,7 @@
   },
   {
     "displayAddress": "14 Highland Park Drive, Highland Park  Auckland  2010",
-    "distanceInMeters": 18958.84908881,
+    "distanceInMeters": 33394.42215209,
     "extId": "a0R4a000000QD5ZEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-18",
@@ -6987,6 +6987,7 @@
         "localEnd": "15:00:00"
       }
     ],
+    "description": "Next clinic date is October 28th.",
     "mapUrl": "https://goo.gl/maps/m8fgcttfYSCbhH5w6",
     "tags": [],
     "type": "OnlineBooking",
@@ -19975,6 +19976,80 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "2/32 Canning Cres Mangere  Auckland  2022",
+    "distanceInMeters": 27101.40882158,
+    "extId": "a0R4a000000Te9kEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-30",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.803,
+      "lat": -36.9692
+    },
+    "name": "Turuki Health Care - Māngere",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "description": "Accessible to all whaanau. Nau Mai, Haere Mai\r\nFree onsite parking | Wheelchair accessible | Accessible toilets",
+    "mapUrl": "https://g.page/turuki?share",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "55a Glenvar Ridge Road, Long Bay, Auckland 0630",
     "distanceInMeters": 11083.92591288,
     "extId": "a0R4a000000TeCFEA0",
@@ -24313,6 +24388,7 @@
         "localEnd": "16:30:00"
       }
     ],
+    "description": "Next event Tuesday 19 October",
     "mapUrl": "https://www.google.com/maps/place/Taupo+Events+Centre/@-38.6777986,176.0936695,15z/data=!4m12!1m6!3m5!1s0x0:0xefa46e4544d8eab!2sTaupo+Events+Centre!8m2!3d-38.6778028!4d176.0936594!3m4!1s0x0:0xefa46e4544d8eab!8m2!3d-38.6778028!4d176.0936594",
     "tags": [],
     "type": "OnlineBooking",
@@ -26857,6 +26933,29 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "17 Grey Street   Waitara  4320",
+    "distanceInMeters": 14503.34542187,
+    "extId": "a0R4a000000UdxQEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-06",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.236,
+      "lat": -39.0032
+    },
+    "name": "Tui Ora, Knox Church, Waitara - Reserve",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.co.nz/maps/place/17+Grey+Street,+Waitara+4320,+New+Zealand/@-39.0032107,174.2354733,19z/data=!4m5!3m4!1s0x6d14582fca9235bf:0xb328cf22d58bd64d!8m2!3d-39.003235!4d174.2356414",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-02",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "145 Wai-Iti Road Highfield  Timaru  7910",
     "distanceInMeters": 68184.59236237,
     "extId": "a0R4a000000UdxkEAC",
@@ -29386,6 +29485,7 @@
         "localEnd": "13:45:00"
       }
     ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://www.google.co.nz/maps/place/11+West+Street,+Pukekohe,+Auckland+2120,+New+Zealand/@-37.2007264,174.9002466,21z/data=!4m13!1m7!3m6!1s0x6d12aa884bfef863:0xfd2e36b23a4127e!2s11+West+Street,+Pukekohe,+Auckland+2120,+New+Zealand!3b1!8m2!3d-37.2007411!4d",
     "tags": [],
     "type": "OnlineBooking",
@@ -29459,6 +29559,7 @@
         "localEnd": "19:15:00"
       }
     ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Sign language translator on Site | Foreign Languages Arabic, Mandarin, Hindi)",
     "mapUrl": "https://goo.gl/maps/kZQPz43dE418JZww5",
     "tags": [],
     "type": "OnlineBooking",
@@ -29577,6 +29678,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "No Toilets onsite | Wheelchair accessible | No onsite parking | Foreign Languages (Mandarin)",
     "mapUrl": "https://goo.gl/maps/EkJH8MHHTDJWoJs89",
     "tags": [],
     "type": "OnlineBooking",
@@ -29650,6 +29752,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "Accessible toilets in Plaza | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://www.google.com/maps/place/112+Whitford+Road,+Somerville,+Auckland+2014,+New+Zealand/@-36.9137107,174.9263079,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4b463404346f:0x264cf81b2b18296!8m2!3d-36.9137107!4d174.9284966",
     "tags": [],
     "type": "OnlineBooking",
@@ -29768,6 +29871,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://www.google.com/maps/place/45+Picton+Street,+Howick,+Auckland+2014,+New+Zealand/@-36.8933761,174.9305203,18.75z/data=!4m5!3m4!1s0x6d0d4b28b91eb409:0x93930c936c441c93!8m2!3d-36.8936567!4d174.9308474",
     "tags": [],
     "type": "OnlineBooking",
@@ -29834,6 +29938,7 @@
         "localEnd": "12:15:00"
       }
     ],
+    "description": "No toilets onsite | Wheelchair accessible | Onsite parking",
     "mapUrl": "https://g.page/RoyalHeightsPharmacy?share",
     "tags": [],
     "type": "OnlineBooking",
@@ -29886,6 +29991,7 @@
         "localEnd": "17:45:00"
       }
     ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages by appointment",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.7878775,174.7699741,15z/data=!4m5!3m4!1s0x0:0xad0819cd55540a7f!8m2!3d-36.7878775!4d174.7699741",
     "tags": [],
     "type": "OnlineBooking",
@@ -30019,7 +30125,7 @@
         "localEnd": "19:45:00"
       }
     ],
-    "description": "Back Entrance: 72 Cavendish Drive, Manukau, 2104",
+    "description": "Back Entrance: 72 Cavendish Drive, Manukau, 2104\r\n\r\nNo toilets onsite | Wheelchair accessible | Free onsite parking | Sign language Translator by appointment",
     "mapUrl": "https://g.page/bargain-chemist-manukau?share",
     "tags": [],
     "type": "OnlineBooking",
@@ -32482,7 +32588,7 @@
   },
   {
     "displayAddress": "6 Hibiscus Coast Highway Silverdale  Auckland  932",
-    "distanceInMeters": 19426.33562384,
+    "distanceInMeters": 24791.65378017,
     "extId": "a0R4a000000VmPNEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
@@ -32646,6 +32752,111 @@
     ],
     "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access.",
     "mapUrl": "https://goo.gl/maps/KGyC5MafQxpwASUX6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "323 Main Rd Huapai  Auckland  810",
+    "distanceInMeters": 18407.63672614,
+    "extId": "a0R4a000000VqoNEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-01",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.546,
+      "lat": -36.7725
+    },
+    "name": "Unichem Huapai Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/9UySg9YLTJhYAFTP9",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-29",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "39 Layard Street Avondale  Auckland  1026",
+    "distanceInMeters": 13482.53659833,
+    "extId": "a0R4a000000VrLNEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-30",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.699,
+      "lat": -36.8983
+    },
+    "name": "Avondale Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      }
+    ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
+    "mapUrl": "https://www.google.co.nz/maps/place/Avondale+Health+Centre/@-36.8983059,174.6967548,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d46c86776c63b:0x363eda3e21574bb!8m2!3d-36.8983096!4d174.6989589?hl=en&shorturl=1",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-21",
@@ -33153,6 +33364,13 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "10:00:00",
@@ -33619,21 +33837,14 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
           "tue"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "thu"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:15:00"
@@ -33647,7 +33858,14 @@
       },
       {
         "days": [
-          "mon"
+          "thu"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:15:00"
@@ -33701,7 +33919,35 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "mon"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -33716,34 +33962,6 @@
       {
         "days": [
           "sat"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -33871,6 +34089,61 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-27",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "16 Clendon Street Naenae  Lower Hutt  5011",
+    "distanceInMeters": 16580.20112602,
+    "extId": "a0R4a000000WHXvEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-02",
+    "endDate": "2021-10-22",
+    "location": {
+      "lng": 174.941,
+      "lat": -41.2018
+    },
+    "name": "Naenae Drive Thru",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/Te+Umiumiga+Tokelau+Hutt+Valley/@-41.2195673,174.9026323,13z/data=!4m8!1m2!2m1!1stokelau+naenae!3m4!1s0x6d47557d6f6b4f4b:0x5e1fd4397c4f5962!8m2!3d-41.2018437!4d174.9407151",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Miraka Dairy Factory, 1124-1160 Forest Road   Mokai  3377",
+    "distanceInMeters": 51577.82982021,
+    "extId": "a0R4a000000WK6BEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-28",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 175.928,
+      "lat": -38.5243
+    },
+    "name": "Mokai Vaccination Drive-through",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:00:00"
+      }
+    ],
+    "description": "Community Drive-through event October 8th",
+    "mapUrl": "https://www.google.com/maps/place/Miraka+Dairy+Factory/@-38.5243314,175.9261019,17z/data=!4m12!1m6!3m5!1s0x6d6c74cc82953109:0x62bf40bc436e17e6!2sMiraka+Dairy+Factory!8m2!3d-38.5243314!4d175.9282906!3m4!1s0x6d6c74cc82953109:0x62bf40bc436e17e6!8m2!3d-38.524",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-28",
     "locationPool": "default",
     "exhausted": false,
     "excludeFromSearch": false,
