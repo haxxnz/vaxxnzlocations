@@ -1,11 +1,5 @@
 {
   "availabilityDates": {
-    "2021-09-30": [
-      {
-        "localStartTime": "09:30:00",
-        "durationSeconds": 6000
-      }
-    ],
     "2021-10-05": [
       {
         "localStartTime": "10:15:00",
@@ -162,6 +156,10 @@
     ],
     "2021-10-20": [
       {
+        "localStartTime": "09:30:00",
+        "durationSeconds": 900
+      },
+      {
         "localStartTime": "09:45:00",
         "durationSeconds": 900
       },
@@ -213,5 +211,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-09-30T23:58:13.886Z"
+  "lastUpdatedAt": "2021-10-01T00:23:08.116Z"
 }
