@@ -7624,7 +7624,7 @@
   },
   {
     "displayAddress": "Goldfields Shopping Centre, 100 Mary Street   Thames  3500",
-    "distanceInMeters": 31430.99469099,
+    "distanceInMeters": 0.14084175,
     "extId": "a0R4a000000Rfp4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-27",
@@ -10220,7 +10220,7 @@
   },
   {
     "displayAddress": "546 Pollen Steet, Thames, Waikato 3500",
-    "distanceInMeters": 31204.70239913,
+    "distanceInMeters": 252.55891383,
     "extId": "a0R4a000000SKrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -11609,7 +11609,7 @@
   },
   {
     "displayAddress": "80 Kapanga Road   Coromandel  3506",
-    "distanceInMeters": 41275.04965381,
+    "distanceInMeters": 42265.96942894,
     "extId": "a0R4a000000SOnsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -13933,7 +13933,7 @@
   },
   {
     "displayAddress": "64 Albert Street   Whitianga  3510",
-    "distanceInMeters": 22677.10811023,
+    "distanceInMeters": 36911.41620743,
     "extId": "a0R4a000000SaclEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -15157,7 +15157,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 139.70459177,
+    "distanceInMeters": 31479.72613605,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -15402,7 +15402,7 @@
   },
   {
     "displayAddress": "Coromandel Rescue Helicopter hanger; End Abrahamson Drive   Whitianga  3591",
-    "distanceInMeters": 24624.9637724,
+    "distanceInMeters": 36289.81607987,
     "extId": "a0R4a000000SrRDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -16513,7 +16513,7 @@
   },
   {
     "displayAddress": "58 Albert Street Whitianga  Waikato  3510",
-    "distanceInMeters": 22625.77707405,
+    "distanceInMeters": 36875.26306933,
     "extId": "a0R4a000000Syg7EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -18346,7 +18346,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 0.49181583,
+    "distanceInMeters": 31431.59397253,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -18645,7 +18645,7 @@
   },
   {
     "displayAddress": "817 Rolleston St   Thames  3500",
-    "distanceInMeters": 30927.35164259,
+    "distanceInMeters": 521.33254974,
     "extId": "a0R4a000000TLe4EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
@@ -34311,13 +34311,6 @@
       },
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "09:30:00",
@@ -34691,14 +34684,21 @@
           "thu"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:30:00"
       }
     ],
     "description": "Accessible toilets | Wheelchair accessible | Free Onsite parking",
@@ -34706,6 +34706,59 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "9 Belgium St Ostend  Waiheke Is  1081",
+    "distanceInMeters": 58223.66269535,
+    "extId": "a0R4a000000W3uDEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-01",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 175.045,
+      "lat": -36.7956
+    },
+    "name": "Ostend Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/fRBPZaTNEap9P3t89",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-27",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -35135,6 +35188,60 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "119 Sunnynook Road, Sunnynook, Auckland 0620",
+    "distanceInMeters": 40751.60838104,
+    "extId": "a0R4a000000WHlEEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-04",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.741,
+      "lat": -36.7594
+    },
+    "name": "Sunnynook Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "14:45:00"
+      }
+    ],
+    "description": "Onsite parking & street parking along Becroft Dr | No toilets available | Low sensory - not available.",
+    "mapUrl": "https://www.google.com/maps/place/Sunnynook+Medical+Centre/@-36.7604412,174.7406353,15z/data=!4m5!3m4!1s0x0:0xff2c914124092de3!8m2!3d-36.7604412!4d174.7406353",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Miraka Dairy Factory, 1124-1160 Forest Road   Mokai  3377",
     "distanceInMeters": 49639.73654176,
     "extId": "a0R4a000000WK6BEAW",
@@ -35161,6 +35268,67 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "16 Wade River Road Arkles Bay  Auckland  932",
+    "distanceInMeters": 27591.53567619,
+    "extId": "a0R4a000000WMzMEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-02",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.747,
+      "lat": -36.6369
+    },
+    "name": "Whangaparaoa Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "No onsite parking | Wheelchair accessible | Accessible toilets | Low sensory - light only.",
+    "mapUrl": "https://www.google.com/maps/place/Whangaparaoa+Medical+Centre/@-36.6379186,174.7471269,15z/data=!4m5!3m4!1s0x0:0x3e7ca7c0d0dd0de5!8m2!3d-36.6379186!4d174.7471269",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-30",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
