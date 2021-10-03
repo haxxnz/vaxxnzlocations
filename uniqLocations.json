@@ -6549,38 +6549,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "100 Heads Road Gonville  Whanganui  4501",
-    "distanceInMeters": 67110.5671667,
-    "extId": "a0R4a000000QsHbEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-19",
-    "endDate": "2021-10-02",
-    "location": {
-      "lng": 175.038,
-      "lat": -39.9439
-    },
-    "name": "Whanganui Hospital",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/Whanganui+Hospital/@-39.9440216,175.0355361,17z/data=!3m1!4b1!4m5!3m4!1s0x6d4003eebcc33519:0xfb20d6190406c4d4!8m2!3d-39.9440257!4d175.0377248",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-24",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "62 Victoria Ave City centre  Whanganui  4500",
     "distanceInMeters": 67040.77172927,
     "extId": "a0R4a000000QsKBEA0",
@@ -34522,6 +34490,60 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-23",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "188 St Heliers Bay Road St Heliers  Auckland  1071",
+    "distanceInMeters": 15655.0445833,
+    "extId": "a0R4a000000W1ofEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-05",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.859,
+      "lat": -36.8615
+    },
+    "name": "EastMED Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      }
+    ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Onsite parking",
+    "mapUrl": "https://goo.gl/maps/PiAf5Uw1myMDZmfD6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-03",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
