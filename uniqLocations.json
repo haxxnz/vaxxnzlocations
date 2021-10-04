@@ -10469,36 +10469,36 @@
         "days": [
           "fri"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/d%2F16+Francis+Street,+Blenheim+7201,+New+Zealand/@-41.5172797,173.9554973,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3914994c4819d9:0xfdad4a942f678322!8m2!3d-41.5172837!4d173.957686",
@@ -16963,7 +16963,7 @@
   },
   {
     "displayAddress": "754 Manukau Road Royal Oak  Auckland  1023",
-    "distanceInMeters": 33589.31988688,
+    "distanceInMeters": 34014.64727826,
     "extId": "a0R4a000000SzarEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-13",
@@ -34994,6 +34994,67 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Ground floor/213 Shakespeare Road Takapuna  Auckland  620",
+    "distanceInMeters": 19387.00267185,
+    "extId": "a0R4a000000WCmxEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-05",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.754,
+      "lat": -36.7816
+    },
+    "name": "Pharmacy On Shakespeare",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      }
+    ],
+    "description": "No toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages (Cantonese, Mandarin)",
+    "mapUrl": "https://www.google.com/maps/place/Pharmacy+on+Shakespeare/@-36.781555,174.7535292,15z/data=!4m5!3m4!1s0x0:0x423a262527f2416b!8m2!3d-36.7816027!4d174.7535298",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-04",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "73 Church Street Onehunga  Auckland  1061",
     "distanceInMeters": 32482.05622781,
     "extId": "a0R4a000000WDENEA4",
@@ -35290,6 +35351,67 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "18 Manukau Station Road Manukau City Centre  Auckland  2104",
+    "distanceInMeters": 22957.32427793,
+    "extId": "a0R4a000000WNEbEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-05",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.882,
+      "lat": -36.9936
+    },
+    "name": "Manukau City Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:30:00"
+      }
+    ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory environment - noise and sound available.",
+    "mapUrl": "https://goo.gl/maps/RRJKnmQmMriFLQSy6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-29",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
