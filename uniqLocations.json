@@ -31591,36 +31591,36 @@
         "days": [
           "fri"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "10:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "10:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "17:30:00"
       }
     ],
     "description": "Accessible toilets | Wheelchair accessible | Onsite parking | Foreign languages by appointment",
@@ -35359,6 +35359,30 @@
     ],
     "description": "No onsite parking | Wheelchair accessible | Accessible toilets | Low sensory - light only.",
     "mapUrl": "https://www.google.com/maps/place/Whangaparaoa+Medical+Centre/@-36.6379186,174.7471269,15z/data=!4m5!3m4!1s0x0:0x3e7ca7c0d0dd0de5!8m2!3d-36.6379186!4d174.7471269",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "60 Victoria Avenue Avenal  Invercargill  9810",
+    "distanceInMeters": 56478.22811144,
+    "extId": "a0R4a000000WSWzEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-14",
+    "endDate": "2021-12-05",
+    "location": {
+      "lng": 168.348,
+      "lat": -46.4052
+    },
+    "name": "Gaius Health",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/Gaius+Family+Health/@-46.4054069,168.3462304,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d2c51b98af88f1:0x4874ad0ea6813858!8m2!3d-46.4054069!4d168.3484191",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-30",
