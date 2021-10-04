@@ -7,7 +7,7 @@ if [ $? -eq 0 ]; then
     echo "index.js (locations job) completed successfully"
     git add .
     git commit -m "updated from $(TZ='Pacific/Auckland' date)"
-    git pull --rebase
+    git pull
     git push
 else
     echo "index.js (locations job) failed. skipping."
