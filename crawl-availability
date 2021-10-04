@@ -2,7 +2,7 @@
 
 cd "$(dirname "$0")"
 echo "started availability.js"
-NODE_ENV=production node ./lib/availability.js > /home/ec2-user/vaxxnzlocations.log 2>&1
+NODE_ENV=production node ./lib/availability.js > /home/ubuntu/vaxxnzlocations.log 2>&1
 if [ $? -eq 0 ]; then
     echo "index.js (locations job) completed successfully"
     git add .

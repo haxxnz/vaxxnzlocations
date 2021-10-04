@@ -2,7 +2,7 @@
 
 cd "$(dirname "$0")"
 echo "started healthpointLocationsOpenNow.ts"
-NODE_ENV=production yarn ts-node ./lib/healthpointLocationsOpenNow.ts > /home/ec2-user/vaxxnzlocationshealthpoint.log 2>&1
+NODE_ENV=production yarn ts-node ./lib/healthpointLocationsOpenNow.ts > /home/ubuntu/vaxxnzlocationshealthpoint.log 2>&1
 if [ $? -eq 0 ]; then
     echo "healthpointLocationsOpenNow.ts completed successfully"
     git add .
