@@ -32870,21 +32870,21 @@
           "thu"
         ],
         "localStart": "14:00:00",
-        "localEnd": "17:30:00"
+        "localEnd": "18:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "14:00:00",
-        "localEnd": "17:30:00"
+        "localEnd": "18:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "14:00:00",
-        "localEnd": "17:30:00"
+        "localEnd": "18:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Gilmours+Pharmacy/@-39.6709223,176.8761622,19z/data=!4m5!3m4!1s0x0:0x5aa21cb56eaac8ea!8m2!3d-39.6706723!4d176.8769141?shorturl=1",
@@ -35210,6 +35210,30 @@
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://www.google.com/maps/place/Peninsula+Medical/@-36.854803,174.6489143,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d408b25428f3d:0x41c008cfe6a5b8b6!8m2!3d-36.854803!4d174.651103",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-27",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "55 Wharerangi Road Greenmeadows  Napier  4112",
+    "distanceInMeters": 13768.87725152,
+    "extId": "a0R4a000000WFW4EAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-10",
+    "endDate": "2021-11-21",
+    "location": {
+      "lng": 176.857,
+      "lat": -39.5163
+    },
+    "name": "MCA Clinic",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/UBcbQxZUwDsJfuDE9",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-27",
