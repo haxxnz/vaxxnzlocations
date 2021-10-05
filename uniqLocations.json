@@ -2451,7 +2451,7 @@
   },
   {
     "displayAddress": "536 Mount Albert Road Three Kings  Auckland  1042",
-    "distanceInMeters": 32890.08815637,
+    "distanceInMeters": 34878.96826656,
     "extId": "a0R4a000000QD1DEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -35548,6 +35548,81 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "277 Broadway Newmarket  Auckland  1023",
+    "distanceInMeters": 29214.13024328,
+    "extId": "a0R4a000000WeB3EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-06",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.777,
+      "lat": -36.8691
+    },
+    "name": "Life Pharmacy Newmarket",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking (2 Hours)",
+    "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Newmarket/@-36.8703705,174.7769522,15z/data=!4m5!3m4!1s0x0:0x769bc8c381687db2!8m2!3d-36.8703705!4d174.7769522",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-05",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
