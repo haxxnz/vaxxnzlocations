@@ -2645,6 +2645,73 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "14 Highland Park Drive, Highland Park  Auckland  2010",
+    "distanceInMeters": 33290.04749881,
+    "extId": "a0R4a000000QD5ZEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-18",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.908,
+      "lat": -36.8999
+    },
+    "name": "Highland Park Medical",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/SnZsBg9DAvsC3zoX6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "316 Ti Rakau Drive, Burswood, Auckland 2013",
     "distanceInMeters": 30339.23679905,
     "extId": "a0R4a000000QD7LEAW",
@@ -25269,7 +25336,7 @@
         "days": [
           "sun"
         ],
-        "localStart": "18:00:00",
+        "localStart": "17:30:00",
         "localEnd": "19:30:00"
       },
       {
