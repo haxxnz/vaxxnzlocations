@@ -184,6 +184,10 @@
         "durationSeconds": 300
       },
       {
+        "localStartTime": "11:40:00",
+        "durationSeconds": 300
+      },
+      {
         "localStartTime": "11:55:00",
         "durationSeconds": 300
       },
@@ -620,6 +624,12 @@
         "durationSeconds": 300
       }
     ],
+    "2021-10-11": [
+      {
+        "localStartTime": "12:35:00",
+        "durationSeconds": 300
+      }
+    ],
     "2021-10-12": [
       {
         "localStartTime": "12:00:00",
@@ -676,23 +686,19 @@
         "durationSeconds": 300
       }
     ],
-    "2021-10-15": [
-      {
-        "localStartTime": "12:40:00",
-        "durationSeconds": 300
-      }
-    ],
     "2021-10-18": [
       {
         "localStartTime": "11:20:00",
         "durationSeconds": 300
       }
     ],
-    "2021-10-21": [
+    "2021-10-19": [
       {
-        "localStartTime": "11:40:00",
+        "localStartTime": "11:50:00",
         "durationSeconds": 300
-      },
+      }
+    ],
+    "2021-10-21": [
       {
         "localStartTime": "12:10:00",
         "durationSeconds": 300
@@ -748,15 +754,15 @@
       {
         "localStartTime": "11:05:00",
         "durationSeconds": 300
-      },
-      {
-        "localStartTime": "11:10:00",
-        "durationSeconds": 300
       }
     ],
     "2021-11-01": [
       {
         "localStartTime": "10:10:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "11:15:00",
         "durationSeconds": 300
       },
       {
@@ -767,6 +773,10 @@
     "2021-11-04": [
       {
         "localStartTime": "10:05:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "10:10:00",
         "durationSeconds": 300
       },
       {
@@ -1715,10 +1725,6 @@
       },
       {
         "localStartTime": "11:05:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "11:10:00",
         "durationSeconds": 300
       },
       {
@@ -2959,5 +2965,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-05T02:56:54.528Z"
+  "lastUpdatedAt": "2021-10-05T03:32:55.226Z"
 }
