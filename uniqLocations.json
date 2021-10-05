@@ -2645,38 +2645,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "14 Highland Park Drive, Highland Park  Auckland  2010",
-    "distanceInMeters": 33290.04749881,
-    "extId": "a0R4a000000QD5ZEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-18",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.908,
-      "lat": -36.8999
-    },
-    "name": "Highland Park Medical",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/SnZsBg9DAvsC3zoX6",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-10",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "316 Ti Rakau Drive, Burswood, Auckland 2013",
     "distanceInMeters": 30339.23679905,
     "extId": "a0R4a000000QD7LEAW",
@@ -3479,35 +3447,35 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:30:00"
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:30:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
-          "wed"
+          "sat"
         ],
         "localStart": "08:30:00",
         "localEnd": "15:30:00"
@@ -3802,7 +3770,7 @@
   },
   {
     "displayAddress": "19 Henry Street, Unit 3 Blenheim CBD  Blenheim  7201",
-    "distanceInMeters": 73380.71948214,
+    "distanceInMeters": 72619.94157883,
     "extId": "a0R4a000000QS0UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -3870,7 +3838,7 @@
   },
   {
     "displayAddress": "253 Queen Street Richmond  Tasman  7020",
-    "distanceInMeters": 0.57998738,
+    "distanceInMeters": 29700.7928687,
     "extId": "a0R4a000000QS2VEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -3945,7 +3913,7 @@
   },
   {
     "displayAddress": "16 Paru Paru Road   Nelson  7010",
-    "distanceInMeters": 11255.81214014,
+    "distanceInMeters": 29610.93702131,
     "extId": "a0R4a000000QSDxEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -5325,50 +5293,14 @@
     "extId": "a0R4a000000QVtNEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
-    "endDate": "2021-10-31",
+    "endDate": "2021-12-05",
     "location": {
       "lng": 170.972,
       "lat": -45.0983
     },
     "name": "Oamaru - Māori/Pacific Clinic - St. Paul's Presbyterian Church",
     "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "19:00:00"
-      }
-    ],
+    "openHours": [],
     "mapUrl": "https://goo.gl/maps/eRxvu8STrRbi6Tdr9",
     "tags": [],
     "type": "OnlineBooking",
@@ -6858,7 +6790,7 @@
   },
   {
     "displayAddress": "Karamea RSA, 100 Bridge Street, Karamea, 7893",
-    "distanceInMeters": 71611.7082539,
+    "distanceInMeters": 74437.26020467,
     "extId": "a0R4a000000QwbJEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-05",
@@ -7059,7 +6991,7 @@
   },
   {
     "displayAddress": "2032 Takaka Valley Highway, Takaka 7110   Takaka  7183",
-    "distanceInMeters": 60474.55248566,
+    "distanceInMeters": 30785.17350573,
     "extId": "a0R4a000000RBuCEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -7084,7 +7016,7 @@
   },
   {
     "displayAddress": "8 Pah Street   Motueka  7120",
-    "distanceInMeters": 29324.16627365,
+    "distanceInMeters": 1132.24246399,
     "extId": "a0R4a000000RBxVEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -9952,7 +9884,7 @@
   },
   {
     "displayAddress": "296 Hardy Street   Nelson  7010",
-    "distanceInMeters": 11216.08147129,
+    "distanceInMeters": 30311.14883692,
     "extId": "a0R4a000000SKgPEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -9985,7 +9917,7 @@
   },
   {
     "displayAddress": "131 Hardy Street Nelson  7010",
-    "distanceInMeters": 10937.10479827,
+    "distanceInMeters": 29968.61244723,
     "extId": "a0R4a000000SKkCEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -10024,7 +9956,7 @@
   },
   {
     "displayAddress": "47 Scott Street  Blenheim  7201",
-    "distanceInMeters": 73141.8922887,
+    "distanceInMeters": 72373.11312699,
     "extId": "a0R4a000000SKp7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -10070,7 +10002,7 @@
   },
   {
     "displayAddress": "172 St Vincent Street, Toi Toi  Nelson  7010",
-    "distanceInMeters": 9687.26477931,
+    "distanceInMeters": 29589.91977459,
     "extId": "a0R4a000000SKr3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -10190,7 +10122,7 @@
   },
   {
     "displayAddress": "131 Middle Renwick Road   Blenheim  7201",
-    "distanceInMeters": 74623.88432446,
+    "distanceInMeters": 73888.85314234,
     "extId": "a0R4a000000SKulEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -10254,7 +10186,7 @@
   },
   {
     "displayAddress": "42 Oxford Street   Richmond  7020",
-    "distanceInMeters": 158.65206822,
+    "distanceInMeters": 29847.36007891,
     "extId": "a0R4a000000SKzREAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-05",
@@ -10293,7 +10225,7 @@
   },
   {
     "displayAddress": "70 Cleghorn Street   Blenheim  7242",
-    "distanceInMeters": 73772.02288492,
+    "distanceInMeters": 72966.42560815,
     "extId": "a0R4a000000SLAZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -10360,7 +10292,7 @@
   },
   {
     "displayAddress": "14 Redwood street   Blenheim  7201",
-    "distanceInMeters": 72870.56144943,
+    "distanceInMeters": 72102.44970833,
     "extId": "a0R4a000000SLEbEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -10400,7 +10332,7 @@
   },
   {
     "displayAddress": "6 High Street   Picton  7220",
-    "distanceInMeters": 64760.31031213,
+    "distanceInMeters": 64697.46074428,
     "extId": "a0R4a000000SLKAEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -10453,7 +10385,7 @@
   },
   {
     "displayAddress": "Unit D/16 Francis Street   Blenheim  7210",
-    "distanceInMeters": 73150.94536221,
+    "distanceInMeters": 72378.44004823,
     "extId": "a0R4a000000SLONEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -10513,7 +10445,7 @@
   },
   {
     "displayAddress": "4 Edward Street   Wakefield  7025",
-    "distanceInMeters": 13974.45494435,
+    "distanceInMeters": 32856.85540066,
     "extId": "a0R4a000000SLPGEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -10545,7 +10477,7 @@
   },
   {
     "displayAddress": "125 High Street, Motueka   Motueka  7120",
-    "distanceInMeters": 29217.62768853,
+    "distanceInMeters": 1240.7148679,
     "extId": "a0R4a000000SLUfEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-25",
@@ -10679,7 +10611,7 @@
   },
   {
     "displayAddress": "162 High Street   Motueka  7120",
-    "distanceInMeters": 29161.64085635,
+    "distanceInMeters": 1178.98703075,
     "extId": "a0R4a000000SLctEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -10753,7 +10685,7 @@
   },
   {
     "displayAddress": "2/105 Collingwood Street   Nelson  7010",
-    "distanceInMeters": 11284.64191709,
+    "distanceInMeters": 30261.3247612,
     "extId": "a0R4a000000SLg7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -10821,7 +10753,7 @@
   },
   {
     "displayAddress": "179 High Street   Motueka  7120",
-    "distanceInMeters": 29089.6456756,
+    "distanceInMeters": 1225.50213177,
     "extId": "a0R4a000000SLiXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -10874,7 +10806,7 @@
   },
   {
     "displayAddress": "11 Tahunanui Driive Nelson  7011",
-    "distanceInMeters": 8449.39342218,
+    "distanceInMeters": 28344.57629323,
     "extId": "a0R4a000000SLnhEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -10934,7 +10866,7 @@
   },
   {
     "displayAddress": "17 Commercial Street   Takaka  7110",
-    "distanceInMeters": 61968.03807004,
+    "distanceInMeters": 32275.85379251,
     "extId": "a0R4a000000SLofEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -10980,7 +10912,7 @@
   },
   {
     "displayAddress": "470 Main Road Stoke Stoke  Nelson  7011",
-    "distanceInMeters": 5386.05171441,
+    "distanceInMeters": 29775.06869644,
     "extId": "a0R4a000000SLwAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -11005,7 +10937,7 @@
   },
   {
     "displayAddress": "62 Aranui Road   Best Island  7005",
-    "distanceInMeters": 12031.54334441,
+    "distanceInMeters": 17776.18106193,
     "extId": "a0R4a000000SLzEEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -12159,7 +12091,7 @@
     "extId": "a0R4a000000ST9IEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
-    "endDate": "2021-12-23",
+    "endDate": "2021-12-16",
     "location": {
       "lng": 175.466,
       "lat": -37.8937
@@ -15369,7 +15301,7 @@
   },
   {
     "displayAddress": "144 Salisbury Road   Richmond  7020",
-    "distanceInMeters": 1576.45419044,
+    "distanceInMeters": 30088.89496827,
     "extId": "a0R4a000000SsHtEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -16542,7 +16474,7 @@
   },
   {
     "displayAddress": "133 Pah Street   Motueka  7120",
-    "distanceInMeters": 29701.05594988,
+    "distanceInMeters": 0.12970948,
     "extId": "a0R4a000000Sz5AEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -16756,7 +16688,7 @@
   },
   {
     "displayAddress": "99 Atawhai Drive   Nelson  7010",
-    "distanceInMeters": 12883.0262835,
+    "distanceInMeters": 30184.69424567,
     "extId": "a0R4a000000SzEqEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -16781,7 +16713,7 @@
   },
   {
     "displayAddress": "Cnr Croucher and Darcy Streets   Richmond  7020",
-    "distanceInMeters": 647.20014443,
+    "distanceInMeters": 29589.68240952,
     "extId": "a0R4a000000SzPeEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -17002,7 +16934,7 @@
   },
   {
     "displayAddress": "210 Waikawa Road   Picton  7220",
-    "distanceInMeters": 62924.67223075,
+    "distanceInMeters": 62908.71020497,
     "extId": "a0R4a000000SzqCEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -17313,7 +17245,7 @@
   },
   {
     "displayAddress": "1 Fell Street   Grovetown  7202",
-    "distanceInMeters": 71247.13715733,
+    "distanceInMeters": 70567.51472253,
     "extId": "a0R4a000000T4WREA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -24726,7 +24658,7 @@
   },
   {
     "displayAddress": "215 Queen Street  Richmond 7020",
-    "distanceInMeters": 138.5242845,
+    "distanceInMeters": 29838.78901738,
     "extId": "a0R4a000000UCVtEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -24765,7 +24697,7 @@
   },
   {
     "displayAddress": "512 Main Road   Stoke  7011",
-    "distanceInMeters": 5137.99806537,
+    "distanceInMeters": 29837.37182448,
     "extId": "a0R4a000000UCbrEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -27713,7 +27645,7 @@
     "extId": "a0R4a000000UeolEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
-    "endDate": "2021-12-31",
+    "endDate": "2021-12-15",
     "location": {
       "lng": 175.073,
       "lat": -41.1218
@@ -35316,6 +35248,60 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Southpoint Shopping Centre, Level 1, 652 Great South Road Manukau  Auckland  2104",
+    "distanceInMeters": 23742.12946363,
+    "extId": "a0R4a000000WMl0EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-06",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.883,
+      "lat": -36.9865
+    },
+    "name": "Albahadly Medical",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory - available on request.",
+    "mapUrl": "https://goo.gl/maps/t4KXmnWBGRn8ZznC9",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-01",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
