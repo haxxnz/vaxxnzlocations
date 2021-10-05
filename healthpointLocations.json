@@ -2416,9 +2416,12 @@
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/whanganui-district-covid-19-community-vaccination/at/te-rito-60-82-victoria-avenue-whanganui/",
     "opennningHours": {
       "schedule": {
-        "Mon – Sun": "9:00 AM – 5:00 PM"
+        "Mon – Thu": "9:00 AM – 5:00 PM",
+        "Fri – Sun": "9:00 AM – 4:00 PM"
       },
-      "exceptions": {},
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
       "notesHtml": []
     }
   },
@@ -4968,7 +4971,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f99c94989095b99e968b9c949c9d909a9895d79a96d79783\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"afcac2cec6c3efc8c0ddcac2cacbc6cccec381ccc081c1d5\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -8776,36 +8779,6 @@
         "Preferred urgent care clinic out of hours": "City Doctors White Cross."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.3048528,
-    "lng": 174.7635805,
-    "name": "Brooklyn Central Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "By invitation only"
-    ],
-    "address": "183 Ohiro Road, Brooklyn, Wellington",
-    "telephone": "(04) 801 8188",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/brooklyn-central-health/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:00 AM – 6:00 PM",
-        "Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
-      },
-      "notesHtml": [
-        "Our phones are switched to our answerphone system at 5.30pm Monday - Thursday and 5pm on Friday.&nbsp;",
-        "&nbsp;"
-      ]
     }
   },
   {
@@ -14288,42 +14261,6 @@
       },
       "notesHtml": [
         "<strong>After Hours:</strong> White Cross Whangarei - (09) 470 1083"
-      ]
-    }
-  },
-  {
-    "lat": -43.302568,
-    "lng": 172.5916687,
-    "name": "Durham Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "15 Durham Street, Rangiora",
-    "telephone": "(03) 313 4659",
-    "faxNumber": "(03) 313 4658",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/durham-health/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "9:00 AM – 5:30 PM",
-        "Fri": "9:00 AM – 5:00 PM",
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "<strong>Note: Saturday Clinic - this is a walk in clinic</strong>",
-        "<strong>We are not currently running Saturday Clinics in Level 2.&nbsp; </strong>",
-        "<strong>Saturday Clinics start again on the 9th October 2021.</strong>",
-        "<strong>&nbsp;</strong>"
       ]
     }
   },
@@ -20415,40 +20352,6 @@
     }
   },
   {
-    "lat": -43.482504457827396,
-    "lng": 172.55362462421596,
-    "name": "100 Orchard Road",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "100-D Orchard Road, Harewood, Christchurch, Canterbury 8051",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/orchard-road-covid-19-vaccination-hub/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "9:00 AM – 3:30 PM",
-        "Wed – Fri": "12:30 PM – 7:00 PM",
-        "Sat – Sun": "11:00 AM – 7:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun). Open Labour Day (25 Oct, 9:00 AM – 4:00 PM)."
-      },
-      "notesHtml": [
-        "FROM November 1st- December 12th",
-        "Mon- CLOSED",
-        "Tue-Sat 0900-1530 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
-        "Sun- CLOSED"
-      ]
-    }
-  },
-  {
     "lat": -36.9769806,
     "lng": 174.8961312,
     "name": "Local Doctors Dawson",
@@ -20883,103 +20786,6 @@
     }
   },
   {
-    "lat": -38.05563299999999,
-    "lng": 178.30494539999995,
-    "name": "Te Puia Hospital",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "4 McKenzie Street, Te Puia Springs, Gisborne 4079",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-porou-hauora-covid-19-vaccination-centres/at/te-puia-hospital-4-mckenzie-street-te-puia/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {
-        "Public Holidays": "Closed on all public holidays."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -38.67466,
-    "lng": 178.05094,
-    "name": "Te Rūnanga o Ngāti Porou",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Te Rūnanga o Ngāti Porou, 75 Huxley Road, Outer Kaiti, Gisborne 4010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-porou-hauora-covid-19-vaccination-centres/at/te-runanga-o-ngati-porou-75-huxley-road-outer/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "Currently no clinics are scheduled at this location"
-      ]
-    }
-  },
-  {
-    "lat": -38.67466,
-    "lng": 178.05094,
-    "name": "Te Tini o Porou",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "2:00 PM to 7:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Te Tini o Porou, Cnr Huxley and Tyndall Road, Kaiti",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-porou-hauora-covid-19-vaccination-centres/at/te-tini-o-porou-cnr-huxley-and-tyndall-road/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "2:00 PM – 7:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.7085327,
-    "lng": 176.14911559999996,
-    "name": "Pharmacy On Cameron",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "850 Cameron Road, Tauranga South, Tauranga",
-    "telephone": "(07) 578 5707",
-    "faxNumber": "(07) 578 5710",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/pharmacy-on-cameron/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "COVID-19 Alert levels 3 and 4, the pharmacy is open 8:00am to 5:00pm"
-      ]
-    }
-  },
-  {
     "lat": -36.9658829,
     "lng": 174.9117592,
     "name": "Ormiston Medical Centre",
@@ -21007,50 +20813,6 @@
       "notesHtml": [
         "Please call Eastcare on (09) 277 1516 for out of hours assistance."
       ]
-    }
-  },
-  {
-    "lat": -41.2087358,
-    "lng": 174.9043247,
-    "name": "218 High Street",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.131353,
-    "lng": 175.0656188,
-    "name": "Upper Hutt",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
     }
   },
   {
@@ -21124,6 +20886,220 @@
       "notesHtml": [
         "After Hours: Phone GP and follow instructions. Caller will be transferred to an after hours service."
       ]
+    }
+  },
+  {
+    "lat": -38.05563299999999,
+    "lng": 178.30494539999995,
+    "name": "Te Puia Hospital",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "4 McKenzie Street, Te Puia Springs, Gisborne 4079",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-porou-hauora-covid-19-vaccination-centres/at/te-puia-hospital-4-mckenzie-street-te-puia/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {
+        "Public Holidays": "Closed on all public holidays."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -38.67466,
+    "lng": 178.05094,
+    "name": "Te Rūnanga o Ngāti Porou",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Te Rūnanga o Ngāti Porou, 75 Huxley Road, Outer Kaiti, Gisborne 4010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-porou-hauora-covid-19-vaccination-centres/at/te-runanga-o-ngati-porou-75-huxley-road-outer/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "Currently no clinics are scheduled at this location"
+      ]
+    }
+  },
+  {
+    "lat": -38.67466,
+    "lng": 178.05094,
+    "name": "Te Tini o Porou",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "2:00 PM to 7:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Te Tini o Porou, Cnr Huxley and Tyndall Road, Kaiti",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-porou-hauora-covid-19-vaccination-centres/at/te-tini-o-porou-cnr-huxley-and-tyndall-road/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "2:00 PM – 7:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.3048528,
+    "lng": 174.7635805,
+    "name": "Brooklyn Central Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "By invitation only"
+    ],
+    "address": "183 Ohiro Road, Brooklyn, Wellington",
+    "telephone": "(04) 801 8188",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/brooklyn-central-health/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:00 AM – 6:00 PM",
+        "Fri": "8:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
+      },
+      "notesHtml": [
+        "Our phone lines are open from 8.15am - 5.30pm Monday - Thursday and 8.15am - 5pm on Friday",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -43.302568,
+    "lng": 172.5916687,
+    "name": "Durham Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "15 Durham Street, Rangiora",
+    "telephone": "(03) 313 4659",
+    "faxNumber": "(03) 313 4658",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/durham-health/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "9:00 AM – 5:30 PM",
+        "Fri": "9:00 AM – 5:00 PM",
+        "Mon – Fri": "8:30 AM – 5:00 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "<strong>Note:&nbsp;&nbsp;</strong><strong>Saturday Clinic is a walk in clinic -&nbsp; no appointment necessary - all patients welcome enrolled and casual.&nbsp;&nbsp;</strong>",
+        "&nbsp;",
+        "<strong>&nbsp;</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -43.482504457827396,
+    "lng": 172.55362462421596,
+    "name": "100 Orchard Road",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 3:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "100-D Orchard Road, Harewood, Christchurch, Canterbury 8051",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/orchard-road-covid-19-vaccination-hub/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "9:00 AM – 3:30 PM",
+        "Wed – Fri": "12:30 PM – 7:00 PM",
+        "Sat – Sun": "11:00 AM – 7:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun). Open Labour Day (25 Oct, 9:00 AM – 4:00 PM)."
+      },
+      "notesHtml": [
+        "FROM November 1st- December 12th",
+        "Mon- CLOSED",
+        "Tue-Sat 0900-1530 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;",
+        "Sun- CLOSED"
+      ]
+    }
+  },
+  {
+    "lat": -41.2087358,
+    "lng": 174.9043247,
+    "name": "218 High Street",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.131353,
+    "lng": 175.0656188,
+    "name": "Upper Hutt",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
     }
   }
 ]
