@@ -5426,14 +5426,14 @@
     "openHours": [
       {
         "days": [
-          "wed"
+          "thu"
         ],
         "localStart": "10:30:00",
-        "localEnd": "20:00:00"
+        "localEnd": "12:30:00"
       },
       {
         "days": [
-          "thu"
+          "wed"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:30:00"
@@ -23361,6 +23361,30 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "1 Rogan Street Welbourn  New Plymouth  4310",
+    "distanceInMeters": 35107.97876534,
+    "extId": "a0R4a000000Tz3FEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-27",
+    "endDate": "2021-10-10",
+    "location": {
+      "lng": 174.082,
+      "lat": -39.0662
+    },
+    "name": "TSB Stadium New Plymouth",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.co.nz/maps/place/TSB+Stadium/@-39.0648667,174.0823127,16.25z/data=!4m5!3m4!1s0x0:0xd2e48b1a1398eaa9!8m2!3d-39.0662216!4d174.0817655",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-23",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "20 Stoddard Rd, Mt Roskill, Auckland 1041",
     "distanceInMeters": 10966.83713198,
     "extId": "a0R4a000000TzZyEAK",
@@ -23414,6 +23438,31 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-07",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "17 Camberwell Road Hawera  New Plymouth  4610",
+    "distanceInMeters": 27083.24921645,
+    "extId": "a0R4a000000U0MqEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-29",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.274,
+      "lat": -39.584
+    },
+    "name": "Hawera Hub -  Essential Workers",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "Wheelchair accessible toilets, Wheelchair ramp access to site.\r\nForeign language translation service provided by appointment only\r\nSign language translator on site by appointment only\r\nOn-site parking",
+    "mapUrl": "https://www.google.co.nz/maps/dir/''/''/@-39.5840143,174.2393227,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x6d1575f9d34f42cf:0xb74da5ec279935bd!2m2!1d174.2743421!2d-39.5840857!3e2",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-23",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
