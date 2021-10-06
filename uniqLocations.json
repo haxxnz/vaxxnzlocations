@@ -36060,20 +36060,6 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
           "sun"
         ],
         "localStart": "10:30:00",
@@ -36081,9 +36067,9 @@
       },
       {
         "days": [
-          "mon"
+          "sat"
         ],
-        "localStart": "09:15:00",
+        "localStart": "09:30:00",
         "localEnd": "17:15:00"
       },
       {
@@ -36102,9 +36088,23 @@
       },
       {
         "days": [
-          "sat"
+          "mon"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:15:00",
         "localEnd": "17:15:00"
       }
     ],
