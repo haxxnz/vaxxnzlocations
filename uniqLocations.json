@@ -26956,7 +26956,7 @@
   },
   {
     "displayAddress": "Shop w516 Lynnmall Shopping Centre, 3058 Great North Road   Auckland  640",
-    "distanceInMeters": 56450.87163443,
+    "distanceInMeters": 37748.61043917,
     "extId": "a0R4a000000UZ2JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -28892,7 +28892,7 @@
   },
   {
     "displayAddress": "136 Queens Road Panmure  Auckland  106",
-    "distanceInMeters": 30982.45161859,
+    "distanceInMeters": 33513.600125,
     "extId": "a0R4a000000V0v2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
@@ -31305,6 +31305,66 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "59 Ranolf Street Victoria  Rotorua  3010",
+    "distanceInMeters": 2863.41412183,
+    "extId": "a0R4a000000VSCdEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-13",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 176.245,
+      "lat": -38.1413
+    },
+    "name": "Ranolf Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "07:00:00",
+        "localEnd": "08:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "07:00:00",
+        "localEnd": "08:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "07:00:00",
+        "localEnd": "08:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "07:00:00",
+        "localEnd": "08:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "07:00:00",
+        "localEnd": "08:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/59+Ranolf+Street,+Victoria,+Rotorua+3010/@-38.1412921,176.244527,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6c276550c53191:0x98d6ebeaa9aa9fd4!8m2!3d-38.1412963!4d176.2467157",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-15",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -34045,6 +34105,74 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "1224 Dominion Road Mount Roskill  Auckland  1041",
+    "distanceInMeters": 30191.10233429,
+    "extId": "a0R4a000000Vv6YEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-07",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.742,
+      "lat": -36.9027
+    },
+    "name": "SaveMart Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "14:15:00"
+      }
+    ],
+    "description": "Accessible toilets onsite | Free onsite parking",
+    "mapUrl": "https://goo.gl/maps/HU3oR3od4cpqnHEKA",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-06",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "301F Botany Road Golflands  Auckland  2013",
     "distanceInMeters": 30514.22555299,
     "extId": "a0R4a000000VvRMEA0",
@@ -35220,7 +35348,7 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -35241,7 +35369,7 @@
       },
       {
         "days": [
-          "thu"
+          "sun"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -35932,34 +36060,6 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "09:30:00",
@@ -35974,7 +36074,35 @@
       },
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
           "wed"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
