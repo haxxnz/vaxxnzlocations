@@ -12784,7 +12784,7 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "WEEKNIGHTS 104a Wadestown Rd or SATURDAYS by 58 Hanover St, behind 118 Wadestown Road (Presbyterian Church Hall)  Wadestown  Wellington  6012",
+    "displayAddress": "WEEKNIGHTS 104a Wadestown Rd or SATURDAYS by 58 Hanover St, behind 118 Wadestown Road (Presbyterian Church Hall)  Wadestown  Wellington  6012 Txt 0273801236 if can't attend.",
     "distanceInMeters": 29459.91796348,
     "extId": "a0R4a000000SUl3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
@@ -12833,7 +12833,7 @@
         "localEnd": "19:00:00"
       }
     ],
-    "description": "Wadestown Medical Practice runs weeknight clinics at 104a Wadestown Rd\r\n& Saturday clinics near 58 Hanover St, behind 118 Wadestown Road (Presbyterian Church Hall)\r\nBooked appointments only\r\nPlease arrive at appointed time\r\nPlease wear masks\r\nKia ora",
+    "description": "Wadestown Medical Practice runs weeknight clinics at 104a Wadestown Rd\r\n& Saturday clinics near 58 Hanover St, behind 118 Wadestown Road (Presbyterian Church Hall)\r\nBooked appointments only\r\nPlease arrive at appointed time\r\nPlease wear masks\r\nPls text 0273801236  asap if you can't attend so we avoid wastage.\r\nKia ora!",
     "mapUrl": "https://www.google.com/maps/place/Wadestown+Medical+Practice/@-41.2617759,174.7745205,17z/data=!4m12!1m6!3m5!1s0x6d38ae1feb10735d:0x7382e7346be979c1!2sWadestown+Medical+Practice!8m2!3d-41.2618643!4d174.7741667!3m4!1s0x6d38ae1feb10735d:0x7382e7346be979c1!8",
     "tags": [],
     "type": "OnlineBooking",
@@ -33676,6 +33676,46 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "320 Remuera Road Remuera  Auckland  1050",
+    "distanceInMeters": 15177.69807049,
+    "extId": "a0R4a000000VscQEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-08",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.796,
+      "lat": -36.8804
+    },
+    "name": "Life Pharmacy Remuera",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      }
+    ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages (Mandarin)",
+    "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.8804552,174.796426,15z/data=!4m5!3m4!1s0x0:0xd470dc19d15afd87!8m2!3d-36.8804656!4d174.7964243",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-06",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "197 Broadway Newmarket  Auckland  1023",
     "distanceInMeters": 13343.12380447,
     "extId": "a0R4a000000VueiEAC",
@@ -34431,14 +34471,7 @@
       },
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -34452,7 +34485,14 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -34485,35 +34525,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "08:30:00",
         "localEnd": "19:45:00"
@@ -34527,10 +34539,38 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "08:30:00",
         "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:45:00"
       }
     ],
     "description": "Toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages (Arabic, Hindi, Mandarin, Korean, Malay, Filipino and English) | Car vaccinations and out-reach options are also available.",
@@ -34834,6 +34874,39 @@
     ],
     "description": "Community event Saturday October 30 and Saturday 4 December",
     "mapUrl": "https://www.google.com/maps/place/Hurunga+Te+Rangi+Marae/@-38.1457694,176.2735591,15z/data=!4m5!3m4!1s0x0:0xfc4fa37c51326280!8m2!3d-38.1457694!4d176.2735591",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-23",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Waiteti Marae, 30 Waiteti Road Ngongotaha  Rotorua  3010",
+    "distanceInMeters": 7581.20540781,
+    "extId": "a0R4a000000W2InEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-23",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 176.211,
+      "lat": -38.0707
+    },
+    "name": "Ngongotaha Community Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "10:00:00"
+      }
+    ],
+    "description": "Community event Sunday 31 October and  21 November",
+    "mapUrl": "https://www.google.com/maps/place/Waiteti+Marae/@-38.0706906,176.2112133,15z/data=!4m5!3m4!1s0x0:0xcc062074752a7075!8m2!3d-38.0706986!4d176.2112145",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-23",
