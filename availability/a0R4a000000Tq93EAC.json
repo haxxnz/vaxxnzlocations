@@ -276,10 +276,6 @@
         "durationSeconds": 900
       },
       {
-        "localStartTime": "11:30:00",
-        "durationSeconds": 900
-      },
-      {
         "localStartTime": "11:45:00",
         "durationSeconds": 900
       },
@@ -335,6 +331,10 @@
       },
       {
         "localStartTime": "11:45:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "12:00:00",
         "durationSeconds": 900
       },
       {
@@ -1625,6 +1625,10 @@
       }
     ],
     "2021-10-24": [
+      {
+        "localStartTime": "11:00:00",
+        "durationSeconds": 900
+      },
       {
         "localStartTime": "12:00:00",
         "durationSeconds": 900
@@ -5685,5 +5689,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-06T20:37:49.075Z"
+  "lastUpdatedAt": "2021-10-06T21:21:24.674Z"
 }
