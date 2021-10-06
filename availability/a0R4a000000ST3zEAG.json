@@ -1,17 +1,5 @@
 {
   "availabilityDates": {
-    "2021-10-18": [
-      {
-        "localStartTime": "15:42:00",
-        "durationSeconds": 360
-      }
-    ],
-    "2021-10-19": [
-      {
-        "localStartTime": "16:18:00",
-        "durationSeconds": 360
-      }
-    ],
     "2021-10-21": [
       {
         "localStartTime": "15:54:00",
@@ -22,11 +10,21 @@
       {
         "localStartTime": "11:36:00",
         "durationSeconds": 360
+      },
+      {
+        "localStartTime": "15:00:00",
+        "durationSeconds": 360
       }
     ],
     "2021-10-27": [
       {
         "localStartTime": "14:00:00",
+        "durationSeconds": 360
+      }
+    ],
+    "2021-10-29": [
+      {
+        "localStartTime": "12:00:00",
         "durationSeconds": 360
       }
     ],
@@ -38,11 +36,21 @@
     ],
     "2021-11-01": [
       {
+        "localStartTime": "10:18:00",
+        "durationSeconds": 360
+      },
+      {
         "localStartTime": "11:42:00",
         "durationSeconds": 360
       },
       {
         "localStartTime": "16:18:00",
+        "durationSeconds": 360
+      }
+    ],
+    "2021-11-03": [
+      {
+        "localStartTime": "11:48:00",
         "durationSeconds": 360
       }
     ],
@@ -205,10 +213,6 @@
       },
       {
         "localStartTime": "16:06:00",
-        "durationSeconds": 360
-      },
-      {
-        "localStartTime": "16:18:00",
         "durationSeconds": 360
       }
     ],
@@ -1091,10 +1095,6 @@
       },
       {
         "localStartTime": "16:24:00",
-        "durationSeconds": 360
-      },
-      {
-        "localStartTime": "16:36:00",
         "durationSeconds": 360
       }
     ],
@@ -2038,6 +2038,10 @@
         "durationSeconds": 360
       },
       {
+        "localStartTime": "16:36:00",
+        "durationSeconds": 360
+      },
+      {
         "localStartTime": "16:48:00",
         "durationSeconds": 360
       }
@@ -2857,5 +2861,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-06T04:59:57.719Z"
+  "lastUpdatedAt": "2021-10-06T05:39:49.081Z"
 }
