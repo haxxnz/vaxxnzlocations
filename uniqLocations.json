@@ -19141,8 +19141,30 @@
     },
     "name": "Pauanui Medical Centre",
     "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "If there are no appointments available please 078648404 to book an appointment as we have a limited amount of appointments available each day except Tuesday's\r\nor email your name and contact no as it is easier than trying to get through on the phone \r\npauanuimedical@gmail.com\r\n\r\nWheelchair accessible\r\nOn-site parking",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "description": "If there are no available appointments showing online please phone 078648404 to book an appointment as we do have a limited amount of appointments available each day except Tuesday's or email your name and contact number as it is easier than trying to get through on the phone to \r\npauanuimedical@gmail.com\r\n\r\nWheelchair accessible\r\nOn-site parking",
     "mapUrl": "https://www.google.com/maps/place/Shop+9%2F52+Jubilee+Drive,+Pauanui+3579,+New+Zealand/@-37.023909,175.8580799,17z/data=!3m1!4b1!4m5!3m4!1s0x6d726dc51ed1fea1:0x6e82633d98c2cefe!8m2!3d-37.0239133!4d175.8602686",
     "tags": [],
     "type": "OnlineBooking",
@@ -33777,35 +33799,35 @@
         "days": [
           "fri"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       }
     ],
@@ -35982,6 +36004,74 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-29",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "26/108 Great South Road Takanini  Auckland  2112",
+    "distanceInMeters": 17772.03441962,
+    "extId": "a0R4a000000WNRaEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-07",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.915,
+      "lat": -37.04
+    },
+    "name": "Unichem Gateway Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "description": "No toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages (Hindi, Gujarati, Punjabhi)",
+    "mapUrl": "https://www.google.com/maps/place/Unichem+Gateway+Pharmacy+Takanini/@-37.0399339,174.9152344,15z/data=!4m5!3m4!1s0x0:0xd0d417b537b5a1a2!8m2!3d-37.0400146!4d174.9153903",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-06",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
