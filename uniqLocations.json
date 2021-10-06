@@ -378,21 +378,21 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "1 Rogan Street Welbourn  New Plymouth  4310",
-    "distanceInMeters": 35118.45959436,
+    "displayAddress": "445 Saint Aubyn Street Moturoa  New Plymouth  4310",
+    "distanceInMeters": 36963.11815358,
     "extId": "a0R4a000000PiTuEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
     "endDate": "2021-12-31",
     "location": {
-      "lng": 174.082,
-      "lat": -39.0661
+      "lng": 174.049,
+      "lat": -39.0623
     },
     "name": "Tui Ora, New Plymouth - Reserve",
     "timezone": "Pacific/Auckland",
     "openHours": [],
     "description": "Wheelchair accessible toilets, Wheelchair ramp access to site\r\nForeign language translation service provided By appointment only \r\nSign language translator on site By appointment only\r\nOn-site parking  ",
-    "mapUrl": "https://goo.gl/maps/4VSrtxWsfEgAH8tN6",
+    "mapUrl": "https://goo.gl/maps/3TxEo2oUpAWskQja9",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-05-31",
@@ -14805,7 +14805,7 @@
     "extId": "a0R4a000000SpqWEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
-    "endDate": "2021-11-30",
+    "endDate": "2021-12-12",
     "location": {
       "lng": 175.249,
       "lat": -37.7797
@@ -14817,36 +14817,36 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:30:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:30:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:30:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
@@ -18350,7 +18350,7 @@
         "localEnd": "19:00:00"
       }
     ],
-    "description": "Foreign language translation service provided:- Indian and Chinese\r\nYes off street easy access PARKING",
+    "description": "7/10- 5pm to 9pm, \r\n8/10 5pm to 9pm, \r\n9/10 9am to 7pm, \r\n10/10 9am to 7pm, \r\n11/10 5pm to 9pm, \r\n13/10 5pm to 9pm, \r\n15/10 5pm to 9pm\r\n-\r\nForeign language translation service provided:- Indian and Chinese\r\nYes off street easy access PARKING",
     "mapUrl": "https://www.google.co.nz/maps/place/Hamilton+Pharmacy/@-37.7820387,175.2764694,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6d18a3c015cde7:0x2b5095d00940ae3!8m2!3d-37.7821345!4d175.2785722?hl=en",
     "tags": [],
     "type": "OnlineBooking",
@@ -35202,6 +35202,39 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "7 Halswell Road, Hoon Hay, Christchurch 8025",
+    "distanceInMeters": 1161.68836564,
+    "extId": "a0R4a000000W72AEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-16",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 172.594,
+      "lat": -43.5543
+    },
+    "name": "Hillmed Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/d85bbAwce2rgmaqZ8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "275 Fifield Terrace, Opawa, Christchurch 8023",
     "distanceInMeters": 4846.57801327,
     "extId": "a0R4a000000W7biEAC",
@@ -36067,6 +36100,13 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
           "sun"
         ],
         "localStart": "10:30:00",
@@ -36074,28 +36114,7 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
           "wed"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
@@ -36110,6 +36129,20 @@
       {
         "days": [
           "fri"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
