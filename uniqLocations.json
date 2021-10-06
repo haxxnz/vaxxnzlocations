@@ -25014,7 +25014,7 @@
       "lng": 171.047,
       "lat": -44.7332
     },
-    "name": "Waimate Medical Centre - Drive Through Clinic",
+    "name": "Waimate Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -25032,7 +25032,7 @@
         "localEnd": "12:00:00"
       }
     ],
-    "description": "Drive from Shearman St to Slee St.  Vaccine Clinic outside Medical Centre.  Open to all.  Come and check out Waimate - South Canterbury's only Drive Through Clinic.",
+    "description": "Drive Through Clinics Wed evenings and Sat mornings. Drive from Shearman St to Slee St.  Vaccine Clinic outside Medical Centre.  Open to all.  Come and check out Waimate - South Canterbury's only Drive Through Clinic.\r\nFrom 3/11/21 Wednesday Clinics will be held inside the Medical Centre - not drive through",
     "mapUrl": "https://www.google.com/maps/place/Waimate+Medical+Centre/@-44.7333491,171.0469667,15z/data=!4m5!3m4!1s0x0:0xf49be83e8d07c042!8m2!3d-44.7333491!4d171.0469667",
     "tags": [],
     "type": "OnlineBooking",
@@ -28325,6 +28325,13 @@
     "name": "Maniapoto Whanau Ora Centre Mobile (Otorohanga)",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
       {
         "days": [
           "thu"
