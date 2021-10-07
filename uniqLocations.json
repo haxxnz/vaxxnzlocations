@@ -856,15 +856,15 @@
         "days": [
           "sat"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
+        "localStart": "14:00:00",
+        "localEnd": "20:30:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
+        "localStart": "14:00:00",
+        "localEnd": "20:30:00"
       },
       {
         "days": [
@@ -29628,16 +29628,30 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
           "sun"
         ],
-        "localStart": "09:00:00",
+        "localStart": "10:00:00",
         "localEnd": "15:45:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "09:00:00",
+        "localStart": "10:00:00",
         "localEnd": "15:45:00"
       },
       {
@@ -31325,20 +31339,6 @@
     "name": "Ranolf Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "07:00:00",
-        "localEnd": "08:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "07:00:00",
-        "localEnd": "08:00:00"
-      },
       {
         "days": [
           "thu"
@@ -33545,6 +33545,60 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "364 Riccarton Road, Bush Inn Centre, Upper Riccarton Christchurch 8041",
+    "distanceInMeters": 2726.97259474,
+    "extId": "a0R4a000000VqTFEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-14",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 172.575,
+      "lat": -43.5299
+    },
+    "name": "Upper Riccarton- Bush Inn Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/vP7naScohDsJ2CDG6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "323 Main Rd Huapai  Auckland  810",
     "distanceInMeters": 24996.09437779,
     "extId": "a0R4a000000VqoNEAS",
@@ -35112,13 +35166,6 @@
         ],
         "localStart": "10:30:00",
         "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "15:00:00",
-        "localEnd": "16:00:00"
       },
       {
         "days": [
