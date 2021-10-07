@@ -1,19 +1,5 @@
 {
   "availabilityDates": {
-    "2021-10-12": [
-      {
-        "localStartTime": "11:06:00",
-        "durationSeconds": 480
-      },
-      {
-        "localStartTime": "13:40:00",
-        "durationSeconds": 600
-      },
-      {
-        "localStartTime": "14:40:00",
-        "durationSeconds": 600
-      }
-    ],
     "2021-10-13": [
       {
         "localStartTime": "10:51:00",
@@ -126,6 +112,10 @@
         "durationSeconds": 300
       },
       {
+        "localStartTime": "11:55:00",
+        "durationSeconds": 300
+      },
+      {
         "localStartTime": "12:40:00",
         "durationSeconds": 600
       },
@@ -221,10 +211,6 @@
       },
       {
         "localStartTime": "14:20:00",
-        "durationSeconds": 600
-      },
-      {
-        "localStartTime": "14:40:00",
         "durationSeconds": 600
       }
     ],
@@ -390,10 +376,6 @@
         "durationSeconds": 180
       },
       {
-        "localStartTime": "15:06:00",
-        "durationSeconds": 180
-      },
-      {
         "localStartTime": "15:12:00",
         "durationSeconds": 180
       },
@@ -461,10 +443,6 @@
       }
     ],
     "2021-10-30": [
-      {
-        "localStartTime": "09:27:00",
-        "durationSeconds": 180
-      },
       {
         "localStartTime": "09:42:00",
         "durationSeconds": 180
@@ -638,17 +616,15 @@
         "durationSeconds": 180
       }
     ],
-    "2021-11-20": [
-      {
-        "localStartTime": "09:40:00",
-        "durationSeconds": 300
-      },
+    "2021-11-13": [
       {
         "localStartTime": "10:20:00",
         "durationSeconds": 300
-      },
+      }
+    ],
+    "2021-11-20": [
       {
-        "localStartTime": "10:25:00",
+        "localStartTime": "09:40:00",
         "durationSeconds": 300
       },
       {
@@ -661,10 +637,6 @@
       },
       {
         "localStartTime": "13:45:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "15:40:00",
         "durationSeconds": 300
       },
       {
@@ -749,5 +721,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-07T02:23:08.066Z"
+  "lastUpdatedAt": "2021-10-07T03:07:57.898Z"
 }
