@@ -4260,34 +4260,6 @@
     }
   },
   {
-    "lat": -39.0686943,
-    "lng": 174.06794809999997,
-    "name": "Tui Ora Family Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "36 Maratahu Street, Westown, New Plymouth",
-    "telephone": "(06) 759 7310",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-ora-family-health/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "8:30 AM – 5:00 PM",
-        "Wed": "9:30 AM – 5:00 PM",
-        "Thu – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -42.8128105,
     "lng": 173.2796131,
     "name": "Cheviot Community Health Centre",
@@ -4600,7 +4572,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"caafa7aba3a68aada5b8afa7afaea3a9aba6e4a9a5e4a4b0\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"97f2faf6fefbd7f0f8e5f2faf2f3fef4f6fbb9f4f8b9f9ed\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -20113,6 +20085,37 @@
     }
   },
   {
+    "lat": -43.31404790000001,
+    "lng": 172.69767809999996,
+    "name": "Pegasus Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access"
+    ],
+    "address": "52 Pegasus Main Street, Pegasus",
+    "telephone": "(03) 920 4060",
+    "faxNumber": "(03) 920 4061",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pegasus-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:00 AM – 6:00 PM",
+        "Fri": "8:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+      },
+      "notesHtml": [
+        "<strong>Note: Saturday Clinic - is now cancelled until further noticed</strong>",
+        "<strong>Closed for lunch between 1:00 PM - 2:00 PM</strong>",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
     "lat": -35.7317718,
     "lng": 174.3267202,
     "name": "Chemist Warehouse Okara Park",
@@ -20924,6 +20927,34 @@
         "Sat": "8:00 AM – 7:00 PM"
       },
       "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.0686943,
+    "lng": 174.06794809999997,
+    "name": "Tui Ora Family Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "36 Maratahu Street, Westown, New Plymouth",
+    "telephone": "(06) 759 7310",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-ora-family-health/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "8:30 AM – 5:00 PM",
+        "Wed": "9:30 AM – 5:00 PM",
+        "Thu – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
+      },
       "notesHtml": []
     }
   }
