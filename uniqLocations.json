@@ -20771,6 +20771,13 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:00:00",
@@ -26218,6 +26225,66 @@
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/Vivian+Pharmacy/@-39.0617877,174.0657748,17z/data=!3m1!4b1!4m5!3m4!1s0x6d144e5c96b947a9:0x3d3f66a083dfbb90!8m2!3d-39.0617919!4d174.0679635",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "99 Tukapa Street Westown  New Plymouth  4310",
+    "distanceInMeters": 35438.88292825,
+    "extId": "a0R4a000000UPwKEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-01",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.059,
+      "lat": -39.0735
+    },
+    "name": "Pharmacy @ Carefirst",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Pharmacy@carefirst/@-39.0737109,174.0572285,17z/data=!3m1!4b1!4m5!3m4!1s0x6d144e6284e0c64b:0xfce7094830156b5!8m2!3d-39.0736772!4d174.059365",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
@@ -33726,21 +33793,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "14:30:00",
         "localEnd": "16:15:00"
@@ -33754,7 +33807,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "14:30:00",
         "localEnd": "16:15:00"
@@ -35606,10 +35673,10 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
@@ -35617,6 +35684,20 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
       },
       {
         "days": [
@@ -35635,20 +35716,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
