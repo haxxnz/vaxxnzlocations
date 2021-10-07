@@ -2,6 +2,14 @@
   "availabilityDates": {
     "2021-10-17": [
       {
+        "localStartTime": "10:05:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "10:45:00",
+        "durationSeconds": 300
+      },
+      {
         "localStartTime": "11:40:00",
         "durationSeconds": 300
       },
@@ -131,14 +139,6 @@
       }
     ],
     "2021-10-20": [
-      {
-        "localStartTime": "18:00:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "18:05:00",
-        "durationSeconds": 300
-      },
       {
         "localStartTime": "19:20:00",
         "durationSeconds": 300
@@ -635,5 +635,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-07T07:16:30.034Z"
+  "lastUpdatedAt": "2021-10-07T08:02:56.373Z"
 }
