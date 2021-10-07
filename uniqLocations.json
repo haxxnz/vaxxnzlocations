@@ -23468,7 +23468,7 @@
   },
   {
     "displayAddress": "20 Stoddard Rd, Mt Roskill, Auckland 1041",
-    "distanceInMeters": 30796.41687396,
+    "distanceInMeters": 35733.85722534,
     "extId": "a0R4a000000TzZyEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -24368,6 +24368,31 @@
     ],
     "description": "Next to Hastings Pak N Save",
     "mapUrl": "https://goo.gl/maps/xxA59aGtb1SRqd7u9",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Level 2, James Smith Building, Corner Cuba & Manners Streets Te Aro  Wellington  6011",
+    "distanceInMeters": 31137.46345319,
+    "extId": "a0R4a000000U5EOEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-24",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.777,
+      "lat": -41.2911
+    },
+    "name": "Evolve Wellington Youth Service",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "Come and see us at Evolve Youth Service for your covid vaccine. You don't have to be signed up with Evolve to get your vaccine, we will see anyone. Book in or just turn up on the day. Come have some food, get your vaccine and hang out.  www.evolveyouth.org.nz",
+    "mapUrl": "https://www.google.com/maps/place/Evolve+Wellington+Youth+Service/@-41.2911584,174.7771141,19.75z/data=!4m5!3m4!1s0xbf984985da434191:0x14e3bbc63d711e1d!8m2!3d-41.2911186!4d174.7773742",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-24",
@@ -33398,6 +33423,46 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "5/651 Whangaparaoa Road Stanmore Bay  Auckland  0932",
+    "distanceInMeters": 2155.07154419,
+    "extId": "a0R4a000000VleXEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-08",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.74,
+      "lat": -36.6347
+    },
+    "name": "Whangaparaoa Family Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "description": "No toilets onsite | Wheelchair accessible | Free onsite parking |  Foreign languages by appointment or (Google translate)",
+    "mapUrl": "https://goo.gl/maps/1AYAW6jQDYcfPBPt6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-07",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "53 Paramount Parade   Tikipunga  112",
     "distanceInMeters": 6892.98271458,
     "extId": "a0R4a000000Vp3jEAC",
@@ -33822,21 +33887,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -33850,7 +33901,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -34066,17 +34131,10 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
       },
       {
         "days": [
@@ -34087,7 +34145,14 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "15:00:00"
@@ -35662,6 +35727,13 @@
       },
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -35670,13 +35742,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -36208,14 +36273,21 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "wed"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
       },
       {
         "days": [
-          "wed"
+          "tue"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
@@ -36243,14 +36315,7 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "fri"
+          "thu"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
@@ -36261,6 +36326,67 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-05",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "11 Paerata Road Pukekohe  Auckland  2120",
+    "distanceInMeters": 68303.59191235,
+    "extId": "a0R4a000000WeHpEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-08",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.903,
+      "lat": -37.1894
+    },
+    "name": "Ibuy Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      }
+    ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
+    "mapUrl": "https://g.page/ibuy-pharmacyAuckland-Pukekohe?share",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-07",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
