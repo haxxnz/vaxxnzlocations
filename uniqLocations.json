@@ -4355,7 +4355,7 @@
       "lng": 169.136,
       "lat": -44.7094
     },
-    "name": "Wanaka - Wanaka Medical Centre",
+    "name": "Wanaka Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -6881,7 +6881,7 @@
   },
   {
     "displayAddress": "71 Water Walk Road   Greymouth  7892",
-    "distanceInMeters": 0.28328112,
+    "distanceInMeters": 34135.4437992,
     "extId": "a0R4a000000QwdeEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-29",
@@ -21479,7 +21479,7 @@
   },
   {
     "displayAddress": "41 Weld Street   Hokitika  7810",
-    "distanceInMeters": 34135.50767851,
+    "distanceInMeters": 0.12550574,
     "extId": "a0R4a000000Tm4OEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -24644,7 +24644,7 @@
   },
   {
     "displayAddress": "Merrick Street Blaketown  Greymouth  7805",
-    "distanceInMeters": 242.76701044,
+    "distanceInMeters": 34025.63787845,
     "extId": "a0R4a000000U8I6EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-29",
@@ -27549,7 +27549,7 @@
   },
   {
     "displayAddress": "1 Old Christchurch Road Arahura  Awatuna  7882",
-    "distanceInMeters": 26879.62914049,
+    "distanceInMeters": 7618.31751593,
     "extId": "a0R4a000000Ue0AEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -33233,7 +33233,7 @@
   },
   {
     "displayAddress": "Corner Livingston and Stafford St   Hokitika  7810",
-    "distanceInMeters": 33929.53708313,
+    "distanceInMeters": 1281.06721517,
     "extId": "a0R4a000000Vf6cEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-09",
@@ -33944,6 +33944,20 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "10:00:00",
@@ -33959,20 +33973,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:00:00"
@@ -34120,9 +34120,16 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "mon"
         ],
-        "localStart": "09:30:00",
+        "localStart": "11:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "11:00:00",
         "localEnd": "16:45:00"
       },
       {
@@ -34134,16 +34141,9 @@
       },
       {
         "days": [
-          "tue"
+          "fri"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "11:00:00",
+        "localStart": "09:30:00",
         "localEnd": "16:45:00"
       }
     ],
@@ -35481,6 +35481,20 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "08:45:00",
@@ -35496,20 +35510,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -35648,21 +35648,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -35677,6 +35663,20 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -36208,27 +36208,6 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "09:15:00",
@@ -36236,7 +36215,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
@@ -36250,7 +36229,28 @@
       },
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
           "tue"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
