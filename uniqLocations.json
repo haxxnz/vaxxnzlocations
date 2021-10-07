@@ -31776,7 +31776,7 @@
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -35613,6 +35613,13 @@
       },
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "09:00:00",
@@ -35631,6 +35638,13 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
@@ -35713,7 +35727,21 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -35727,21 +35755,7 @@
       },
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -36162,6 +36176,45 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "3 Lochhead Road Te Puna  Tauranga  3176",
+    "distanceInMeters": 53664.57582526,
+    "extId": "a0R4a000000WOgLEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-06",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 176.08,
+      "lat": -37.667
+    },
+    "name": "Pirirakau Hauora",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Pirirakau+Hauora/@-37.6670637,176.0773024,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6dc4a48b939d8f:0xdec2eee328332e39!8m2!3d-37.6670809!4d176.0794682",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-29",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "60 Victoria Avenue Avenal  Invercargill  9810",
     "distanceInMeters": 396.02268132,
     "extId": "a0R4a000000WSWzEAO",
@@ -36273,6 +36326,20 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "09:15:00",
@@ -36280,7 +36347,7 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
@@ -36301,21 +36368,7 @@
       },
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
