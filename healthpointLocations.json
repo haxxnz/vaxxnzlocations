@@ -8089,7 +8089,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"51343c30383d11363e23343c34353832303d7f323e7f3f2b\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"26434b474f4a66414954434b43424f45474a08454908485c\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -19930,37 +19930,6 @@
     }
   },
   {
-    "lat": -35.7273362,
-    "lng": 174.3172539,
-    "name": "Whāngarei - 5 Waltons St",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
-    "telephone": "0800 272 4842",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Ngati Hine Health Trust Whangarei Vax Centre&nbsp; will be open <strong>EVERY DAY Monday to Friday</strong>",
-        "<strong>Booking are preferred , but walk-ins by whānau are welcome</strong>",
-        "<strong>Book by phoning 0800 272 4842 or online <a href=\"https://bookmyvaccine.covid19.health.nz/\"> Book My Vaccine</a></strong>",
-        "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
-        "<strong>All current Alert Level status guidelines will be followed.</strong>"
-      ]
-    }
-  },
-  {
     "lat": -37.7491174,
     "lng": 175.233495,
     "name": "Hamilton Te Awa Vaccination Centre - Te Awa The Base",
@@ -21224,6 +21193,39 @@
         "Friday 15 October - 9am-3pm",
         "Saturday 16 October - 9am-4pm",
         "Sunday 17 October - 10am-2pm"
+      ]
+    }
+  },
+  {
+    "lat": -35.7273362,
+    "lng": 174.3172539,
+    "name": "Whāngarei - 5 Waltons St",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
+    "telephone": "0800 272 4842",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:00 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Open Saturday 9 October</strong>",
+        "Ngati Hine Health Trust Whangarei Vax Centre&nbsp; will be open <strong>EVERY DAY Monday to Friday</strong>",
+        "<strong>Booking are preferred , but walk-ins by whānau are welcome</strong>",
+        "<strong>Book by phoning 0800 272 4842 or online <a href=\"https://bookmyvaccine.covid19.health.nz/\"> Book My Vaccine</a></strong>",
+        "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
+        "<strong>All current Alert Level status guidelines will be followed.</strong>"
       ]
     }
   }
