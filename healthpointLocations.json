@@ -5023,23 +5023,6 @@
     }
   },
   {
-    "lat": -36.91531839999999,
-    "lng": 174.8728314,
-    "name": "",
-    "branch": "pharmacy",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/11-13-cortina-place-pakuranga-auckland/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.8808731,
     "lng": 174.89661820000003,
     "name": "Unichem Marina Pharmacy",
@@ -8106,7 +8089,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"97f2faf6fefbd7f0f8e5f2faf2f3fef4f6fbb9f4f8b9f9ed\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"6c09010d05002c0b031e09010908050f0d00420f03420216\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -14753,6 +14736,23 @@
     }
   },
   {
+    "lat": -36.91531839999999,
+    "lng": 174.8728314,
+    "name": "",
+    "branch": "primary",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/11-13-cortina-place-pakuranga-auckland/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -37.0221625,
     "lng": 174.89747820000002,
     "name": "Manurewa Healthcare",
@@ -19666,28 +19666,50 @@
     }
   },
   {
-    "lat": -36.8709819,
-    "lng": 174.77643179999995,
-    "name": "Life Pharmacy Newmarket",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "lat": -38.6892491,
+    "lng": 176.0761407,
+    "name": "Taupo Health Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Walk in"
+      "Make an appointment"
     ],
-    "address": "Westfield Newmarket, 277 - 309 Broadway, Newmarket, Auckland",
-    "telephone": "(09) 524 0061",
-    "faxNumber": "(09) 524 0368",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-newmarket/",
+    "address": "113 Heuheu Street, Taupō",
+    "telephone": "(07) 378 7060",
+    "faxNumber": "(07) 378 2255",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/taupo-health-centre/",
     "opennningHours": {
       "schedule": {
-        "Mon – Sat": "9:00 AM – 6:00 PM",
-        "Sun": "10:00 AM – 6:00 PM"
+        "Mon – Fri": "8:00 AM – 5:30 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10:00 AM – 7:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 7:00 PM), Easter Monday (18 Apr, 10:00 AM – 7:00 PM), ANZAC Day (25 Apr, 2:00 PM – 7:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 7:00 PM)."
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
+      "notesHtml": [
+        "<strong>After Hours: </strong>phone GP and follow instructions. Call will be diverted to whichever surgery is on duty or transferred to an after hours service who can contact a GP on call"
+      ]
+    }
+  },
+  {
+    "lat": -37.8076705,
+    "lng": 174.8663214,
+    "name": "Raglan Area School",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "42 Norrie Avenue, Raglan, Waikato 3225",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-pop-up-vaccination-centres/at/raglan-area-school-norrie-avenue-raglan/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -19725,32 +19747,185 @@
     }
   },
   {
-    "lat": -46.4105505,
-    "lng": 168.35505020000005,
-    "name": "Murihiku Medical Services",
+    "lat": -36.8709819,
+    "lng": 174.77643179999995,
+    "name": "Life Pharmacy Newmarket",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Walk in"
+    ],
+    "address": "Westfield Newmarket, 277 - 309 Broadway, Newmarket, Auckland",
+    "telephone": "(09) 524 0061",
+    "faxNumber": "(09) 524 0368",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-newmarket/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sat": "9:00 AM – 6:00 PM",
+        "Sun": "10:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Good Friday (15 Apr), Easter Sunday (17 Apr). Open Labour Day (25 Oct, 10:00 AM – 7:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 7:00 PM), Easter Monday (18 Apr, 10:00 AM – 7:00 PM), ANZAC Day (25 Apr, 2:00 PM – 7:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 7:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.5528734,
+    "lng": 172.5965675,
+    "name": "Village Health Lincoln Road",
     "branch": "primary",
     "isOpenToday": false,
     "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Make an appointment"
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
     ],
-    "address": "112 Don Street, Invercargill",
-    "telephone": "(03) 218 6343",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/murihiku-medical-services/",
+    "address": "30 Lincoln Road, Hillmorton, Christchurch",
+    "telephone": "(03) 338 8595",
+    "faxNumber": "(03) 338 3853",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/village-health-lincoln-road/",
     "opennningHours": {
       "schedule": {
-        "Mon – Thu": "8:00 AM – 5:30 PM",
-        "Fri": "8:00 AM – 5:00 PM"
+        "Mon": "8:00 AM – 5:00 PM",
+        "Tue – Wed": "8:00 AM – 6:00 PM",
+        "Thu": "8:00 AM – 5:00 PM",
+        "Fri": "8:00 AM – 4:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), Southland Anniversary (19 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Invercargill After Hours Doctors."
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
       },
       "notesHtml": [
+        "<strong>After Hours: </strong>Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you."
+      ]
+    }
+  },
+  {
+    "lat": -36.9315877,
+    "lng": 174.71668049999994,
+    "name": "Lynfield Medical Clinic",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "Lynfield Shopping Centre, 1-15 The Avenue, Lynfield, Auckland",
+    "telephone": "(09) 627 8433",
+    "faxNumber": "(09) 626 7247",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/lynfield-medical-clinic/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:15 AM – 11:45 AM",
+        "Mon": "9:00 AM – 5:00 PM",
+        "Tue – Wed": "9:00 AM – 6:00 PM",
+        "Thu – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong> Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "Please note that we are no longer providing Saturday clinics until the new year."
+      ]
+    }
+  },
+  {
+    "lat": -46.2366904,
+    "lng": 169.73963290000006,
+    "name": "Clutha Health First Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "Clutha Health First, Balclutha",
+    "telephone": "(03) 419 0500",
+    "faxNumber": "(03) 419 0501",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clutha-health-first-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM",
+        "Mon – Sun": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "If urgent care is required outside of our practice hours, please&nbsp;phone us. Your call will be answered by a Registered Nurse at our Triage service where appropriate care will be determined.",
+        "Weekend clinics are by appointment only which can be arranged by calling us on 4190500 and speaking to our Triage Service."
+      ]
+    }
+  },
+  {
+    "lat": -36.8872325,
+    "lng": 174.7600193,
+    "name": "Mt Eden 575 Doctors",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "575 Mount Eden Road, Mount Eden, Auckland",
+    "telephone": "(09) 623 4599",
+    "faxNumber": "(09) 623 4363",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mt-eden-575-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
+      },
+      "notesHtml": [
+        "<strong>Our Doctors Consulting Hours:</strong>",
         "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+        "Please dial the Practice number and follow instructions.",
+        "If one of our doctors is not available or it is after-hours you can get a virtual GP consultation with a doctor by using CareHQ, from 7am – 7pm, 7 days per week. Find out more at www.carehq.co.nz"
+      ]
+    }
+  },
+  {
+    "lat": -36.8297726,
+    "lng": 174.7961873,
+    "name": "Devonport 7 Day Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through",
+      "Walk in"
+    ],
+    "address": "31A Bartley Terrace, Devonport, Auckland",
+    "telephone": "(09) 445 4000",
+    "faxNumber": "(09) 446 6601",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/devonport-7-day-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 8:00 PM",
+        "Sat – Sun": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays.."
+      },
+      "notesHtml": [
+        "We are open all public holidays from 10am to 4pm.",
+        "Except for Christmas Day"
       ]
     }
   },
@@ -20040,9 +20215,9 @@
     }
   },
   {
-    "lat": -38.6892491,
-    "lng": 176.0761407,
-    "name": "Taupo Health Centre",
+    "lat": -46.4105505,
+    "lng": 168.35505020000005,
+    "name": "Murihiku Medical Services",
     "branch": "primary",
     "isOpenToday": false,
     "openTodayHours": ".",
@@ -20050,136 +20225,22 @@
       "Anyone currently eligible can access",
       "Make an appointment"
     ],
-    "address": "113 Heuheu Street, Taupō",
-    "telephone": "(07) 378 7060",
-    "faxNumber": "(07) 378 2255",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/taupo-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "<strong>After Hours: </strong>phone GP and follow instructions. Call will be diverted to whichever surgery is on duty or transferred to an after hours service who can contact a GP on call"
-      ]
-    }
-  },
-  {
-    "lat": -37.8076705,
-    "lng": 174.8663214,
-    "name": "Raglan Area School",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "42 Norrie Avenue, Raglan, Waikato 3225",
-    "telephone": "",
+    "address": "112 Don Street, Invercargill",
+    "telephone": "(03) 218 6343",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-pop-up-vaccination-centres/at/raglan-area-school-norrie-avenue-raglan/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -43.5528734,
-    "lng": 172.5965675,
-    "name": "Village Health Lincoln Road",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "30 Lincoln Road, Hillmorton, Christchurch",
-    "telephone": "(03) 338 8595",
-    "faxNumber": "(03) 338 3853",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/village-health-lincoln-road/",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/murihiku-medical-services/",
     "opennningHours": {
       "schedule": {
-        "Mon": "8:00 AM – 5:00 PM",
-        "Tue – Wed": "8:00 AM – 6:00 PM",
-        "Thu": "8:00 AM – 5:00 PM",
-        "Fri": "8:00 AM – 4:00 PM"
+        "Mon – Thu": "8:00 AM – 5:30 PM",
+        "Fri": "8:00 AM – 5:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), Southland Anniversary (19 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Invercargill After Hours Doctors."
       },
       "notesHtml": [
-        "<strong>After Hours: </strong>Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you."
-      ]
-    }
-  },
-  {
-    "lat": -36.9315877,
-    "lng": 174.71668049999994,
-    "name": "Lynfield Medical Clinic",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "Lynfield Shopping Centre, 1-15 The Avenue, Lynfield, Auckland",
-    "telephone": "(09) 627 8433",
-    "faxNumber": "(09) 626 7247",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/lynfield-medical-clinic/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:15 AM – 11:45 AM",
-        "Mon": "9:00 AM – 5:00 PM",
-        "Tue – Wed": "9:00 AM – 6:00 PM",
-        "Thu – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong> Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "Please note that we are no longer providing Saturday clinics until the new year."
-      ]
-    }
-  },
-  {
-    "lat": -36.8297726,
-    "lng": 174.7961873,
-    "name": "Devonport 7 Day Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through",
-      "Walk in"
-    ],
-    "address": "31A Bartley Terrace, Devonport, Auckland",
-    "telephone": "(09) 445 4000",
-    "faxNumber": "(09) 446 6601",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/devonport-7-day-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 8:00 PM",
-        "Sat – Sun": "9:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays.."
-      },
-      "notesHtml": [
-        "We are open all public holidays from 10am to 4pm.",
-        "Except for Christmas Day"
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
       ]
     }
   },
@@ -20212,63 +20273,32 @@
     }
   },
   {
-    "lat": -46.2366904,
-    "lng": 169.73963290000006,
-    "name": "Clutha Health First Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "Clutha Health First, Balclutha",
-    "telephone": "(03) 419 0500",
-    "faxNumber": "(03) 419 0501",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clutha-health-first-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 6:00 PM",
-        "Mon – Sun": "9:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "If urgent care is required outside of our practice hours, please&nbsp;phone us. Your call will be answered by a Registered Nurse at our Triage service where appropriate care will be determined.",
-        "Weekend clinics are by appointment only which can be arranged by calling us on 4190500 and speaking to our Triage Service."
-      ]
-    }
-  },
-  {
-    "lat": -36.8872325,
-    "lng": 174.7600193,
-    "name": "Mt Eden 575 Doctors",
+    "lat": -36.9658829,
+    "lng": 174.9117592,
+    "name": "Ormiston Medical Centre",
     "branch": "primary",
     "isOpenToday": false,
     "openTodayHours": ".",
     "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
+      "Anyone currently eligible can access",
+      "By invitation only",
+      "Make an appointment",
+      "Walk in"
     ],
-    "address": "575 Mount Eden Road, Mount Eden, Auckland",
-    "telephone": "(09) 623 4599",
-    "faxNumber": "(09) 623 4363",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mt-eden-575-doctors/",
+    "address": "211 Ormiston Road, Flat Bush, Auckland",
+    "telephone": "(09) 265 1325",
+    "faxNumber": "09 277 0094",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ormiston-medical-centre/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM"
+        "Mon – Fri": "8:30 AM – 5:00 PM"
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
+        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
       },
       "notesHtml": [
-        "<strong>Our Doctors Consulting Hours:</strong>",
-        "<strong>After Hours:</strong>",
-        "Please dial the Practice number and follow instructions.",
-        "If one of our doctors is not available or it is after-hours you can get a virtual GP consultation with a doctor by using CareHQ, from 7am – 7pm, 7 days per week. Find out more at www.carehq.co.nz"
+        "Please call Eastcare on (09) 277 1516 for out of hours assistance."
       ]
     }
   },
@@ -20306,6 +20336,178 @@
         "Kenepuru Hospital, Raiha Street, Porirua&nbsp;",
         "(04) 918 2300"
       ]
+    }
+  },
+  {
+    "lat": -36.9223484,
+    "lng": 174.7008562,
+    "name": "Blockhouse Bay Medical Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "503 Blockhouse Bay Road, Blockhouse Bay, Auckland",
+    "telephone": "(09) 627 9176",
+    "faxNumber": "(09) 627 2379",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/blockhouse-bay-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;",
+        "&nbsp;",
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.8462319,
+    "lng": 174.7659345,
+    "name": "109 Doctors",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "109 Queen Street, Auckland Central, Auckland",
+    "telephone": "(09) 366 0109",
+    "faxNumber": "(09) 366 7109",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/109-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "Closed during Christmas and New Year"
+      ]
+    }
+  },
+  {
+    "lat": -36.9962043,
+    "lng": 174.7881753,
+    "name": "Airport Doctors",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Auckland Airport, 400 George Bolt Memorial Drive, Auckland",
+    "telephone": "(09) 256 8655",
+    "faxNumber": "(09) 256 8460",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/airport-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Otahuhu."
+      },
+      "notesHtml": [
+        "Please call our number for out of hours assistance. Your call will be answered by a registered nurse."
+      ]
+    }
+  },
+  {
+    "lat": -43.8140785,
+    "lng": 172.96148199999993,
+    "name": "Akaroa Health Limited",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "2 Aylmers Valley Road, Akaroa",
+    "telephone": "(03) 304 7004",
+    "faxNumber": "(03) 304 8683",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/akaroa-health-limited/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "After Hours: Call clinic phone for registered nurse who can contact an on call doctor.&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -43.511989,
+    "lng": 172.62189250000006,
+    "name": "Alabaster's Merivale Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 1:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "200 Papanui Road, Merivale, Christchurch",
+    "telephone": "(03) 355 9171",
+    "faxNumber": "(03) 963 7417",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/alabasters-merivale-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "8:30 AM – 5:30 PM",
+        "Thu": "8:30 AM – 6:00 PM",
+        "Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:30 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.6027645,
+    "lng": 172.7213713,
+    "name": "Lyttelton Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 1:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "19 London Street, Lyttelton",
+    "telephone": "(03) 328 8314",
+    "faxNumber": "(03) 328 9019",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/lyttelton-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:30 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
     }
   },
   {
@@ -20485,344 +20687,43 @@
     }
   },
   {
-    "lat": -36.9658829,
-    "lng": 174.9117592,
-    "name": "Ormiston Medical Centre",
+    "lat": -36.9871014,
+    "lng": 174.8821422,
+    "name": "Albahadly Medical Limited",
     "branch": "primary",
     "isOpenToday": false,
     "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "By invitation only",
-      "Make an appointment",
-      "Walk in"
+      "Make an appointment"
     ],
-    "address": "211 Ormiston Road, Flat Bush, Auckland",
-    "telephone": "(09) 265 1325",
-    "faxNumber": "09 277 0094",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ormiston-medical-centre/",
+    "address": "652 Great South Road, Manukau, Auckland",
+    "telephone": "(09) 262 2036",
+    "faxNumber": "(09) 262 2037",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/albahadly-medical-limited/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
+        "Mon – Fri": "9:00 AM – 4:30 PM"
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
         "Preferred urgent care clinic out of hours": "East Care Urgent Care."
       },
       "notesHtml": [
-        "Please call Eastcare on (09) 277 1516 for out of hours assistance."
-      ]
-    }
-  },
-  {
-    "lat": -36.9223484,
-    "lng": 174.7008562,
-    "name": "Blockhouse Bay Medical Centre",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "503 Blockhouse Bay Road, Blockhouse Bay, Auckland",
-    "telephone": "(09) 627 9176",
-    "faxNumber": "(09) 627 2379",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/blockhouse-bay-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "<strong>Mon - Fri from 9am to 4:30pm for Phone &amp; Video Consultation.</strong>",
+        "To book an Appointment please call 092622036",
+        "<strong>IMPORTANT: </strong>If you have flu like symptoms (cough, fever, runny nose, sore throat, headache, loss of smell/taste or have been in contact or been to any of the <strong><a href=\"https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest#current\">Locations of Interest</a></strong>",
+        "<strong>Please CALL US, STAY HOME, DO NOT WALK-IN TO THE CLINIC</strong>",
+        "Thank You for your co-operation",
+        "Be Safe &amp; Be Kind",
+        "<strong>Covid Testing Locations</strong>",
+        "<a href=\"https://www.arphs.health.nz/public-health-topics/covid-19/where-to-get-tested\">https://www.arphs.health.nz/public-health-topics/covid-19/where-to-get-tested</a>",
+        "<strong>Book Covid Vaccination</strong>",
+        "<a href=\"https://bookmyvaccine.covid19.health.nz/\">https://bookmyvaccine.covid19.health.nz/</a>",
         "&nbsp;",
         "&nbsp;",
-        "&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -36.8843584,
-    "lng": 174.71638200000007,
-    "name": "Assist Healthcare",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "6 Mount Albert Road, Mount Albert, Auckland",
-    "telephone": "(09) 281 1900",
-    "faxNumber": "no longer operational",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/assist-healthcare/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "8:30 AM – 5:50 PM",
-        "Tue – Thu": "8:30 AM – 5:30 PM",
-        "Fri": "8:30 AM – 5:50 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
+        "<strong>After Hours Phone Line:</strong>",
         "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
-    }
-  },
-  {
-    "lat": -45.8965682,
-    "lng": 170.4999257,
-    "name": "Aurora Health Centre",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "70 Macandrew Road, South Dunedin, Dunedin",
-    "telephone": "(03) 455 0006",
-    "faxNumber": "(03) 456 2647",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/aurora-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Dunedin Urgent Doctors & Accident Centre."
-      },
-      "notesHtml": [
-        "Covid vaccinations are being booked in on Saturday Morning from 9.30am to 12.30pm (this is not for GP appointments)"
-      ]
-    }
-  },
-  {
-    "lat": -36.8943755,
-    "lng": 174.6970595,
-    "name": "Avondale Family Doctor",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "63 Rosebank Road, Avondale, Auckland",
-    "telephone": "(09) 828 8410",
-    "faxNumber": "(09) 828 8470",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/avondale-family-doctor/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 4:45 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
-      },
-      "notesHtml": [
-        "<strong>APPOINTMENTS ARE NECESSARY 8:30 AM TO 4:30 PM</strong>",
-        "<strong></strong>PRACTICE WILL BE CLOSED FROM 1:00 PM - 2:00 PM for lunch"
-      ]
-    }
-  },
-  {
-    "lat": -37.77978799999999,
-    "lng": 175.24912930000005,
-    "name": "Avalon Medical Hamilton",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "6 Avalon Drive, Nawton, Hamilton",
-    "telephone": "(07) 846 0082",
-    "faxNumber": "(07) 846 0085",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/avalon-medical-hamilton/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:15 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Anglesea Clinic - Accident & Urgent Medical Ltd."
-      },
-      "notesHtml": [
-        "After Hours: Please call the practice and follow instructions for the afterhours service."
-      ]
-    }
-  },
-  {
-    "lat": -45.89713,
-    "lng": 170.49892599999998,
-    "name": "Antidote Macandrew",
-    "branch": "pharmacy",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "98 Macandrew Road, South Dunedin, Dunedin",
-    "telephone": "(03) 455 5571",
-    "faxNumber": "(03) 974 6819",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-macandrew/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "We will be doing vaccination clinics on both Saturdays and Sundays for the month of August and September 2021."
-      ]
-    }
-  },
-  {
-    "lat": -45.0128748,
-    "lng": 168.7433768,
-    "name": "Antidote Queenstown",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 4:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "19 Grant Road, Frankton, Queenstown",
-    "telephone": "(03) 441 4497",
-    "faxNumber": "(03) 927 4704",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-queenstown/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM",
-        "Sat": "10:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays.."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -39.9091658,
-    "lng": 175.0534444,
-    "name": "Aramoho Health Centre",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "144 Somme Parade, Aramoho, Whanganui",
-    "telephone": "(06) 343 9050",
-    "faxNumber": "(06) 343 9045",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/aramoho-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Whanganui Accident & Medical."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -44.3949423,
-    "lng": 171.24775069999998,
-    "name": "12 Elizabeth Street",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "12 Elizabeth Street, Timaru 7910",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/arowhenua-whanau-services-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "9:00 AM – 4:30 AM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -44.3824657,
-    "lng": 171.23796259999995,
-    "name": "Ashbury Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "98 Evans Street, Waimataitai, Timaru",
-    "telephone": "(03) 688 9736",
-    "faxNumber": "(03) 684 5016",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/ashbury-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "9:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr). Open Labour Day (25 Oct, 1:00 PM – 6:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 1:00 PM – 6:00 PM), Easter Sunday (17 Apr, 9:00 AM – 6:00 PM), Easter Monday (18 Apr, 1:00 PM – 6:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Queen's Birthday (6 Jun, 1:00 PM – 6:00 PM), South Canterbury Anniversary (26 Sep, 1:00 PM – 6:00 PM)."
-      },
-      "notesHtml": [
-        "We are open normal hours through out the COVID19 pandemic."
-      ]
-    }
-  },
-  {
-    "lat": -43.9057463,
-    "lng": 171.75103920000004,
-    "name": "Ashburton Health First",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "308 Havelock Street, Ashburton",
-    "telephone": "(03) 308 1956",
-    "faxNumber": "(03) 308 1955",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ashburton-health-first/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "<strong>Note: Lunch Break between 1300 - 1330hrs</strong>"
       ]
     }
   },
@@ -21051,9 +20952,171 @@
     }
   },
   {
-    "lat": -36.8462319,
-    "lng": 174.7659345,
-    "name": "109 Doctors",
+    "lat": -45.89713,
+    "lng": 170.49892599999998,
+    "name": "Antidote Macandrew",
+    "branch": "pharmacy",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "98 Macandrew Road, South Dunedin, Dunedin",
+    "telephone": "(03) 455 5571",
+    "faxNumber": "(03) 974 6819",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-macandrew/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "We will be doing vaccination clinics on both Saturdays and Sundays for the month of August and September 2021."
+      ]
+    }
+  },
+  {
+    "lat": -45.0128748,
+    "lng": 168.7433768,
+    "name": "Antidote Queenstown",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 4:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "19 Grant Road, Frankton, Queenstown",
+    "telephone": "(03) 441 4497",
+    "faxNumber": "(03) 927 4704",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-queenstown/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM",
+        "Sat": "10:00 AM – 4:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays.."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.9091658,
+    "lng": 175.0534444,
+    "name": "Aramoho Health Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "144 Somme Parade, Aramoho, Whanganui",
+    "telephone": "(06) 343 9050",
+    "faxNumber": "(06) 343 9045",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/aramoho-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Whanganui Accident & Medical."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -44.3949423,
+    "lng": 171.24775069999998,
+    "name": "12 Elizabeth Street",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "12 Elizabeth Street, Timaru 7910",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/arowhenua-whanau-services-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "9:00 AM – 4:30 AM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -44.3824657,
+    "lng": 171.23796259999995,
+    "name": "Ashbury Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "98 Evans Street, Waimataitai, Timaru",
+    "telephone": "(03) 688 9736",
+    "faxNumber": "(03) 684 5016",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/ashbury-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr). Open Labour Day (25 Oct, 1:00 PM – 6:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 1:00 PM – 6:00 PM), Easter Sunday (17 Apr, 9:00 AM – 6:00 PM), Easter Monday (18 Apr, 1:00 PM – 6:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Queen's Birthday (6 Jun, 1:00 PM – 6:00 PM), South Canterbury Anniversary (26 Sep, 1:00 PM – 6:00 PM)."
+      },
+      "notesHtml": [
+        "We are open normal hours through out the COVID19 pandemic."
+      ]
+    }
+  },
+  {
+    "lat": -43.9057463,
+    "lng": 171.75103920000004,
+    "name": "Ashburton Health First",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "308 Havelock Street, Ashburton",
+    "telephone": "(03) 308 1956",
+    "faxNumber": "(03) 308 1955",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ashburton-health-first/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "<strong>Note: Lunch Break between 1300 - 1330hrs</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -36.8843584,
+    "lng": 174.71638200000007,
+    "name": "Assist Healthcare",
     "branch": "primary",
     "isOpenToday": false,
     "openTodayHours": ".",
@@ -21061,172 +21124,109 @@
       "Eligible GP enrolled patients only",
       "Make an appointment"
     ],
-    "address": "109 Queen Street, Auckland Central, Auckland",
-    "telephone": "(09) 366 0109",
-    "faxNumber": "(09) 366 7109",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/109-doctors/",
+    "address": "6 Mount Albert Road, Mount Albert, Auckland",
+    "telephone": "(09) 281 1900",
+    "faxNumber": "no longer operational",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/assist-healthcare/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "Closed during Christmas and New Year"
-      ]
-    }
-  },
-  {
-    "lat": -36.9962043,
-    "lng": 174.7881753,
-    "name": "Airport Doctors",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Auckland Airport, 400 George Bolt Memorial Drive, Auckland",
-    "telephone": "(09) 256 8655",
-    "faxNumber": "(09) 256 8460",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/airport-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Otahuhu."
-      },
-      "notesHtml": [
-        "Please call our number for out of hours assistance. Your call will be answered by a registered nurse."
-      ]
-    }
-  },
-  {
-    "lat": -43.8140785,
-    "lng": 172.96148199999993,
-    "name": "Akaroa Health Limited",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "2 Aylmers Valley Road, Akaroa",
-    "telephone": "(03) 304 7004",
-    "faxNumber": "(03) 304 8683",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/akaroa-health-limited/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "After Hours: Call clinic phone for registered nurse who can contact an on call doctor.&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -43.511989,
-    "lng": 172.62189250000006,
-    "name": "Alabaster's Merivale Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 1:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "200 Papanui Road, Merivale, Christchurch",
-    "telephone": "(03) 355 9171",
-    "faxNumber": "(03) 963 7417",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/alabasters-merivale-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "8:30 AM – 5:30 PM",
-        "Thu": "8:30 AM – 6:00 PM",
-        "Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:30 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -43.6027645,
-    "lng": 172.7213713,
-    "name": "Lyttelton Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 1:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "19 London Street, Lyttelton",
-    "telephone": "(03) 328 8314",
-    "faxNumber": "(03) 328 9019",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/lyttelton-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:30 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.9871014,
-    "lng": 174.8821422,
-    "name": "Albahadly Medical Limited",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "652 Great South Road, Manukau, Auckland",
-    "telephone": "(09) 262 2036",
-    "faxNumber": "(09) 262 2037",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/albahadly-medical-limited/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:30 PM"
+        "Mon": "8:30 AM – 5:50 PM",
+        "Tue – Thu": "8:30 AM – 5:30 PM",
+        "Fri": "8:30 AM – 5:50 PM"
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
       },
       "notesHtml": [
-        "<strong>Mon - Fri from 9am to 4:30pm for Phone &amp; Video Consultation.</strong>",
-        "To book an Appointment please call 092622036",
-        "<strong>IMPORTANT: </strong>If you have flu like symptoms (cough, fever, runny nose, sore throat, headache, loss of smell/taste or have been in contact or been to any of the <strong><a href=\"https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-health-advice-public/contact-tracing-covid-19/covid-19-contact-tracing-locations-interest#current\">Locations of Interest</a></strong>",
-        "<strong>Please CALL US, STAY HOME, DO NOT WALK-IN TO THE CLINIC</strong>",
-        "Thank You for your co-operation",
-        "Be Safe &amp; Be Kind",
-        "<strong>Covid Testing Locations</strong>",
-        "<a href=\"https://www.arphs.health.nz/public-health-topics/covid-19/where-to-get-tested\">https://www.arphs.health.nz/public-health-topics/covid-19/where-to-get-tested</a>",
-        "<strong>Book Covid Vaccination</strong>",
-        "<a href=\"https://bookmyvaccine.covid19.health.nz/\">https://bookmyvaccine.covid19.health.nz/</a>",
-        "&nbsp;",
-        "&nbsp;",
-        "<strong>After Hours Phone Line:</strong>",
+        "<strong>After Hours:</strong>",
         "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
+    "lat": -45.8965682,
+    "lng": 170.4999257,
+    "name": "Aurora Health Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "70 Macandrew Road, South Dunedin, Dunedin",
+    "telephone": "(03) 455 0006",
+    "faxNumber": "(03) 456 2647",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/aurora-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Dunedin Urgent Doctors & Accident Centre."
+      },
+      "notesHtml": [
+        "Covid vaccinations are being booked in on Saturday Morning from 9.30am to 12.30pm (this is not for GP appointments)"
+      ]
+    }
+  },
+  {
+    "lat": -36.8943755,
+    "lng": 174.6970595,
+    "name": "Avondale Family Doctor",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "63 Rosebank Road, Avondale, Auckland",
+    "telephone": "(09) 828 8410",
+    "faxNumber": "(09) 828 8470",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/avondale-family-doctor/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 4:45 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
+      },
+      "notesHtml": [
+        "<strong>APPOINTMENTS ARE NECESSARY 8:30 AM TO 4:30 PM</strong>",
+        "<strong></strong>PRACTICE WILL BE CLOSED FROM 1:00 PM - 2:00 PM for lunch"
+      ]
+    }
+  },
+  {
+    "lat": -37.77978799999999,
+    "lng": 175.24912930000005,
+    "name": "Avalon Medical Hamilton",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "6 Avalon Drive, Nawton, Hamilton",
+    "telephone": "(07) 846 0082",
+    "faxNumber": "(07) 846 0085",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/avalon-medical-hamilton/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:15 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Anglesea Clinic - Accident & Urgent Medical Ltd."
+      },
+      "notesHtml": [
+        "After Hours: Please call the practice and follow instructions for the afterhours service."
       ]
     }
   }
