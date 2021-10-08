@@ -8070,7 +8070,7 @@
     "extId": "a0R4a000000RyESEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
-    "endDate": "2021-10-28",
+    "endDate": "2021-12-17",
     "location": {
       "lng": 175.154,
       "lat": -37.5586
@@ -8923,14 +8923,14 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "14:00:00"
+        "localEnd": "14:45:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
@@ -15302,7 +15302,7 @@
   },
   {
     "displayAddress": "Ruapehu Street   Waiouru  4826",
-    "distanceInMeters": 54574.71026039,
+    "distanceInMeters": 73049.30589769,
     "extId": "a0R4a000000Sr5bEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-08",
@@ -35688,7 +35688,7 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -35709,7 +35709,7 @@
       },
       {
         "days": [
-          "thu"
+          "sun"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -35801,13 +35801,6 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
           "sun"
         ],
         "localStart": "09:00:00",
@@ -35847,6 +35840,13 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages (Cantonese, Mandarin)",
@@ -36210,20 +36210,6 @@
       {
         "days": [
           "wed"
-        ],
-        "localStart": "13:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "13:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "13:30:00",
         "localEnd": "17:15:00"
@@ -36649,9 +36635,16 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
         "localEnd": "17:15:00"
       },
       {
@@ -36684,16 +36677,9 @@
       },
       {
         "days": [
-          "mon"
+          "tue"
         ],
         "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:30:00",
         "localEnd": "17:15:00"
       }
     ],
@@ -36731,6 +36717,13 @@
       },
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -36753,13 +36746,6 @@
       {
         "days": [
           "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -36799,13 +36785,6 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "10:00:00",
@@ -36820,7 +36799,7 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -36828,6 +36807,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
