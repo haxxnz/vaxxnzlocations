@@ -12626,7 +12626,7 @@
     "extId": "a0R4a000000SUG0EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
-    "endDate": "2021-12-05",
+    "endDate": "2021-11-29",
     "location": {
       "lng": 168.348,
       "lat": -46.4053
@@ -24438,7 +24438,23 @@
     },
     "name": "Kapiti Youth Support",
     "timezone": "Pacific/Auckland",
-    "openHours": [],
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "16:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "16:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "description": "Kia ora whanau, come and get your COVID vaccination at Kapiti Youth Support- KYS. You don’t have to be registered with us to get your vaccine, we are happy to do any age group. Bookings are ideal but we will also vaccinate people who turn up on the day. Nau mai, haere mai  www.kys.org.nz",
     "mapUrl": "https://www.google.co.nz/maps/place/Kapiti+Youth+Support/@-40.9102095,175.0102203,20z/data=!4m5!3m4!1s0x6d40a143d20ea84d:0xfed37f7b6b7c49ec!8m2!3d-40.9101713!4d175.0102268",
     "tags": [],
     "type": "OnlineBooking",
