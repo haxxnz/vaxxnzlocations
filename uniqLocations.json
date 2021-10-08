@@ -10788,6 +10788,13 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "11:00:00",
@@ -10824,13 +10831,6 @@
       {
         "days": [
           "sun"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "sat"
         ],
         "localStart": "13:00:00",
         "localEnd": "18:00:00"
