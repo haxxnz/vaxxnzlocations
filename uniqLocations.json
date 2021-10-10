@@ -9018,7 +9018,7 @@
         "days": [
           "wed"
         ],
-        "localStart": "17:00:00",
+        "localStart": "16:00:00",
         "localEnd": "20:00:00"
       },
       {
@@ -14236,7 +14236,7 @@
       "lng": 172.546,
       "lat": -43.5782
     },
-    "name": "Halswell - Halswellhealth*",
+    "name": "Halswell - Halswellhealth",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -33201,7 +33201,7 @@
         "localEnd": "14:00:00"
       }
     ],
-    "description": "Community vaccination event Saturday 9 October and Saturday 20 November",
+    "description": "Community vaccination event Saturday 9 October and Saturday 13 November",
     "mapUrl": "https://goo.gl/maps/Wfg8y69vP9WvEisy5",
     "tags": [],
     "type": "OnlineBooking",
@@ -33827,6 +33827,30 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "89 Ardmore Street   Wanaka  9305",
+    "distanceInMeters": 36261.63792311,
+    "extId": "a0R4a000000Vr7yEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-09",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 169.136,
+      "lat": -44.6943
+    },
+    "name": "Engage Safety - Wanaka Lakes Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/89+Ardmore+Street,+Wanaka+9305,+New+Zealand/@-44.6944925,169.1339996,17z/data=!4m5!3m4!1s0xa9d54f45b465f8f9:0xc715ab010b10ff5a!8m2!3d-44.6944925!4d169.1361883",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "39 Layard Street Avondale  Auckland  1026",
     "distanceInMeters": 3256.01351486,
     "extId": "a0R4a000000VrLNEA0",
@@ -33965,15 +33989,15 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:15:00"
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:15:00"
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages (Mandarin)",
@@ -35755,7 +35779,7 @@
   },
   {
     "displayAddress": "Ground floor/213 Shakespeare Road Takapuna  Auckland  620",
-    "distanceInMeters": 43156.26425036,
+    "distanceInMeters": 14138.42071015,
     "extId": "a0R4a000000WCmxEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-05",
@@ -35767,20 +35791,6 @@
     "name": "Pharmacy On Shakespeare",
     "timezone": "Pacific/Auckland",
     "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
       {
         "days": [
           "sat"
@@ -35805,6 +35815,20 @@
       {
         "days": [
           "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
@@ -35868,67 +35892,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-01",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "382 Te Atatu Road, Te Atatū Peninsula,  Auckland  0610",
-    "distanceInMeters": 9420.14074605,
-    "extId": "a0R4a000000WDHqEAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-29",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.651,
-      "lat": -36.8548
-    },
-    "name": "Peninsula Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      }
-    ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
-    "mapUrl": "https://www.google.com/maps/place/Peninsula+Medical/@-36.854803,174.6489143,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d408b25428f3d:0x41c008cfe6a5b8b6!8m2!3d-36.854803!4d174.651103",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-27",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -36746,13 +36709,6 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "09:00:00",
@@ -36792,6 +36748,13 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
@@ -36821,21 +36784,7 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -36849,7 +36798,21 @@
       },
       {
         "days": [
-          "mon"
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
