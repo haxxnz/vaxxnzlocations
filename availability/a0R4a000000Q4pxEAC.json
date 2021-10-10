@@ -1,16 +1,32 @@
 {
   "availabilityDates": {
+    "2021-10-11": [
+      {
+        "localStartTime": "11:20:00",
+        "durationSeconds": 240
+      },
+      {
+        "localStartTime": "18:04:00",
+        "durationSeconds": 240
+      }
+    ],
+    "2021-10-12": [
+      {
+        "localStartTime": "13:36:00",
+        "durationSeconds": 240
+      }
+    ],
     "2021-10-13": [
       {
-        "localStartTime": "13:30:00",
+        "localStartTime": "11:20:00",
+        "durationSeconds": 240
+      },
+      {
+        "localStartTime": "11:24:00",
         "durationSeconds": 240
       },
       {
         "localStartTime": "13:34:00",
-        "durationSeconds": 240
-      },
-      {
-        "localStartTime": "15:26:00",
         "durationSeconds": 240
       },
       {
@@ -46,7 +62,7 @@
         "durationSeconds": 240
       },
       {
-        "localStartTime": "13:38:00",
+        "localStartTime": "16:14:00",
         "durationSeconds": 240
       }
     ],
@@ -57,10 +73,6 @@
       },
       {
         "localStartTime": "09:38:00",
-        "durationSeconds": 240
-      },
-      {
-        "localStartTime": "09:54:00",
         "durationSeconds": 240
       },
       {
@@ -568,6 +580,12 @@
         "durationSeconds": 240
       }
     ],
+    "2021-11-08": [
+      {
+        "localStartTime": "13:24:00",
+        "durationSeconds": 240
+      }
+    ],
     "2021-11-09": [
       {
         "localStartTime": "13:44:00",
@@ -610,10 +628,6 @@
       {
         "localStartTime": "12:32:00",
         "durationSeconds": 240
-      },
-      {
-        "localStartTime": "14:00:00",
-        "durationSeconds": 240
       }
     ],
     "2021-11-24": [
@@ -631,6 +645,10 @@
       }
     ],
     "2021-11-29": [
+      {
+        "localStartTime": "14:12:00",
+        "durationSeconds": 240
+      },
       {
         "localStartTime": "14:24:00",
         "durationSeconds": 240
@@ -1363,5 +1381,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-10T21:53:17.724Z"
+  "lastUpdatedAt": "2021-10-10T22:27:20.350Z"
 }
