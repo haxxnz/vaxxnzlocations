@@ -63,7 +63,7 @@
         "localEnd": "16:00:00"
       }
     ],
-    "description": "Public Transport: Bus routes #325 Māngere/Manukau on Ōtara Road, #31 Botany, #314 Ormiston, #325 Manukau, #361 Ōtara at town centre stops |\r\nAccessible parking available – though Gate A at 5 Ōtara Road. For elderly and people with mobility issues only |\r\nDrop off zones available |\r\nNote: The main entrance faces 5 Ōtara Road. There is on road parking here | \r\nAccessible and unisex toilets – on the right hand side of the entrance |\r\nThere are also other toilets by the entrance |\r\nLow sensory environment - Available on request - noise only",
+    "description": "Extended hours for SUPER SATURDAY 16 October - open until 6:30 pm | Public Transport: Bus routes #325 Māngere/Manukau on Ōtara Road, #31 Botany, #314 Ormiston, #325 Manukau, #361 Ōtara at town centre stops |\r\nAccessible parking available – though Gate A at 5 Ōtara Road. For elderly and people with mobility issues only |\r\nDrop off zones available |\r\nNote: The main entrance faces 5 Ōtara Road. There is on road parking here | \r\nAccessible and unisex toilets – on the right hand side of the entrance |\r\nThere are also other toilets by the entrance |\r\nLow sensory environment - Available on request - noise only",
     "mapUrl": "https://www.google.com/maps/place/36%C2%B057'33.5%22S+174%C2%B052'15.7%22E/@-36.9592949,174.8704918,19z/data=!3m1!4b1!4m14!1m7!3m6!1s0x6d0d4c3a4a60e545:0x922446393ad366dc!2s5+Otara+Road,+%C5%8Ctara,+Auckland+2023!3b1!8m2!3d-36.9594182!4d174.8706227!3m5!1s",
     "tags": [],
     "type": "OnlineBooking",
@@ -6456,66 +6456,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Entrance 3, TPMH, 95 Cashmere Road, Cashmere, Christchurch 8022",
-    "distanceInMeters": 3146.28069896,
-    "extId": "a0R4a000000Qeb9EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-01",
-    "endDate": "2021-10-10",
-    "location": {
-      "lng": 172.62,
-      "lat": -43.5702
-    },
-    "name": "The Princess Margaret Hospital",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/fSp8s7N9PYr23Cue8",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-21",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "18 Woollcombe Street, Timaru 7910",
     "distanceInMeters": 2323.19561353,
     "extId": "a0R4a000000Qf41EAC",
@@ -9351,17 +9291,52 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "sun"
         ],
-        "localStart": "18:00:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "20:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "18:00:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "20:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/yhGrd7kNk5aucFcd8",
@@ -14241,6 +14216,60 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Roberts+Pharmacy/@-44.4014564,171.2494051,17z/data=!3m1!4b1!4m5!3m4!1s0x6d2cc179b49e0623:0xf2b91d5e8aa2d6aa!8m2!3d-44.4014518!4d171.2515937",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-29",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "53 Caulfield Avenue Halswell  Christchurch  8025",
+    "distanceInMeters": 5762.19730511,
+    "extId": "a0R4a000000Sf2HEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-18",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 172.546,
+      "lat": -43.5782
+    },
+    "name": "Halswell - Halswellhealth*",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/pp4ZT8qb13g7K3KD6",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-29",
@@ -19532,67 +19561,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Shop 7B/507 Great South Road, Otahuhu, Auckland 1062",
-    "distanceInMeters": 10853.29229249,
-    "extId": "a0R4a000000TaFlEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-30",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.845,
-      "lat": -36.9468
-    },
-    "name": "Otahuhu Family Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:15:00"
-      }
-    ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
-    "mapUrl": "https://www.google.com/maps/place/Dr+G.+Nayar+%26+Associates/@-36.946956,174.8447384,19z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4ebd3a16cac5:0xe53cd283d63cc1c7!8m2!3d-36.9469583!4d174.8452743",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-29",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Phone number:  09 9515334\r\n3/226 Great South Road, Takanini, Auckland 2112",
     "distanceInMeters": 16989.28501976,
     "extId": "a0R4a000000TafPEAS",
@@ -22302,7 +22270,7 @@
   },
   {
     "displayAddress": "Shop 228, Level 2, Glenfield Mall, Downing Street, Glenfield, Auckland 0629",
-    "distanceInMeters": 42822.82380164,
+    "distanceInMeters": 13972.91027942,
     "extId": "a0R4a000000Tr8iEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -25708,35 +25676,35 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:15:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:15:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:15:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:15:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:15:00",
         "localEnd": "16:45:00"
       }
     ],
@@ -36132,7 +36100,7 @@
     "extId": "a0R4a000000WKRiEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-11",
-    "endDate": "2021-12-31",
+    "endDate": "2021-12-12",
     "location": {
       "lng": 172.579,
       "lat": -43.4964
@@ -36145,35 +36113,35 @@
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "11:30:00"
+        "localEnd": "12:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "11:30:00"
+        "localEnd": "12:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "11:30:00"
+        "localEnd": "12:00:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "11:30:00"
+        "localEnd": "12:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "11:30:00"
+        "localEnd": "12:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/9ZEaBfT9gVZtvwjq8",
