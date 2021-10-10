@@ -1296,7 +1296,7 @@
         "localEnd": "15:30:00"
       }
     ],
-    "description": "Public Transport: On bus routes to Albany, Takapuna and Britomart, Birkdale and Beach Haven. Bus stops close to the Mall entrances on both Birkenhead and Mokoia Road |\r\nAccessible parking accessed via the lower carpark or the access off Highbury Bypass. There is a mall lift adjacent to the Burger King drive-through and two accessible parks. Additional accessible carparks are available in the lower and upper carpark, accessed via Hammond Place, off Birkenhead Avenue.  Please note: Access from the lower car park is via a travellator or stairs. The upper car park only requires a short, level walk to the vaccination centre |\r\nNo drop off zones available |\r\nAccessible toilets available in the Highbury Shopping Centre |\r\nUnisex toilets – for urgent use, post-vaccination only |\r\nLow sensory environment - Available on request- noise only.",
+    "description": "Extended hours for SUPER SATURDAY 16 October - open until 8:00 pm | Public Transport: On bus routes to Albany, Takapuna and Britomart, Birkdale and Beach Haven. Bus stops close to the Mall entrances on both Birkenhead and Mokoia Road |\r\nAccessible parking accessed via the lower carpark or the access off Highbury Bypass. There is a mall lift adjacent to the Burger King drive-through and two accessible parks. Additional accessible carparks are available in the lower and upper carpark, accessed via Hammond Place, off Birkenhead Avenue.  Please note: Access from the lower car park is via a travellator or stairs. The upper car park only requires a short, level walk to the vaccination centre |\r\nNo drop off zones available |\r\nAccessible toilets available in the Highbury Shopping Centre |\r\nUnisex toilets – for urgent use, post-vaccination only |\r\nLow sensory environment - Available on request- noise only.",
     "mapUrl": "https://goo.gl/maps/MrDUCidkBSPRAojX8",
     "tags": [],
     "type": "OnlineBooking",
@@ -1938,7 +1938,7 @@
         "localEnd": "15:30:00"
       }
     ],
-    "description": "Public Transport: Bus route #917 with bus stops close to Oaklands Road on the Albany Highway |\r\nAccessible parking and drop off zones |\r\nAccessible toilets | \r\nUnisex toilets – external to the centre |\r\nLow sensory environment - Available on request - lighting and noise.",
+    "description": "Extended hours for SUPER SATURDAY 16 October - open until 8:00 pm | Public Transport: Bus route #917 with bus stops close to Oaklands Road on the Albany Highway |\r\nAccessible parking and drop off zones |\r\nAccessible toilets | \r\nUnisex toilets – external to the centre |\r\nLow sensory environment - Available on request - lighting and noise.",
     "mapUrl": "https://www.google.com/maps/place/Ecentre,+Massey+University+Albany/@-36.7368197,174.6916626,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d3bf7205e156d:0x6a10f213609ff547!8m2!3d-36.7368197!4d174.6938513",
     "tags": [],
     "type": "OnlineBooking",
@@ -5462,7 +5462,7 @@
     "extId": "a0R4a000000QWPEEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2021-12-05",
+    "endDate": "2021-12-24",
     "location": {
       "lng": 169.263,
       "lat": -45.9373
@@ -27862,7 +27862,7 @@
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:30:00"
+        "localEnd": "15:30:00"
       },
       {
         "days": [
@@ -27876,7 +27876,7 @@
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:30:00"
+        "localEnd": "15:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/South+City+Shopping+Centre/@-43.5379715,172.635353,15z/data=!4m5!3m4!1s0x0:0x3f4cd01cd06c5bc3!8m2!3d-43.5379715!4d172.635353",
@@ -33719,14 +33719,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "12:00:00"
@@ -33740,7 +33733,14 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "12:00:00"
@@ -33773,7 +33773,14 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:00:00"
@@ -33787,17 +33794,10 @@
       },
       {
         "days": [
-          "thu"
+          "sat"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
       }
     ],
     "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
@@ -35801,6 +35801,20 @@
     "openHours": [
       {
         "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
           "sat"
         ],
         "localStart": "09:00:00",
@@ -35823,20 +35837,6 @@
       {
         "days": [
           "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
@@ -36778,6 +36778,13 @@
     "openHours": [
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
           "sat"
         ],
         "localStart": "09:00:00",
@@ -36806,13 +36813,6 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:00:00",
@@ -36820,7 +36820,7 @@
       },
       {
         "days": [
-          "sun"
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -36853,13 +36853,6 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "10:00:00",
@@ -36867,7 +36860,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -36881,7 +36874,14 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
