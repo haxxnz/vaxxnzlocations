@@ -32492,7 +32492,15 @@
     },
     "name": "University of Waikato",
     "timezone": "Pacific/Auckland",
-    "openHours": [],
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:00:00"
+      }
+    ],
     "mapUrl": "https://goo.gl/maps/RjJVYmm4HR1zqpNs6",
     "tags": [],
     "type": "OnlineBooking",
