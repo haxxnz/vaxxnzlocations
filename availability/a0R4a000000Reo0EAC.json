@@ -2,7 +2,23 @@
   "availabilityDates": {
     "2021-10-12": [
       {
-        "localStartTime": "16:10:00",
+        "localStartTime": "16:30:00",
+        "durationSeconds": 300
+      }
+    ],
+    "2021-10-13": [
+      {
+        "localStartTime": "10:55:00",
+        "durationSeconds": 300
+      }
+    ],
+    "2021-10-14": [
+      {
+        "localStartTime": "12:00:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "12:05:00",
         "durationSeconds": 300
       }
     ],
@@ -118,15 +134,7 @@
     ],
     "2021-10-18": [
       {
-        "localStartTime": "10:35:00",
-        "durationSeconds": 300
-      },
-      {
         "localStartTime": "10:55:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "11:05:00",
         "durationSeconds": 300
       },
       {
@@ -139,10 +147,6 @@
       }
     ],
     "2021-10-19": [
-      {
-        "localStartTime": "11:30:00",
-        "durationSeconds": 300
-      },
       {
         "localStartTime": "12:10:00",
         "durationSeconds": 300
@@ -169,10 +173,6 @@
       },
       {
         "localStartTime": "14:30:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "15:40:00",
         "durationSeconds": 300
       },
       {
@@ -381,10 +381,6 @@
       }
     ],
     "2021-10-22": [
-      {
-        "localStartTime": "10:55:00",
-        "durationSeconds": 300
-      },
       {
         "localStartTime": "11:00:00",
         "durationSeconds": 300
@@ -655,6 +651,10 @@
       },
       {
         "localStartTime": "11:15:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "11:25:00",
         "durationSeconds": 300
       },
       {
@@ -3138,10 +3138,6 @@
       {
         "localStartTime": "16:10:00",
         "durationSeconds": 240
-      },
-      {
-        "localStartTime": "16:38:00",
-        "durationSeconds": 240
       }
     ],
     "2021-12-01": [
@@ -4165,5 +4161,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-11T06:39:04.984Z"
+  "lastUpdatedAt": "2021-10-11T07:13:11.473Z"
 }
