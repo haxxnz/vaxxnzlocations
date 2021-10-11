@@ -18313,7 +18313,7 @@
     "extId": "a0R4a000000TH2GEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
-    "endDate": "2021-10-30",
+    "endDate": "2021-11-05",
     "location": {
       "lng": 175.279,
       "lat": -37.782
@@ -36950,6 +36950,20 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "08:30:00",
@@ -36965,20 +36979,6 @@
       {
         "days": [
           "wed"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "08:30:00",
         "localEnd": "17:15:00"
