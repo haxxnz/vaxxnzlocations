@@ -27775,6 +27775,20 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "09:30:00",
