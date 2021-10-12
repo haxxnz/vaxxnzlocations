@@ -1,8 +1,38 @@
 {
   "availabilityDates": {
+    "2021-10-13": [
+      {
+        "localStartTime": "12:25:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "14:00:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "14:20:00",
+        "durationSeconds": 300
+      }
+    ],
     "2021-10-14": [
       {
+        "localStartTime": "11:05:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "11:15:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "11:20:00",
+        "durationSeconds": 300
+      },
+      {
         "localStartTime": "11:25:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "12:40:00",
         "durationSeconds": 300
       },
       {
@@ -12,6 +42,10 @@
       {
         "localStartTime": "16:15:00",
         "durationSeconds": 300
+      },
+      {
+        "localStartTime": "16:25:00",
+        "durationSeconds": 300
       }
     ],
     "2021-10-15": [
@@ -20,21 +54,7 @@
         "durationSeconds": 300
       }
     ],
-    "2021-10-16": [
-      {
-        "localStartTime": "15:16:00",
-        "durationSeconds": 240
-      }
-    ],
     "2021-10-17": [
-      {
-        "localStartTime": "13:36:00",
-        "durationSeconds": 240
-      },
-      {
-        "localStartTime": "13:40:00",
-        "durationSeconds": 240
-      },
       {
         "localStartTime": "13:44:00",
         "durationSeconds": 240
@@ -466,10 +486,6 @@
       {
         "localStartTime": "12:55:00",
         "durationSeconds": 300
-      },
-      {
-        "localStartTime": "14:15:00",
-        "durationSeconds": 300
       }
     ],
     "2021-10-27": [
@@ -665,6 +681,10 @@
       },
       {
         "localStartTime": "09:50:00",
+        "durationSeconds": 240
+      },
+      {
+        "localStartTime": "10:50:00",
         "durationSeconds": 240
       },
       {
@@ -4017,5 +4037,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-12T22:47:39.279Z"
+  "lastUpdatedAt": "2021-10-12T23:22:57.784Z"
 }
