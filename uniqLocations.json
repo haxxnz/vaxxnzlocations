@@ -12960,14 +12960,14 @@
   },
   {
     "displayAddress": "463 Great South Road, Otahuhu, Auckland 1062",
-    "distanceInMeters": 10743.92045036,
+    "distanceInMeters": 10758.34108292,
     "extId": "a0R4a000000SWtSEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
     "endDate": "2021-12-23",
     "location": {
       "lng": 174.845,
-      "lat": -36.9455
+      "lat": -36.9458
     },
     "name": "Lifeline Medical Centre Otahuhu",
     "timezone": "Pacific/Auckland",
@@ -16255,6 +16255,13 @@
     "name": "WW Clinic on Grey",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "17:30:00"
+      },
       {
         "days": [
           "thu"
@@ -35142,7 +35149,7 @@
     "distanceInMeters": 258.59115591,
     "extId": "a0R4a000000W1Z1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-18",
+    "startDate": "2021-10-28",
     "endDate": "2021-12-20",
     "location": {
       "lng": 175.623,
@@ -37108,6 +37115,52 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-11",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "1/445 Ferguson Street   Palmerston North  4410",
+    "distanceInMeters": 1009.80886098,
+    "extId": "a0R4a000000WnE1EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-06",
+    "endDate": "2021-12-20",
+    "location": {
+      "lng": 175.619,
+      "lat": -40.3559
+    },
+    "name": "Unichem The Palms Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:15:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Unichem+The+Palms+Pharmacy/@-40.3565159,175.6194383,15z/data=!4m5!3m4!1s0x0:0x42f51603b7b89a4e!8m2!3d-40.3565088!4d175.6194333",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-06",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
