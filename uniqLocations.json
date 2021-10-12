@@ -2957,9 +2957,44 @@
       "lng": 173.88,
       "lat": -35.3536
     },
-    "name": "Te Hau Ora o Ngāpuhi Kaikohe Vaccination Centre",
+    "name": "Te Hau Ora o Ngāpuhi Ohaeawai  Vaccination Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
       {
         "days": [
           "tue"
@@ -19629,50 +19664,50 @@
         "days": [
           "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:15:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:30:00"
+        "localStart": "09:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:30:00"
+        "localStart": "09:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:30:00"
+        "localStart": "09:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:30:00"
+        "localStart": "09:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:15:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages (Gujrati, Hindi)",
@@ -34026,6 +34061,13 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "14:30:00",
@@ -36092,21 +36134,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -36120,7 +36148,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
