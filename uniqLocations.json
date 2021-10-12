@@ -24114,10 +24114,17 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:00:00"
+      },
+      {
+        "days": [
           "tue"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "12:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Green+Island+Boutique+Pharmacy/@-45.9017352,170.4273483,17z/data=!4m5!3m4!1s0xa82ea998db82fce9:0x38173c7970debe33!8m2!3d-45.9018062!4d170.4295361?shorturl=1",
@@ -27520,14 +27527,14 @@
           "sun"
         ],
         "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localEnd": "18:30:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localEnd": "18:30:00"
       },
       {
         "days": [
@@ -35411,21 +35418,7 @@
           "fri"
         ],
         "localStart": "10:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "12:30:00"
+        "localEnd": "14:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/fRBPZaTNEap9P3t89",
@@ -36761,21 +36754,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
@@ -36789,16 +36768,23 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:15:00",
         "localEnd": "17:15:00"
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:15:00",
         "localEnd": "17:15:00"
       },
       {
@@ -36806,6 +36792,13 @@
           "sat"
         ],
         "localStart": "09:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
         "localEnd": "17:15:00"
       }
     ],
@@ -36836,28 +36829,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -36871,7 +36843,28 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "sat"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -36925,7 +36918,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -36939,7 +36932,7 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
