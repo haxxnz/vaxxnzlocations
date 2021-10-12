@@ -15171,28 +15171,28 @@
           "fri"
         ],
         "localStart": "10:00:00",
-        "localEnd": "12:00:00"
+        "localEnd": "11:45:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "14:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "11:45:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
+        "localStart": "14:00:00",
+        "localEnd": "15:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "14:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "11:45:00"
       }
     ],
     "description": "Please Call 078648737 to book an appointment",
@@ -29942,7 +29942,7 @@
   },
   {
     "displayAddress": "Shop 8, The Boulevard, Smales Farm; 74 Taharoto Road Takapuna  Auckland  622",
-    "distanceInMeters": 13813.502773,
+    "distanceInMeters": 43418.81911273,
     "extId": "a0R4a000000V642EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-19",
@@ -37246,6 +37246,31 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-11",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "147 Quay Street Auckland CBD  Auckland  1010",
+    "distanceInMeters": 8124.28902741,
+    "extId": "a0R4a000000XEXYEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-14",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.766,
+      "lat": -36.8395
+    },
+    "name": "The Hilton Hotel Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
+    "mapUrl": "https://g.page/HiltonAuckland?share",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-12",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
