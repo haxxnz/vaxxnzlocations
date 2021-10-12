@@ -58,8 +58,8 @@
     "lng": 175.41198329999997,
     "name": "Te Waiora Community Health Services",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only",
@@ -87,8 +87,8 @@
     "lng": 175.2349365,
     "name": "Te Waiora Community Health Services",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only",
@@ -196,7 +196,7 @@
     "name": "My Pharmacy Papamoa Plaza",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -367,35 +367,6 @@
     }
   },
   {
-    "lat": -38.9879736,
-    "lng": 175.80724759999998,
-    "name": "Pihanga Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "28 Te Rangitautahanga Road, Turangi",
-    "telephone": "(07) 384 7576",
-    "faxNumber": "(07) 384 7552",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pihanga-health/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "8:30 AM – 5:00 PM",
-        "Thu": "8:30 AM – 6:00 PM",
-        "Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Buller Anniversary (31 Jan), Northland Anniversary (31 Jan), Nelson Anniversary (31 Jan), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun). Open Hawke's Bay Anniversary (22 Oct, 8:30 AM – 5:00 PM), Marlborough Anniversary (1 Nov, 8:30 AM – 5:00 PM), Canterbury Anniversary (12 Nov, 8:30 AM – 5:00 PM), Chatham Island Anniversary (29 Nov, 8:30 AM – 5:00 PM), Westland Anniversary (29 Nov, 8:30 AM – 5:00 PM), Wellington Anniversary (24 Jan, 8:30 AM – 5:00 PM), Taranaki Anniversary (14 Mar, 8:30 AM – 5:00 PM), Otago Anniversary (21 Mar, 8:30 AM – 5:00 PM), Southland Anniversary (19 Apr, 8:30 AM – 5:00 PM), South Canterbury Anniversary (26 Sep, 8:30 AM – 5:00 PM)."
-      },
-      "notesHtml": [
-        "<strong>After Hours: </strong>Call clinic number for Pihanga Health and then there is an option to speak to a nurse at an after hours service who can direct you."
-      ]
-    }
-  },
-  {
     "lat": -38.1355099,
     "lng": 176.24836789999995,
     "name": "Unichem Central Pharmacy Rotorua",
@@ -536,41 +507,12 @@
     }
   },
   {
-    "lat": -37.5516513,
-    "lng": 175.1593074,
-    "name": "Hakanoa Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "43 Hakanoa Street, Huntly",
-    "telephone": "(07) 828 7557",
-    "faxNumber": "(07) 828 9344",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hakanoa-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "9:00 AM – 4:30 PM",
-        "Wed": "9:00 AM – 1:00 PM",
-        "Thu – Fri": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "After Hours: Please call the practice and follow instructions for the afterhours service."
-      ]
-    }
-  },
-  {
     "lat": -37.274208618243954,
     "lng": 175.49581736326218,
     "name": "Health Ngatea",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "8:45 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access"
     ],
@@ -678,59 +620,6 @@
     }
   },
   {
-    "lat": -37.8092398,
-    "lng": 175.77842729999998,
-    "name": "Matamata Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Pohlen Hospital Complex, 56 Rawhiti Avenue, Matamata",
-    "telephone": "(07) 881 9102",
-    "faxNumber": "(07) 881 9103",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/matamata-medical-centre/at/pohlen-hospital-complex-56-rawhiti-avenue/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM",
-        "Sat – Sun": "10:00 AM – 12:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.8079195,
-    "lng": 175.7757552,
-    "name": "Matamata Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:15 AM to 6:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Matamata Vaccination Centre - St Johns Hall, 32 Rawhiti Avenue, Matamata",
-    "telephone": "(07) 881 9102",
-    "faxNumber": "(07) 881 9103",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/matamata-medical-centre/at/matamata-vaccination-centre-st-johns-hall/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 1:00 PM",
-        "Mon": "9:15 AM – 4:15 PM",
-        "Tue": "9:15 AM – 6:30 PM",
-        "Wed": "9:15 AM – 4:15 PM",
-        "Thu": "9:15 AM – 6:30 PM",
-        "Fri": "9:15 AM – 4:15 PM",
-        "Sat": "9:30 AM – 2:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.6578649,
     "lng": 175.530978,
     "name": "Morrinsville Medical Centre",
@@ -762,7 +651,7 @@
     "name": "NorthCare Pukete Road",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "7:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access"
     ],
@@ -794,7 +683,7 @@
     "name": "Otorohanga Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 7:00 PM.",
+    "openTodayHours": "9:00 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -829,7 +718,7 @@
     "name": "Pauanui Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "openTodayHours": "9:00 AM to 12:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -862,7 +751,7 @@
     "name": "Redicare Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -893,7 +782,7 @@
     "name": "Tairua Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1492,8 +1381,8 @@
     "lng": 173.47599149999996,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1522,8 +1411,8 @@
     "lng": 173.65421709999998,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1550,8 +1439,8 @@
     "lng": 173.59365309999998,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1639,8 +1528,8 @@
     "lng": 173.384145,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 2:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1666,8 +1555,8 @@
     "lng": 173.39482539999995,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1973,8 +1862,8 @@
     "lng": 172.90963395102574,
     "name": "Whakawhiti Ora Pai Community Health Centre",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -3702,7 +3591,7 @@
     "name": "Unichem Peninsula Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 6:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -4757,7 +4646,7 @@
     "name": "Wakefield Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -5486,7 +5375,7 @@
     "name": "Tinwald Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 8:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -5676,35 +5565,6 @@
         "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -43.55787489999999,
-    "lng": 172.6365032,
-    "name": "Hardings Chemist and Post",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "135 Colombo Street, Beckenham, Christchurch",
-    "telephone": "(03) 332 2045",
-    "faxNumber": "(03) 332 9107",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/hardings-chemist-and-post/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:30 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "<strong>We are closed the Saturdays of Public Holiday weekends ie where the holiday falls on a Friday or Monday, we are closed the Saturday.</strong>"
-      ]
     }
   },
   {
@@ -6342,7 +6202,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d1b4bcb0b8bd91b6bea3b4bcb4b5b8b2b0bdffb2beffbfab\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"43262e222a2f03242c31262e26272a20222f6d202c6d2d\">[email&nbsp;protected]</a>z",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -7029,7 +6889,7 @@
     "name": "Kurow Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only"
     ],
@@ -7300,7 +7160,7 @@
     "name": "Ranfurly Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 1:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -7788,7 +7648,7 @@
     "name": "Doctors Cammack & Evans",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 1:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only"
@@ -7852,7 +7712,7 @@
     "name": "Kapiti Youth Support - Paraparaumu",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "openTodayHours": "1:00 PM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -8167,7 +8027,7 @@
     "name": "Victoria University Student Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "11:00 AM to 4:45 PM.",
+    "openTodayHours": "8:30 AM to 4:45 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -8197,7 +8057,7 @@
     "name": "Victoria University Student Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "10:30 AM to 4:45 PM.",
+    "openTodayHours": "8:30 AM to 4:45 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -8929,7 +8789,7 @@
     "name": "Unichem Stortford Lodge Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "openTodayHours": "9:00 AM to 6:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -8976,34 +8836,6 @@
         "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -39.4775552,
-    "lng": 176.88156449999997,
-    "name": "Westshore Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "3 Alfred Street, Westshore, Napier",
-    "telephone": "(06) 835 9561",
-    "faxNumber": "(06) 835 9524",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/westshore-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM",
-        "Sat": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Hawke's Bay Anniversary (22 Oct), Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "Closed Sundays and Public Holidays (STAT)"
-      ]
     }
   },
   {
@@ -9113,7 +8945,7 @@
     "name": "Tui Ora Family Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "9:30 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -9413,7 +9245,7 @@
     "name": "Pahiatua Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -9441,7 +9273,7 @@
     "name": "Kauri HealthCare",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "7:00 AM to 5:30 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "By invitation only",
       "Make an appointment"
@@ -9553,7 +9385,7 @@
     "name": "Queenstown Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -9783,69 +9615,6 @@
     }
   },
   {
-    "lat": -36.8818484,
-    "lng": 174.7619065,
-    "name": "Mt Eden Village Doctors",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "431A Mount Eden Road, Mount Eden, Auckland",
-    "telephone": "(09) 630 6981",
-    "faxNumber": "(09) 630 6982",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mt-eden-village-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>&nbsp;Phone GP practice and follow instructions. You will be transferred to an after hours service who will direct you.",
-        "OR",
-        "If we are unavailable, you can get a virtual GP consultation with a real Doctor from the comfort of your own home, workplace, holiday house or anywhere using CareHQ, from 7am - 7pm, 7 days per week.&nbsp; Find out more at&nbsp;<a href=\"http://www.carehq.co.nz/\">www.carehq.co.nz</a>"
-      ]
-    }
-  },
-  {
-    "lat": -36.9060132,
-    "lng": 174.7742012,
-    "name": "Greenwood Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "641 Manukau Road, Royal Oak, Auckland",
-    "telephone": "(09) 625 6173",
-    "faxNumber": "(09) 624 2169",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/greenwood-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM",
-        "Sat": "9:00 AM – 4:00 PM",
-        "Sun": "9:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "<strong>Note: Weekend Clinic is for patient to phone for appointment.&nbsp; This is NOT a walk-in clinic.</strong>",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -36.8648504,
     "lng": 174.7376784,
     "name": "Grey Lynn Family Medical Centre",
@@ -9921,7 +9690,7 @@
     "name": "Holistic Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -10168,23 +9937,6 @@
         "<strong>After Hours:</strong>",
         "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
       ]
-    }
-  },
-  {
-    "lat": -36.9233319,
-    "lng": 174.7836727,
-    "name": "",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/73-church-street-onehunga-auckland/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
     }
   },
   {
@@ -11067,43 +10819,6 @@
     }
   },
   {
-    "lat": -36.8292808,
-    "lng": 174.79730129999996,
-    "name": "Devonport Family Medicine",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 7:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "2 Fleet Street, Devonport, Auckland",
-    "telephone": "(09) 445 0528",
-    "faxNumber": "(09) 445 3734",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/devonport-family-medicine/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "8:00 AM – 5:00 PM",
-        "Tue": "8:00 AM – 7:00 PM",
-        "Wed – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
-      },
-      "notesHtml": [
-        "Devonport Family Medicine is a well-established medical centre that has serviced the local Devonport community for many years. &nbsp;",
-        "&nbsp;",
-        "Dr Veenhuijsen is available full-time for consultations and an experienced female General Practitioner is also working in the practice part-time. &nbsp;",
-        "&nbsp;",
-        "Devonport Family Medicine offers&nbsp;patients greater accessibility to see their own doctor by providing same-day and advance appointments and a personalised and co-ordinated care approach through doctor-patient continuity.&nbsp;",
-        "&nbsp;",
-        "After hours please&nbsp;phone&nbsp;<strong>(09)</strong> <strong>445 0528</strong> (24/7) where you will be advised of after hours services.&nbsp;&nbsp;",
-        "If one of our doctors is not available or it is after hours you can get a virtual GP consultation with a real doctor from the comfort of your home, workplace, holiday house or anywhere by using CareHQ, from 7 am - 7 pm, 7 days per week.&nbsp; Find out more <a href=\"http://www.carehq.co.nz\">www.carehq.co.nz</a>"
-      ]
-    }
-  },
-  {
     "lat": -36.73674889999999,
     "lng": 174.7278621,
     "name": "Travel Clinic North Shore",
@@ -11354,7 +11069,7 @@
     "name": "Warkworth Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -12040,7 +11755,7 @@
     "name": "Howick Health and Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -12281,8 +11996,8 @@
     "lng": 175.8664218,
     "name": "Woodville Health Centre",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:45 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -12658,7 +12373,7 @@
     "name": "960 Victoria Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 4:30 PM.",
+    "openTodayHours": "8:30 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -12904,40 +12619,6 @@
     }
   },
   {
-    "lat": -38.6820388,
-    "lng": 176.0878576,
-    "name": "Taupō COVID-19 Immunisation Hub, 6/29 Totara Street, Taupō",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "6/29 Totara Street, Taupō 3330",
-    "telephone": "0800 115 117",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/taupo-covid-19-immunisation-hub-6-29-totara/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -38.1407523,
-    "lng": 176.2515133,
-    "name": "Rotorua COVID-19 Immunisation Hub, Central Mall, Amohau Street, Rotorua",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Central Mall, 1170 Amohau Street, Rotorua 1170",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/rotorua-covid-19-immunisation-hub-central/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -40.3471821,
     "lng": 175.6221867,
     "name": "244 Grey Street",
@@ -13030,8 +12711,8 @@
     "lng": 173.7807962,
     "name": "8 Waikare Ave",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 5:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -13199,32 +12880,6 @@
     }
   },
   {
-    "lat": -41.2549324,
-    "lng": 174.9452972,
-    "name": "Wainuiomata Marae",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Wainuiomata Marae, 153-201 Parkway, Wainuiomata, Lower Hutt, Wellington 5014",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/wainuiomata-marae-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "9:00 AM – 4:00 PM",
-        "Wed": "9:00 AM – 6:30 PM",
-        "Thu – Fri": "9:00 AM – 4:00 PM",
-        "Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -41.2238182,
     "lng": 174.8070874,
     "name": "Johnsonville Shopping Centre",
@@ -13319,60 +12974,12 @@
     }
   },
   {
-    "lat": -37.6879193,
-    "lng": 176.1669095,
-    "name": "Tauranga Central - COVID Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 3:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "87 1st Avenue, Tauranga, Bay of Plenty 3110",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tauranga-covid-19-vaccination-centres/at/tauranga-central-covid-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.6849548,
-    "lng": 176.2278563,
-    "name": "Trustpower Baypark Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 7:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "81 Truman Lane, Mount Maunganui, Bay of Plenty 3175",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tauranga-covid-19-vaccination-centres/at/trustpower-baypark-vaccination-centre-truman/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "10:00 AM – 7:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -41.1293139,
     "lng": 174.8805967,
     "name": "Maraeroa Marae",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -13560,16 +13167,16 @@
     }
   },
   {
-    "lat": -45.87021809999999,
-    "lng": 170.505518,
-    "name": "Meridian Mall, George Street, Dunedin Central, Dunedin",
+    "lat": -38.1407523,
+    "lng": 176.2515133,
+    "name": "Rotorua COVID-19 Immunisation Hub, Central Mall, Amohau Street, Rotorua",
     "branch": "community",
     "openTodayHours": "",
     "instructionLis": [],
-    "address": "285 George Street, Dunedin, OTA 9058",
+    "address": "Central Mall, 1170 Amohau Street, Rotorua 1170",
     "telephone": "",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/meridian-mall-george-street-dunedin-central/",
+    "url": "https://www.healthpoint.co.nz/rotorua-covid-19-immunisation-hub-central/",
     "opennningHours": {
       "schedule": {},
       "exceptions": {},
@@ -13590,27 +13197,6 @@
     "telephone": "",
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-wananga-o-raukawa-nga-purapura-covid-19/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -40.6187385,
-    "lng": 175.2691783,
-    "name": "Donnelly Park",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Drive through"
-    ],
-    "address": "Donnelly Park, Adkin Avenue, Levin, Manawatu-Wanganui 5510",
-    "telephone": "(06) 36 733 11",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/muaupoko-tribal-authority-covid-19-vaccination/",
     "opennningHours": {
       "schedule": {},
       "exceptions": {},
@@ -13722,7 +13308,7 @@
     "name": "14 Wakefield Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 4:45 PM.",
+    "openTodayHours": "12:00 PM to 6:45 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -13879,7 +13465,7 @@
     "name": "Tūrangawaewae Marae",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 3:00 PM.",
+    "openTodayHours": "1:00 PM to 7:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -13905,8 +13491,8 @@
     "lng": 175.1537373,
     "name": "23 Parry Street",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -13964,6 +13550,28 @@
     "telephone": "",
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/at/te-hiku-hauora-49-redan-road-kaitaia/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -34.9973314,
+    "lng": 173.4631821,
+    "name": "Eastern Rugby Club",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through",
+      "Walk in"
+    ],
+    "address": "23 East Street, Taipa, Northland 0483",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hiku-hauora-pop-up-covid-vaccination-centres/at/eastern-rugby-club-23-east-street-taipa-0483/",
     "opennningHours": {
       "schedule": {},
       "exceptions": {},
@@ -14159,8 +13767,8 @@
     "lng": 172.6323721,
     "name": "Rehua Marae",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "1:00 PM to 7:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -14318,31 +13926,6 @@
     "url": "https://www.healthpoint.co.nz/takanini-vaccination-centre-8-great-south/",
     "opennningHours": {
       "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -38.1244973,
-    "lng": 176.2292294,
-    "name": "Old Foodstuffs Warehouse",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "33 Clayton Road, Mangakakahi, Rotorua, Bay of Plenty 3015",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-arawa-covid-19-response-hub-drive-through/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "12:00 PM – 6:00 PM",
-        "Sun": "10:00 AM – 4:00 PM"
-      },
       "exceptions": {},
       "notesHtml": []
     }
@@ -15088,7 +14671,7 @@
     "name": "Balmoral Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "openTodayHours": "9:00 AM to 7:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -15300,7 +14883,7 @@
     "name": "Barrington Shopping Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "openTodayHours": "9:00 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -15580,7 +15163,7 @@
     "name": "Botany Terrace Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -15858,7 +15441,7 @@
     "name": "Capital Care Health Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:45 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -15887,26 +15470,17 @@
   {
     "lat": -39.0740728,
     "lng": 174.05950669999993,
-    "name": "Carefirst Medical Centre",
+    "name": "",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "Carefirst, 99 Tukapa Street, Westown, New Plymouth",
-    "telephone": "(06) 753 9505",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/carefirst-medical-centre/",
+    "url": "https://www.healthpoint.co.nz/carefirst-99-tukapa-street-westown-new-plymouth/",
     "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
-      },
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -16258,7 +15832,7 @@
     "name": "City GPs Ltd",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "7:30 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -16368,36 +15942,6 @@
     }
   },
   {
-    "lat": -46.412614,
-    "lng": 168.352068,
-    "name": "Civic Theatre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "11:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Civic Theatre, 88 Tay Street, Invercargill, Southland 9810",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/civic-theatre-invercargill-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "11:00 AM – 6:00 PM",
-        "Fri": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "Occasional weekend appointments. Please check BookMyVaccine.nz for availability."
-      ]
-    }
-  },
-  {
     "lat": -37.0313194,
     "lng": 174.86782160000007,
     "name": "Clendon Family Health Centre",
@@ -16435,7 +15979,7 @@
     "name": "Clevedon Village Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 12:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -16632,7 +16176,7 @@
     "name": "100 Orchard Road",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:30 PM.",
+    "openTodayHours": "12:30 PM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -17533,7 +17077,7 @@
     "name": "East Otago Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 1:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -17588,8 +17132,8 @@
     "lng": 176.7077168,
     "name": "Firmin Lodge Vaccination Centre",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -17614,7 +17158,7 @@
     "name": "Whakatāne Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 3:30 PM.",
+    "openTodayHours": "11:30 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -17673,7 +17217,7 @@
     "name": "Eden-Epsom Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -18073,7 +17617,7 @@
     "name": "Frankton Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 7:00 PM.",
     "instructionLis": [
       "Make an appointment",
       "Walk in"
@@ -18185,8 +17729,8 @@
     "lng": 175.0003199,
     "name": "Kapiti Community Vaccination Centre",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:15 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -18212,7 +17756,7 @@
     "name": "Capital Gateway",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:15 PM.",
+    "openTodayHours": "11:00 AM to 6:15 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -18234,33 +17778,12 @@
     }
   },
   {
-    "lat": -38.5919609,
-    "lng": 177.9001617,
-    "name": "Pākōwhai Marae",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "402 Lavenham Road, Waituhi, Gisborne 4072",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/at/pakowhai-marae-402-lavenham-road-patutahi/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -45.9063193,
     "lng": 170.5078472,
     "name": "Victoria Road Car Park",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -18421,7 +17944,7 @@
     "name": "Whitby Doctors",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 8:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -18775,6 +18298,23 @@
     }
   },
   {
+    "lat": -45.87021809999999,
+    "lng": 170.505518,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/meridian-mall-george-street-dunedin-central/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -45.0128748,
     "lng": 168.7433768,
     "name": "Antidote Queenstown",
@@ -18833,8 +18373,8 @@
     "lng": 171.24775069999998,
     "name": "12 Elizabeth Street",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:30 AM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -19394,32 +18934,6 @@
     }
   },
   {
-    "lat": -38.14125629999999,
-    "lng": 176.2465092,
-    "name": "Ranolf Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "59 Ranolf Street, Victoria, Rotorua",
-    "telephone": "(07) 347 7537",
-    "faxNumber": "(07) 350 0024",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ranolf-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Lakes PrimeCare - Accident & Urgent Medical Care Centre."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -38.6892491,
     "lng": 176.0761407,
     "name": "Taupo Health Centre",
@@ -19726,8 +19240,8 @@
     "lng": 174.0190557,
     "name": "Moerewa Rugby Club",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -20014,28 +19528,6 @@
     }
   },
   {
-    "lat": -44.39912859999999,
-    "lng": 171.25497569999993,
-    "name": "18 Woollcombe Street",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "18 Woollcombe Street, Timaru Central, Timaru, Canterbury 7910",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/timaru-covid-19-vaccination-community-clinic/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.3954129,
     "lng": 175.8349158,
     "name": "Waihi Community Marae",
@@ -20106,259 +19598,6 @@
       },
       "notesHtml": [
         "After Hours: Please call the practice and follow instructions for the afterhours service."
-      ]
-    }
-  },
-  {
-    "lat": -37.7491174,
-    "lng": 175.233495,
-    "name": "Hamilton Te Awa Vaccination Centre - Te Awa The Base",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "Te Awa, The Base, Level 1, Corner Te Rapa Road &amp; Wairere Drive, Hamilton 3200",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/hamilton-te-awa-vaccination-centre-te-awa/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 5:00 PM",
-        "Thu": "9:00 AM – 8:00 PM",
-        "Fri – Sun": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "The Busit Bus Hub is located at the northern end of The Base, near Citta Design. A wide range of services are available. Visit <a href=\"http://www.busit.co.nz/\" target=\"_blank\" rel=\"noopener\">www.busit.co.nz</a> for routes and timetables.",
-        "There is plenty of parking underground and around the Te Awa shopping mall, including disability parking. The lift at the northern end of the underground car park or near Paper Plus on the ground floor opens directly opposite the vaccination centre entrance. If you're taking the escalators, you'll find the vaccination centre in the northeastern corner of Level 1, near the indoor playground."
-      ]
-    }
-  },
-  {
-    "lat": -37.6562401,
-    "lng": 175.5294273,
-    "name": "Morrinsville Vaccination Centre - Campbell Hall",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "Campbell Hall, Knox Presbyterian Church, 45-49 Canada Street, Morrinsville, Waikato 3300",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/morrinsville-vaccination-centre-campbell/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Wed": "9:00 AM – 5:00 PM",
-        "Thu": "12:00 PM – 7:00 PM",
-        "Fri – Sat": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "On-street parking available along Canada Street or in the car park behind the church (access off Canada Street or Anderson Street).&nbsp;",
-        "Entry to the vaccination centre in Campbell Hall is to the left of the main church entrance. If you've parked behind the building, come around to the front entrance.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -37.901269,
-    "lng": 175.4663169,
-    "name": "Cambridge Vaccination Centre - Cambridge Community Marae – Nga Hau E Wha",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "Pope Terrace, Leamington, Cambridge, Waikato 3432",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/cambridge-vaccination-centre-cambridge-community/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "9:00 AM – 5:00 PM",
-        "Sat": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "Enter off Pope Terrace, rather than Bracken Street, to access the vaccination centre parking. Come up the drive in front of the marae and park on the left of the vaccination centre. Disability parks available.",
-        "The vaccination centre entrance is to the right of the building, looking from Pope Terrace, rather than through the double doors at the front so come down the side.&nbsp;&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -37.1388669,
-    "lng": 175.5394425,
-    "name": "Thames Vaccination Centre - Goldfields Shopping Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "Goldfields Shopping Centre, Thames, Waikato 3500",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/thames-vaccination-centre-goldfields-shopping/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Sat": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "Goldfields has plenty of parking. The vaccination centre is a few shops away from The Warehouse so come in the entrance near McDonalds and walk into the centre then take the corridor on the left.",
-        "Public toilets are available inside the mall and there is disability parking close to the entrance.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -38.0090309,
-    "lng": 175.3285638,
-    "name": "Te Awamutu Vaccination Centre - 244 Arawata Street (Former Bunnings site)",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "244 Arawata Street, Te Awamutu, Waikato 3800",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/te-awamutu-vaccination-centre-244-arawata/",
-    "opennningHours": {
-      "schedule": {
-        "Wed – Fri": "9:00 AM – 3:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "The centre is in the former Bunnings store. Access is off either Scout Lane or Arawata Street and there's plenty of parking, including disablity parking along the building.",
-        "Entry to the the vaccination centre is down the end of the building if you're walking away from Arawata Street. Toilets are available on-site."
-      ]
-    }
-  },
-  {
-    "lat": -37.8079195,
-    "lng": 175.7757552,
-    "name": "Matamata Vaccination Centre - St Johns Hall",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 7:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "St Johns Hall, 32 Rawhiti Avenue, Matamata, Waikato 3400",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/matamata-vaccination-centre-st-johns-hall/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "9:00 AM – 5:00 PM",
-        "Tue": "9:00 AM – 7:00 PM",
-        "Wed": "9:00 AM – 5:00 PM",
-        "Thu": "9:00 AM – 7:00 PM",
-        "Fri": "9:00 AM – 5:00 PM",
-        "Sat": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "There is off-street parking in front of the hall, including disability parking. Wheelchair access into the vaccination centre."
-      ]
-    }
-  },
-  {
-    "lat": -37.8034946,
-    "lng": 175.2848972,
-    "name": "Waikato Hospital (Ryburn) Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "Ryburn Building, Ryburn Road (off Hague Road), Waikato Hospital Campus, Hamilton 3204",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/waikato-hospital-ryburn-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "Public parking is available in the two Waikato Hospital campus car parks on Pembroke Street and Hague Road (within hospital grounds). Both car parks have disability parking.",
-        "There are disability parking spaces immediately outside the Ryburn building, although these are not reserved for the vaccination centre. The building has a ramp at the entrance.",
-        "Hamilton's Orbiter, Comet and Fitzroy (number 12) buses all stop at or near Waikato Hospital."
-      ]
-    }
-  },
-  {
-    "lat": -38.217811,
-    "lng": 175.8724701,
-    "name": "Tokoroa Whare Rongoā Āraimate Community Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "203 Leith Place, Tokoroa, Waikato 3420",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-community-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Wed": "9:00 AM – 4:00 PM",
-        "Thu": "11:00 AM – 6:00 PM",
-        "Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "Leith Place and Bridge Street have plenty of on-street parking, including disability parking close to the centre. The entrance is accessible by wheelchair. Toilets are available on-site (not disabled).",
-        "Saturday vaccinations are held at 1 Maraetai Road, Tokoroa. from 10am to 3pm.&nbsp; &nbsp;&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -38.2272205,
-    "lng": 175.8716569,
-    "name": "Tokoroa Whare Rongoā Āraimate SWPICS DRIVE-THROUGH Community Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "1 Maraetai Road, Tokoroa, Waikato 3420",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-swpics-drive/",
-    "opennningHours": {
-      "schedule": {
-        "Sat": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "This vaccination site is a drive-through but pedestrians can also be vaccinated. Just stay clear of the cars and make yourself known to the vaccination team.&nbsp;"
       ]
     }
   },
@@ -20443,184 +19682,6 @@
     }
   },
   {
-    "lat": -35.9482369,
-    "lng": 173.8612186,
-    "name": "Dargaville COVID-19 Vaccination Clinic",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 2:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Dargaville, Northland 0310",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/dargaville-covid-19-vaccination-clinic-22a/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "11:00 AM – 6:00 PM",
-        "Tue": "10:00 AM – 2:00 PM",
-        "Wed": "10:00 AM – 3:00 PM",
-        "Sat": "9:00 AM – 3:00 PM",
-        "Sun": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "Next to the Dargaville Yugoslav Hall - on the opposite side of the road between Caltex and the Farm Machinery Centre (look for the flags out on the road).&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -35.2345938,
-    "lng": 173.9524167,
-    "name": "Kerikeri Vaccination Clinic",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Kerikeri Vaccination Clinic, 1 Sammaree Place, Kerikeri",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/kerikeri-vaccination-clinic-1-sammaree-place/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "10:00 AM – 5:00 PM",
-        "Thu": "12:00 PM – 7:00 PM",
-        "Sat": "9:00 AM – 3:00 PM",
-        "Sun": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -35.11438539999999,
-    "lng": 173.2660678,
-    "name": "Kaitaia COVID-19 Vaccination Clinic",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "11 Matthews Avenue, Kaitaia, Northland 0410",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/kaitaia-covid-19-vaccination-clinic-the-old/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "10:00 AM – 5:00 PM",
-        "Fri": "10:00 AM – 4:00 PM",
-        "Sat": "9:00 AM – 3:00 PM",
-        "Sun": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -35.40811159999999,
-    "lng": 173.7992961,
-    "name": "113 Broadway",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Te Hau Ora O Ngāpuhi, 113 Broadway, Kaikohe, Northland 0405",
-    "telephone": "0800 484 006",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/113-broadway-kaikohe/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "10:00 AM – 5:00 PM",
-        "Tue": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "<strong>Te Hau Ora O Ngāpuhi</strong>",
-        "113 Broadway, Kaikohe",
-        "<strong>To book go online&nbsp;<a title=\"book\" href=\"https://bookmyvaccine.covid19.health.nz/\">Book My Vaccine</a>&nbsp;or call the COVID Vaccine Healthline 0800 28 29 26</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.73469119999999,
-    "lng": 174.3292319,
-    "name": "Semenoff Stadium",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 7:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "51 Okara Drive, Whangārei, Northland 0148",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/semenoff-stadium-northland-events-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "10:00 AM – 5:00 PM",
-        "Tue": "8:00 AM – 7:30 PM",
-        "Wed": "10:00 AM – 5:00 PM",
-        "Thu": "8:00 AM – 7:30 PM",
-        "Fri": "9:00 AM – 2:00 PM",
-        "Sat – Sun": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>NO BOOKING REQUIRED</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -43.5528734,
-    "lng": 172.5965675,
-    "name": "Village Health Lincoln Road",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "30 Lincoln Road, Hillmorton, Christchurch",
-    "telephone": "(03) 338 8595",
-    "faxNumber": "(03) 338 3853",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/village-health-lincoln-road/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "8:00 AM – 5:00 PM",
-        "Tue – Wed": "8:00 AM – 6:00 PM",
-        "Thu": "8:00 AM – 5:00 PM",
-        "Fri": "8:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
-      },
-      "notesHtml": [
-        "<strong>After Hours: </strong>Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you."
-      ]
-    }
-  },
-  {
     "lat": -36.92173669999999,
     "lng": 174.78524470000002,
     "name": "Unichem Onehunga Mainstreet Pharmacy",
@@ -20651,31 +19712,19 @@
     }
   },
   {
-    "lat": -37.03924949999999,
-    "lng": 174.91452389999995,
-    "name": "Unichem Gateway Pharmacy Takanini",
+    "lat": -36.9233319,
+    "lng": 174.7836727,
+    "name": "",
     "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "26/108 Great South Road, Takanini",
-    "telephone": "(09) 296 1655",
-    "faxNumber": "(09) 553 8590",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-gateway-pharmacy-takanini/",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/73-church-street-onehunga-auckland/",
     "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:30 PM",
-        "Sat": "9:00 AM – 3:00 PM",
-        "Sun": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -20868,109 +19917,6 @@
       "notesHtml": [
         "<strong>After Hours:</strong>",
         "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
-    }
-  },
-  {
-    "lat": -39.64322249999999,
-    "lng": 176.8354083,
-    "name": "Hastings Racecourse",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "300 Prospect Road, Raureka, Hastings, Hawke's Bay 4120",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hastings-racecourse-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "This clinic is not open everyday.",
-        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
-        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
-      ]
-    }
-  },
-  {
-    "lat": -39.9436733,
-    "lng": 176.5802245,
-    "name": "CHB Rugby Club",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Coronation Park, 1 Tikokino Road, Waipawa, Hawke's Bay 4210",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/chb-rugby-club-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "This clinic is not open everyday.",
-        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
-        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
-      ]
-    }
-  },
-  {
-    "lat": -39.5164267,
-    "lng": 176.8574307,
-    "name": "Taradale Club",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "55 Wharerangi Road, Greenmeadows, Napier, Hawke's Bay 4112",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taradale-club-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "This clinic is not open everyday.",
-        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
-        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
-      ]
-    }
-  },
-  {
-    "lat": -39.5085078,
-    "lng": 176.9082498,
-    "name": "Whitmore Park",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "Douglas McLean Avenue, Napier, Hawke's Bay 4110",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/whitmore-park-covid-19-vaccination-drive/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "This clinic is not open everyday.",
-        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
-        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
       ]
     }
   },
@@ -21239,6 +20185,659 @@
     }
   },
   {
+    "lat": -37.03390540000001,
+    "lng": 174.9088124,
+    "name": "Takanini Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 3:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "8 Great South Road, Takanini, Auckland 2105",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/takanini-vaccination-centre-8-great-south/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:30 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Walk in or drive through.</strong><br>Behind the Gull petrol station.",
+        "<br><strong>Accessibility</strong><br>Public Transport: Bus routes #33 Papakura &amp; Otahuhu. The bus stop is nearby on Great South Road. Train - Te Mahia Station.<br>Accessible toilets: Yes - just past the registration area. Staff can assist.<br>Unisex toilets: Yes. There are also outside portable public toilets.<br>Accessible parking: Yes – drive to the checkpoint and around the one-way system to near the exit and the front of building. There are 20 priority parking spaces.<br>Drop off zones available: Yes - follow the one-way lane to the front of the building."
+      ]
+    }
+  },
+  {
+    "lat": -36.9904167,
+    "lng": 174.7884344,
+    "name": "Airport Park and Ride Drive Through COVID-19 Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "42 Verissimo Drive, Māngere, Auckland 2022",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/airport-park-and-ride-drive-through-covid/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:30 AM – 6:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Drive Through Only (No walk-in)</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -39.0584475,
+    "lng": 174.079797,
+    "name": "Healthspace",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "56 Gover Street, New Plymouth",
+    "telephone": "(06) 757 4077",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/healthspace/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "8:30 AM – 5:00 PM",
+        "Tue": "8:30 AM – 5:30 PM",
+        "Wed – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.5528734,
+    "lng": 172.5965675,
+    "name": "Village Health Lincoln Road",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "30 Lincoln Road, Hillmorton, Christchurch",
+    "telephone": "(03) 338 8595",
+    "faxNumber": "(03) 338 3853",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/village-health-lincoln-road/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "8:00 AM – 5:00 PM",
+        "Tue – Wed": "8:00 AM – 6:00 PM",
+        "Thu": "8:00 AM – 5:00 PM",
+        "Fri": "8:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+      },
+      "notesHtml": [
+        "<strong>After Hours: </strong>Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you."
+      ]
+    }
+  },
+  {
+    "lat": -39.5085078,
+    "lng": 176.9082498,
+    "name": "Whitmore Park",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "Douglas McLean Avenue, Napier, Hawke's Bay 4110",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/whitmore-park-covid-19-vaccination-drive/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "This clinic is not open everyday.",
+        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
+        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
+      ]
+    }
+  },
+  {
+    "lat": -39.5164267,
+    "lng": 176.8574307,
+    "name": "Taradale Club",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "55 Wharerangi Road, Greenmeadows, Napier, Hawke's Bay 4112",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taradale-club-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "This clinic is not open everyday.",
+        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
+        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
+      ]
+    }
+  },
+  {
+    "lat": -36.77290120000001,
+    "lng": 174.76527450000003,
+    "name": "Unichem Milford Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "174A Kitchener Road, Milford, Auckland",
+    "telephone": "(09) 489 4107",
+    "faxNumber": "(09) 489 4106",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-milford-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -39.9436733,
+    "lng": 176.5802245,
+    "name": "CHB Rugby Club",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Coronation Park, 1 Tikokino Road, Waipawa, Hawke's Bay 4210",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/chb-rugby-club-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "This clinic is not open everyday.",
+        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
+        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
+      ]
+    }
+  },
+  {
+    "lat": -39.64322249999999,
+    "lng": 176.8354083,
+    "name": "Hastings Racecourse",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "300 Prospect Road, Raureka, Hastings, Hawke's Bay 4120",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hastings-racecourse-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "This clinic is not open everyday.",
+        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
+        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
+      ]
+    }
+  },
+  {
+    "lat": -35.9482369,
+    "lng": 173.8612186,
+    "name": "Dargaville COVID-19 Vaccination Clinic",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Dargaville, Northland 0310",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/dargaville-covid-19-vaccination-clinic-22a/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "11:00 AM – 6:00 PM",
+        "Tue": "10:00 AM – 2:00 PM",
+        "Wed": "10:00 AM – 3:00 PM",
+        "Sat": "9:00 AM – 3:00 PM",
+        "Sun": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "Next to the Dargaville Yugoslav Hall - on the opposite side of the road between Caltex and the Farm Machinery Centre (look for the flags out on the road).&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -35.2345938,
+    "lng": 173.9524167,
+    "name": "Kerikeri Vaccination Clinic",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Kerikeri Vaccination Clinic, 1 Sammaree Place, Kerikeri",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/kerikeri-vaccination-clinic-1-sammaree-place/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "10:00 AM – 5:00 PM",
+        "Thu": "12:00 PM – 7:00 PM",
+        "Sat": "9:00 AM – 3:00 PM",
+        "Sun": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -35.11438539999999,
+    "lng": 173.2660678,
+    "name": "Kaitaia COVID-19 Vaccination Clinic",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "11 Matthews Avenue, Kaitaia, Northland 0410",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/kaitaia-covid-19-vaccination-clinic-the-old/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "10:00 AM – 5:00 PM",
+        "Fri": "10:00 AM – 4:00 PM",
+        "Sat": "9:00 AM – 3:00 PM",
+        "Sun": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -35.40811159999999,
+    "lng": 173.7992961,
+    "name": "113 Broadway",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Te Hau Ora O Ngāpuhi, 113 Broadway, Kaikohe, Northland 0405",
+    "telephone": "0800 484 006",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/113-broadway-kaikohe/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "10:00 AM – 5:00 PM",
+        "Tue": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "<strong>Te Hau Ora O Ngāpuhi</strong>",
+        "113 Broadway, Kaikohe",
+        "<strong>To book go online&nbsp;<a title=\"book\" href=\"https://bookmyvaccine.covid19.health.nz/\">Book My Vaccine</a>&nbsp;or call the COVID Vaccine Healthline 0800 28 29 26</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.73469119999999,
+    "lng": 174.3292319,
+    "name": "Semenoff Stadium",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "51 Okara Drive, Whangārei, Northland 0148",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/semenoff-stadium-northland-events-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "10:00 AM – 5:00 PM",
+        "Tue": "8:00 AM – 7:30 PM",
+        "Wed": "10:00 AM – 5:00 PM",
+        "Thu": "8:00 AM – 7:30 PM",
+        "Fri": "9:00 AM – 2:00 PM",
+        "Sat – Sun": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>NO BOOKING REQUIRED</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -38.1244973,
+    "lng": 176.2292294,
+    "name": "Old Foodstuffs Warehouse",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "33 Clayton Road, Mangakakahi, Rotorua, Bay of Plenty 3015",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-arawa-covid-19-response-hub-drive-through/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "12:00 PM – 6:00 PM",
+        "Sat": "12:00 PM – 6:00 PM",
+        "Sun": "10:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.6957574,
+    "lng": 176.11016159999997,
+    "name": "Bethlehem Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "229D State Highway 2, Bethlehem, Tauranga",
+    "telephone": "(07) 576 9770",
+    "faxNumber": "(07) 576 5840",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/bethlehem-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.8092398,
+    "lng": 175.77842729999998,
+    "name": "Matamata Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Pohlen Hospital Complex, 56 Rawhiti Avenue, Matamata",
+    "telephone": "(07) 881 9102",
+    "faxNumber": "(07) 881 9103",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/matamata-medical-centre/at/pohlen-hospital-complex-56-rawhiti-avenue/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM",
+        "Sat – Sun": "10:00 AM – 12:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.8079195,
+    "lng": 175.7757552,
+    "name": "Matamata Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:15 AM to 4:15 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Matamata Vaccination Centre - St Johns Hall, 32 Rawhiti Avenue, Matamata",
+    "telephone": "(07) 881 9102",
+    "faxNumber": "(07) 881 9103",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/matamata-medical-centre/at/matamata-vaccination-centre-st-johns-hall/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:15 AM – 4:15 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.4775552,
+    "lng": 176.88156449999997,
+    "name": "Westshore Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Make an appointment"
+    ],
+    "address": "3 Alfred Street, Westshore, Napier",
+    "telephone": "(06) 835 9561",
+    "faxNumber": "(06) 835 9524",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/westshore-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Hawke's Bay Anniversary (22 Oct), Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "Closed Sundays and Public Holidays (STAT)"
+      ]
+    }
+  },
+  {
+    "lat": -40.3610282,
+    "lng": 175.6042,
+    "name": "Crossroads Church",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Walk in"
+    ],
+    "address": "220 Church Street, Palmerston North, Manawatu-Wanganui 4410",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/cook-street-health-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -38.5919609,
+    "lng": 177.9001617,
+    "name": "Pākōwhai Marae",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "402 Lavenham Road, Waituhi, Gisborne 4072",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/at/pakowhai-marae-402-lavenham-road-patutahi/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.31600770000001,
+    "lng": 174.81504240000004,
+    "name": "Unichem Miramar Healthcare Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access"
+    ],
+    "address": "58 Miramar Avenue, Miramar, Wellington",
+    "telephone": "(04) 388 8516",
+    "faxNumber": "(04) 388 6587",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-miramar-healthcare-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:30 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9060132,
+    "lng": 174.7742012,
+    "name": "Greenwood Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "641 Manukau Road, Royal Oak, Auckland",
+    "telephone": "(09) 625 6173",
+    "faxNumber": "(09) 624 2169",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/greenwood-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 4:00 PM",
+        "Sun": "9:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>Note: Weekend Clinic is for patient to phone for appointment.&nbsp; This is NOT a walk-in clinic.</strong>",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -39.6670982,
+    "lng": 176.87982169999998,
+    "name": "Te Mata Peak Practice",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Walk in"
+    ],
+    "address": "33-35 Napier Road, Havelock North",
+    "telephone": "(06) 873 0752",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-mata-peak-practice/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM",
+        "Sat": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Easter Sunday (17 Apr). Open Hawke's Bay Anniversary (22 Oct, 9:30 AM – 12:30 PM), Labour Day (25 Oct, 9:30 AM – 12:30 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 9:30 AM – 12:30 PM), Good Friday (15 Apr, 9:30 AM – 12:30 PM), Easter Monday (18 Apr, 9:30 AM – 12:30 PM), ANZAC Day (25 Apr, 9:30 AM – 12:30 PM), Queen's Birthday (6 Jun, 9:30 AM – 12:30 PM)."
+      },
+      "notesHtml": [
+        "<strong>Please note&nbsp;we&nbsp;are NOT&nbsp;an Accident &amp; Urgent Medical Centre.</strong>",
+        "<strong>After Hours:</strong><br>Please phone Te Mata Peak Practice and follow the instructions. Your call will be transferred to an after hours service who has contact with a GP on call.",
+        "<strong>Christmas Day:<br></strong>Our practice will be closed.&nbsp; If you require medical attention please phone Te Mata Peak Practice and follow the instructions. Your call will be transferred to an after hours service who has contact with a GP on call."
+      ]
+    }
+  },
+  {
     "lat": -40.3582214,
     "lng": 175.6124109,
     "name": "Palmerston North Central Vaccination Centre",
@@ -21294,7 +20893,7 @@
     "name": "Central Energy Trust Arena 2: COVID-19 Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 4:00 PM.",
+    "openTodayHours": "7:00 AM to 6:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Drive through",
@@ -21348,116 +20947,663 @@
     }
   },
   {
-    "lat": -36.77290120000001,
-    "lng": 174.76527450000003,
-    "name": "Unichem Milford Pharmacy",
+    "lat": -41.2549324,
+    "lng": 174.9452972,
+    "name": "Wainuiomata Marae",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Wainuiomata Marae, 153-201 Parkway, Wainuiomata, Lower Hutt, Wellington 5014",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/wainuiomata-marae-covid-19-vaccination-centre/at/wainuiomata-marae-lower-hutt/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "9:00 AM – 4:00 PM",
+        "Wed": "9:00 AM – 6:30 PM",
+        "Thu – Fri": "9:00 AM – 4:00 PM",
+        "Sun": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.8457023,
+    "lng": 174.73535040000002,
+    "name": "Herne Bay Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "9:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
-      "No appointment required",
       "Walk in"
     ],
-    "address": "174A Kitchener Road, Milford, Auckland",
-    "telephone": "(09) 489 4107",
-    "faxNumber": "(09) 489 4106",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-milford-pharmacy/",
+    "address": "210 Jervois Road, Herne Bay, Auckland",
+    "telephone": "(09) 376 3339",
+    "faxNumber": "(09) 360 0381",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/herne-bay-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
+        "Mon – Fri": "9:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 3:00 PM"
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
       "notesHtml": [
-        "&nbsp;",
-        "&nbsp;"
+        "Closed for lunch between 12:30pm - 1pm for Level 3/4 only"
       ]
     }
   },
   {
-    "lat": -37.025224,
-    "lng": 174.857295,
-    "name": "Manurewa Marae Vaccination Centre",
-    "branch": "community",
+    "lat": -36.8292808,
+    "lng": 174.79730129999996,
+    "name": "Devonport Family Medicine",
+    "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "2 Fleet Street, Devonport, Auckland",
+    "telephone": "(09) 445 0528",
+    "faxNumber": "(09) 445 3734",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/devonport-family-medicine/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "8:00 AM – 5:00 PM",
+        "Tue": "8:00 AM – 7:00 PM",
+        "Wed – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
+      },
+      "notesHtml": [
+        "Devonport Family Medicine is a well-established medical centre that has serviced the local Devonport community for many years. &nbsp;",
+        "&nbsp;",
+        "Dr Veenhuijsen is available full-time for consultations and an experienced female General Practitioner is also working in the practice part-time. &nbsp;",
+        "&nbsp;",
+        "Devonport Family Medicine offers&nbsp;patients greater accessibility to see their own doctor by providing same-day and advance appointments and a personalised and co-ordinated care approach through doctor-patient continuity.&nbsp;",
+        "&nbsp;",
+        "After hours please&nbsp;phone&nbsp;<strong>(09)</strong> <strong>445 0528</strong> (24/7) where you will be advised of after hours services.&nbsp;&nbsp;",
+        "If one of our doctors is not available or it is after hours you can get a virtual GP consultation with a real doctor from the comfort of your home, workplace, holiday house or anywhere by using CareHQ, from 7 am - 7 pm, 7 days per week.&nbsp; Find out more <a href=\"http://www.carehq.co.nz\">www.carehq.co.nz</a>"
+      ]
+    }
+  },
+  {
+    "lat": -36.8818484,
+    "lng": 174.7619065,
+    "name": "Mt Eden Village Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "431A Mount Eden Road, Mount Eden, Auckland",
+    "telephone": "(09) 630 6981",
+    "faxNumber": "(09) 630 6982",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mt-eden-village-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>&nbsp;Phone GP practice and follow instructions. You will be transferred to an after hours service who will direct you.",
+        "OR",
+        "If we are unavailable, you can get a virtual GP consultation with a real Doctor from the comfort of your own home, workplace, holiday house or anywhere using CareHQ, from 7am - 7pm, 7 days per week.&nbsp; Find out more at&nbsp;<a href=\"http://www.carehq.co.nz/\">www.carehq.co.nz</a>"
+      ]
+    }
+  },
+  {
+    "lat": -36.9714065,
+    "lng": 174.785845,
+    "name": "Airport Oaks Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "149 Kirkbride Road, Māngere, Auckland",
+    "telephone": "(09) 275 0155",
+    "faxNumber": "(09) 275 0130",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/airport-oaks-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 7:00 PM",
+        "Sat": "9:00 AM – 7:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.8520951,
+    "lng": 174.7510544,
+    "name": "Freemans Bay Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "100 Wellington Street, Freemans Bay, Auckland",
+    "telephone": "(09) 378 6653",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/freemans-bay-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:00 AM – 6:00 PM",
+        "Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>For after hours services</strong>&nbsp;phone (09)&nbsp;378 6653 and you will be automatically diverted to a nurse who will give advice or arrange GP care if necessary.",
+        "<strong>&nbsp;</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -37.03924949999999,
+    "lng": 174.91452389999995,
+    "name": "Unichem Gateway Pharmacy Takanini",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
       "No appointment required",
       "Walk in"
     ],
-    "address": "81 Finlayson Avenue, Clendon Park, Auckland 2103",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/manurewa-marae-vaccination-centre-81-finlayson/",
+    "address": "26/108 Great South Road, Takanini",
+    "telephone": "(09) 296 1655",
+    "faxNumber": "(09) 553 8590",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-gateway-pharmacy-takanini/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "9:00 AM – 3:00 PM",
+        "Mon – Fri": "8:30 AM – 6:30 PM",
+        "Sat": "9:00 AM – 3:00 PM",
+        "Sun": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.4799909,
+    "lng": 176.8986603,
+    "name": "Ahuriri Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "1/91 Bridge Street, Ahuriri, Napier",
+    "telephone": "(06) 835 7948",
+    "faxNumber": "(06) 835 7930",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/ahuriri-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Hawke's Bay Anniversary (22 Oct), Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -44.39912859999999,
+    "lng": 171.25497569999993,
+    "name": "18 Woollcombe Street",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "18 Woollcombe Street, Timaru Central, Timaru, Canterbury 7910",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/timaru-covid-19-vaccination-community-clinic/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.7491174,
+    "lng": 175.233495,
+    "name": "Hamilton Te Awa Vaccination Centre - Te Awa The Base",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "Te Awa, The Base, Level 1, Corner Te Rapa Road &amp; Wairere Drive, Hamilton 3200",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/hamilton-te-awa-vaccination-centre-te-awa/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "The Busit Bus Hub is located at the northern end of The Base, near Citta Design. A wide range of services are available. Visit <a href=\"http://www.busit.co.nz/\" target=\"_blank\" rel=\"noopener\">www.busit.co.nz</a> for routes and timetables.",
+        "There is plenty of parking underground and around the Te Awa shopping mall, including disability parking. The lift at the northern end of the underground car park or near Paper Plus on the ground floor opens directly opposite the vaccination centre entrance. If you're taking the escalators, you'll find the vaccination centre in the northeastern corner of Level 1, near the indoor playground."
+      ]
+    }
+  },
+  {
+    "lat": -37.6562401,
+    "lng": 175.5294273,
+    "name": "Morrinsville Vaccination Centre - Campbell Hall",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "Campbell Hall, Knox Presbyterian Church, 45-49 Canada Street, Morrinsville, Waikato 3300",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/morrinsville-vaccination-centre-campbell/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "9:00 AM – 5:00 PM",
+        "Thu": "12:00 PM – 7:00 PM",
+        "Fri – Sat": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "On-street parking available along Canada Street or in the car park behind the church (access off Canada Street or Anderson Street).&nbsp;",
+        "Entry to the vaccination centre in Campbell Hall is to the left of the main church entrance. If you've parked behind the building, come around to the front entrance.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -37.901269,
+    "lng": 175.4663169,
+    "name": "Cambridge Vaccination Centre - Cambridge Community Marae – Nga Hau E Wha",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "Pope Terrace, Leamington, Cambridge, Waikato 3432",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/cambridge-vaccination-centre-cambridge-community/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "9:00 AM – 5:00 PM",
+        "Sat": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "Enter off Pope Terrace, rather than Bracken Street, to access the vaccination centre parking. Come up the drive in front of the marae and park on the left of the vaccination centre. Disability parks available.",
+        "The vaccination centre entrance is to the right of the building, looking from Pope Terrace, rather than through the double doors at the front so come down the side.&nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -37.1388669,
+    "lng": 175.5394425,
+    "name": "Thames Vaccination Centre - Goldfields Shopping Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "Goldfields Shopping Centre, Thames, Waikato 3500",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/thames-vaccination-centre-goldfields-shopping/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Sat": "9:00 AM – 4:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "Goldfields has plenty of parking. The vaccination centre is a few shops away from The Warehouse so come in the entrance near McDonalds and walk into the centre then take the corridor on the left.",
+        "Public toilets are available inside the mall and there is disability parking close to the entrance.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -38.0090309,
+    "lng": 175.3285638,
+    "name": "Te Awamutu Vaccination Centre - 244 Arawata Street (Former Bunnings site)",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 3:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "244 Arawata Street, Te Awamutu, Waikato 3800",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/te-awamutu-vaccination-centre-244-arawata/",
+    "opennningHours": {
+      "schedule": {
+        "Wed – Fri": "9:00 AM – 3:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "The centre is in the former Bunnings store. Access is off either Scout Lane or Arawata Street and there's plenty of parking, including disablity parking along the building.",
+        "Entry to the the vaccination centre is down the end of the building if you're walking away from Arawata Street. Toilets are available on-site."
+      ]
+    }
+  },
+  {
+    "lat": -37.8079195,
+    "lng": 175.7757552,
+    "name": "Matamata Vaccination Centre - St Johns Hall",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "St Johns Hall, 32 Rawhiti Avenue, Matamata, Waikato 3400",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/matamata-vaccination-centre-st-johns-hall/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "9:00 AM – 5:00 PM",
+        "Tue": "9:00 AM – 7:00 PM",
+        "Wed": "9:00 AM – 5:00 PM",
+        "Thu": "9:00 AM – 7:00 PM",
+        "Fri": "9:00 AM – 5:00 PM",
+        "Sat": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "There is off-street parking in front of the hall, including disability parking. Wheelchair access into the vaccination centre."
+      ]
+    }
+  },
+  {
+    "lat": -37.8034946,
+    "lng": 175.2848972,
+    "name": "Waikato Hospital (Ryburn) Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "Ryburn Building, Ryburn Road (off Hague Road), Waikato Hospital Campus, Hamilton 3204",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/waikato-hospital-ryburn-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "Public parking is available in the two Waikato Hospital campus car parks on Pembroke Street and Hague Road (within hospital grounds). Both car parks have disability parking.",
+        "There are disability parking spaces immediately outside the Ryburn building, although these are not reserved for the vaccination centre. The building has a ramp at the entrance.",
+        "Hamilton's Orbiter, Comet and Fitzroy (number 12) buses all stop at or near Waikato Hospital."
+      ]
+    }
+  },
+  {
+    "lat": -38.217811,
+    "lng": 175.8724701,
+    "name": "Tokoroa Whare Rongoā Āraimate Community Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "203 Leith Place, Tokoroa, Waikato 3420",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-community-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "9:00 AM – 4:00 PM",
+        "Thu": "11:00 AM – 6:00 PM",
+        "Fri": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "Leith Place and Bridge Street have plenty of on-street parking, including disability parking close to the centre. The entrance is accessible by wheelchair. Toilets are available on-site (not disabled).",
+        "Saturday vaccinations are held at 1 Maraetai Road, Tokoroa. from 10am to 3pm.&nbsp; &nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -38.2272205,
+    "lng": 175.8716569,
+    "name": "Tokoroa Whare Rongoā Āraimate SWPICS DRIVE-THROUGH Community Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "1 Maraetai Road, Tokoroa, Waikato 3420",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-swpics-drive/",
+    "opennningHours": {
+      "schedule": {
+        "Sat": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "This vaccination site is a drive-through but pedestrians can also be vaccinated. Just stay clear of the cars and make yourself known to the vaccination team.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -37.6879193,
+    "lng": 176.1669095,
+    "name": "Tauranga Central - COVID Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 3:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "87 1st Avenue, Tauranga, Bay of Plenty 3110",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tauranga-covid-19-vaccination-centres/at/tauranga-central-covid-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.6849548,
+    "lng": 176.2278563,
+    "name": "Trustpower Baypark Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 7:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "81 Truman Lane, Mount Maunganui, Bay of Plenty 3175",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tauranga-covid-19-vaccination-centres/at/trustpower-baypark-vaccination-centre-truman/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "10:00 AM – 7:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.58738210000001,
+    "lng": 174.28027099999997,
+    "name": "Mountainview Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "65 Victoria Street, Hāwera",
+    "telephone": "(06) 278 1002",
+    "faxNumber": "(06) 278 1003",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/mountainview-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM",
         "Sat": "9:00 AM – 12:00 PM"
       },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.6187385,
+    "lng": 175.2691783,
+    "name": "Donnelly Park",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Drive through"
+    ],
+    "address": "Donnelly Park, Adkin Avenue, Levin, Manawatu-Wanganui 5510",
+    "telephone": "(06) 36 733 11",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/muaupoko-tribal-authority-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {},
       "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.55787489999999,
+    "lng": 172.6365032,
+    "name": "Hardings Chemist and Post",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "135 Colombo Street, Beckenham, Christchurch",
+    "telephone": "(03) 332 2045",
+    "faxNumber": "(03) 332 9107",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/hardings-chemist-and-post/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:30 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Canterbury Anniversary (12 Nov), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
       "notesHtml": [
-        "Located at Manurewa Marae.<br><br><strong>Accessibility</strong><br>Public Transport: Bus #361 Ōtara and Manukau. The bus stop is directly opposite the marae.<br>Accessible toilets: Yes<br>Unisex toilets: No - separate male and female toilets. Both have their own accessible toilets.<br>Accessible parking: Yes – follow the signs.<br>Drop off zones available: Yes – Wardens can direct you or look out for the orange cones.<br>Please note: There is a free bus service for Manurewa and Clendon Residents called Manurewa Link – Te Manurewatanga. Call 0800 66 00 44 or visit&nbsp;<a title=\"Manurewa Link website\" href=\"https://www.manurewalink.co.nz/\">manurewalink.co.nz</a>."
+        "<strong>We are open on 16/10/2021 Super Shot Saturday for walk-in vaccinations from 9.45am to 2.45pm (close for lunch 11.45am-12.45pm).</strong>",
+        "<strong>We are closed the Saturdays of Public Holiday weekends ie where the holiday falls on a Friday or Monday, we are closed the Saturday.</strong>"
       ]
     }
   },
   {
-    "lat": -37.03390540000001,
-    "lng": 174.9088124,
-    "name": "Takanini Vaccination Centre",
-    "branch": "community",
+    "lat": -36.9148413,
+    "lng": 174.80111750000003,
+    "name": "Unichem Mt Smart Pharmacy",
+    "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 3:00 PM.",
+    "openTodayHours": "9:00 AM to 5:15 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Make an appointment",
       "No appointment required",
       "Walk in"
     ],
-    "address": "8 Great South Road, Takanini, Auckland 2105",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/takanini-vaccination-centre-8-great-south/",
+    "address": "233 Mount Smart Road, Onehunga, Auckland",
+    "telephone": "(09) 579 5363",
+    "faxNumber": "(09) 579 5364",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-mt-smart-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Sun": "8:30 AM – 3:00 PM"
+        "Mon – Fri": "9:00 AM – 5:15 PM",
+        "Sat": "9:00 AM – 12:00 PM"
       },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Walk in or drive through.</strong><br>Behind the Gull petrol station.",
-        "<br><strong>Accessibility</strong><br>Public Transport: Bus routes #33 Papakura &amp; Otahuhu. The bus stop is nearby on Great South Road. Train - Te Mahia Station.<br>Accessible toilets: Yes - just past the registration area. Staff can assist.<br>Unisex toilets: Yes. There are also outside portable public toilets.<br>Accessible parking: Yes – drive to the checkpoint and around the one-way system to near the exit and the front of building. There are 20 priority parking spaces.<br>Drop off zones available: Yes - follow the one-way lane to the front of the building."
-      ]
-    }
-  },
-  {
-    "lat": -36.9904167,
-    "lng": 174.7884344,
-    "name": "Airport Park and Ride Drive Through COVID-19 Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "42 Verissimo Drive, Māngere, Auckland 2022",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/south-auckland-covid-19-vaccination-centres/at/airport-park-and-ride-drive-through-covid/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:30 AM – 6:00 PM"
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Drive Through Only (No walk-in)</strong>"
-      ]
+      "notesHtml": []
     }
   }
 ]
