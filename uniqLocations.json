@@ -18477,6 +18477,13 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:45:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "09:15:00",
@@ -37676,6 +37683,45 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "72 Vivian Street   New Plymouth  3114",
+    "distanceInMeters": 36174.71704212,
+    "extId": "a0R4a000000XKDKEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-13",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.07,
+      "lat": -39.0606
+    },
+    "name": "Central Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Central+Medical+Centre/@-39.0607664,174.0674885,17z/data=!3m1!4b1!4m5!3m4!1s0x6d144e44ab57fa65:0xadcbf1ecb61a56bf!8m2!3d-39.0607664!4d174.0696772",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
