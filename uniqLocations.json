@@ -23434,7 +23434,7 @@
         "localEnd": "16:00:00"
       }
     ],
-    "description": "Extended hours for SUPER SATURDAY 16 October - open 12:00 pm until 8:00 pm | \r\nNau mai, haere mai ki Papakura Marae.\r\n• Bring up to 4 people from your bubble over 12 years old\r\n• For smoother processing please ensure all Whānau members have a booking\r\n• Wear a loose short sleeve t-shirt for comfort\r\n• Come prepared with kai and/or activities\r\n• If you know your NHI please bring it along but it is NOT necessary, we can easily sort for you!",
+    "description": "Extended hours for SUPER SATURDAY 16 October - open 1:00 pm until 7:30 pm | \r\nNau mai, haere mai ki Papakura Marae.\r\n• Bring up to 4 people from your bubble over 12 years old\r\n• For smoother processing please ensure all Whānau members have a booking\r\n• Wear a loose short sleeve t-shirt for comfort\r\n• Come prepared with kai and/or activities\r\n• If you know your NHI please bring it along but it is NOT necessary, we can easily sort for you!",
     "mapUrl": "https://www.google.com/maps/place/Papakura+Marae/@-37.0700457,174.959118,15z/data=!4m5!3m4!1s0x0:0x5ef05e910bffa12e!8m2!3d-37.0700457!4d174.959118",
     "tags": [],
     "type": "OnlineBooking",
@@ -36034,35 +36034,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
@@ -36076,10 +36048,38 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages (Cantonese, Mandarin)",
@@ -37553,6 +37553,30 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "71 High Street   Bulls  4818",
+    "distanceInMeters": 28445.45227398,
+    "extId": "a0R4a000000XMAEEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-15",
+    "endDate": "2021-12-01",
+    "location": {
+      "lng": 175.384,
+      "lat": -40.1739
+    },
+    "name": "Bulls Medical",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/71+High+Street,+Bulls+4818/@-40.1738645,175.3840257,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40391d2b47b8fd:0xd1e11c69f0ff6860!8m2!3d-40.1738645!4d175.3862144",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-14",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
