@@ -260,15 +260,15 @@
         "durationSeconds": 600
       },
       {
+        "localStartTime": "12:00:00",
+        "durationSeconds": 600
+      },
+      {
         "localStartTime": "12:10:00",
         "durationSeconds": 600
       },
       {
         "localStartTime": "12:20:00",
-        "durationSeconds": 600
-      },
-      {
-        "localStartTime": "12:30:00",
         "durationSeconds": 600
       },
       {
@@ -330,6 +330,14 @@
       {
         "localStartTime": "15:10:00",
         "durationSeconds": 600
+      },
+      {
+        "localStartTime": "15:20:00",
+        "durationSeconds": 600
+      },
+      {
+        "localStartTime": "15:40:00",
+        "durationSeconds": 600
       }
     ],
     "2021-10-15": [
@@ -352,6 +360,10 @@
       {
         "localStartTime": "08:20:00",
         "durationSeconds": 600
+      },
+      {
+        "localStartTime": "08:30:00",
+        "durationSeconds": 300
       },
       {
         "localStartTime": "08:40:00",
@@ -418,10 +430,6 @@
         "durationSeconds": 600
       },
       {
-        "localStartTime": "11:30:00",
-        "durationSeconds": 600
-      },
-      {
         "localStartTime": "11:40:00",
         "durationSeconds": 600
       },
@@ -463,6 +471,10 @@
       },
       {
         "localStartTime": "14:20:00",
+        "durationSeconds": 600
+      },
+      {
+        "localStartTime": "14:30:00",
         "durationSeconds": 600
       },
       {
@@ -682,14 +694,6 @@
         "durationSeconds": 600
       },
       {
-        "localStartTime": "11:00:00",
-        "durationSeconds": 600
-      },
-      {
-        "localStartTime": "11:10:00",
-        "durationSeconds": 600
-      },
-      {
         "localStartTime": "13:10:00",
         "durationSeconds": 600
       },
@@ -782,10 +786,6 @@
       {
         "localStartTime": "08:55:00",
         "durationSeconds": 300
-      },
-      {
-        "localStartTime": "09:00:00",
-        "durationSeconds": 600
       },
       {
         "localStartTime": "09:10:00",
@@ -8601,5 +8601,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-13T21:48:35.222Z"
+  "lastUpdatedAt": "2021-10-13T22:32:27.957Z"
 }
