@@ -29967,7 +29967,7 @@
     "extId": "a0R4a000000V37MEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
-    "endDate": "2021-12-31",
+    "endDate": "2021-12-19",
     "location": {
       "lng": 168.749,
       "lat": -45.0092
@@ -31587,7 +31587,7 @@
           "sat"
         ],
         "localStart": "09:15:00",
-        "localEnd": "16:15:00"
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-37.674146,176.2216961,17z/data=!3m2!4b1!5s0x6d6dd8da9d5777d1:0x47bae057fd50bad5!4m5!3m4!1s0x6d6dd8cf8805ce87:0x9dda20cc46fd5e97!8m2!3d-37.6741503!4d176.2238848?shorturl=1",
@@ -34057,6 +34057,54 @@
     "timezone": "Pacific/Auckland",
     "openHours": [],
     "mapUrl": "https://www.google.com/maps/place/89+Ardmore+Street,+Wanaka+9305,+New+Zealand/@-44.6944925,169.1339996,17z/data=!4m5!3m4!1s0xa9d54f45b465f8f9:0xc715ab010b10ff5a!8m2!3d-44.6944925!4d169.1361883",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "32 Gloucester Street   Kingston  9793",
+    "distanceInMeters": 44510.66130591,
+    "extId": "a0R4a000000VrCAEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-09",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 168.712,
+      "lat": -45.333
+    },
+    "name": "Engage Safety - Kingston Community Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/Kingston+Golf+Club/@-45.3337781,168.7117384,18.94z/data=!4m12!1m6!3m5!1s0xa9d4c071d64df939:0x3c40adf68df2e7d7!2sKingston+Golf+Club!8m2!3d-45.3343364!4d168.7113422!3m4!1s0xa9d4c06e524e7137:0x9a2709c0d21cb08c!8m2!3d-45.3330",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-21",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "13 Argyle Street   Glenorchy  9372",
+    "distanceInMeters": 37232.2687319,
+    "extId": "a0R4a000000VrHLEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-09",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 168.386,
+      "lat": -44.8506
+    },
+    "name": "Engage Safety - Glenorchy Hall",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/Head+of+the+Lake+Community+Church+(Mission+Hall)/@-44.8529045,168.3886896,16z/data=!4m9!1m2!2m1!1sglenorchy+hall!3m5!1s0xa9d5a5f58308774d:0x800f7fce962b892f!8m2!3d-44.8508307!4d168.3855583!15sCg5nbGVub3JjaHkgaGFsbJIBBmNod",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-21",
@@ -36975,10 +37023,17 @@
     "openHours": [
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:45:00"
+      },
+      {
+        "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:15:00"
+        "localStart": "09:00:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
@@ -37628,6 +37683,31 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "10 Lawrence Stevens Drive Māngere  Auckland  2022",
+    "distanceInMeters": 23925.4455742,
+    "extId": "a0R4a000000XKUzEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-16",
+    "endDate": "2021-10-17",
+    "location": {
+      "lng": 174.796,
+      "lat": -37.0019
+    },
+    "name": "Air New Zealand Jab-A-Seat",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "Come get vaccinated on Air New Zealand's Boeing 787 Dreamliner | No disability access - you must climb a flight of stairs to embark and disembark | Please wear closed in shoes | Only those booked for vaccination can attend and board aircraft | One caregiver can accompany 12-16 year olds |  Portaloos in carpark | \r\nWhen you arrive: Health check done from your vehicle | After parking you will go through a security check | Air NZ staff will escort you through the entrance.",
+    "mapUrl": "https://goo.gl/maps/U3Wr9prEhESVKuSK7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "71 High Street   Bulls  4818",
     "distanceInMeters": 28445.45227398,
     "extId": "a0R4a000000XMAEEA4",
@@ -37645,6 +37725,30 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "6 Robinson Street, Cheviot 7310",
+    "distanceInMeters": 56301.27792588,
+    "extId": "a0R4a000000XMqyEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-16",
+    "endDate": "2021-11-10",
+    "location": {
+      "lng": 173.28,
+      "lat": -42.8128
+    },
+    "name": "Cheviot Community Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/tWkruZocb2a7Nj1p7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
