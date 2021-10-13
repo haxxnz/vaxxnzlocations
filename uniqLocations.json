@@ -19914,7 +19914,7 @@
         "localEnd": "16:00:00"
       }
     ],
-    "description": "Super Saturday - the 16th of October is a Drive Through Vaccination Event.",
+    "description": "Super Saturday - the 16th of October offers In Clinic or  Drive Through appointments so you can bring the family with you.",
     "mapUrl": "https://www.google.com/maps/place/11+Alnwick+Street,+Warkworth+0910,+New+Zealand/@-36.3997409,174.6640611,17z/data=!4m13!1m7!3m6!1s0x6d0cdc219e00093f:0x6e59e03b69b03fa9!2s11+Alnwick+Street,+Warkworth+0910,+New+Zealand!3b1!8m2!3d-36.3997409!4d174.6662498!3",
     "tags": [],
     "type": "OnlineBooking",
@@ -37566,6 +37566,67 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "231-233 Great South Rd Drury  Auckland  2247",
+    "distanceInMeters": 11668.08503179,
+    "extId": "a0R4a000000WoEJEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-13",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.951,
+      "lat": -37.1021
+    },
+    "name": "The Capsule Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:15:00"
+      }
+    ],
+    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
+    "mapUrl": "https://g.page/the-capsule-drury?share",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "26 Stewart Street   Marton  4710",
     "distanceInMeters": 37912.3063802,
     "extId": "a0R4a000000WzSuEAK",
@@ -37641,6 +37702,66 @@
     ],
     "description": "Free onsite parking | Wheelchair accessible | Accessible toilets",
     "mapUrl": "https://www.google.co.nz/maps/place/Eastside+Family+Doctor/@-36.9181511,174.8725223,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4beedf0eca81:0x829729364d1f37f7!8m2!3d-36.9181732!4d174.8746867?hl=en&shorturl=1",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-11",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "58 Miramar Avenue Miramar  Wellington  6022",
+    "distanceInMeters": 30571.10602486,
+    "extId": "a0R4a000000XAADEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-12",
+    "endDate": "2021-12-15",
+    "location": {
+      "lng": 174.815,
+      "lat": -41.316
+    },
+    "name": "Unichem Miramar Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Unichem+Pharmacy/@-41.316121,174.8149468,21z/data=!4m13!1m7!3m6!1s0x6d38af829fe54a7f:0x4c4c4101d5251a37!2s58+Miramar+Avenue,+Miramar,+Wellington+6022,+New+Zealand!3b1!8m2!3d-41.3160077!4d174.8150424!3m4!1s0x6d38af829fe54a",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-11",

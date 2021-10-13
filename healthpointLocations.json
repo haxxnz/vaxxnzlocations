@@ -166,33 +166,6 @@
     }
   },
   {
-    "lat": -37.6750439,
-    "lng": 176.222781,
-    "name": "Life Pharmacy Bayfair",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Bayfair Shopping Centre, Cnr Maunganui Road & Girven Road, Mount Maunganui",
-    "telephone": "(07) 575 0476",
-    "faxNumber": "(07) 575 4146",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-bayfair/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "9:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr). Open Labour Day (25 Oct, 9:00 AM – 6:00 PM), Auckland Anniversary (31 Jan, 9:00 AM – 6:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 9:00 AM – 6:00 PM), Easter Sunday (17 Apr, 9:00 AM – 6:00 PM), Easter Monday (18 Apr, 9:00 AM – 6:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Queen's Birthday (6 Jun, 9:00 AM – 6:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.6857803,
     "lng": 176.16923999999995,
     "name": "Life Pharmacy Tauranga",
@@ -459,7 +432,8 @@
     "openTodayHours": "8:00 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Make an appointment"
+      "No appointment required",
+      "Walk in"
     ],
     "address": "13 Kakamutu Road, Ōtorohanga",
     "telephone": "(07) 873 7079  /  A/H (07) 873 8399",
@@ -481,7 +455,7 @@
         "<strong>Saturday Clinic -</strong> Routine appointments available Saturdays 9-10am, acute appointments 10-12noon.&nbsp; After hours fees apply.&nbsp; Patient may book online via patient portal or telephone the clinic on 07 873 7079.&nbsp;",
         "<strong>After Hours: </strong>Phone GP practice (07) 873 8399 and follow instructions.&nbsp;You will be transferred to an after hours service who will be able to assist you with help and advice.&nbsp;",
         "Mahoe Med in Te Awamutu (07) 872 0923 has extended after hours.&nbsp; 8am-8pm weekdays and weekends 9-3pm.&nbsp; Outside of these hours, Anglesea Clinic in Hamilton is open 24 hours.&nbsp; Ph (07) 858 0800.",
-        "CLOSED QUEENS BIRTHDAY MONDAY - PUBLIC HOLIDAY"
+        "&nbsp;"
       ]
     }
   },
@@ -2325,33 +2299,6 @@
       "schedule": {
         "Mon – Fri": "8:30 AM – 6:00 PM",
         "Sat": "9:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.9799477,
-    "lng": 174.85362110000005,
-    "name": "Unichem Papatoetoe Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "63 St George Street, Papatoetoe, Auckland",
-    "telephone": "(09) 278 7613",
-    "faxNumber": "(09) 278 7615",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-papatoetoe-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 4:00 PM"
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
@@ -7497,32 +7444,6 @@
     }
   },
   {
-    "lat": -39.0015575,
-    "lng": 174.23644420000005,
-    "name": "Waitara Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "56 McLean Street, Waitara",
-    "telephone": "(06) 754 7662",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/waitara-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -39.071579,
     "lng": 174.0621954,
     "name": "Unichem Westown Pharmacy",
@@ -7902,40 +7823,6 @@
         "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.8729204,
-    "lng": 174.7815174,
-    "name": "Auckland Family Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Eligible GP enrolled patients only",
-      "Make an appointment",
-      "Drive through"
-    ],
-    "address": "94 Remuera Road, Remuera, Auckland",
-    "telephone": "(09) 524 6249",
-    "faxNumber": "(09) 524 5230",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/auckland-family-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "<strong>**SATURDAY CLINIC IS CLOSED UNTIL FURTHER NOTICE</strong>",
-        "<strong>PLEASE NOTE SATURDAY CONSULTATIONS THERE IS A $25.00 SURCHARGE.</strong>",
-        "<strong>DID YOU KNOW YOU CAN BOOK ON-LINE GO TO www.aucklandfamilymedical.co.nz</strong>",
-        "<strong>After Hours: Ph (09) 524 6249 (our usual number). You will be put through to a nurse for advice.</strong>",
-        "<strong>&nbsp;</strong>"
-      ]
     }
   },
   {
@@ -11409,25 +11296,6 @@
     }
   },
   {
-    "lat": -36.62025943828391,
-    "lng": 174.67085997949982,
-    "name": "Silverdale Bunnings Drive Through Vaccination Clinic",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "18 Hibiscus Coast Highway, Silverdale, Auckland 0992",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/silverdale-bunnings-carpark-drive-through/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "This site is no longer operating however all vaccinations are being given across the road at Weiti Medical Centre.&nbsp; Book my vaccine&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -36.881665,
     "lng": 174.8516079,
     "name": "Tāmaki (Glen Innes) Vaccination Centre, 261 Morrin Road, St Johns, Auckland",
@@ -11994,38 +11862,6 @@
         "For out of hours assistance ring (09) 630 3518 and a nurse will direct you to the appropriate service.",
         "We now have online booking available all hours on our website; www.balmoraldoctors.co.nz.",
         "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -36.88926662877921,
-    "lng": 174.74655836820602,
-    "name": "Balmoral Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "611 Dominion Road, Mount Eden, Auckland",
-    "telephone": "(09) 630 0366",
-    "faxNumber": "(09) 630 8537",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/balmoral-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "9:00 AM – 6:00 PM",
-        "Wed": "9:00 AM – 7:30 PM",
-        "Thu – Fri": "9:00 AM – 6:00 PM",
-        "Sat": "9:00 AM – 7:30 PM",
-        "Sun": "10:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "If you need any prescriptions urgently outside of business hours, please head to Royal Oak Pharmacy at 703a Manukau Road. Open 9am to 10pm everyday (including public holidays). Phone: 09 625 7422"
       ]
     }
   },
@@ -16216,48 +16052,6 @@
     }
   },
   {
-    "lat": -41.2087358,
-    "lng": 174.9043247,
-    "name": "218 High Street",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
-    ],
-    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.131353,
-    "lng": 175.0656188,
-    "name": "Upper Hutt",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
-    ],
-    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -41.2823898,
     "lng": 174.77536759999998,
     "name": "Unichem Wellington Central Pharmacy",
@@ -17432,34 +17226,6 @@
     }
   },
   {
-    "lat": -36.91159359999999,
-    "lng": 174.7762679,
-    "name": "Unichem Walls and Roche Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "792 Manukau Road, Royal Oak, Auckland",
-    "telephone": "(09) 625 7488",
-    "faxNumber": "(09) 625 7691",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-walls-and-roche-pharmacy/at/792-manukau-road-royal-oak-auckland/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -40.7527945,
     "lng": 175.14034600000002,
     "name": "Hamish Barham Pharmacy",
@@ -18026,36 +17792,6 @@
         "For all urgent care out of hours",
         "Dial 111",
         "or Call Rawene Hospital (09) 405 - 7709"
-      ]
-    }
-  },
-  {
-    "lat": -36.77290120000001,
-    "lng": 174.76527450000003,
-    "name": "Unichem Milford Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "174A Kitchener Road, Milford, Auckland",
-    "telephone": "(09) 489 4107",
-    "faxNumber": "(09) 489 4106",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-milford-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "&nbsp;",
-        "&nbsp;"
       ]
     }
   },
@@ -21203,39 +20939,6 @@
     }
   },
   {
-    "lat": -37.0313194,
-    "lng": 174.86782160000007,
-    "name": "Clendon Family Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "9 Robert Ross Place, Clendon Park, Auckland",
-    "telephone": "(09) 267 2636",
-    "faxNumber": "(09) 267 2336",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clendon-family-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Takanini Urgent Care."
-      },
-      "notesHtml": [
-        "<strong>&nbsp;</strong>",
-        "<strong>***COVID L3/4 UPDATE: SATURDAY CLINICS CLOSED UNTIL LEVEL 2/FURTHER NOTICE***</strong>",
-        "<strong>Saturday Clinic 0900 - 1200&nbsp;unless&nbsp;there is a&nbsp;public holiday on the following Monday in which case we are closed &nbsp;</strong>",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -46.10306,
     "lng": 168.93694400000004,
     "name": "Gore Health Centre",
@@ -21290,7 +20993,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d8bdb5b9b1b498bfb7aabdb5bdbcb1bbb9b4f6bbb7f6b6a2\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"442129252d2804232b36212921202d2725286a272b6a2a3e\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -21523,35 +21226,6 @@
     }
   },
   {
-    "lat": -36.8660651,
-    "lng": 174.5793061,
-    "name": "Swanson Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "714 Swanson Road, Swanson, Auckland",
-    "telephone": "(09) 833 9433",
-    "faxNumber": "(09) 832 1206",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/swanson-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions. You will be transferred to an after hours service who will direct you either to our preferred after hours urgent care clinic or Care HQ (Virtual GP consultation service)."
-      ]
-    }
-  },
-  {
     "lat": -37.89361799999999,
     "lng": 175.46566099999995,
     "name": "Cambridge Medical Centre",
@@ -21580,28 +21254,32 @@
     }
   },
   {
-    "lat": -37.0484319,
-    "lng": 174.93318620000002,
-    "name": "Unichem Takanini Village Pharmacy",
-    "branch": "pharmacy",
+    "lat": -36.8660651,
+    "lng": 174.5793061,
+    "name": "Swanson Medical Centre",
+    "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
     ],
-    "address": "30 Walters Road, Takanini",
-    "telephone": "(09) 222 0303",
-    "faxNumber": "(09) 222 0304",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-takanini-village-pharmacy/",
+    "address": "714 Swanson Road, Swanson, Auckland",
+    "telephone": "(09) 833 9433",
+    "faxNumber": "(09) 832 1206",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/swanson-medical-centre/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat – Sun": "9:00 AM – 5:30 PM"
+        "Mon – Fri": "8:00 AM – 5:00 PM"
       },
-      "exceptions": {},
-      "notesHtml": []
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions. You will be transferred to an after hours service who will direct you either to our preferred after hours urgent care clinic or Care HQ (Virtual GP consultation service)."
+      ]
     }
   },
   {
@@ -21633,6 +21311,323 @@
         "<strong>Book by phoning 0800 272 4842 or online <a href=\"https://bookmyvaccine.covid19.health.nz/\"> Book My Vaccine</a></strong>",
         "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
         "<strong>All current Alert Level status guidelines will be followed.</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -37.0313194,
+    "lng": 174.86782160000007,
+    "name": "Clendon Family Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "9 Robert Ross Place, Clendon Park, Auckland",
+    "telephone": "(09) 267 2636",
+    "faxNumber": "(09) 267 2336",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clendon-family-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Takanini Urgent Care."
+      },
+      "notesHtml": [
+        "<strong>&nbsp;</strong>",
+        "<strong>***COVID L3/4 UPDATE: SATURDAY CLINICS CLOSED UNTIL LEVEL 2/FURTHER NOTICE***</strong>",
+        "<strong>Saturday Clinic 0900 - 1200&nbsp;unless&nbsp;there is a&nbsp;public holiday on the following Monday in which case we are closed &nbsp;</strong>",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.88926662877921,
+    "lng": 174.74655836820602,
+    "name": "Balmoral Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "611 Dominion Road, Mount Eden, Auckland",
+    "telephone": "(09) 630 0366",
+    "faxNumber": "(09) 630 8537",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/balmoral-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "9:00 AM – 6:00 PM",
+        "Wed": "9:00 AM – 7:30 PM",
+        "Thu – Fri": "9:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 7:30 PM",
+        "Sun": "10:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "If you need any prescriptions urgently outside of business hours, please head to Royal Oak Pharmacy at 703a Manukau Road. Open 9am to 10pm everyday (including public holidays). Phone: 09 625 7422"
+      ]
+    }
+  },
+  {
+    "lat": -36.8729204,
+    "lng": 174.7815174,
+    "name": "Auckland Family Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Drive through"
+    ],
+    "address": "94 Remuera Road, Remuera, Auckland",
+    "telephone": "(09) 524 6249",
+    "faxNumber": "(09) 524 5230",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/auckland-family-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>**SATURDAY CLINIC IS CLOSED UNTIL FURTHER NOTICE</strong>",
+        "<strong>PLEASE NOTE SATURDAY CONSULTATIONS THERE IS A $25.00 SURCHARGE.</strong>",
+        "<strong>DID YOU KNOW YOU CAN BOOK ON-LINE GO TO www.aucklandfamilymedical.co.nz</strong>",
+        "<strong>After Hours: Ph (09) 524 6249 (our usual number). You will be put through to a nurse for advice.</strong>",
+        "<strong>&nbsp;</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -36.91159359999999,
+    "lng": 174.7762679,
+    "name": "Unichem Walls and Roche Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "792 Manukau Road, Royal Oak, Auckland",
+    "telephone": "(09) 625 7488",
+    "faxNumber": "(09) 625 7691",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-walls-and-roche-pharmacy/at/792-manukau-road-royal-oak-auckland/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.0484319,
+    "lng": 174.93318620000002,
+    "name": "Unichem Takanini Village Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "30 Walters Road, Takanini",
+    "telephone": "(09) 222 0303",
+    "faxNumber": "(09) 222 0304",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-takanini-village-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat – Sun": "9:00 AM – 5:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.0015575,
+    "lng": 174.23644420000005,
+    "name": "Waitara Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "56 McLean Street, Waitara",
+    "telephone": "(06) 754 7662",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/waitara-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "Open between 9am &amp; 1pm for Super Shot Saturday ONLY."
+      ]
+    }
+  },
+  {
+    "lat": -41.2087358,
+    "lng": 174.9043247,
+    "name": "218 High Street",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 4:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "1:00 PM – 8:15 PM",
+        "Wed": "9:30 AM – 6:00 PM",
+        "Thu": "9:30 AM – 4:30 PM",
+        "Sat": "9:30 AM – 4:30 PM",
+        "Sun": "10:00 AM – 4:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.131353,
+    "lng": 175.0656188,
+    "name": "Upper Hutt",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 4:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
+    "opennningHours": {
+      "schedule": {
+        "Thu – Fri": "9:30 AM – 4:30 PM",
+        "Sat": "10:00 AM – 5:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.6750439,
+    "lng": 176.222781,
+    "name": "Life Pharmacy Bayfair",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Bayfair Shopping Centre, Cnr Maunganui Road & Girven Road, Mount Maunganui",
+    "telephone": "(07) 575 0476",
+    "faxNumber": "(07) 575 4146",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-bayfair/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr). Open Labour Day (25 Oct, 9:00 AM – 6:00 PM), Auckland Anniversary (31 Jan, 9:00 AM – 6:00 PM), Waitangi Day (Observed 7/2/22) (7 Feb, 9:00 AM – 6:00 PM), Easter Sunday (17 Apr, 9:00 AM – 6:00 PM), Easter Monday (18 Apr, 9:00 AM – 6:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Queen's Birthday (6 Jun, 9:00 AM – 6:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.62025943828391,
+    "lng": 174.67085997949982,
+    "name": "Silverdale Bunnings Drive Through Vaccination Clinic",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 4:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Drive through",
+      "Walk in"
+    ],
+    "address": "18 Hibiscus Coast Highway, Silverdale, Auckland 0992",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/silverdale-bunnings-carpark-drive-through/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.77290120000001,
+    "lng": 174.76527450000003,
+    "name": "Unichem Milford Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "174A Kitchener Road, Milford, Auckland",
+    "telephone": "(09) 489 4107",
+    "faxNumber": "(09) 489 4106",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-milford-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "&nbsp;"
       ]
     }
   }
