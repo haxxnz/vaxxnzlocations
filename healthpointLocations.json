@@ -11413,24 +11413,18 @@
     "lng": 174.67085997949982,
     "name": "Silverdale Bunnings Drive Through Vaccination Clinic",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Drive through"
-    ],
+    "openTodayHours": "",
+    "instructionLis": [],
     "address": "18 Hibiscus Coast Highway, Silverdale, Auckland 0992",
     "telephone": "",
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/silverdale-bunnings-carpark-drive-through/",
     "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 4:00 PM"
-      },
+      "schedule": {},
       "exceptions": {},
-      "notesHtml": []
+      "notesHtml": [
+        "This site is no longer operating however all vaccinations are being given across the road at Weiti Medical Centre.&nbsp; Book my vaccine&nbsp;"
+      ]
     }
   },
   {
@@ -21296,7 +21290,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"67020a060e0b27000815020a02030e04060b49040849091d\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d8bdb5b9b1b498bfb7aabdb5bdbcb1bbb9b4f6bbb7f6b6a2\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -21558,6 +21552,59 @@
     }
   },
   {
+    "lat": -37.89361799999999,
+    "lng": 175.46566099999995,
+    "name": "Cambridge Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "48 Alpha Street, Cambridge",
+    "telephone": "(07) 827 7184",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/cambridge-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Anglesea Clinic - Accident & Urgent Medical Ltd."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.0484319,
+    "lng": 174.93318620000002,
+    "name": "Unichem Takanini Village Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "30 Walters Road, Takanini",
+    "telephone": "(09) 222 0303",
+    "faxNumber": "(09) 222 0304",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-takanini-village-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat – Sun": "9:00 AM – 5:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -35.7273362,
     "lng": 174.3172539,
     "name": "Whāngarei - 5 Waltons St",
@@ -21587,33 +21634,6 @@
         "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
         "<strong>All current Alert Level status guidelines will be followed.</strong>"
       ]
-    }
-  },
-  {
-    "lat": -37.89361799999999,
-    "lng": 175.46566099999995,
-    "name": "Cambridge Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "48 Alpha Street, Cambridge",
-    "telephone": "(07) 827 7184",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/cambridge-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Anglesea Clinic - Accident & Urgent Medical Ltd."
-      },
-      "notesHtml": []
     }
   }
 ]
