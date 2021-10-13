@@ -1123,7 +1123,7 @@
     "extId": "a0R4a000000Q4pnEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
-    "endDate": "2021-12-12",
+    "endDate": "2021-11-21",
     "location": {
       "lng": 172.575,
       "lat": -43.5319
@@ -15410,7 +15410,7 @@
   },
   {
     "displayAddress": "Ruapehu Street   Waiouru  4826",
-    "distanceInMeters": 54574.71026039,
+    "distanceInMeters": 73049.30589769,
     "extId": "a0R4a000000Sr5bEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-08",
@@ -29392,7 +29392,7 @@
         "days": [
           "sun"
         ],
-        "localStart": "11:00:00",
+        "localStart": "10:15:00",
         "localEnd": "15:45:00"
       },
       {
@@ -29406,7 +29406,7 @@
         "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:15:00",
         "localEnd": "16:45:00"
       },
       {
@@ -29716,7 +29716,7 @@
     "extId": "a0R4a000000V289EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
-    "endDate": "2021-12-01",
+    "endDate": "2021-12-18",
     "location": {
       "lng": 175.049,
       "lat": -39.9324
@@ -29730,6 +29730,20 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       },
       {
         "days": [
@@ -35633,6 +35647,38 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "9 Belgium St Ostend  Waiheke Is  1081",
+    "distanceInMeters": 55550.34718631,
+    "extId": "a0R4a000000W3uDEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-01",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 175.045,
+      "lat": -36.7956
+    },
+    "name": "Ostend Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "14:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/fRBPZaTNEap9P3t89",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-27",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
