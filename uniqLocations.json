@@ -772,14 +772,14 @@
   },
   {
     "displayAddress": "Barrington Shopping Centre, 256 Barrington Street, Spreydon, 8024\r\n(Inside the shopping centre, across from Majestic Tea Bar)",
-    "distanceInMeters": 6481.23557417,
+    "distanceInMeters": 6441.88434429,
     "extId": "a0R4a000000PwooEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-21",
     "endDate": "2021-12-12",
     "location": {
-      "lng": 172.621,
-      "lat": -43.5562
+      "lng": 172.62,
+      "lat": -43.5563
     },
     "name": "Barrington Hub (Barrington Mall)",
     "timezone": "Pacific/Auckland",
@@ -827,7 +827,7 @@
         "localEnd": "19:30:00"
       }
     ],
-    "description": "Wheelchair accessible. Wheelchair ramp. On-site parking",
+    "description": "**Saturday 16 October – Walk-ins from 9AM – 6PM**\r\n\r\nWheelchair accessible. Wheelchair ramp. On-site parking",
     "mapUrl": "https://g.page/BarringtonShopping?share",
     "tags": [],
     "type": "OnlineBooking",
@@ -26785,6 +26785,13 @@
     "openHours": [
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -26823,7 +26830,7 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "12:45:00"
+        "localEnd": "16:45:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Onsite parking | Foreign languages by appointment.",
@@ -30524,50 +30531,50 @@
         "days": [
           "tue"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "19:15:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "19:15:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "sun"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "19:15:00"
+        "localStart": "09:00:00",
+        "localEnd": "13:15:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "19:15:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "19:15:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "19:15:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "08:00:00",
-        "localEnd": "19:15:00"
+        "localStart": "08:30:00",
+        "localEnd": "18:00:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages Arabic, Mandarin, Hindi).",
@@ -35626,38 +35633,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-28",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "9 Belgium St Ostend  Waiheke Is  1081",
-    "distanceInMeters": 55550.34718631,
-    "extId": "a0R4a000000W3uDEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-01",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 175.045,
-      "lat": -36.7956
-    },
-    "name": "Ostend Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "14:30:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/fRBPZaTNEap9P3t89",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-27",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
