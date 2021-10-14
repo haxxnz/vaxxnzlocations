@@ -25415,10 +25415,10 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "14:00:00"
+        "localStart": "14:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -25429,10 +25429,10 @@
       },
       {
         "days": [
-          "tue"
+          "sat"
         ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "14:00:00"
       }
     ],
     "description": "Toilets- wheelchair accessible available. Disability Access- Wheelchair ramp access. On-site parking.",
@@ -26495,17 +26495,17 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "2/4 Mahara Place   Waikanae  5036",
-    "distanceInMeters": 74626.5657138,
+    "displayAddress": "2/4 Mahara Place  Waikanae  5036",
+    "distanceInMeters": 74615.607675,
     "extId": "a0R4a000000UQzYEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
     "endDate": "2021-10-29",
     "location": {
       "lng": 175.064,
-      "lat": -40.8777
+      "lat": -40.8776
     },
-    "name": "Whakarongotai Marae",
+    "name": "Hora te Pai @ Whakarongotai Marae",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -26523,6 +26523,7 @@
         "localEnd": "16:00:00"
       }
     ],
+    "description": "Mauri Ora, \r\nYou don't need to be an enrolled patient with Hora Te Pai. We're here for our community. \r\nWalk-In's are welcome OR if you just want to come for a korero and questions about the Covid Vaccine, Nau Mai!  \r\nWe're at Whakarongotai Marae, Tuesday, Friday until 29 October and will be there on Super Saturday with free giveaways for anyone who gets their vaccine with us.",
     "mapUrl": "https://goo.gl/maps/5HDKB5p4DcPDvADf9",
     "tags": [],
     "type": "OnlineBooking",
@@ -30209,60 +30210,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-17",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "161 Onehunga Mall Onehunga  Auckland  1061",
-    "distanceInMeters": 22479.7839628,
-    "extId": "a0R4a000000V647EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-21",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.786,
-      "lat": -36.9226
-    },
-    "name": "Onehunga Family Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "description": "No onsite parking | Accessible toilets.",
-    "mapUrl": "https://www.google.com/maps/place/Onehunga+Family+Medical+Centre/@-36.9235475,174.785642,15z/data=!4m5!3m4!1s0x0:0x5892c9b78e8912a7!8m2!3d-36.9235475!4d174.785642",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-09",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -34331,7 +34278,7 @@
   },
   {
     "displayAddress": "197 Broadway Newmarket  Auckland  1023",
-    "distanceInMeters": 53314.0458662,
+    "distanceInMeters": 27534.31131831,
     "extId": "a0R4a000000VueiEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -38041,21 +37988,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "11:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:15:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "10:15:00",
         "localEnd": "12:00:00"
@@ -38069,10 +38002,24 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "10:15:00",
         "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:15:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "11:45:00"
       }
     ],
     "description": "Drive Through | Open SUPER SATURDAY 9am - 4pm",
