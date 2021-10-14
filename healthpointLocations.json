@@ -19522,7 +19522,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d7b2bab6bebb97b0b8a5b2bab2b3beb4b6bbf9b4b8f9b9ad\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"791c14181015391e160b1c141c1d101a1815571a16571703\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -21013,32 +21013,6 @@
     }
   },
   {
-    "lat": -41.2549324,
-    "lng": 174.9452972,
-    "name": "Wainuiomata Marae",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Wainuiomata Marae, 153-201 Parkway, Wainuiomata, Lower Hutt, Wellington 5014",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/wainuiomata-marae-covid-19-vaccination-centre/at/wainuiomata-marae-lower-hutt/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "9:00 AM – 4:00 PM",
-        "Wed": "9:00 AM – 6:30 PM",
-        "Thu – Fri": "9:00 AM – 4:00 PM",
-        "Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -39.64322249999999,
     "lng": 176.8354083,
     "name": "Hastings Racecourse",
@@ -21444,28 +21418,35 @@
     }
   },
   {
-    "lat": -36.86292729999999,
-    "lng": 174.6018618,
-    "name": "Rānui Pacific Islanders Presbyterian Church",
+    "lat": -35.7273362,
+    "lng": 174.3172539,
+    "name": "Whāngarei - 5 Waltons St",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
+      "Make an appointment",
       "No appointment required",
       "Walk in"
     ],
-    "address": "35 Armada Dve, Rānui, Auckland 0612",
-    "telephone": "(09) 833 6033",
+    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
+    "telephone": "0800 272 4842",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ranui-church-covid-19-vaccination-centre/",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:00 AM – 8:00 PM",
-        "Sat – Sun": "8:00 AM – 4:00 PM"
+        "Mon – Fri": "9:00 AM – 4:00 PM"
       },
       "exceptions": {},
-      "notesHtml": []
+      "notesHtml": [
+        "<strong>&nbsp;</strong>",
+        "Ngāti Hine Health Trust Whangārei Vax Centre&nbsp; will be open <strong>EVERY DAY Monday - Friday</strong>",
+        "<strong>Booking are preferred , but walk-ins by whānau are welcome</strong>",
+        "<strong>Book by phoning 0800 272 4842 or online <a href=\"https://bookmyvaccine.covid19.health.nz/\"> Book My Vaccine</a></strong>",
+        "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
+        "<strong>All current Alert Level status guidelines will be followed.</strong>"
+      ]
     }
   },
   {
@@ -21500,35 +21481,54 @@
     }
   },
   {
-    "lat": -35.7273362,
-    "lng": 174.3172539,
-    "name": "Whāngarei - 5 Waltons St",
+    "lat": -36.86292729999999,
+    "lng": 174.6018618,
+    "name": "Rānui Pacific Islanders Presbyterian Church",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "35 Armada Dve, Rānui, Auckland 0612",
+    "telephone": "(09) 833 6033",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ranui-church-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 8:00 PM",
+        "Sat – Sun": "8:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.2549324,
+    "lng": 174.9452972,
+    "name": "Wainuiomata Marae",
     "branch": "community",
     "isOpenToday": true,
     "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
+      "Make an appointment"
     ],
-    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
-    "telephone": "0800 272 4842",
+    "address": "Wainuiomata Marae, 153-201 Parkway, Wainuiomata, Lower Hutt, Wellington 5014",
+    "telephone": "",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/wainuiomata-marae-covid-19-vaccination-centre/at/wainuiomata-marae-lower-hutt/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "9:00 AM – 4:00 PM"
+        "Mon – Tue": "9:00 AM – 4:00 PM",
+        "Wed": "9:00 AM – 6:30 PM",
+        "Thu – Fri": "9:00 AM – 4:00 PM",
+        "Sun": "10:00 AM – 3:00 PM"
       },
       "exceptions": {},
-      "notesHtml": [
-        "<strong>&nbsp;</strong>",
-        "Ngāti Hine Health Trust Whangārei Vax Centre&nbsp; will be open <strong>EVERY DAY Monday - Friday</strong>",
-        "<strong>Booking are preferred , but walk-ins by whānau are welcome</strong>",
-        "<strong>Book by phoning 0800 272 4842 or online <a href=\"https://bookmyvaccine.covid19.health.nz/\"> Book My Vaccine</a></strong>",
-        "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
-        "<strong>All current Alert Level status guidelines will be followed.</strong>"
-      ]
+      "notesHtml": []
     }
   },
   {
