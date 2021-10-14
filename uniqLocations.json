@@ -2636,7 +2636,7 @@
         "localEnd": "16:30:00"
       }
     ],
-    "description": "Kapiti Community Vaccination Centre offers vaccines for all. We cater for those with needle phobia – let staff know as soon as you arrive and we will arrange a support person (unless you have your own to bring!), can provide a quiet place for your vaccine with an experienced vaccinator. Call us first on 022 0921 8683 to discuss your vaccine concerns with a trained vaccinator.",
+    "description": "Kapiti Community Vaccination Centre offers vaccines for all. We cater for those with needle phobia – let staff know as soon as you arrive and we will arrange a support person (unless you have your own to bring!), can provide a quiet place for your vaccine with an experienced vaccinator. Call us first on 022 021 8683 to discuss your vaccine concerns with a trained vaccinator.",
     "mapUrl": "https://www.google.com/maps/place/45B+Te+Roto+Drive,+Paraparaumu+5032/@-40.9034295,174.9981312,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a112fdc462df:0x913e658ec10ec0c6!8m2!3d-40.9034295!4d175.0003199",
     "tags": [],
     "type": "OnlineBooking",
@@ -18785,15 +18785,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Roselands Shopping Centre, 98 Great South Road Papakura  Auckland  2110",
-    "distanceInMeters": 1957.03296609,
+    "displayAddress": "102 Great South Road Roselands Shopping Centre Papakura  Auckland  2110",
+    "distanceInMeters": 1943.62051469,
     "extId": "a0R4a000000TPTBEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
     "endDate": "2021-12-23",
     "location": {
       "lng": 174.942,
-      "lat": -37.0596
+      "lat": -37.0595
     },
     "name": "Life Pharmacy Papakura Vaccination Centre",
     "timezone": "Pacific/Auckland",
@@ -18842,7 +18842,7 @@
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets available.",
-    "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Papakura/@-37.0592787,174.9394222,17z/data=!3m1!4b1!4m5!3m4!1s0x6d72acd8e47749b5:0xc939eff4e53e49ae!8m2!3d-37.059486!4d174.9417917",
+    "mapUrl": "https://goo.gl/maps/yJTSH5LV1EdqiBtx5",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-12",
@@ -29639,7 +29639,7 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "Parking available at community centre next door | Wheelchair accessible | Accessible toilets.",
+    "description": "Open SUPER SATURDAY 9am - 1pm\r\nParking available at community centre next door | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://g.page/wecare-family-health-centre?share",
     "tags": [],
     "type": "OnlineBooking",
@@ -38041,14 +38041,14 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "mon"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "12:00:00"
+        "localStart": "10:30:00",
+        "localEnd": "11:45:00"
       },
       {
         "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:15:00",
         "localEnd": "12:00:00"
@@ -38062,17 +38062,17 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "10:15:00",
         "localEnd": "12:00:00"
       },
       {
         "days": [
-          "mon"
+          "fri"
         ],
-        "localStart": "10:30:00",
-        "localEnd": "11:45:00"
+        "localStart": "10:15:00",
+        "localEnd": "12:00:00"
       }
     ],
     "description": "Drive Through | Open SUPER SATURDAY 9am - 4pm",
@@ -38150,6 +38150,30 @@
     "timezone": "Pacific/Auckland",
     "openHours": [],
     "mapUrl": "https://goo.gl/maps/tWkruZocb2a7Nj1p7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Corner of Ranfurly & Turongo Street   Otorohanga  3900",
+    "distanceInMeters": 41264.03429131,
+    "extId": "a0R4a000000XNdeEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-16",
+    "endDate": "2021-10-17",
+    "location": {
+      "lng": 175.211,
+      "lat": -38.1841
+    },
+    "name": "St Davids Presbyterian Church - Vaccination Clinic",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.co.nz/maps/place/Presbyterian+Church/@-38.1844303,175.2088344,17z/data=!4m5!3m4!1s0x6d6cc0e7040aa911:0x6ca0a9fae2c3d4b3!8m2!3d-38.1842364!4d175.2108192",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-13",
