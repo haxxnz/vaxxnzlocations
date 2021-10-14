@@ -21442,30 +21442,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "5167 Mōkau Road   Mōkau  4376",
-    "distanceInMeters": 62017.06436981,
-    "extId": "a0R4a000000TgDfEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-20",
-    "endDate": "2021-10-13",
-    "location": {
-      "lng": 174.622,
-      "lat": -38.7081
-    },
-    "name": "Tui Ora, Mōkau",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/8Pt5qQmia728B2iD8",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-17",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "10B Pukete Road St Andrews  Hamilton  3200",
     "distanceInMeters": 74479.72879398,
     "extId": "a0R4a000000TgSfEAK",
@@ -28630,10 +28606,10 @@
     "openHours": [
       {
         "days": [
-          "sun"
+          "mon"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
+        "localStart": "12:00:00",
+        "localEnd": "13:45:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/uHpjC84xZBWewFrLA",
@@ -32736,7 +32712,7 @@
         "localEnd": "11:30:00"
       }
     ],
-    "description": "Open Super Saturday 9:00am - 4:45pm | Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory - available on request.",
+    "description": "Open SUPER SATURDAY 9:00am - 4:45pm\r\nOnsite parking | Wheelchair accessible | Accessible toilets | Low sensory - available on request.",
     "mapUrl": "https://www.google.co.nz/maps/place/Saint+Heliers+Medical+Centre/@-36.8563274,174.8538998,16z/data=!4m5!3m4!1s0x6d0d4a0245a54605:0x2ebb9b6e71aa7dcd!8m2!3d-36.8506238!4d174.8586677?hl=en",
     "tags": [],
     "type": "OnlineBooking",
@@ -37523,6 +37499,74 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-06",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "210 Jervois Road Herne Bay  Auckland  1011",
+    "distanceInMeters": 50135.79796764,
+    "extId": "a0R4a000000WnHlEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-15",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.735,
+      "lat": -36.8456
+    },
+    "name": "Herne Bay Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "14:45:00"
+      }
+    ],
+    "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
+    "mapUrl": "https://goo.gl/maps/6JN7GA23Y5BfA1Tk6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-14",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
