@@ -26713,7 +26713,7 @@
   },
   {
     "displayAddress": "10 Marau Crescent Mission Bay  Auckland  1071",
-    "distanceInMeters": 27120.49380815,
+    "distanceInMeters": 52209.99459421,
     "extId": "a0R4a000000USVWEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
@@ -30210,6 +30210,60 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "161 Onehunga Mall Onehunga  Auckland  1061",
+    "distanceInMeters": 22479.7839628,
+    "extId": "a0R4a000000V647EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.786,
+      "lat": -36.9226
+    },
+    "name": "Onehunga Family Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "Open Super Saturday 9:30am - 4:30pm | No onsite parking | Accessible toilets.",
+    "mapUrl": "https://www.google.com/maps/place/Onehunga+Family+Medical+Centre/@-36.9235475,174.785642,15z/data=!4m5!3m4!1s0x0:0x5892c9b78e8912a7!8m2!3d-36.9235475!4d174.785642",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-09",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -34278,7 +34332,7 @@
   },
   {
     "displayAddress": "197 Broadway Newmarket  Auckland  1023",
-    "distanceInMeters": 27534.31131831,
+    "distanceInMeters": 53314.0458662,
     "extId": "a0R4a000000VueiEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -37347,7 +37401,7 @@
   },
   {
     "displayAddress": "268 blockhouse Bay Road Avondale  Auckland  600",
-    "distanceInMeters": 36168.75964895,
+    "distanceInMeters": 33942.1647322,
     "extId": "a0R4a000000WnAiEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-12",
@@ -37966,6 +38020,60 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "201 Murphys Road Flat Bush  Auckland  2016",
+    "distanceInMeters": 11072.60103991,
+    "extId": "a0R4a000000XKIjEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-14",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.923,
+      "lat": -36.9744
+    },
+    "name": "Flat Bush Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "15:00:00"
+      }
+    ],
+    "description": "Open Super Saturday 8:30am - 5:00pm | Free parking | Wheelchair accessible | Toilets available.",
+    "mapUrl": "https://goo.gl/maps/HkmJFTZSVS5M2NvM8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-14",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
