@@ -16633,7 +16633,7 @@
         "localEnd": "15:00:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Toilets available.",
+    "description": "Open SUPER SATURDAY 8.30am - 4.00pm | Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/Manurewa+Medical+Centre/@-37.020707,174.8927794,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d527e915be845:0xee78ecf510c00c9f!8m2!3d-37.020707!4d174.8949681",
     "tags": [],
     "type": "OnlineBooking",
@@ -18487,7 +18487,7 @@
         "days": [
           "sat"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:30:00",
         "localEnd": "14:30:00"
       },
       {
@@ -19583,6 +19583,7 @@
         "localEnd": "16:00:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/The+Local+Doctors/@-36.9620398,174.8729223,15z/data=!4m5!3m4!1s0x0:0xdbcb6ff78c4f11f1!8m2!3d-36.962045!4d174.8728249",
     "tags": [],
     "type": "OnlineBooking",
@@ -20254,7 +20255,7 @@
         "localEnd": "16:00:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Toilets available.",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/Jzywid9kquYPPZHN9",
     "tags": [],
     "type": "OnlineBooking",
@@ -21908,7 +21909,7 @@
         "localEnd": "15:45:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Toilets available.",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/HmWJ4vSoAMz56Taw7",
     "tags": [],
     "type": "OnlineBooking",
@@ -23588,6 +23589,7 @@
         "localEnd": "16:00:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/Bj1eJ8Aex65F3onh6",
     "tags": [],
     "type": "OnlineBooking",
@@ -24900,6 +24902,20 @@
     "name": "Unichem Whangarei Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:00:00"
+      },
       {
         "days": [
           "fri"
@@ -28736,13 +28752,6 @@
         ],
         "localStart": "10:00:00",
         "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "16:30:00",
-        "localEnd": "18:45:00"
       },
       {
         "days": [
@@ -32667,7 +32676,7 @@
         "localEnd": "15:15:00"
       }
     ],
-    "description": "Free onsite parking | Wheelchair accessible | Accessible toilets",
+    "description": "Open SUPER SATURDAY 10.30am - 12.30pm | Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/M6N8vh4fL7qyLP126",
     "tags": [],
     "type": "OnlineBooking",
@@ -34295,6 +34304,7 @@
         "localEnd": "16:00:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
     "mapUrl": "https://www.google.co.nz/maps/place/West+Auckland+Healthcare+-+Wai+Health+Clinic/@-36.8823387,174.6306566,17z/data=!4m5!3m4!1s0x6d0d4104833f910f:0x45e2d771281cdda2!8m2!3d-36.8829954!4d174.6284741?hl=en",
     "tags": [],
     "type": "OnlineBooking",
@@ -35538,14 +35548,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "15:00:00",
-        "localEnd": "20:00:00"
-      },
-      {
-        "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "15:00:00",
         "localEnd": "20:00:00"
@@ -35559,7 +35562,14 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "15:00:00",
         "localEnd": "20:00:00"
@@ -35598,6 +35608,13 @@
       },
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:30:00",
@@ -35609,13 +35626,6 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "13:00:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Onsite parking",
@@ -35996,21 +36006,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:15:00"
@@ -36024,7 +36020,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "13:00:00",
         "localEnd": "15:15:00"
@@ -36080,35 +36090,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -36122,7 +36104,35 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sun"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:00:00"
@@ -36782,7 +36792,7 @@
         "localEnd": "15:30:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory environment - noise and sound available.",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment available",
     "mapUrl": "https://goo.gl/maps/RRJKnmQmMriFLQSy6",
     "tags": [],
     "type": "OnlineBooking",
@@ -37047,14 +37057,14 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:30:00"
       },
       {
         "days": [
-          "thu"
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:30:00"
@@ -37087,35 +37097,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:45:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "19:15:00"
@@ -37129,10 +37111,38 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "19:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:45:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:45:00"
       }
     ],
     "description": "No toilets onsite |  Free onsite parking",
@@ -37408,6 +37418,67 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-06",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "90A/90D Main Road   Kumeu  810",
+    "distanceInMeters": 43072.4856259,
+    "extId": "a0R4a000000WmzaEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-15",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.556,
+      "lat": -36.7757
+    },
+    "name": "Allens Village Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
+      }
+    ],
+    "description": "Toilets onsite | Free onsite parking",
+    "mapUrl": "https://www.google.com/maps/place/Allen's+Village+Pharmacy/@-36.7759551,174.5558371,20.56z/data=!4m5!3m4!1s0x0:0x57ab2fc97c6d32d4!8m2!3d-36.7756831!4d174.5558637",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-12",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -37976,35 +38047,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "17:15:00"
@@ -38018,9 +38061,37 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "11:00:00",
         "localEnd": "17:15:00"
       }
     ],
@@ -38051,28 +38122,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:00:00"
@@ -38086,10 +38136,31 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Waikanae+Health+Urgent+Care+Unit/@-40.876528,175.0611137,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a3a6d512aab9:0xc3c471e4a625da04!8m2!3d-40.876528!4d175.0633024",
@@ -38118,14 +38189,14 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "11:30:00"
       },
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "11:30:00"
@@ -38157,21 +38228,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "12:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "12:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:15:00"
@@ -38185,7 +38242,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:15:00"
@@ -38218,10 +38289,10 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "wed"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "12:30:00"
+        "localStart": "12:00:00",
+        "localEnd": "15:00:00"
       },
       {
         "days": [
@@ -38232,10 +38303,10 @@
       },
       {
         "days": [
-          "wed"
+          "sat"
         ],
-        "localStart": "12:00:00",
-        "localEnd": "15:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Open SUPER SATURDAY 8:30am - 5:00pm | Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available by appointment | Low sensory environment - available on request",
@@ -38265,14 +38336,14 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "mon"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "12:00:00"
+        "localStart": "10:30:00",
+        "localEnd": "11:45:00"
       },
       {
         "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "10:15:00",
         "localEnd": "12:00:00"
@@ -38286,17 +38357,17 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "10:15:00",
         "localEnd": "12:00:00"
       },
       {
         "days": [
-          "mon"
+          "fri"
         ],
-        "localStart": "10:30:00",
-        "localEnd": "11:45:00"
+        "localStart": "10:15:00",
+        "localEnd": "12:00:00"
       }
     ],
     "description": "Drive Through | Open SUPER SATURDAY 9am - 1pm",
