@@ -30931,7 +30931,7 @@
   },
   {
     "displayAddress": "Shore City Mall Shop 17, 52-56 Anzac Street Takapuna,  Auckland  0622",
-    "distanceInMeters": 13796.1512665,
+    "distanceInMeters": 44351.33961387,
     "extId": "a0R4a000000VAsiEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -37514,6 +37514,81 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "160 Broadway Newmarket  Auckland  1023",
+    "distanceInMeters": 7824.17197277,
+    "extId": "a0R4a000000WnM7EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-15",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.778,
+      "lat": -36.868
+    },
+    "name": "Medicines To Midnight",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "20:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "20:45:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      }
+    ],
+    "description": "No toilets onsite | Wheelchair accessible | No onsite parking",
+    "mapUrl": "https://goo.gl/maps/vuteSWQ8dsoumbcr6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-15",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
