@@ -1827,15 +1827,7 @@
     },
     "name": "Porirua City - Lydney Place",
     "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "15:45:00"
-      }
-    ],
+    "openHours": [],
     "mapUrl": "https://www.google.com/maps/place/4+Lydney+Place+North,+Porirua+City+Centre,+Porirua+5022/@-41.1348837,174.8392405,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3f5371f9e4f709:0xa1d2d2ff7018545c!8m2!3d-41.1348878!4d174.8414292",
     "tags": [],
     "type": "OnlineBooking",
@@ -18931,7 +18923,7 @@
         "localEnd": "14:15:00"
       }
     ],
-    "description": "**Walk-ins on Saturday 16 October, 9AM – 4:30PM**\r\n\r\nToilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "description": "**Tue - Fri 9AM – 12PM, 1PM - 3PM, walk-ins welcomed**\r\n\r\nToilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
     "mapUrl": "https://goo.gl/maps/fYV44DaoPdSwaS5f7",
     "tags": [],
     "type": "OnlineBooking",
@@ -33412,6 +33404,30 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "The Atrium, Wintec, Wintec House, Tristram Street Whitiora  Hamilton  3200",
+    "distanceInMeters": 71764.19506783,
+    "extId": "a0R4a000000VZqyEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-10-20",
+    "location": {
+      "lng": 175.28,
+      "lat": -37.7877
+    },
+    "name": "Wintec, Waikato Institute of Technology City Campus",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/QcoHhpKcS6Z4ac8a7",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
     "distanceInMeters": 0.2955438,
     "extId": "a0R4a000000Vc9WEAS",
@@ -37555,7 +37571,21 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "fri"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:15:00"
@@ -37569,21 +37599,7 @@
       },
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:15:00"
@@ -37597,10 +37613,10 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "15:15:00"
+        "localStart": "08:00:00",
+        "localEnd": "18:15:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
@@ -37676,13 +37692,6 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "09:30:00",
@@ -37691,6 +37700,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:45:00"
@@ -37779,17 +37795,17 @@
       },
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "11:00:00",
         "localEnd": "20:45:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | No onsite parking",
@@ -37819,14 +37835,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
       },
       {
         "days": [
-          "mon"
+          "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
@@ -37859,28 +37875,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -37894,7 +37889,28 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "sat"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -38543,6 +38559,67 @@
     ],
     "description": "Drive Through",
     "mapUrl": "https://www.google.co.nz/maps/place/Auckland+Family+Medical+Centre/@-36.8728374,174.7794618,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d487a892d8a7f:0x7a454c2c7fff181!8m2!3d-36.8728374!4d174.7816505?hl=en",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "204 Queens Road Panmure  Auckland  1072",
+    "distanceInMeters": 66420.52744329,
+    "extId": "a0R4a000000XLWrEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-16",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.857,
+      "lat": -36.901
+    },
+    "name": "Panmure Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      }
+    ],
+    "description": "Wheelchair accessible | Accessible toilets | Low sensory environment - available on request",
+    "mapUrl": "https://www.google.co.nz/maps/place/Panmure+Medical+Centre/@-36.900985,174.8551379,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4bd8bd381a2b:0x7ff0a1efd0ab5c77!8m2!3d-36.9009893!4d174.8573266?hl=en&shorturl=1",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-13",
