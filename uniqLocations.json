@@ -1830,38 +1830,10 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "sat"
         ],
         "localStart": "08:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localEnd": "15:45:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/4+Lydney+Place+North,+Porirua+City+Centre,+Porirua+5022/@-41.1348837,174.8392405,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3f5371f9e4f709:0xa1d2d2ff7018545c!8m2!3d-41.1348878!4d174.8414292",
@@ -2767,7 +2739,7 @@
         "localEnd": "15:45:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/tbpM4CvokKfHqvu3A",
     "tags": [],
     "type": "OnlineBooking",
@@ -8342,6 +8314,30 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "190 Riverbend Road Meeanee  Napier  4110",
+    "distanceInMeters": 5076.06125408,
+    "extId": "a0R4a000000S1tLEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-03",
+    "endDate": "2021-12-02",
+    "location": {
+      "lng": 176.901,
+      "lat": -39.5205
+    },
+    "name": "Maraenui Kings House Church",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/5Bu5u1LdiwNSJ5Fy8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Shop 12, Johnsonville Shopping Centre, 34 Johnsonville Road Johnsonville  Wellington  6037",
     "distanceInMeters": 7445.82670985,
     "extId": "a0R4a000000S45MEAS",
@@ -13240,7 +13236,7 @@
         "localEnd": "15:45:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/Papatoetoe+Family+Doctors+at+The+Health+Hub/@-36.9802059,174.8510596,17z/data=!4m13!1m7!3m6!1s0x6d0d4e79a47d291f:0x93852a2812282bcf!2s2%2F65+Saint+George+Street,+Papatoetoe,+Auckland+2025,+New+Zealand!3b1!8m2!3d-36.980205",
     "tags": [],
     "type": "OnlineBooking",
@@ -20154,7 +20150,7 @@
         "localEnd": "17:00:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available by appointment | Low sensory environment - available on request",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/RUqBJXWraurowcH19",
     "tags": [],
     "type": "OnlineBooking",
@@ -20602,7 +20598,7 @@
         "localEnd": "16:30:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/Long+Bay+Medical/@-36.6851005,174.7375268,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d3bdeee22bfbf:0xe7a0c873ecf339a0!8m2!3d-36.6851005!4d174.7397155",
     "tags": [],
     "type": "OnlineBooking",
@@ -20670,7 +20666,7 @@
         "localEnd": "19:00:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available by appointment | Low sensory environment - available on request",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/QDwPQPXgMtAUEa5Y7",
     "tags": [],
     "type": "OnlineBooking",
@@ -20913,6 +20909,7 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "Paid onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/GkLaYDeFBPGTRVXN6",
     "tags": [],
     "type": "OnlineBooking",
@@ -28388,6 +28385,34 @@
         ],
         "localStart": "12:00:00",
         "localEnd": "14:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "13:00:00"
       }
     ],
     "description": "Toilets available. Onsite parking.",
@@ -29370,7 +29395,7 @@
         "localEnd": "16:30:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available | Low sensory environment - available on request",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/136+Queens+Road,+Panmure,+Auckland+1072,+New+Zealand/@-36.9003452,174.8539118,17z/data=!4m13!1m7!3m6!1s0x6d0d49626e3d3517:0x63c410211f71a96a!2s136+Queens+Road,+Panmure,+Auckland+1072,+New+Zealand!3b1!8m2!3d-36.9003452!4d1",
     "tags": [],
     "type": "OnlineBooking",
@@ -36006,6 +36031,7 @@
         "localEnd": "15:15:00"
       }
     ],
+    "description": "Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/The+doctors+Quaymed+Wynyard/@-36.844569,174.7528216,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d47f379128af9:0x21075c9dea1060c3!8m2!3d-36.8445815!4d174.755007",
     "tags": [],
     "type": "OnlineBooking",
@@ -36285,6 +36311,7 @@
         "localEnd": "16:00:00"
       }
     ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://www.google.co.nz/maps/place/The+Doctors+Onehunga/@-36.9233319,174.781484,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d48ad7e41904b:0xc94805f0b58773ea!8m2!3d-36.9233319!4d174.7836727?hl=en",
     "tags": [],
     "type": "OnlineBooking",
@@ -36345,7 +36372,7 @@
         "localEnd": "16:15:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available by appointment | Low sensory environment - available on request",
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/Peninsula+Medical/@-36.854803,174.6489143,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d408b25428f3d:0x41c008cfe6a5b8b6!8m2!3d-36.854803!4d174.651103",
     "tags": [],
     "type": "OnlineBooking",
@@ -37649,21 +37676,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
           "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:45:00"
@@ -37677,7 +37697,14 @@
       },
       {
         "days": [
-          "fri"
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:45:00"
@@ -37717,14 +37744,7 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
@@ -37738,17 +37758,17 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
       },
       {
         "days": [
-          "sat"
+          "thu"
         ],
         "localStart": "11:00:00",
-        "localEnd": "20:45:00"
+        "localEnd": "19:45:00"
       },
       {
         "days": [
@@ -37763,6 +37783,13 @@
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "20:45:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | No onsite parking",
@@ -37832,21 +37859,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "sat"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -37860,14 +37880,21 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
       },
       {
         "days": [
-          "sat"
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -37900,14 +37927,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
       },
       {
         "days": [
-          "mon"
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
@@ -37921,14 +37948,14 @@
       },
       {
         "days": [
-          "fri"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
       },
       {
         "days": [
-          "thu"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
