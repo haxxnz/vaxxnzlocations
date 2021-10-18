@@ -20928,6 +20928,13 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "18:45:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "12:30:00",
@@ -20936,13 +20943,6 @@
       {
         "days": [
           "sat"
-        ],
-        "localStart": "12:30:00",
-        "localEnd": "18:45:00"
-      },
-      {
-        "days": [
-          "thu"
         ],
         "localStart": "12:30:00",
         "localEnd": "18:45:00"
