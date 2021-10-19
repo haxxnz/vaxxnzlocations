@@ -18553,13 +18553,6 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "09:15:00",
@@ -24710,15 +24703,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "3 Brian Smith Drive   Silverdale  992",
-    "distanceInMeters": 24702.39492583,
+    "displayAddress": "3 Brian Smith Drive, Silverdale 0992",
+    "distanceInMeters": 24688.58362485,
     "extId": "a0R4a000000U7jPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
     "endDate": "2021-12-23",
     "location": {
       "lng": 174.671,
-      "lat": -36.62
+      "lat": -36.6199
     },
     "name": "Weiti Creek Medical",
     "timezone": "Pacific/Auckland",
@@ -24759,8 +24752,8 @@
         "localEnd": "16:15:00"
       }
     ],
-    "description": "During COVID-19 Alert Levels 3 & 4, vaccinations will be at 3 Brian Smith Drive in the Bunnings carpark | Onsite parking | Portaloo toilets onsite.",
-    "mapUrl": "https://goo.gl/maps/6wMwEHEu4j7VnLtSA",
+    "description": "Onsite parking | Wheelchair accessible | toilets available.",
+    "mapUrl": "https://goo.gl/maps/658LkigZR4o3gRyD9",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-27",
@@ -27418,13 +27411,6 @@
     "name": "Edgecumbe Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:30:00"
-      },
       {
         "days": [
           "fri"
