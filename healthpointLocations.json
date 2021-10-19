@@ -2513,34 +2513,6 @@
     }
   },
   {
-    "lat": -36.8942404,
-    "lng": 174.93157659999997,
-    "name": "Life Pharmacy Howick Village",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "75 Picton Street, Howick, Auckland",
-    "telephone": "(09) 534 6811",
-    "faxNumber": "(09) 534 6823",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-howick-village/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": [
-        "During LEVEL 4 lockdown, we may have reduced hours."
-      ]
-    }
-  },
-  {
     "lat": -36.91531839999999,
     "lng": 174.8728314,
     "name": "",
@@ -13441,41 +13413,6 @@
     }
   },
   {
-    "lat": -36.908843,
-    "lng": 174.6837183,
-    "name": "HEALTH NEW LYNN",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Totara Health, 1 McCrae Way, New Lynn, Auckland",
-    "telephone": "(09) 827 8888",
-    "faxNumber": "(09) 827 2420",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/health-new-lynn/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
-      },
-      "notesHtml": [
-        "Health New Lynn is a COVID-19 Testing clinic, located on Level 1 of the carpark accessed from McCrae Way.",
-        "Hours are Monday to Friday 8.30am to 4.30pm, closed on all public holidays.",
-        "&nbsp;",
-        "<strong>PLEASE NOTE:&nbsp;</strong>",
-        "We are closed on public holidays.&nbsp;Please call our number for out of hours assistance. Your call will be answered by a registered nurse.",
-        "IMPORTANT NOTICE: AT ALERT LEVEL 4, HEALTH NEW LYNN IS CLOSING AT 5:30PM ON WEEKEDAYS AND <strong>CLOSED ON WEEKENDS.</strong>"
-      ]
-    }
-  },
-  {
     "lat": -37.274208618243954,
     "lng": 175.49581736326218,
     "name": "Health Ngatea",
@@ -17833,7 +17770,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"6f0a020e06032f08001d0a020a0b060c0e03410c00410115\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"76131b171f1a36111904131b13121f15171a58151958180c\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -23079,6 +23016,68 @@
         "<strong>Urgent Care Clinic: Open from 8am to 8pm every day of the year.</strong>",
         "After Hours: Open until 8pm every night of the year. Call the practice and follow instructions. After 8pm calls will be transferred to an after hours service who can direct you.",
         "Patients who need to see a doctor after 8pm should go to the 24 Hr Surgery on Madras Street."
+      ]
+    }
+  },
+  {
+    "lat": -36.908843,
+    "lng": 174.6837183,
+    "name": "HEALTH NEW LYNN",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Totara Health, 1 McCrae Way, New Lynn, Auckland",
+    "telephone": "(09) 827 8888",
+    "faxNumber": "(09) 827 2420",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/health-new-lynn/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - New Lynn."
+      },
+      "notesHtml": [
+        "Health New Lynn is a COVID-19 Testing clinic, located on Level 1 of the carpark accessed from McCrae Way.",
+        "Hours are Monday to Friday 8.30am to 4.30pm, closed on all public holidays.",
+        "&nbsp;",
+        "<strong>PLEASE NOTE:&nbsp;</strong>",
+        "We are closed on public holidays.&nbsp;Please call our number for out of hours assistance. Your call will be answered by a registered nurse.",
+        "IMPORTANT NOTICE: AT ALERT LEVEL 3, HEALTH NEW LYNN IS CLOSING AT 5:30PM ON WEEKEDAYS AND <strong>CLOSED ON WEEKENDS.</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -36.8942404,
+    "lng": 174.93157659999997,
+    "name": "Life Pharmacy Howick Village",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "75 Picton Street, Howick, Auckland",
+    "telephone": "(09) 534 6811",
+    "faxNumber": "(09) 534 6823",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-howick-village/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": [
+        "During LEVEL 4 lockdown, we may have reduced hours."
       ]
     }
   }
