@@ -24710,17 +24710,17 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "18 Hibiscus Coast Highway / Brian Smith Drive, Silverdale 0992",
-    "distanceInMeters": 24826.80291475,
+    "displayAddress": "3 Brian Smith Drive   Silverdale  992",
+    "distanceInMeters": 24702.39492583,
     "extId": "a0R4a000000U7jPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
     "endDate": "2021-12-23",
     "location": {
       "lng": 174.671,
-      "lat": -36.6211
+      "lat": -36.62
     },
-    "name": "Silverdale Bunnings Carpark (Weiti Creek Medical)",
+    "name": "Weiti Creek Medical",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -35153,6 +35153,13 @@
     "name": "Unichem Mt Smart Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "12:00:00"
+      },
       {
         "days": [
           "tue"
