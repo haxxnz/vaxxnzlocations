@@ -1755,7 +1755,7 @@
   },
   {
     "displayAddress": "261 Morrin Road, Gate 2 St Johns  Auckland  1072",
-    "distanceInMeters": 13731.84154514,
+    "distanceInMeters": 67769.0440417,
     "extId": "a0R4a000000QCsmEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-23",
@@ -9519,7 +9519,7 @@
     "extId": "a0R4a000000SIRTEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
+    "endDate": "2022-02-27",
     "location": {
       "lng": 170.499,
       "lat": -45.8968
@@ -9529,24 +9529,38 @@
     "openHours": [
       {
         "days": [
-          "sun"
+          "wed"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
-          "sat"
+          "tue"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://g.page/antidote-macandrew-dunedin?share",
@@ -35406,14 +35420,14 @@
       },
       {
         "days": [
-          "fri"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
-          "thu"
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
@@ -37381,13 +37395,6 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "10:00:00",
@@ -37395,7 +37402,14 @@
       },
       {
         "days": [
-          "wed"
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -37409,7 +37423,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
@@ -37588,27 +37602,6 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "08:00:00",
@@ -37623,10 +37616,31 @@
       },
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
           "sat"
         ],
         "localStart": "09:00:00",
         "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "18:15:00"
       },
       {
         "days": [
@@ -37663,7 +37677,7 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "fri"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:15:00"
@@ -37677,7 +37691,7 @@
       },
       {
         "days": [
-          "fri"
+          "tue"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:15:00"
@@ -37707,13 +37721,6 @@
     "name": "Herne Bay Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:45:00"
-      },
       {
         "days": [
           "thu"
@@ -37748,6 +37755,13 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
@@ -38647,6 +38661,67 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "123D Dominion Road, Mount Eden  Auckland  1024",
+    "distanceInMeters": 5531.87881853,
+    "extId": "a0R4a000000XM30EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-20",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.752,
+      "lat": -36.8724
+    },
+    "name": "Dominion Road Surgery",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Foreign language translation service available by appointment",
+    "mapUrl": "https://www.google.co.nz/maps/place/Dominion+Road+Surgery/@-36.8725956,174.7497632,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d47b7db1fd1db:0xd5c5ed156398c9b9!8m2!3d-36.8725971!4d174.7519377?hl=en&shorturl=1",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "71 High Street   Bulls  4818",
     "distanceInMeters": 28445.45227398,
     "extId": "a0R4a000000XMAEEA4",
@@ -38821,6 +38896,38 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "38 Seddon Street   Raetihi  4632",
+    "distanceInMeters": 59492.29289572,
+    "extId": "a0R4a000000XlHCEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-19",
+    "endDate": "2021-12-15",
+    "location": {
+      "lng": 175.279,
+      "lat": -39.4271
+    },
+    "name": "Ruapehu Health",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "16:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/38+Seddon+Street,+Raetihi+4632,+New+Zealand/@-39.4272137,175.2771114,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6ae82c27c2e22b:0x54825dd990173d0!8m2!3d-39.4272137!4d175.2793001",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-19",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
