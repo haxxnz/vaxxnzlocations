@@ -9579,7 +9579,7 @@
     "extId": "a0R4a000000SISlEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
+    "endDate": "2022-02-27",
     "location": {
       "lng": 170.506,
       "lat": -45.8706
@@ -9592,14 +9592,28 @@
           "fri"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:15:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:15:00"
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
       },
       {
         "days": [
@@ -9613,28 +9627,14 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:15:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:15:00"
+        "localEnd": "17:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/MmPtZ2YBptBQCmvH6",
@@ -13672,7 +13672,7 @@
     "extId": "a0R4a000000SXZ9EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
+    "endDate": "2022-02-27",
     "location": {
       "lng": 170.519,
       "lat": -45.855
@@ -13682,38 +13682,52 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:45:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:45:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "sun"
         ],
         "localStart": "10:15:00",
-        "localEnd": "14:45:00"
+        "localEnd": "15:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:45:00"
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:15:00",
+        "localEnd": "15:00:00"
       }
     ],
     "mapUrl": "https://g.page/antidote-gardens?share",
@@ -13792,7 +13806,7 @@
     "extId": "a0R4a000000SXgUEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
+    "endDate": "2022-02-27",
     "location": {
       "lng": 170.49,
       "lat": -45.8673
@@ -32399,21 +32413,14 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
+        "localStart": "12:00:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
+        "localStart": "12:00:00",
         "localEnd": "16:45:00"
       },
       {
@@ -32421,21 +32428,7 @@
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:00:00"
+        "localEnd": "14:00:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment",
@@ -33922,7 +33915,7 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:30:00"
+        "localEnd": "15:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/The+Doctors+Tikipunga/@-35.6836166,174.3230317,20.5z/data=!4m5!3m4!1s0x0:0xccf2ca803190fbe1!8m2!3d-35.6835328!4d174.3230339",
