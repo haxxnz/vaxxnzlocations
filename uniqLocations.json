@@ -12984,7 +12984,7 @@
   },
   {
     "displayAddress": "463 Great South Road, Otahuhu, Auckland 1062",
-    "distanceInMeters": 12568.47517405,
+    "distanceInMeters": 36039.32730419,
     "extId": "a0R4a000000SWtSEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -38971,6 +38971,53 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/38+Seddon+Street,+Raetihi+4632,+New+Zealand/@-39.4272137,175.2771114,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6ae82c27c2e22b:0x54825dd990173d0!8m2!3d-39.4272137!4d175.2793001",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-19",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "48 The Drive, Epsom, Auckland 1023",
+    "distanceInMeters": 4865.55419648,
+    "extId": "a0R4a000000XmmQEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-21",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.771,
+      "lat": -36.8914
+    },
+    "name": "Dr Nicholas Cooper Surgery VC",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "17:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "17:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "description": "Free off-site parking | toilets available | Low sensory environment - noise only - available on request",
+    "mapUrl": "https://www.google.co.nz/maps/place/Dr+Nicholas+Cooper/@-36.8914704,174.7687623,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d46285f45655f:0xc6bc22278e5ec2ed!8m2!3d-36.8914747!4d174.770951?hl=en&shorturl=1",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-19",
