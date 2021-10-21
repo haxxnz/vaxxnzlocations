@@ -3922,7 +3922,7 @@
         "days": [
           "sat"
         ],
-        "localStart": "09:00:00",
+        "localStart": "10:00:00",
         "localEnd": "16:00:00"
       },
       {
@@ -3930,41 +3930,41 @@
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:30:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:30:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:30:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:30:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:00:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "sun"
         ],
-        "localStart": "09:00:00",
+        "localStart": "10:00:00",
         "localEnd": "16:00:00"
       }
     ],
@@ -6111,7 +6111,7 @@
     "extId": "a0R4a000000Qa3eEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
-    "endDate": "2021-10-31",
+    "endDate": "2021-11-20",
     "location": {
       "lng": 175.612,
       "lat": -40.3582
@@ -17032,35 +17032,35 @@
           "sun"
         ],
         "localStart": "11:00:00",
-        "localEnd": "20:45:00"
+        "localEnd": "17:45:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "11:00:00",
-        "localEnd": "20:45:00"
+        "localEnd": "17:45:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "11:00:00",
-        "localEnd": "20:45:00"
+        "localEnd": "17:45:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "11:00:00",
-        "localEnd": "20:45:00"
+        "localEnd": "17:45:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "11:00:00",
-        "localEnd": "20:45:00"
+        "localEnd": "17:45:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | No toilets onsite.",
@@ -33353,30 +33353,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "The Atrium, Wintec, Wintec House, Tristram Street Whitiora  Hamilton  3200",
-    "distanceInMeters": 71764.19506783,
-    "extId": "a0R4a000000VZqyEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-22",
-    "endDate": "2021-10-20",
-    "location": {
-      "lng": 175.28,
-      "lat": -37.7877
-    },
-    "name": "Wintec, Waikato Institute of Technology City Campus",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/QcoHhpKcS6Z4ac8a7",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-16",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
     "distanceInMeters": 0.2955438,
     "extId": "a0R4a000000Vc9WEAS",
@@ -37191,17 +37167,17 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "sun"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "16:15:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
@@ -37327,7 +37303,7 @@
       },
       {
         "days": [
-          "thu"
+          "sun"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -37348,7 +37324,7 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
