@@ -5041,17 +5041,17 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "135 Bowmont Street   Invercargill  9812",
-    "distanceInMeters": 56983.10540068,
+    "displayAddress": "92 Spey Street   Invercargill  9812",
+    "distanceInMeters": 56747.49177609,
     "extId": "a0R4a000000QVhlEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
     "endDate": "2021-12-19",
     "location": {
-      "lng": 168.358,
-      "lat": -46.4212
+      "lng": 168.349,
+      "lat": -46.4094
     },
-    "name": "Māori/Pacific Clinic - He Puna Waiora - PIACT",
+    "name": "Māori/Pacific Clinic - He Puna Waiora",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -5076,7 +5076,7 @@
         "localEnd": "15:00:00"
       }
     ],
-    "mapUrl": "https://www.google.com/maps/place/135+Bowmont+Street,+Appleby,+Invercargill+9812/@-46.4213994,168.3552328,17z/data=!4m13!1m7!3m6!1s0xa9d2c48b0bb6d1f9:0x56f0adc4a905d882!2s135+Bowmont+Street,+Appleby,+Invercargill+9812!3b1!8m2!3d-46.4213994!4d168.3574215!3",
+    "mapUrl": "https://www.google.com/maps/place/Spey+Street,+Invercargill+9810/@-46.4095427,168.3460779,17z/data=!4m13!1m7!3m6!1s0xa9d2c49bdee86be9:0x328bb751b547ccfc!2s92+Spey+Street,+Invercargill+9810!3b1!8m2!3d-46.4095427!4d168.3482666!3m4!1s0xa9d2c49be01b0845:0x7bc",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-06-17",
@@ -5514,15 +5514,8 @@
         "days": [
           "fri"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/1BTzh8xiBtQwkrgT7",
@@ -11629,6 +11622,38 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-26",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "13 Johnston Street   Nightcaps  9630",
+    "distanceInMeters": 71629.93081092,
+    "extId": "a0R4a000000SPAoEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-01",
+    "endDate": "2021-11-27",
+    "location": {
+      "lng": 168.032,
+      "lat": -45.9702
+    },
+    "name": "Nightcaps Town Hall",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "14:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/ydEAgyZUUoVKoNVcA",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-20",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -23680,52 +23705,45 @@
     "openHours": [
       {
         "days": [
-          "sun"
+          "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:15:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "13:30:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
@@ -31171,7 +31189,7 @@
   },
   {
     "displayAddress": "Opotiki Community Health Centre, 32 King Street   Opotiki  3122",
-    "distanceInMeters": 26230.9251957,
+    "distanceInMeters": 25642.71912104,
     "extId": "a0R4a000000VHVdEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -33259,7 +33277,7 @@
   },
   {
     "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
-    "distanceInMeters": 6195.02119109,
+    "distanceInMeters": 5678.14633152,
     "extId": "a0R4a000000Vc9WEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -34036,13 +34054,6 @@
     "name": "Avondale Health Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
       {
         "days": [
           "fri"
