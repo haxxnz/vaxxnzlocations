@@ -13408,38 +13408,6 @@
     }
   },
   {
-    "lat": -41.2859792,
-    "lng": 174.76684479999994,
-    "name": "Kelburn Northland Medical",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "1 Upland Road, Kelburn, Wellington",
-    "telephone": "(04) 939 9551",
-    "faxNumber": "(04) 939 9554",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kelburn-northland-medical/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:00 AM – 6:00 PM",
-        "Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
-        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
-      },
-      "notesHtml": [
-        "Our phones are operated between 8am and 5:30pm Monday - Thursday and 8am - 5pm on Fridays.&nbsp;",
-        "&nbsp;",
-        "After 11:00 PM refer to Wellington Hospital ED."
-      ]
-    }
-  },
-  {
     "lat": -36.90562870000001,
     "lng": 174.6635986,
     "name": "Kelston Medical Centre",
@@ -17012,7 +16980,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"cfaaa2aea6a38fa8a0bdaaa2aaaba6acaea3e1aca0e1a1b5\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"2d48404c44416d4a425f48404849444e4c41034e42034357\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -21785,34 +21753,6 @@
     }
   },
   {
-    "lat": -41.16983219999999,
-    "lng": 174.82458129999998,
-    "name": "Unichem Simon's Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through",
-      "Walk in"
-    ],
-    "address": "189 Main Road, Tawa, Wellington",
-    "telephone": "(04) 232 8314",
-    "faxNumber": "(04) 232 8334",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-simons-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.5481628,
     "lng": 172.6220469,
     "name": "Selwyn Village Pharmacy",
@@ -23140,6 +23080,67 @@
         "This clinic is not open everyday.",
         "To see a list of dates and times of when this, and other clinics are open please, follow the link below and click on the \"whats on where\" image",
         "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
+      ]
+    }
+  },
+  {
+    "lat": -41.16983219999999,
+    "lng": 174.82458129999998,
+    "name": "Unichem Simon's Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through",
+      "Walk in"
+    ],
+    "address": "189 Main Road, Tawa, Wellington",
+    "telephone": "(04) 232 8314",
+    "faxNumber": "(04) 232 8334",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-simons-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.2859792,
+    "lng": 174.76684479999994,
+    "name": "Kelburn Northland Medical",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "1 Upland Road, Kelburn, Wellington",
+    "telephone": "(04) 939 9551",
+    "faxNumber": "(04) 939 9554",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kelburn-northland-medical/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:00 AM – 6:00 PM",
+        "Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (25 Oct), Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun).",
+        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
+      },
+      "notesHtml": [
+        "Our phones are operated between 8am and 5:30pm Monday - Thursday and 8am - 5pm on Fridays.&nbsp;",
+        "&nbsp;",
+        "After 11:00 PM refer to Wellington Hospital ED."
       ]
     }
   }
