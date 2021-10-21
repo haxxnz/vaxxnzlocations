@@ -630,7 +630,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"4c29212d25200c2b233e29212928252f2d20622f23622236\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"9ffaf2fef6f3dff8f0edfaf2fafbf6fcfef3b1fcf0b1f1e5\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -1282,29 +1282,6 @@
         "If you need to attend the Urgent Doctors Centre,&nbsp;please ask for a&nbsp;copy of the medical notes from your visit to be sent to us at the Kelston Medical Centre.",
         "For after hours telephone advice on health care, you can also ring the national Health Line on 0800 611 116 for a free telephone call to a registered nurse."
       ]
-    }
-  },
-  {
-    "lat": -39.5840857,
-    "lng": 174.2743421,
-    "name": "Hāwera Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Camberwell Road, Hāwera, Taranaki 4610",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hawera-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
     }
   },
   {
@@ -17378,32 +17355,6 @@
     }
   },
   {
-    "lat": -39.06019810000001,
-    "lng": 174.0699326,
-    "name": "New Plymouth Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "109 Powderham Street, (ground floor of the Baker Tilly Staples Rodway building), New Plymouth, Taranaki 4310",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/new-plymouth-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 5:00 PM",
-        "Thu": "12:00 PM – 8:00 PM",
-        "Fri – Sat": "9:00 AM – 5:00 PM",
-        "Sun": "12:00 PM – 8:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -45.53865399999999,
     "lng": 169.31083490000003,
     "name": "Roxburgh Medical Centre",
@@ -23208,6 +23159,55 @@
       "exceptions": {
         "Public Holidays": "Closed Labour Day (25 Oct), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), Southland Anniversary (19 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun)."
       },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.06019810000001,
+    "lng": 174.0699326,
+    "name": "New Plymouth Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "109 Powderham Street, (ground floor of the Baker Tilly Staples Rodway building), New Plymouth, Taranaki 4310",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/new-plymouth-vaccination-centre-109-powderham/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 5:00 PM",
+        "Thu": "12:00 PM – 8:00 PM",
+        "Fri – Sat": "9:00 AM – 5:00 PM",
+        "Sun": "12:00 PM – 8:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.5840857,
+    "lng": 174.2743421,
+    "name": "Hāwera Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Camberwell Road, Hāwera, Taranaki 4610",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/hawera-vaccination-centre-tsb-hub-camberwell/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
       "notesHtml": []
     }
   }
