@@ -4725,7 +4725,7 @@
     "extId": "a0R4a000000QVX5EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
-    "endDate": "2022-02-28",
+    "endDate": "2022-01-30",
     "location": {
       "lng": 168.937,
       "lat": -46.1043
@@ -7934,13 +7934,6 @@
       },
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "10:00:00",
@@ -8652,7 +8645,7 @@
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "20:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -8666,28 +8659,28 @@
           "fri"
         ],
         "localStart": "09:30:00",
-        "localEnd": "20:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "20:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "20:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:30:00",
-        "localEnd": "21:00:00"
+        "localEnd": "17:00:00"
       }
     ],
     "description": "Convenient parking, wheelchair access & mobility scooter access, Hindi, Korean, Afrikaans & Russian speaking staff",
@@ -9717,13 +9710,13 @@
           "tue"
         ],
         "localStart": "08:00:00",
-        "localEnd": "21:00:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "08:00:00",
+        "localStart": "14:00:00",
         "localEnd": "21:00:00"
       }
     ],
@@ -12745,15 +12738,15 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Unless specified, all clinics at  104a Wadestown Rd Wadestown  Wellington  6012  Pls Txt 0273801236 if can't attend.",
-    "distanceInMeters": 4973.4385356,
+    "displayAddress": "104a Wadestown Rd Wadestown  Wellington  6012",
+    "distanceInMeters": 4887.96552754,
     "extId": "a0R4a000000SUl3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-30",
     "endDate": "2021-11-20",
     "location": {
       "lng": 174.774,
-      "lat": -41.2618
+      "lat": -41.2609
     },
     "name": "Wadestown Medical Vaccinations",
     "timezone": "Pacific/Auckland",
@@ -18347,7 +18340,7 @@
     "extId": "a0R4a000000TH2GEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
-    "endDate": "2021-11-05",
+    "endDate": "2021-11-12",
     "location": {
       "lng": 175.279,
       "lat": -37.782
@@ -31189,7 +31182,7 @@
   },
   {
     "displayAddress": "Opotiki Community Health Centre, 32 King Street   Opotiki  3122",
-    "distanceInMeters": 26230.9251957,
+    "distanceInMeters": 25642.71912104,
     "extId": "a0R4a000000VHVdEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -33277,7 +33270,7 @@
   },
   {
     "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
-    "distanceInMeters": 6195.02119109,
+    "distanceInMeters": 5678.14633152,
     "extId": "a0R4a000000Vc9WEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -38702,30 +38695,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-14",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "6 Robinson Street, Cheviot 7310",
-    "distanceInMeters": 58581.87564343,
-    "extId": "a0R4a000000XMqyEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-16",
-    "endDate": "2021-11-10",
-    "location": {
-      "lng": 173.28,
-      "lat": -42.8128
-    },
-    "name": "Cheviot Community Health Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/tWkruZocb2a7Nj1p7",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-10-13",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
