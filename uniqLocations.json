@@ -7403,20 +7403,6 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "11:00:00",
@@ -25526,7 +25512,64 @@
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/283+Devon+Street+West,+New+Plymouth+4310,+New+Zealand/@-39.0612634,174.0626598,17z/data=!4m5!3m4!1s0x6d144e5ec6fb2ff1:0x224fe6a9e0165ca6!8m2!3d-39.0614776!4d174.0628039",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
     "locationPool": "default",
@@ -25708,7 +25751,43 @@
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/173+Courtenay+Street,+New+Plymouth+4310,+New+Zealand/@-39.0562285,174.0803121,17z/data=!3m1!4b1!4m5!3m4!1s0x6d144e3778b1a53b:0x3293fc8b3eef1d4!8m2!3d-39.0562285!4d174.0825008",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
     "locationPool": "default",
@@ -25814,7 +25893,64 @@
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/130+High+Street,+Eltham+4322,+New+Zealand/@-39.4315066,174.2974923,16.72z/data=!4m5!3m4!1s0x6d150a27a4a0e44d:0xd51e7316b54841a8!8m2!3d-39.4314444!4d174.2996869",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
     "locationPool": "default",
@@ -26126,7 +26262,36 @@
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/Stratford+Pharmacy/@-39.3390107,174.2821127,17z/data=!3m1!4b1!4m5!3m4!1s0x6d1507e4490c3843:0x9366b9696f4c39df!8m2!3d-39.3389843!4d174.2843546",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
     "locationPool": "default",
@@ -26158,7 +26323,43 @@
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/Vivian+Pharmacy/@-39.0617877,174.0657748,17z/data=!3m1!4b1!4m5!3m4!1s0x6d144e5c96b947a9:0x3d3f66a083dfbb90!8m2!3d-39.0617919!4d174.0679635",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
     "locationPool": "default",
@@ -37390,6 +37591,30 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "25 Maori Point Road   Whatawhata  3285",
+    "distanceInMeters": 12873.79202796,
+    "extId": "a0R4a000000WiXOEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-05",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 175.147,
+      "lat": -37.7984
+    },
+    "name": "Omaero Marae, Whatawhata",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.co.nz/maps/place/25+Maori+Point+Road,+Whatawhata+3285,+New+Zealand/@-37.7986958,175.1448522,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6d267e0e6ab76f:0x1e695bf51f4cc2ea!8m2!3d-37.7986958!4d175.1470409",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-05",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "1 Museum Street Pipitea  Wellington  6160",
     "distanceInMeters": 6480.05334831,
     "extId": "a0R4a000000WmwMEAS",
@@ -38296,45 +38521,10 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
+        "localStart": "15:00:00",
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Waikanae+Health+Urgent+Care+Unit/@-40.876528,175.0611137,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a3a6d512aab9:0xc3c471e4a625da04!8m2!3d-40.876528!4d175.0633024",
