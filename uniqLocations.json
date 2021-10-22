@@ -3507,7 +3507,7 @@
           "sat"
         ],
         "localStart": "08:30:00",
-        "localEnd": "15:30:00"
+        "localEnd": "16:00:00"
       }
     ],
     "description": "The site is located at 6/29 Totara Street, Taupo,  directly across the road from the Taupo Hospice Shop in the Totara Point Shopping Centre, Taupo",
@@ -36701,21 +36701,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
@@ -36729,7 +36715,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
