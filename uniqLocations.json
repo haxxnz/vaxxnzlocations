@@ -5753,7 +5753,7 @@
     "extId": "a0R4a000000QZMNEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
-    "endDate": "2021-12-05",
+    "endDate": "2021-12-16",
     "location": {
       "lng": 170.97,
       "lat": -45.0977
@@ -24819,39 +24819,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "26 A C Baths Avenue   Tauhara, Taupō  3330",
-    "distanceInMeters": 68089.45885248,
-    "extId": "a0R4a000000UCMhEAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-26",
-    "endDate": "2021-11-30",
-    "location": {
-      "lng": 176.094,
-      "lat": -38.6771
-    },
-    "name": "Taupo Events Centre (Drive-through)",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "description": "Next event Tuesday 19 October",
-    "mapUrl": "https://www.google.com/maps/place/Taupo+Events+Centre/@-38.6777986,176.0936695,15z/data=!4m12!1m6!3m5!1s0x0:0xefa46e4544d8eab!2sTaupo+Events+Centre!8m2!3d-38.6778028!4d176.0936594!3m4!1s0x0:0xefa46e4544d8eab!8m2!3d-38.6778028!4d176.0936594",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "215 Queen Street  Richmond 7020",
     "distanceInMeters": 5382.96610138,
     "extId": "a0R4a000000UCVtEAO",
@@ -27401,81 +27368,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Shop 20B Lynnmall Shopping Centre, 3058 Great North Road   Auckland  612\r\n(Access via Memorial Drive, between Jamie’s Café and Top Dollar)",
-    "distanceInMeters": 38162.33390146,
-    "extId": "a0R4a000000UaiIEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-01",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.686,
-      "lat": -36.9076
-    },
-    "name": "Unichem Lynnmall Vaccination Centre (from Helloworld Travel Shop)",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      }
-    ],
-    "description": "Free mall parking | Wheelchair accessible | Accessible toilets onsite in mall.",
-    "mapUrl": "https://goo.gl/maps/7EfD9ZsDsFaUGjhR8",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-02",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "26 College Road   Edgecumbe  3120",
     "distanceInMeters": 55113.04345142,
     "extId": "a0R4a000000UaqYEAS",
@@ -29248,7 +29140,7 @@
           "wed"
         ],
         "localStart": "09:15:00",
-        "localEnd": "18:30:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
@@ -31257,52 +31149,52 @@
     "openHours": [
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "08:15:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "08:15:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "08:15:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
-          "thu"
+          "sun"
         ],
-        "localStart": "08:15:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "08:15:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "08:15:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "08:15:00",
-        "localEnd": "19:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "18:45:00"
       }
     ],
     "description": "Back Entrance: 72 Cavendish Drive, Manukau, 2104\r\n\r\nNo toilets onsite | Wheelchair accessible | Free onsite parking.",
