@@ -28174,14 +28174,14 @@
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "12:30:00"
+        "localEnd": "12:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "12:30:00"
+        "localEnd": "12:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/232+Gladstone+Road,+Gisborne+4010/@-38.6644301,178.0226586,20.33z/data=!4m12!1m6!3m5!1s0x6d66783b3dba61bd:0xe6117ad00fe4a72c!2sBramwells+Unichem+Pharmacy!8m2!3d-38.6642882!4d178.0228023!3m4!1s0x6d66783b3dba61bd:0x644afb12",
@@ -32604,7 +32604,22 @@
     },
     "name": "Donovan Street Medical Centre",
     "timezone": "Pacific/Auckland",
-    "openHours": [],
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      }
+    ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets",
     "mapUrl": "https://www.google.co.nz/maps/place/Donovan+Street+Medical+Centre/@-36.9224161,174.6995895,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d441d641e37ef:0xef322fb7cd847879!8m2!3d-36.9224204!4d174.7017782?hl=en&shorturl=1",
     "tags": [],
@@ -37599,30 +37614,37 @@
       },
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "fri"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:30:00",
         "localEnd": "16:15:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "10:30:00",
+        "localStart": "09:30:00",
         "localEnd": "16:15:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "10:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:30:00",
+        "localStart": "09:30:00",
         "localEnd": "16:15:00"
       }
     ],
