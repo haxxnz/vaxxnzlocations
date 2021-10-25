@@ -9801,6 +9801,13 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:30:00",
@@ -28257,6 +28264,45 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "232 Gladstone Road   Gisborne  4010",
+    "distanceInMeters": 66482.64872965,
+    "extId": "a0R4a000000Uf5gEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-22",
+    "endDate": "2021-11-30",
+    "location": {
+      "lng": 178.023,
+      "lat": -38.6643
+    },
+    "name": "Unichem Bramwells Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/232+Gladstone+Road,+Gisborne+4010/@-38.6644301,178.0226586,20.33z/data=!4m12!1m6!3m5!1s0x6d66783b3dba61bd:0xe6117ad00fe4a72c!2sBramwells+Unichem+Pharmacy!8m2!3d-38.6642882!4d178.0228023!3m4!1s0x6d66783b3dba61bd:0x644afb12",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-02",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Shop 11, 217 Great South Road Papatoetoe  Auckland  2025",
     "distanceInMeters": 8026.56901096,
     "extId": "a0R4a000000UfYdEAK",
@@ -36677,21 +36723,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
@@ -36705,7 +36737,21 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
@@ -39359,6 +39405,67 @@
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://goo.gl/maps/f8hjFUx88JWLtaHX6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "6/8 Pioneer Street Henderson  Auckland  612",
+    "distanceInMeters": 53663.97489738,
+    "extId": "a0R4a000000XujgEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-22",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.633,
+      "lat": -36.882
+    },
+    "name": "Unichem Waiora Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      }
+    ],
+    "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
+    "mapUrl": "https://www.google.com/maps/place/Unichem+Waiora/@-36.8822053,174.6305375,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d41b14a2dfdab:0xedd9080142838f3e!8m2!3d-36.8822053!4d174.6327262",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-22",
