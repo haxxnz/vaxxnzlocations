@@ -5633,7 +5633,7 @@
     "extId": "a0R4a000000QZHzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
-    "endDate": "2021-12-05",
+    "endDate": "2022-02-27",
     "location": {
       "lng": 170.98,
       "lat": -45.08
@@ -29957,6 +29957,45 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "161 Queen Street   Waimate  7924",
+    "distanceInMeters": 38472.26663493,
+    "extId": "a0R4a000000V2eoEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-21",
+    "endDate": "2021-12-20",
+    "location": {
+      "lng": 171.042,
+      "lat": -44.7373
+    },
+    "name": "Oak House Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "15:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Oak+House+Medical+Centre/@-44.7374062,171.0397521,17z/data=!3m1!4b1!4m5!3m4!1s0xa829e4194e8acf5b:0xc58c6074d639e73f!8m2!3d-44.7374062!4d171.0419408",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-08",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "350 South Road Caversham  Dunedin  9012",
     "distanceInMeters": 1593.63892682,
     "extId": "a0R4a000000V2y5EAC",
@@ -36697,21 +36736,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
@@ -36725,7 +36750,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
@@ -38763,6 +38802,67 @@
     ],
     "description": "Drive Through",
     "mapUrl": "https://www.google.co.nz/maps/place/Auckland+Family+Medical+Centre/@-36.8728374,174.7794618,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d487a892d8a7f:0x7a454c2c7fff181!8m2!3d-36.8728374!4d174.7816505?hl=en",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "57 Clevedon Road Papakura  Auckland  2110",
+    "distanceInMeters": 16317.98527997,
+    "extId": "a0R4a000000XKj1EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-26",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.953,
+      "lat": -37.0585
+    },
+    "name": "Papakura East Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:45:00"
+      }
+    ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
+    "mapUrl": "https://www.google.co.nz/maps/place/Papakura+East+Medical+Centre/@-37.0588089,174.9513427,17z/data=!3m1!4b1!4m5!3m4!1s0x6d72adce34668c89:0xac5340668a7ec2f4!8m2!3d-37.0587491!4d174.9534681?hl=en",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-13",
