@@ -25109,7 +25109,7 @@
         "localEnd": "12:00:00"
       }
     ],
-    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "description": "**Saturday & Sunday, 30 - 31 October, walk-ins welcomed.**\r\n\r\n Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
     "mapUrl": "https://goo.gl/maps/NGGxHixQQEEk9Nd2A",
     "tags": [],
     "type": "OnlineBooking",
@@ -36870,35 +36870,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
@@ -36912,10 +36884,38 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages (Cantonese, Mandarin)",
@@ -40350,6 +40350,38 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "129 Pembroke Street Hamilton Lake  Hamilton  3204",
+    "distanceInMeters": 1759.15458827,
+    "extId": "a0R4a000000YG3BEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-06",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 175.281,
+      "lat": -37.8024
+    },
+    "name": "Clarence Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "12:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/6Tg7sxHsg2obztC39",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-27",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
