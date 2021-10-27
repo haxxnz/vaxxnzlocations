@@ -39702,6 +39702,53 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "111 Saint George Street Papatoetoe  Auckland  2025",
+    "distanceInMeters": 24794.7541907,
+    "extId": "a0R4a000000Y05cEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-26",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.856,
+      "lat": -36.9796
+    },
+    "name": "Papatoetoe Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment",
+    "mapUrl": "https://www.google.co.nz/maps/place/Papatoetoe+Medical+Centre/@-36.9797086,174.8534855,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4ffa34896add:0xda452ed957ec3888!8m2!3d-36.9796304!4d174.8556631?hl=en&shorturl=1",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "32 Dennis Avenue Manurewa  Auckland  2102",
     "distanceInMeters": 20663.65881813,
     "extId": "a0R4a000000Y0G7EAK",
@@ -39753,6 +39800,74 @@
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory environment - available on request",
     "mapUrl": "https://www.google.co.nz/maps/place/Hillpark+Family+Medical+Centre/@-37.0138154,174.9004934,20.12z/data=!4m5!3m4!1s0x6d0d4d7f07556975:0x853443482668aaa7!8m2!3d-37.0136616!4d174.9005465?hl=en",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "177 Pakuranga Road Pakuranga  Auckland  2010",
+    "distanceInMeters": 32143.22583263,
+    "extId": "a0R4a000000Y0YaEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-28",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.875,
+      "lat": -36.9111
+    },
+    "name": "DW Family Doctors",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      }
+    ],
+    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
+    "mapUrl": "https://goo.gl/maps/GiSmnPbYW8MKefur9",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-22",
