@@ -18695,31 +18695,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Shop 1-5, 81 Paramount Parade Tikipunga  Whangarei  0112",
-    "distanceInMeters": 5735.86747072,
-    "extId": "a0R4a000000THjAEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.322,
-      "lat": -35.6831
-    },
-    "name": "Unichem Buchanans Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Contact pharmacy on 09 435 3323 for other day appointments\r\nYes – wheelchair accessible, Wheelchair ramp access, \r\nForeign language translation service provided- By appointment only \r\nSign language translator on site- By appointment only \r\nOn-site parking  ",
-    "mapUrl": "https://www.google.co.nz/maps/place/Unichem+Buchanans+Pharmacy/@-35.6835145,174.3123841,15z/data=!4m9!1m2!2m1!1sUnichem+Buchanans+Pharmacy!3m5!1s0x6d0b79254fdd5427:0xc5248e604d8ffc03!8m2!3d-35.683541!4d174.3211389!15sChpVbmljaGVtIEJ1Y2hhbmFucyBQaGFybWFjeS",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-10",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "62 Liverpool Street   Levin  5510",
     "distanceInMeters": 61658.14350107,
     "extId": "a0R4a000000TKtxEAG",
@@ -38783,6 +38758,73 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-13",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "187 Main Road Tawa  Wellington  5249",
+    "distanceInMeters": 15907.60225465,
+    "extId": "a0R4a000000WuvsEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-27",
+    "endDate": "2021-12-15",
+    "location": {
+      "lng": 174.825,
+      "lat": -41.1698
+    },
+    "name": "Unichem Simon's Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Unichem+Drummonds+Pharmacy/@-41.1696831,174.8242807,20.12z/data=!4m5!3m4!1s0x6d38acd21d5db197:0xe8f4dd4f9eb49da3!8m2!3d-41.1697831!4d174.8247484",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-07",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
