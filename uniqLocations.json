@@ -5694,7 +5694,7 @@
           "tue"
         ],
         "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localEnd": "17:45:00"
       },
       {
         "days": [
@@ -37138,7 +37138,29 @@
     ],
     "description": "Onsite parking | Wheelchair accessible | toilets available.",
     "mapUrl": "https://goo.gl/maps/658LkigZR4o3gRyD9",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-27",
     "locationPool": "default",
@@ -50994,7 +51016,7 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "12:45:00"
+        "localEnd": "14:45:00"
       },
       {
         "days": [
@@ -53667,7 +53689,7 @@
     "extId": "a0R4a000000WdrXEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-09",
-    "endDate": "2021-11-06",
+    "endDate": "2021-11-20",
     "location": {
       "lng": 172.654,
       "lat": -43.559
