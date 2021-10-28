@@ -7314,7 +7314,7 @@
     "extId": "a0R4a000000QVV4EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
+    "endDate": "2021-12-25",
     "location": {
       "lng": 169.395,
       "lat": -45.2531
@@ -24699,7 +24699,57 @@
     },
     "name": "Christchurch Arena Drive Through Site",
     "timezone": "Pacific/Auckland",
-    "openHours": [],
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "19:00:00"
+      }
+    ],
     "description": "**Please use the Wrights Road entrance to the stadium car park. You will be directed where to go upon entry.**\r\n\r\n\r\n*Please note this is a drive in clinic. For your and our safety, pedestrians will not be permitted.*\r\n\r\n\r\nPeople being vaccinated must be seated next to a window and their full arm/shoulder must be accessible through the window.\r\nYou’ll be asked to queue. You’ll need to park and wait for twenty minutes following your vaccination. Please allow at least 1 hour for the entire process. Bring a book, your knitting and/or your phone charger. \r\n\r\n**You are welcome to bring along any friends and whānau to be vaccinated, you do not need to have a booking to be vaccinated at this site.**",
     "mapUrl": "https://goo.gl/maps/x6KqifajiWdpHJT79",
     "tags": [
