@@ -2601,7 +2601,29 @@
     ],
     "description": "Situated at 30 Constable Road, Waiuku | Accessible and onsite parking available | Accessible toilets | If you have any issues with booking, you are welcome in the first instance to email our staff for assistance | Email to covidvax@waiukumedical.co.nz",
     "mapUrl": "https://goo.gl/maps/HftjBJKXYfCVFPaZ9",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-07-28",
     "locationPool": "default",
@@ -3583,7 +3605,15 @@
     ],
     "description": "Low sensory environment - Available on request - lighting and noise.",
     "mapUrl": "https://goo.gl/maps/tSc9BDFeNDrYtyp59",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-06-10",
     "locationPool": "default",
@@ -4031,7 +4061,36 @@
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/qTfo3ht6RwXVgLCZ6",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-06-10",
     "locationPool": "default",
@@ -19726,7 +19785,29 @@
     ],
     "description": "Street parking available | Wheelchair accessible | Accessible toilets | Language interpreter service available | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/Lifeline+Medical+Centre+Otahuhu/@-36.9459496,174.8402269,16z/data=!4m5!3m4!1s0x6d0d4f9dc3d7c8f1:0xfebc48273db8ba3c!8m2!3d-36.9458424!4d174.8446043",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-18",
     "locationPool": "default",
@@ -29483,7 +29564,7 @@
         "localEnd": "14:15:00"
       }
     ],
-    "description": "**Tue - Fri 9AM – 12PM, 1PM - 3PM, walk-ins welcomed**\r\n\r\nToilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "description": "**Tue - Fri 9AM – 12PM, 1PM - 2:30PM, walk-ins welcomed**\r\n\r\nToilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
     "mapUrl": "https://goo.gl/maps/fYV44DaoPdSwaS5f7",
     "tags": [
       {
@@ -36790,17 +36871,17 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "10:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:45:00"
       }
     ],
     "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Offsite parking.",
@@ -42599,28 +42680,28 @@
           "thu"
         ],
         "localStart": "12:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "12:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "12:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "12:00:00",
-        "localEnd": "13:00:00"
+        "localEnd": "14:00:00"
       }
     ],
     "description": "Toilets available. Onsite parking.",
@@ -43272,7 +43353,7 @@
     "extId": "a0R4a000000UltPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
-    "endDate": "2021-11-26",
+    "endDate": "2021-12-22",
     "location": {
       "lng": 175.211,
       "lat": -38.1835
@@ -46004,6 +46085,30 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "10 Endeavour Street Marfell  New Plymouth  4310",
+    "distanceInMeters": 60444.21473368,
+    "extId": "a0R4a000000V8DNEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-15",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 174.045,
+      "lat": -39.0756
+    },
+    "name": "Tui Ora, Marfell Community School Hall",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/Gz7nXrnwRnchwKvP6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-09",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "11 West Street   Pukekohe  2120",
     "distanceInMeters": 73981.49001231,
     "extId": "a0R4a000000V8bDEAS",
@@ -46577,7 +46682,36 @@
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/12B+Picton+Street,+Howick,+Auckland+2014/@-36.8923765,174.9299573,20.44z/data=!4m5!3m4!1s0x6d0d4b2883bb2087:0x7ca9b1e51e21a0b5!8m2!3d-36.89235!4d174.9299036",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-10",
     "locationPool": "default",
@@ -52132,24 +52266,45 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       }
     ],
     "description": "Accessible toilets | Wheelchair accessible | Free Onsite parking",
@@ -54465,7 +54620,7 @@
         "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:15:00",
         "localEnd": "12:30:00"
       },
       {
