@@ -2995,7 +2995,7 @@
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "15:45:00"
+        "localEnd": "15:30:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
@@ -12125,7 +12125,7 @@
     "distanceInMeters": 42926.49445322,
     "extId": "a0R4a000000SPVuEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-12-01",
+    "startDate": "2021-11-26",
     "endDate": "2022-02-27",
     "location": {
       "lng": 169.136,
@@ -12133,7 +12133,22 @@
     },
     "name": "Aspiring Medical Centre - Wanaka Lakes Health Centre",
     "timezone": "Pacific/Auckland",
-    "openHours": [],
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "17:30:00",
+        "localEnd": "20:30:00"
+      }
+    ],
     "mapUrl": "https://goo.gl/maps/DBVPpnEpVQUhcWWdA",
     "tags": [],
     "type": "OnlineBooking",
@@ -38911,7 +38926,7 @@
         "days": [
           "wed"
         ],
-        "localStart": "09:30:00",
+        "localStart": "13:30:00",
         "localEnd": "17:00:00"
       },
       {
@@ -38925,7 +38940,7 @@
         "days": [
           "mon"
         ],
-        "localStart": "09:30:00",
+        "localStart": "13:30:00",
         "localEnd": "17:00:00"
       },
       {
@@ -40616,6 +40631,67 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "183 Pembroke Street   Hamilton  3204",
+    "distanceInMeters": 1870.23849822,
+    "extId": "a0R4a000000YBG1EAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-01",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 175.283,
+      "lat": -37.8044
+    },
+    "name": "Pharmacy On Meade",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "Waikato Hospital, Meade Clinical Centre, Level 1",
+    "mapUrl": "https://www.google.com/maps/place/Waikato+District+Health+Board/@-37.8044962,175.2819958,17.65z/data=!4m5!3m4!1s0x6d6d1f52168b6939:0xa7f5607e558d9728!8m2!3d-37.8044818!4d175.2830896",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-26",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
