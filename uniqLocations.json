@@ -2420,8 +2420,38 @@
         "localEnd": "15:45:00"
       }
     ],
+    "description": "Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/4cgWqrBte4Qx2S9n9",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-06-10",
     "locationPool": "default",
@@ -31373,52 +31403,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "170 Victoria Street Te Aro  Wellington  6011",
-    "distanceInMeters": 25764.00965918,
-    "extId": "a0R4a000000V98UEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-20",
-    "endDate": "2021-10-27",
-    "location": {
-      "lng": 174.772,
-      "lat": -41.2925
-    },
-    "name": "City Gps St Peters Anglican Church, Garden Room",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:45:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps?q=170+Victoria+Street,+Te+Aro,+Wellington+6011,+New+Zealand&rlz=1C1GCEA_enAU959AU960&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiqk7v_kvHyAhVDVisKHWmgCrwQ_AUoAXoECAEQAw",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-15",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "45 Picton Street Howick  Auckland  2014",
     "distanceInMeters": 34097.66638335,
     "extId": "a0R4a000000VAmaEAG",
@@ -36785,21 +36769,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -36813,7 +36783,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -39453,21 +39437,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
@@ -39481,7 +39451,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
@@ -39514,21 +39498,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "17:00:00"
@@ -39542,7 +39512,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "17:00:00"
@@ -39599,28 +39583,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:15:00",
-        "localEnd": "18:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "18:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "18:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "08:30:00",
         "localEnd": "18:45:00"
@@ -39634,9 +39597,30 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "08:30:00",
+        "localEnd": "18:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:15:00",
         "localEnd": "18:45:00"
       }
     ],
@@ -39699,28 +39683,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "17:45:00"
@@ -39734,10 +39697,31 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:15:00"
       }
     ],
     "description": "No toilets onsite",
@@ -39767,14 +39751,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:30:00"
@@ -39788,7 +39765,14 @@
       },
       {
         "days": [
-          "mon"
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:30:00"
@@ -39821,28 +39805,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:45:00"
@@ -39856,10 +39819,31 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "15:45:00"
       }
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Low sensory environment",
@@ -39973,7 +39957,7 @@
   },
   {
     "displayAddress": "48 The Drive, Epsom, Auckland 1023",
-    "distanceInMeters": 40016.79919751,
+    "distanceInMeters": 26661.74408401,
     "extId": "a0R4a000000XmmQEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-21",
@@ -39987,9 +39971,9 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "mon"
         ],
-        "localStart": "08:00:00",
+        "localStart": "17:00:00",
         "localEnd": "17:30:00"
       },
       {
@@ -40001,9 +39985,9 @@
       },
       {
         "days": [
-          "mon"
+          "thu"
         ],
-        "localStart": "17:00:00",
+        "localStart": "08:00:00",
         "localEnd": "17:30:00"
       }
     ],
@@ -40034,28 +40018,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:45:00"
@@ -40069,7 +40032,28 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "sat"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:45:00"
@@ -40102,35 +40086,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:45:00"
@@ -40144,7 +40100,35 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "sun"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:45:00"
@@ -40285,7 +40269,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -40299,14 +40283,7 @@
       },
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -40314,6 +40291,13 @@
       {
         "days": [
           "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -40346,6 +40330,27 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
           "mon"
         ],
         "localStart": "09:45:00",
@@ -40364,31 +40369,34 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://goo.gl/maps/GiSmnPbYW8MKefur9",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "478 Tauwhare Road   Matangi  3284",
+    "distanceInMeters": 9314.91377482,
+    "extId": "a0R4a000000Y2ghEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-22",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 175.397,
+      "lat": -37.8024
+    },
+    "name": "Matangi Hall",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/Matangi+Hall/@-37.8023873,175.3971254,20.12z/data=!4m13!1m7!3m6!1s0x6d6d1b7f948b39cf:0xa35c345a340d5805!2s478+Tauwhare+Road,+Tamahere+3284,+New+Zealand!3b1!8m2!3d-37.8025491!4d175.3972851!3m4!1s0x6d6d1b7f9199550f:0x1e591a",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-22",
