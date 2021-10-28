@@ -334,10 +334,6 @@
         "durationSeconds": 120
       },
       {
-        "localStartTime": "10:10:00",
-        "durationSeconds": 120
-      },
-      {
         "localStartTime": "10:12:00",
         "durationSeconds": 120
       },
@@ -1502,9 +1498,17 @@
       {
         "localStartTime": "14:42:00",
         "durationSeconds": 180
+      },
+      {
+        "localStartTime": "14:48:00",
+        "durationSeconds": 180
       }
     ],
     "2021-11-07": [
+      {
+        "localStartTime": "10:00:00",
+        "durationSeconds": 300
+      },
       {
         "localStartTime": "10:05:00",
         "durationSeconds": 300
@@ -7205,5 +7209,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-10-28T00:23:34.136Z"
+  "lastUpdatedAt": "2021-10-28T01:06:59.655Z"
 }
