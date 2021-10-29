@@ -1709,7 +1709,7 @@
   },
   {
     "displayAddress": "35 Graham Street, Auckland 1010",
-    "distanceInMeters": 19723.28424034,
+    "distanceInMeters": 9565.95980923,
     "extId": "a0R4a000000Q4pdEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
@@ -2055,7 +2055,7 @@
   },
   {
     "displayAddress": "Inside Highbury Shopping Centre – 1 Cnr Highbury Bypass and Birkenhead Avenue, Birkenhead, Auckland 0626",
-    "distanceInMeters": 15575.67340289,
+    "distanceInMeters": 7393.80971517,
     "extId": "a0R4a000000Q4q2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
@@ -2119,7 +2119,36 @@
     ],
     "description": "Public Transport: On bus routes to Albany, Takapuna and Britomart, Birkdale and Beach Haven. Bus stops close to the Mall entrances on both Birkenhead and Mokoia Road |\r\nAccessible parking accessed via the lower carpark or the access off Highbury Bypass. There is a mall lift adjacent to the Burger King drive-through and two accessible parks. Additional accessible carparks are available in the lower and upper carpark, accessed via Hammond Place, off Birkenhead Avenue.  Please note: Access from the lower car park is via a travellator or stairs. The upper car park only requires a short, level walk to the vaccination centre |\r\nNo drop off zones available |\r\nAccessible toilets available in the Highbury Shopping Centre |\r\nUnisex toilets – for urgent use, post-vaccination only |\r\nLow sensory environment - Available on request- noise only.",
     "mapUrl": "https://goo.gl/maps/MrDUCidkBSPRAojX8",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-06-08",
     "locationPool": "default",
@@ -2205,7 +2234,7 @@
   },
   {
     "displayAddress": "28 Catherine Street Henderson  Auckland  612",
-    "distanceInMeters": 13797.51783232,
+    "distanceInMeters": 4857.66362629,
     "extId": "a0R4a000000Q4rfEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
@@ -2280,7 +2309,7 @@
   },
   {
     "displayAddress": "7-11 Westgate Drive Westgate  Auckland  614",
-    "distanceInMeters": 7232.06814127,
+    "distanceInMeters": 4175.57090493,
     "extId": "a0R4a000000Q4taEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
@@ -2804,7 +2833,7 @@
   },
   {
     "displayAddress": "End of Oaklands Road Albany  Auckland  0632",
-    "distanceInMeters": 13053.68284179,
+    "distanceInMeters": 12287.24173399,
     "extId": "a0R4a000000QCwwEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-29",
@@ -2868,7 +2897,43 @@
     ],
     "description": "Public Transport: Bus route #917 with bus stops close to Oaklands Road on the Albany Highway |\r\nAccessible parking and drop off zones |\r\nAccessible toilets | \r\nUnisex toilets – external to the centre |\r\nLow sensory environment - Available on request - lighting and noise.",
     "mapUrl": "https://www.google.com/maps/place/Ecentre,+Massey+University+Albany/@-36.7368197,174.6916626,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d3bf7205e156d:0x6a10f213609ff547!8m2!3d-36.7368197!4d174.6938513",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-06-25",
     "locationPool": "default",
@@ -3058,7 +3123,7 @@
   },
   {
     "displayAddress": "Ranui Pacific Island Church\r\n35 Armada Drive\r\nRanui, Auckland  0612\r\n\r\nBehind the library at the junction of Swanson Rd & Armada Drive",
-    "distanceInMeters": 10516.41931929,
+    "distanceInMeters": 4994.27337365,
     "extId": "a0R4a000000QCyOEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-10",
@@ -3327,7 +3392,7 @@
   },
   {
     "displayAddress": "382 Manukau Road Epsom, Auckland 1344. Parking at Alexandra Park, entry from 30 Campbell Crescent.",
-    "distanceInMeters": 39966.68385051,
+    "distanceInMeters": 12428.74363301,
     "extId": "a0R4a000000QD0eEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-29",
@@ -4011,7 +4076,7 @@
   },
   {
     "displayAddress": "1 McCrae Way New Lynn  Auckland  600",
-    "distanceInMeters": 18555.63821833,
+    "distanceInMeters": 7867.21035342,
     "extId": "a0R4a000000QD8JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -19735,7 +19800,7 @@
   },
   {
     "displayAddress": "74 Taharoto Road Takapuna  Auckland  622",
-    "distanceInMeters": 17610.98826714,
+    "distanceInMeters": 11036.86593517,
     "extId": "a0R4a000000SWxKEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -26132,7 +26197,7 @@
   },
   {
     "displayAddress": "288 Te Atatu Road Te Atatu South  Auckland  0652",
-    "distanceInMeters": 12719.61205689,
+    "distanceInMeters": 2326.0376846,
     "extId": "a0R4a000000Sz8YEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -26506,7 +26571,7 @@
   },
   {
     "displayAddress": "A9/1 Wagener Place, Mt Albert, Auckland 1025",
-    "distanceInMeters": 19708.95831609,
+    "distanceInMeters": 8461.82799618,
     "extId": "a0R4a000000SzPtEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -26635,7 +26700,7 @@
   },
   {
     "displayAddress": "754 Manukau Road Royal Oak  Auckland  1023",
-    "distanceInMeters": 34014.64727826,
+    "distanceInMeters": 13450.69555439,
     "extId": "a0R4a000000SzarEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-13",
@@ -29184,7 +29249,7 @@
   },
   {
     "displayAddress": "Westgate Shopping Centre, 13E Maki Street, Massey, Auckland 0614",
-    "distanceInMeters": 7224.50378128,
+    "distanceInMeters": 4087.46856168,
     "extId": "a0R4a000000TL5tEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -29350,13 +29415,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -29396,27 +29454,6 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
         "isSystemTag": false
       }
     ],
@@ -31149,7 +31186,7 @@
   },
   {
     "displayAddress": "84a Titirangi Road, New Lynn, Auckland 0600",
-    "distanceInMeters": 18525.9645781,
+    "distanceInMeters": 8213.45987761,
     "extId": "a0R4a000000TamuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -31334,7 +31371,22 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/11+Alnwick+Street,+Warkworth+0910,+New+Zealand/@-36.3997409,174.6640611,17z/data=!4m13!1m7!3m6!1s0x6d0cdc219e00093f:0x6e59e03b69b03fa9!2s11+Alnwick+Street,+Warkworth+0910,+New+Zealand!3b1!8m2!3d-36.3997409!4d174.6662498!3",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-16",
     "locationPool": "default",
@@ -31395,7 +31447,36 @@
     ],
     "description": "Walk-ins Welcome! \r\nOnsite parking | Wheelchair accessible | Toilets available.",
     "mapUrl": "https://www.google.com/maps/place/347+Mahurangi+East+Road,+Snells+Beach+0920,+New+Zealand/@-36.4243769,174.7254234,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0cd9743fffb18d:0x3778b1719d68831!8m2!3d-36.4243769!4d174.7276121",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-16",
     "locationPool": "default",
@@ -31406,7 +31487,7 @@
   },
   {
     "displayAddress": "131 Lincoln Road, Henderson, Auckland 0610",
-    "distanceInMeters": 11876.80631256,
+    "distanceInMeters": 3134.43629024,
     "extId": "a0R4a000000TbM7EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -31481,7 +31562,7 @@
   },
   {
     "displayAddress": "65 Rosebank Road, Avondale, Auckland 1026",
-    "distanceInMeters": 18213.58765391,
+    "distanceInMeters": 7062.25508604,
     "extId": "a0R4a000000TbSUEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -31542,7 +31623,7 @@
   },
   {
     "displayAddress": "Level 8, 175 Queen Street Auckland Central  Auckland  1010",
-    "distanceInMeters": 20344.64324835,
+    "distanceInMeters": 10171.42176455,
     "extId": "a0R4a000000TbV9EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
@@ -31678,7 +31759,7 @@
   },
   {
     "displayAddress": "327 Lake Road, Hauraki, Auckland, 0622",
-    "distanceInMeters": 20070.43013989,
+    "distanceInMeters": 12447.54619409,
     "extId": "a0R4a000000Tc5UEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
@@ -31711,7 +31792,7 @@
   },
   {
     "displayAddress": "B3/51 Corinthian Dr Albany  Auckland  632",
-    "distanceInMeters": 14945.76701945,
+    "distanceInMeters": 13372.42786242,
     "extId": "a0R4a000000Te8wEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -31980,7 +32061,7 @@
   },
   {
     "displayAddress": "55a Glenvar Ridge Road, Long Bay, Auckland 0630",
-    "distanceInMeters": 19271.82500367,
+    "distanceInMeters": 28925.50272081,
     "extId": "a0R4a000000TeCFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -32284,7 +32365,7 @@
   },
   {
     "displayAddress": "68 Beach Road Auckland CBD  Auckland  1010",
-    "distanceInMeters": 21068.08907423,
+    "distanceInMeters": 10968.01088812,
     "extId": "a0R4a000000TfUZEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -32413,7 +32494,7 @@
   },
   {
     "displayAddress": "33 Victoria Road, Devonport, Auckland 0624",
-    "distanceInMeters": 22396.42772155,
+    "distanceInMeters": 13048.52535536,
     "extId": "a0R4a000000TfnsEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -32474,7 +32555,7 @@
   },
   {
     "displayAddress": "Shop 524/80 Saint Lukes Road, Mount Albert, Auckland 1025",
-    "distanceInMeters": 19895.2366053,
+    "distanceInMeters": 8666.21752302,
     "extId": "a0R4a000000TfxiEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
@@ -32689,7 +32770,7 @@
   },
   {
     "displayAddress": "855 East Coast Road Northcross  Auckland  630",
-    "distanceInMeters": 17061.95979697,
+    "distanceInMeters": 31619.78422158,
     "extId": "a0R4a000000Tg85EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
@@ -32764,7 +32845,7 @@
   },
   {
     "displayAddress": "66 Clyde Road, Browns Bay, Auckland 0630",
-    "distanceInMeters": 18446.03506671,
+    "distanceInMeters": 32260.22457823,
     "extId": "a0R4a000000TgB0EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -33195,7 +33276,7 @@
   },
   {
     "displayAddress": "11 Coliseum Drive Albany  Auckland  632",
-    "distanceInMeters": 14206.52751361,
+    "distanceInMeters": 13299.60503786,
     "extId": "a0R4a000000Tq93EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -33270,7 +33351,7 @@
   },
   {
     "displayAddress": "174 Golf Road Titirangi  Auckland  604",
-    "distanceInMeters": 19582.73571685,
+    "distanceInMeters": 9482.09225293,
     "extId": "a0R4a000000TqCbEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
@@ -33331,7 +33412,7 @@
   },
   {
     "displayAddress": "227 Onehunga Mall, Onehunga  Auckland  1061",
-    "distanceInMeters": 32576.76910331,
+    "distanceInMeters": 14866.55148826,
     "extId": "a0R4a000000TqJDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -33460,7 +33541,7 @@
   },
   {
     "displayAddress": "105 Great South Road Epsom  Auckland  1051\r\n(Access down driveway via back of building)",
-    "distanceInMeters": 51270.77628367,
+    "distanceInMeters": 12851.66658618,
     "extId": "a0R4a000000TqYmEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -33753,7 +33834,7 @@
   },
   {
     "displayAddress": "Unit 17/94 Rosedale Road, Rosedale, Auckland  0632",
-    "distanceInMeters": 15731.07566071,
+    "distanceInMeters": 13440.54939602,
     "extId": "a0R4a000000Tqy4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-04",
@@ -33828,7 +33909,7 @@
   },
   {
     "displayAddress": "Shop 228, Level 2, Glenfield Mall, Downing Street, Glenfield, Auckland 0629",
-    "distanceInMeters": 14857.27567627,
+    "distanceInMeters": 9145.42733073,
     "extId": "a0R4a000000Tr8iEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -33903,7 +33984,7 @@
   },
   {
     "displayAddress": "396 Don Buck Road Massey  Auckland  614",
-    "distanceInMeters": 7763.08840103,
+    "distanceInMeters": 4439.86539291,
     "extId": "a0R4a000000TrBDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -34160,7 +34241,7 @@
   },
   {
     "displayAddress": "280 Queen Street, Auckland Central, Auckland 1010",
-    "distanceInMeters": 20417.14802162,
+    "distanceInMeters": 10151.71172207,
     "extId": "a0R4a000000Trv4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -34318,7 +34399,7 @@
   },
   {
     "displayAddress": "1490 Dominion Road Extension, Mount Roskill, Auckland 1041",
-    "distanceInMeters": 22773.53399129,
+    "distanceInMeters": 11546.84217171,
     "extId": "a0R4a000000Ts5DEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -34543,7 +34624,7 @@
   },
   {
     "displayAddress": "7/124 Hobsonville Road Hobsonville  Auckland  618",
-    "distanceInMeters": 8697.02562347,
+    "distanceInMeters": 4952.68605676,
     "extId": "a0R4a000000TsUhEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -35272,7 +35353,7 @@
   },
   {
     "displayAddress": "611 Dominion Rd, Mt Eden, Auckland 1041",
-    "distanceInMeters": 21181.15251155,
+    "distanceInMeters": 9958.36094366,
     "extId": "a0R4a000000TxyzEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
@@ -35428,7 +35509,7 @@
   },
   {
     "displayAddress": "20 Stoddard Rd, Mt Roskill, Auckland 1041",
-    "distanceInMeters": 21614.08692417,
+    "distanceInMeters": 10338.38418501,
     "extId": "a0R4a000000TzZyEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -35650,7 +35731,7 @@
   },
   {
     "displayAddress": "4/106 Sunnynook Road Sunnynook  Auckland  620",
-    "distanceInMeters": 16501.76609173,
+    "distanceInMeters": 12074.27367214,
     "extId": "a0R4a000000U2CDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -35924,7 +36005,7 @@
   },
   {
     "displayAddress": "73 Church street Onehunga  Auckland  1061",
-    "distanceInMeters": 32493.64434076,
+    "distanceInMeters": 14817.62655463,
     "extId": "a0R4a000000U2GKEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -35992,7 +36073,7 @@
   },
   {
     "displayAddress": "50 Commercial Road Helensville  Auckland  800",
-    "distanceInMeters": 14454.64041804,
+    "distanceInMeters": 37425.65176758,
     "extId": "a0R4a000000U2HwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -36786,7 +36867,7 @@
   },
   {
     "displayAddress": "205 Great South Road, Greenlane, Auckland 1051",
-    "distanceInMeters": 35676.64268361,
+    "distanceInMeters": 13760.35689631,
     "extId": "a0R4a000000U5pZEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -37088,7 +37169,7 @@
   },
   {
     "displayAddress": "3 Brian Smith Drive, Silverdale 0992",
-    "distanceInMeters": 20106.81696881,
+    "distanceInMeters": 22281.48990203,
     "extId": "a0R4a000000U7jPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -38727,7 +38808,7 @@
   },
   {
     "displayAddress": "Level 1 Student Commons, 9 Symonds Street   Auckland  1010",
-    "distanceInMeters": 20879.03714762,
+    "distanceInMeters": 10586.72850495,
     "extId": "a0R4a000000UOtYEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
@@ -40150,7 +40231,7 @@
   },
   {
     "displayAddress": "Units B2 and B3 / 372 Rosedale Road, Albany, Auckland 0632",
-    "distanceInMeters": 13067.11273008,
+    "distanceInMeters": 11723.45444997,
     "extId": "a0R4a000000USDSEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -40325,7 +40406,7 @@
   },
   {
     "displayAddress": "Unit C13, Village, 5/19 Factory Road, Waimauku 0812",
-    "distanceInMeters": 5554.35678187,
+    "distanceInMeters": 43427.77468334,
     "extId": "a0R4a000000UU8REAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -41147,7 +41228,7 @@
   },
   {
     "displayAddress": "Shop w516 Lynnmall Shopping Centre, 3058 Great North Road   Auckland  640",
-    "distanceInMeters": 18665.92104351,
+    "distanceInMeters": 7870.90020676,
     "extId": "a0R4a000000UZ2JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -41990,7 +42071,7 @@
   },
   {
     "displayAddress": "19 Delta Ave, New Lynn, Auckland 0600",
-    "distanceInMeters": 18348.86800072,
+    "distanceInMeters": 7544.00202783,
     "extId": "a0R4a000000UeDkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -42279,7 +42360,7 @@
   },
   {
     "displayAddress": "99 St Lukes Road St Lukes  Auckland  1025",
-    "distanceInMeters": 20115.33583268,
+    "distanceInMeters": 8880.32664216,
     "extId": "a0R4a000000UegwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-29",
@@ -43744,7 +43825,7 @@
   },
   {
     "displayAddress": "691 Manukau Road Royal Oak  Auckland  1023",
-    "distanceInMeters": 34084.13817994,
+    "distanceInMeters": 13363.08052504,
     "extId": "a0R4a000000UtnDEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -44238,7 +44319,7 @@
   },
   {
     "displayAddress": "13F Maki Street Westgate  Auckland  657",
-    "distanceInMeters": 7204.79395576,
+    "distanceInMeters": 4107.40451594,
     "extId": "a0R4a000000Uy72EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
@@ -44388,7 +44469,7 @@
   },
   {
     "displayAddress": "3B/160 Hobsonville Point Road Hobsonville  Auckland  618",
-    "distanceInMeters": 9555.85102944,
+    "distanceInMeters": 5555.74665395,
     "extId": "a0R4a000000V0yuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
@@ -45563,7 +45644,7 @@
   },
   {
     "displayAddress": "Shop 8, The Boulevard, Smales Farm; 74 Taharoto Road Takapuna  Auckland  622",
-    "distanceInMeters": 17471.85638643,
+    "distanceInMeters": 10973.72713774,
     "extId": "a0R4a000000V642EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-19",
@@ -45823,7 +45904,7 @@
   },
   {
     "displayAddress": "223 Stoddard Rd Mount Roskill  Auckland  1041",
-    "distanceInMeters": 20205.81214081,
+    "distanceInMeters": 8939.36840629,
     "extId": "a0R4a000000V68YEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -46325,7 +46406,7 @@
   },
   {
     "displayAddress": "1/283 Ponsonby Road Ponsonby  Auckland  1011",
-    "distanceInMeters": 18623.7535903,
+    "distanceInMeters": 8286.06161944,
     "extId": "a0R4a000000V8xOEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -46529,7 +46610,7 @@
   },
   {
     "displayAddress": "138 Royal Road Massey  Auckland  614",
-    "distanceInMeters": 8716.48872652,
+    "distanceInMeters": 2757.75672729,
     "extId": "a0R4a000000VAraEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -46597,7 +46678,7 @@
   },
   {
     "displayAddress": "Shore City Mall Shop 17, 52-56 Anzac Street Takapuna,  Auckland  0622",
-    "distanceInMeters": 19162.84093419,
+    "distanceInMeters": 12165.93032021,
     "extId": "a0R4a000000VAsiEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -47254,7 +47335,7 @@
   },
   {
     "displayAddress": "13-15 Bute Road Browns Bay  Auckland  0630",
-    "distanceInMeters": 18318.31975975,
+    "distanceInMeters": 32210.43339721,
     "extId": "a0R4a000000VJ9UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -47905,7 +47986,7 @@
   },
   {
     "displayAddress": "1 Pearn Place Northcote  Auckland  627",
-    "distanceInMeters": 17177.64514121,
+    "distanceInMeters": 9523.91135798,
     "extId": "a0R4a000000VSEuEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-23",
@@ -47973,7 +48054,7 @@
   },
   {
     "displayAddress": "280 Richmond Road Grey Lynn  Auckland  1021",
-    "distanceInMeters": 18011.89528575,
+    "distanceInMeters": 7314.68307159,
     "extId": "a0R4a000000VSIgEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
@@ -48048,7 +48129,7 @@
   },
   {
     "displayAddress": "2/8 Greenhithe Road Greenhithe  Auckland  0632",
-    "distanceInMeters": 10177.81729755,
+    "distanceInMeters": 7561.24566693,
     "extId": "a0R4a000000VSMOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -48116,7 +48197,7 @@
   },
   {
     "displayAddress": "296A Dominion Road Mount Eden  Auckland  1024",
-    "distanceInMeters": 21697.08755721,
+    "distanceInMeters": 10415.44192518,
     "extId": "a0R4a000000VSOZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
@@ -48184,7 +48265,7 @@
   },
   {
     "displayAddress": "419 Queen Street Auckland CBD  Auckland  1010",
-    "distanceInMeters": 20427.0898577,
+    "distanceInMeters": 9950.26920312,
     "extId": "a0R4a000000VSPyEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
@@ -48259,7 +48340,7 @@
   },
   {
     "displayAddress": "13-15 Bute Road Browns Bay  Auckland  630",
-    "distanceInMeters": 18312.47306139,
+    "distanceInMeters": 32215.71701931,
     "extId": "a0R4a000000VSRpEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-23",
@@ -48320,7 +48401,7 @@
   },
   {
     "displayAddress": "Lynnmall Shopping Centre (next to Whitcoulls), 3058 Great North Road New Lynn  Auckland  600",
-    "distanceInMeters": 18662.23272914,
+    "distanceInMeters": 7880.66340914,
     "extId": "a0R4a000000VSWLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
@@ -48395,7 +48476,7 @@
   },
   {
     "displayAddress": "AUT Millennium (Ground floor), 17 Antares Place Rosedale  North Shore, Auckland  0632",
-    "distanceInMeters": 16258.67403242,
+    "distanceInMeters": 13274.43544273,
     "extId": "a0R4a000000VSbGEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -48503,7 +48584,7 @@
   },
   {
     "displayAddress": "Shop 7, 7 Fred Taylor Drive, NorthWest Shopping Centre Massey  Auckland  814",
-    "distanceInMeters": 6742.64224071,
+    "distanceInMeters": 4584.94791918,
     "extId": "a0R4a000000VSvpEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-23",
@@ -48578,7 +48659,7 @@
   },
   {
     "displayAddress": "174a Kitchener Road Milford  Auckland  620",
-    "distanceInMeters": 18694.96234544,
+    "distanceInMeters": 12748.13431389,
     "extId": "a0R4a000000VT4rEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
@@ -48693,7 +48774,7 @@
   },
   {
     "displayAddress": "8 Donovan Street Blockhouse Bay  Auckland  600",
-    "distanceInMeters": 20724.18562091,
+    "distanceInMeters": 9878.97345797,
     "extId": "a0R4a000000VTESEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -50163,7 +50244,7 @@
   },
   {
     "displayAddress": "550 Te Atatu Road Te Atatu Peninsula  Auckland  610",
-    "distanceInMeters": 11287.40959762,
+    "distanceInMeters": 0.41564061,
     "extId": "a0R4a000000VkBwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
@@ -50230,7 +50311,7 @@
   },
   {
     "displayAddress": "2/3 Brian Smith Drive Silverdale  Auckland  932",
-    "distanceInMeters": 20096.27946775,
+    "distanceInMeters": 22298.66453697,
     "extId": "a0R4a000000VkLwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -50305,7 +50386,7 @@
   },
   {
     "displayAddress": "5/651 Whangaparaoa Road Stanmore Bay  Auckland  0932",
-    "distanceInMeters": 22686.26423018,
+    "distanceInMeters": 23364.93769245,
     "extId": "a0R4a000000VleXEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -50546,7 +50627,7 @@
   },
   {
     "displayAddress": "323 Main Rd Huapai  Auckland  810",
-    "distanceInMeters": 981.981623,
+    "distanceInMeters": 12217.82617001,
     "extId": "a0R4a000000VqoNEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -50593,7 +50674,7 @@
   },
   {
     "displayAddress": "39 Layard Street Avondale  Auckland  1026",
-    "distanceInMeters": 18657.41227818,
+    "distanceInMeters": 7524.98457488,
     "extId": "a0R4a000000VrLNEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -50654,7 +50735,7 @@
   },
   {
     "displayAddress": "Whanau House, Corner Edsel & Catherine Streets Henderson  Auckland  0612",
-    "distanceInMeters": 13555.81031997,
+    "distanceInMeters": 4972.85527838,
     "extId": "a0R4a000000VrpwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
@@ -50776,7 +50857,7 @@
   },
   {
     "displayAddress": "320 Remuera Road Remuera  Auckland  1050",
-    "distanceInMeters": 50977.34106028,
+    "distanceInMeters": 13596.41883316,
     "extId": "a0R4a000000VscQEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -50816,7 +50897,7 @@
   },
   {
     "displayAddress": "197 Broadway Newmarket  Auckland  1023",
-    "distanceInMeters": 22337.08578092,
+    "distanceInMeters": 11632.68972479,
     "extId": "a0R4a000000VueiEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -50877,7 +50958,7 @@
   },
   {
     "displayAddress": "349 Lake Road Hauraki  Auckland  622",
-    "distanceInMeters": 20015.48044152,
+    "distanceInMeters": 12376.99422933,
     "extId": "a0R4a000000VumdEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -50938,7 +51019,7 @@
   },
   {
     "displayAddress": "32 Mokoia Road Birkenhead  Auckland  626",
-    "distanceInMeters": 15624.64553995,
+    "distanceInMeters": 7355.1451682,
     "extId": "a0R4a000000VunMEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-29",
@@ -50999,7 +51080,7 @@
   },
   {
     "displayAddress": "226 West Coast Road Glen Eden  Auckland  602",
-    "distanceInMeters": 17135.11969096,
+    "distanceInMeters": 7470.87661383,
     "extId": "a0R4a000000VuotEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-28",
@@ -51060,7 +51141,7 @@
   },
   {
     "displayAddress": "A3/192 Universal Drive Henderson  Auckland  610",
-    "distanceInMeters": 11082.06691837,
+    "distanceInMeters": 2575.15157454,
     "extId": "a0R4a000000Vus2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-12",
@@ -51168,7 +51249,7 @@
   },
   {
     "displayAddress": "443 Richardson Road Mount Roskill  Auckland  1041",
-    "distanceInMeters": 21628.31902911,
+    "distanceInMeters": 10397.37283631,
     "extId": "a0R4a000000Vv5GEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-13",
@@ -51236,7 +51317,7 @@
   },
   {
     "displayAddress": "1224 Dominion Road Mount Roskill  Auckland  1041",
-    "distanceInMeters": 21806.04798764,
+    "distanceInMeters": 10519.32915374,
     "extId": "a0R4a000000Vv6YEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-07",
@@ -51358,7 +51439,7 @@
   },
   {
     "displayAddress": "119 Apollo Drive Rosedale  Auckland  632",
-    "distanceInMeters": 16066.96173074,
+    "distanceInMeters": 13764.6249896,
     "extId": "a0R4a000000VvU2EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-29",
@@ -51419,7 +51500,7 @@
   },
   {
     "displayAddress": "5 Home Place Rosedale  Auckland  632",
-    "distanceInMeters": 15700.10626454,
+    "distanceInMeters": 12412.23719333,
     "extId": "a0R4a000000VvgGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
@@ -51760,7 +51841,7 @@
   },
   {
     "displayAddress": "31a Bartley Terrace Devonport  Auckland  0624",
-    "distanceInMeters": 22264.23290824,
+    "distanceInMeters": 12965.12728139,
     "extId": "a0R4a000000W19CEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-03",
@@ -51882,7 +51963,7 @@
   },
   {
     "displayAddress": "377a Remuera Road Remuera  Auckland  1050",
-    "distanceInMeters": 51022.6434599,
+    "distanceInMeters": 13738.41176151,
     "extId": "a0R4a000000W1ECEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
@@ -51943,7 +52024,7 @@
   },
   {
     "displayAddress": "3/317 Sunset Road Sunnynook  Auckland  632",
-    "distanceInMeters": 16718.0181669,
+    "distanceInMeters": 13152.97368541,
     "extId": "a0R4a000000W1SYEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-29",
@@ -52271,7 +52352,7 @@
   },
   {
     "displayAddress": "B2/570 Whangaparaoa Road Stanmore Bay  Auckland  0932",
-    "distanceInMeters": 22664.04569175,
+    "distanceInMeters": 22631.02830623,
     "extId": "a0R4a000000W3JVEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -52523,7 +52604,7 @@
   },
   {
     "displayAddress": "58 Gaunt Street Wynyard Quarters  Auckland  1010",
-    "distanceInMeters": 19344.27907715,
+    "distanceInMeters": 9229.54886695,
     "extId": "a0R4a000000W8X8EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -52742,7 +52823,7 @@
   },
   {
     "displayAddress": "Ground floor/213 Shakespeare Road Takapuna  Auckland  620",
-    "distanceInMeters": 17656.87303553,
+    "distanceInMeters": 11313.16368565,
     "extId": "a0R4a000000WCmxEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-05",
@@ -52817,7 +52898,7 @@
   },
   {
     "displayAddress": "73 Church Street Onehunga  Auckland  1061",
-    "distanceInMeters": 32482.05622781,
+    "distanceInMeters": 14817.0519569,
     "extId": "a0R4a000000WDENEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -52864,7 +52945,7 @@
   },
   {
     "displayAddress": "382 Te Atatu Road, Te Atatū Peninsula,  Auckland  0610",
-    "distanceInMeters": 12217.68591542,
+    "distanceInMeters": 1398.7395284,
     "extId": "a0R4a000000WDHqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-29",
@@ -52949,7 +53030,7 @@
   },
   {
     "displayAddress": "119 Sunnynook Road, Sunnynook, Auckland 0620",
-    "distanceInMeters": 16616.16436499,
+    "distanceInMeters": 12161.87294402,
     "extId": "a0R4a000000WHlEEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-04",
@@ -53570,7 +53651,7 @@
   },
   {
     "displayAddress": "45 Sunnybrae Road Hillcrest  Auckland  627",
-    "distanceInMeters": 16960.4468369,
+    "distanceInMeters": 10206.28410612,
     "extId": "a0R4a000000WWzeEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-14",
@@ -53610,7 +53691,7 @@
   },
   {
     "displayAddress": "301a Roskill Centre, 22 Stoddard Road Mount Roskill  Auckland  1041",
-    "distanceInMeters": 21596.64711602,
+    "distanceInMeters": 10323.42680131,
     "extId": "a0R4a000000WX2nEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-11",
@@ -53772,7 +53853,7 @@
   },
   {
     "displayAddress": "277 Broadway Newmarket  Auckland  1023",
-    "distanceInMeters": 22281.80201088,
+    "distanceInMeters": 11571.64610035,
     "extId": "a0R4a000000WeB3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-06",
@@ -53847,7 +53928,7 @@
   },
   {
     "displayAddress": "Lynnmall Shopping Centre, Shop 1, 3058 Great North Road (Access via Westpac, BNZ entrance)",
-    "distanceInMeters": 18686.97833273,
+    "distanceInMeters": 7885.87850413,
     "extId": "a0R4a000000WeHLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -54007,7 +54088,7 @@
   },
   {
     "displayAddress": "90A/90D Main Road   Kumeu  810",
-    "distanceInMeters": 0.46559614,
+    "distanceInMeters": 11288.15755989,
     "extId": "a0R4a000000WmzaEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-15",
@@ -54122,7 +54203,7 @@
   },
   {
     "displayAddress": "268 blockhouse Bay Road Avondale  Auckland  600",
-    "distanceInMeters": 19489.67959936,
+    "distanceInMeters": 8414.05118827,
     "extId": "a0R4a000000WnAiEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-12",
@@ -54304,7 +54385,7 @@
   },
   {
     "displayAddress": "210 Jervois Road Herne Bay  Auckland  1011",
-    "distanceInMeters": 17789.26185701,
+    "distanceInMeters": 7475.42366846,
     "extId": "a0R4a000000WnHlEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-15",
@@ -54372,7 +54453,7 @@
   },
   {
     "displayAddress": "160 Broadway Newmarket  Auckland  1023",
-    "distanceInMeters": 22330.15111749,
+    "distanceInMeters": 11653.98537136,
     "extId": "a0R4a000000WnM7EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-15",
@@ -54487,7 +54568,7 @@
   },
   {
     "displayAddress": "Shop 222, Level 2, West City Waitakere, 7 Catherine Street Henderson  Auckland  0650",
-    "distanceInMeters": 13523.53734603,
+    "distanceInMeters": 4609.9718033,
     "extId": "a0R4a000000Wo1UEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-14",
@@ -54654,13 +54735,6 @@
           "wed"
         ],
         "localStart": "13:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       },
       {
@@ -54895,7 +54969,7 @@
   },
   {
     "displayAddress": "11 Coliseum Drive Albany  Auckland  632",
-    "distanceInMeters": 14238.12109305,
+    "distanceInMeters": 13401.55260072,
     "extId": "a0R4a000000XEd2EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-13",
@@ -55041,7 +55115,7 @@
   },
   {
     "displayAddress": "543 Great North Road Grey Lynn  Auckland  1021",
-    "distanceInMeters": 18999.8880992,
+    "distanceInMeters": 8077.45560441,
     "extId": "a0R4a000000XKFfEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-16",
@@ -55149,7 +55223,7 @@
   },
   {
     "displayAddress": "94 Remuera Road Remuera  Auckland  1050",
-    "distanceInMeters": 49993.73678417,
+    "distanceInMeters": 12088.32237086,
     "extId": "a0R4a000000XKRMEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-16",
@@ -55332,7 +55406,7 @@
   },
   {
     "displayAddress": "123D Dominion Road, Mount Eden  Auckland  1024",
-    "distanceInMeters": 20527.18182418,
+    "distanceInMeters": 9561.87174269,
     "extId": "a0R4a000000XM30EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
@@ -55517,7 +55591,7 @@
   },
   {
     "displayAddress": "2 Kitchener Road Sandringham  Auckland  1025",
-    "distanceInMeters": 20621.69379918,
+    "distanceInMeters": 9349.78211495,
     "extId": "a0R4a000000XQM4EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-15",
@@ -55707,7 +55781,7 @@
   },
   {
     "displayAddress": "The Triange, Unit C12 Waimauku Village Centre   Waimauku  812",
-    "distanceInMeters": 5570.10211403,
+    "distanceInMeters": 43429.79770776,
     "extId": "a0R4a000000XS01EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-30",
@@ -55805,7 +55879,7 @@
   },
   {
     "displayAddress": "1 McCrae Way New Lynn  Auckland  0600",
-    "distanceInMeters": 18676.82695174,
+    "distanceInMeters": 7934.71821611,
     "extId": "a0R4a000000XlTcEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-29",
@@ -55866,7 +55940,7 @@
   },
   {
     "displayAddress": "48 The Drive, Epsom, Auckland 1023",
-    "distanceInMeters": 40016.79919751,
+    "distanceInMeters": 11950.27684026,
     "extId": "a0R4a000000XmmQEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-21",
@@ -55913,7 +55987,7 @@
   },
   {
     "displayAddress": "2/47 Pearn Crescent Northcote  Auckland  627",
-    "distanceInMeters": 17206.27474463,
+    "distanceInMeters": 9573.15492178,
     "extId": "a0R4a000000XmrkEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-26",
@@ -56056,7 +56130,7 @@
   },
   {
     "displayAddress": "6/8 Pioneer Street Henderson  Auckland  612",
-    "distanceInMeters": 13647.92214903,
+    "distanceInMeters": 4726.99587616,
     "extId": "a0R4a000000XujgEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-22",
