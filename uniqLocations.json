@@ -1472,13 +1472,6 @@
     "mapUrl": "https://goo.gl/maps/Ju8kcourVsNHmzCJ7",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -1525,6 +1518,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -1997,13 +1997,6 @@
     "mapUrl": "https://g.page/wecare-health-wigram?share",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -2057,6 +2050,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -6054,13 +6054,6 @@
     "mapUrl": "https://goo.gl/maps/en68bSpfmR5Cq2r6A",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -6121,6 +6114,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -12367,13 +12367,6 @@
     "mapUrl": "https://g.page/unichembrightonvillage?share",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -12406,6 +12399,13 @@
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -12482,6 +12482,67 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/23+Parry+Street,+Huntly+3700,+New+Zealand/@-37.5579518,175.1534441,393m/data=!3m1!1e3!4m5!3m4!1s0x6d6d388c8e19cb4f:0xfec13cd6aca397e!8m2!3d-37.5587132!4d175.1536347",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Corner of Hyde Avenue and Grandview Road, Nawton Shopping Centre, Hamilton",
+    "distanceInMeters": 4971.58173881,
+    "extId": "a0R4a000000RyGnEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-29",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 175.237,
+      "lat": -37.7812
+    },
+    "name": "Raukura Hauora (Nawton, Hamilton) Community Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:30:00"
+      }
+    ],
+    "description": "Inside Nawton Shopping Centre\r\nCnr Grandview Rd and Hyde Ave",
+    "mapUrl": "https://goo.gl/maps/uGyb3jxd8rCDW3CA8",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-07-14",
@@ -14803,13 +14864,6 @@
     "mapUrl": "https://goo.gl/maps/7mgZByevjB2Js9Vt8",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
@@ -14842,6 +14896,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -18292,13 +18353,6 @@
     "mapUrl": "https://goo.gl/maps/ioAy5AeU8E37WdqD7",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -18352,6 +18406,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -21955,13 +22016,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -22022,6 +22076,13 @@
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -22087,13 +22148,6 @@
     "mapUrl": "https://goo.gl/maps/pp4ZT8qb13g7K3KD6",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85182,
         "externalId": "a0p4a000000EOb0AAG",
         "name": "Toilets",
@@ -22147,6 +22201,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -27182,13 +27243,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -27249,6 +27303,13 @@
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -27524,13 +27585,6 @@
     "mapUrl": "https://goo.gl/maps/3A3Ft8Pq6f4ncfgM7",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
@@ -27556,6 +27610,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -41904,13 +41965,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -41950,6 +42004,13 @@
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
