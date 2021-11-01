@@ -3544,13 +3544,6 @@
     "mapUrl": "https://www.google.com/maps/place/Gateway+Lane,+Pipitea,+Wellington+6011/@-41.276609,174.7804456,17.75z/data=!4m5!3m4!1s0x6d38ae2e850415b3:0xa80dad4433934bcc!8m2!3d-41.2766572!4d174.7817917",
     "tags": [
       {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
@@ -3576,6 +3569,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
         "isSystemTag": false
       },
       {
@@ -12575,102 +12575,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "144 Somme Parade Aramoho  Whanganui  4500",
-    "distanceInMeters": 68657.28234586,
-    "extId": "a0R4a000000S8H1EAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-31",
-    "endDate": "2021-12-18",
-    "location": {
-      "lng": 175.053,
-      "lat": -39.9092
-    },
-    "name": "Aramoho Health Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "15:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/144+Somme+Parade,+Aramoho,+Whanganui+4500,+New+Zealand/@-39.9091564,175.0512852,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40024fcba152ab:0xd6fa690ec20b51cc!8m2!3d-39.9091564!4d175.0534739",
-    "tags": [
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-19",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Hunterville Town Hall - 19 Bruce St, Hunterville",
     "distanceInMeters": 45866.83207423,
     "extId": "a0R4a000000S8KUEA0",
@@ -13570,6 +13474,13 @@
     "mapUrl": "https://goo.gl/maps/4aQp3mX5QuEmrEBD6",
     "tags": [
       {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -13602,13 +13513,6 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -18691,7 +18595,7 @@
     "extId": "a0R4a000000STpIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2021-12-05",
+    "endDate": "2022-01-31",
     "location": {
       "lng": 168.366,
       "lat": -46.3957
@@ -20216,13 +20120,6 @@
     "mapUrl": "https://goo.gl/maps/ZKd8ub312RyiWJZd6",
     "tags": [
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -20255,6 +20152,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -20485,13 +20389,6 @@
     "mapUrl": "https://g.page/antidote-gardens?share",
     "tags": [
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -20517,6 +20414,13 @@
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -25917,13 +25821,6 @@
     "mapUrl": "https://www.google.com/maps/place/723+Fergusson+Drive,+Elderslea,+Upper+Hutt+5018,+New+Zealand/@-41.1254769,175.0561567,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40ac51dcdaf5af:0x5815f818cfc47feb!8m2!3d-41.125481!4d175.0583454",
     "tags": [
       {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
@@ -25949,6 +25846,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
         "isSystemTag": false
       },
       {
@@ -28043,13 +27947,6 @@
     "mapUrl": "https://www.google.com/maps/place/Wellworks+Pharmacy+Boulcott/@-41.2053824,174.9277903,15z/data=!4m5!3m4!1s0x0:0xdfce4177b6cdce3e!8m2!3d-41.2053824!4d174.9277903",
     "tags": [
       {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
@@ -28075,6 +27972,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
         "isSystemTag": false
       },
       {
@@ -40245,17 +40149,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
         "id": 48790,
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
         "isSystemTag": false
       },
       {
@@ -46913,13 +46817,6 @@
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Johnsonville/@-41.2232691,174.8055197,17.75z/data=!4m5!3m4!1s0x6d38adb7ca5510db:0x552e74cf0f92b313!8m2!3d-41.2233141!4d174.8071201",
     "tags": [
       {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
@@ -46945,6 +46842,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
         "isSystemTag": false
       },
       {
@@ -47074,7 +46978,7 @@
         "localEnd": "20:00:00"
       }
     ],
-    "description": "**Walk-ins welcomed** \r\n\r\nTuesday evening clinics. \r\n\r\nArabic, Dari, English, Farsi Tagalog, Hazaragi, Hindi, Gujarati, Italian, Pashtu, Somali, Turkish and Visaya speaking staff on site. Phone interpreting for any other languages available on request, too.",
+    "description": "**Walk-ins welcomed** \r\n\r\nTuesday evening clinics. \r\n\r\nArabic, Dari, English, Farsi, Tagalog, Hazaragi, Hindi, Gujarati, Italian, Pashtu, Somali, Turkish and Visaya speaking staff on site. Phone interpreting for any other languages available on request, too.",
     "mapUrl": "https://goo.gl/maps/NDZAJaTFRPrkdM819",
     "tags": [],
     "type": "OnlineBooking",
@@ -53895,14 +53799,14 @@
       },
       {
         "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
@@ -53996,6 +53900,20 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "08:00:00",
@@ -54021,20 +53939,6 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:15:00"
       },
       {
         "days": [
@@ -54131,14 +54035,14 @@
       },
       {
         "days": [
-          "sat"
+          "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "14:45:00"
+        "localEnd": "17:45:00"
       },
       {
         "days": [
-          "wed"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:45:00"
@@ -54152,10 +54056,10 @@
       },
       {
         "days": [
-          "thu"
+          "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:45:00"
+        "localEnd": "14:45:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
@@ -54192,7 +54096,7 @@
       },
       {
         "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
@@ -54206,7 +54110,7 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
@@ -56252,14 +56156,14 @@
       },
       {
         "days": [
-          "tue"
+          "fri"
         ],
-        "localStart": "09:45:00",
+        "localStart": "09:30:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
-          "wed"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
@@ -56273,16 +56177,16 @@
       },
       {
         "days": [
-          "thu"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
       },
       {
         "days": [
-          "fri"
+          "tue"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:45:00",
         "localEnd": "16:30:00"
       }
     ],
