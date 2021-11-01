@@ -35968,7 +35968,7 @@
     "extId": "a0R4a000000U2IBEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
-    "endDate": "2021-12-05",
+    "endDate": "2022-02-27",
     "location": {
       "lng": 168.364,
       "lat": -46.4266
@@ -35981,35 +35981,35 @@
           "thu"
         ],
         "localStart": "10:00:00",
-        "localEnd": "12:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "10:00:00",
-        "localEnd": "12:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "12:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "10:00:00",
-        "localEnd": "12:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "10:00:00",
-        "localEnd": "12:30:00"
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+South+City+Pharmacy/@-46.4272568,168.3594692,17z/data=!4m5!3m4!1s0xa9d2c45f06d3d3c1:0xb2656eefe02f22bf!8m2!3d-46.4272605!4d168.3616579",
@@ -55485,6 +55485,38 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-26",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "34 Broadway   Kaikohe  405",
+    "distanceInMeters": 59839.07282791,
+    "extId": "a0R4a000000XS19EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-11",
+    "endDate": "2021-12-31",
+    "location": {
+      "lng": 173.805,
+      "lat": -35.405
+    },
+    "name": "Unichem Orr's Pharmacy Kaikohe",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Unichem+Pharmacy/@-35.4050761,173.8041904,19.5z/data=!4m5!3m4!1s0x6d0bc280776037f5:0x1b6f656242f0eefe!8m2!3d-35.4050345!4d173.8046362",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-14",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
