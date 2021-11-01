@@ -8829,28 +8829,14 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:30:00"
+        "localEnd": "12:30:00"
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "12:30:00"
@@ -12458,13 +12444,6 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:15:00"
-      },
-      {
-        "days": [
           "sun"
         ],
         "localStart": "09:00:00",
@@ -12480,6 +12459,13 @@
       {
         "days": [
           "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -12568,102 +12554,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-07-16",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "144 Somme Parade Aramoho  Whanganui  4500",
-    "distanceInMeters": 68657.28234586,
-    "extId": "a0R4a000000S8H1EAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-31",
-    "endDate": "2021-12-18",
-    "location": {
-      "lng": 175.053,
-      "lat": -39.9092
-    },
-    "name": "Aramoho Health Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "15:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/144+Somme+Parade,+Aramoho,+Whanganui+4500,+New+Zealand/@-39.9091564,175.0512852,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40024fcba152ab:0xd6fa690ec20b51cc!8m2!3d-39.9091564!4d175.0534739",
-    "tags": [
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-19",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -50587,35 +50477,35 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
+        "localStart": "11:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
+        "localStart": "11:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
+        "localStart": "11:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
+        "localStart": "11:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:00:00",
+        "localStart": "11:00:00",
         "localEnd": "16:00:00"
       }
     ],
@@ -54192,6 +54082,13 @@
       },
       {
         "days": [
+          "tue"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "11:00:00",
@@ -54200,13 +54097,6 @@
       {
         "days": [
           "thu"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "tue"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
@@ -54307,9 +54197,9 @@
       },
       {
         "days": [
-          "tue"
+          "sun"
         ],
-        "localStart": "09:30:00",
+        "localStart": "10:00:00",
         "localEnd": "16:15:00"
       },
       {
@@ -54342,9 +54232,9 @@
       },
       {
         "days": [
-          "sun"
+          "tue"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:30:00",
         "localEnd": "16:15:00"
       }
     ],
@@ -54389,7 +54279,7 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
@@ -54403,7 +54293,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
@@ -55941,14 +55831,7 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "11:00:00",
         "localEnd": "14:30:00"
@@ -55969,7 +55852,14 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "thu"
         ],
         "localStart": "11:00:00",
         "localEnd": "14:30:00"
@@ -56184,13 +56074,6 @@
     "openHours": [
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:00:00",
@@ -56198,7 +56081,7 @@
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -56213,6 +56096,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -56266,17 +56156,17 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       },
       {
         "days": [
@@ -56465,6 +56355,98 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "5 Ossian Street Ahuriri  Napier  4110",
+    "distanceInMeters": 18219.00299062,
+    "extId": "a0R4a000000YRRKEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-08",
+    "endDate": "2021-12-19",
+    "location": {
+      "lng": 176.897,
+      "lat": -39.4836
+    },
+    "name": "The Doctors Ahuriri",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "10:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "10:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "10:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/The+Doctors+Ahuriri+(Formerly+The+Doctors+Westshore)/@-39.4839253,176.896508,20.25z/data=!4m9!1m2!2m1!1sThe+Doctors+Ahuriri!3m5!1s0x6d69b32dde9d6bef:0x97af7516f45da6ae!8m2!3d-39.4836047!4d176.8966196!15sChNUaGUgRG9jdG9ycy",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-29",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "30 Munroe Street Napier South  Napier  4110",
+    "distanceInMeters": 18267.17450733,
+    "extId": "a0R4a000000YRUEEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-08",
+    "endDate": "2021-12-19",
+    "location": {
+      "lng": 176.915,
+      "lat": -39.4933
+    },
+    "name": "The Doctors Napier",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps?q=The+Doctors+Napier&rlz=1C1GCEA_enAU962AU962&sxsrf=AOaemvK8W8U_sHrprqn2kyQPe700P4gOZQ:1635464154728&gs_lcp=Cgdnd3Mtd2l6EAMyFAguEIAEELEDEIMBEMcBEK8BEJMCMgsILhCABBDHARCvATIFCAAQgAQyCggAEIAEEIcCEBQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQg",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-29",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
