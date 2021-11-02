@@ -2615,96 +2615,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "26-30 Constable Road   Waiuku  2123",
-    "distanceInMeters": 16749.06224291,
-    "extId": "a0R4a000000QCshEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-02",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.725,
-      "lat": -37.2501
-    },
-    "name": "Waiuku Health Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "11:15:00",
-        "localEnd": "13:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "10:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "11:15:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "10:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "11:15:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "10:00:00"
-      }
-    ],
-    "description": "Situated at 30 Constable Road, Waiuku | Accessible and onsite parking available | Accessible toilets | If you have any issues with booking, you are welcome in the first instance to email our staff for assistance | Email to covidvax@waiukumedical.co.nz",
-    "mapUrl": "https://goo.gl/maps/HftjBJKXYfCVFPaZ9",
-    "tags": [
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-28",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "261 Morrin Road, Gate 2 St Johns  Auckland  1072",
     "distanceInMeters": 35602.06536919,
     "extId": "a0R4a000000QCsmEAG",
@@ -50881,7 +50791,7 @@
   },
   {
     "displayAddress": "1224 Dominion Road Mount Roskill  Auckland  1041",
-    "distanceInMeters": 19006.77120985,
+    "distanceInMeters": 35935.01761218,
     "extId": "a0R4a000000Vv6YEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-07",
@@ -56369,6 +56279,89 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-10-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "225 Onewa Road Birkenhead, Northcote, Northshore  Auckland  626",
+    "distanceInMeters": 8613.66965213,
+    "extId": "a0R4a000000YQabEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-03",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.727,
+      "lat": -36.8098
+    },
+    "name": "VECA Medical Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "description": "Language interpreter service available by appointment | Low sensory environment - light only - available on request",
+    "mapUrl": "https://goo.gl/maps/e429wustfg4R2biq6",
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-29",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
