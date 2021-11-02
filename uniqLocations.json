@@ -3921,7 +3921,7 @@
   },
   {
     "displayAddress": "1 McCrae Way New Lynn  Auckland  600",
-    "distanceInMeters": 32994.73584335,
+    "distanceInMeters": 38069.80572229,
     "extId": "a0R4a000000QD8JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -12431,6 +12431,102 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "144 Somme Parade Aramoho  Whanganui  4500",
+    "distanceInMeters": 68657.28234586,
+    "extId": "a0R4a000000S8H1EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-31",
+    "endDate": "2021-12-18",
+    "location": {
+      "lng": 175.053,
+      "lat": -39.9092
+    },
+    "name": "Aramoho Health Clinic",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/144+Somme+Parade,+Aramoho,+Whanganui+4500,+New+Zealand/@-39.9091564,175.0512852,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40024fcba152ab:0xd6fa690ec20b51cc!8m2!3d-39.9091564!4d175.0534739",
+    "tags": [
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-19",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Hunterville Town Hall - 19 Bruce St, Hunterville",
     "distanceInMeters": 45866.83207423,
     "extId": "a0R4a000000S8KUEA0",
@@ -16798,13 +16894,6 @@
     "mapUrl": "https://www.google.com/maps/place/Dunedin+Health+Centre/@-45.8990286,170.4845302,231m/data=!3m1!1e3!4m5!3m4!1s0x0:0xe146381fb9ed9aa2!8m2!3d-45.8990089!4d170.4840968",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 48790,
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
@@ -16816,6 +16905,13 @@
         "externalId": "a0p4a000000E7yvAAC",
         "name": "NZSL interpreter",
         "languageKey": "NZSL interpreter",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -16941,13 +17037,6 @@
     "mapUrl": "https://www.google.com/maps/place/Musselburgh+Medical+Centre/@-45.8974061,170.5133266,17z/data=!3m1!4b1!4m5!3m4!1s0xa82eae9be3e2f9dd:0xd360c193692b8a7d!8m2!3d-45.8976598!4d170.5155283",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 48790,
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
@@ -16959,6 +17048,13 @@
         "externalId": "a0p4a000000E7yvAAC",
         "name": "NZSL interpreter",
         "languageKey": "NZSL interpreter",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -18306,13 +18402,6 @@
     "mapUrl": "https://www.google.co.nz/maps/place/Roslyn+Health+Centre/@-45.86764,170.486707,17z/data=!3m1!4b1!4m5!3m4!1s0xa82eab8c7ca07111:0x766a10e0191f94b0!8m2!3d-45.86764!4d170.4888957",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 48790,
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
@@ -18324,6 +18413,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -18402,13 +18498,6 @@
     "mapUrl": "https://goo.gl/maps/ohWd8gx3nFezqbQy6",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 48790,
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
@@ -18420,6 +18509,13 @@
         "externalId": "a0p4a000000E7yvAAC",
         "name": "NZSL interpreter",
         "languageKey": "NZSL interpreter",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -18477,13 +18573,6 @@
     "mapUrl": "https://www.google.co.nz/maps/place/Catherine+Street+Medical+Centre/@-46.395845,168.363637,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d2c4b7430b9a79:0xb05e3496780fb42b!8m2!3d-46.395845!4d168.3658257",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 48790,
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
@@ -18495,6 +18584,13 @@
         "externalId": "a0p4a000000E7yvAAC",
         "name": "NZSL interpreter",
         "languageKey": "NZSL interpreter",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -30681,7 +30777,7 @@
   },
   {
     "displayAddress": "84a Titirangi Road, New Lynn, Auckland 0600",
-    "distanceInMeters": 32919.94834338,
+    "distanceInMeters": 37549.84383658,
     "extId": "a0R4a000000TamuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -32934,7 +33030,7 @@
   },
   {
     "displayAddress": "174 Golf Road Titirangi  Auckland  604",
-    "distanceInMeters": 33926.80043782,
+    "distanceInMeters": 36261.88208283,
     "extId": "a0R4a000000TqCbEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
@@ -40662,7 +40758,7 @@
   },
   {
     "displayAddress": "Shop w516 Lynnmall Shopping Centre, 3058 Great North Road   Auckland  640",
-    "distanceInMeters": 33113.08753838,
+    "distanceInMeters": 38169.14641033,
     "extId": "a0R4a000000UZ2JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -41481,7 +41577,7 @@
   },
   {
     "displayAddress": "19 Delta Ave, New Lynn, Auckland 0600",
-    "distanceInMeters": 32797.47355031,
+    "distanceInMeters": 38478.37094254,
     "extId": "a0R4a000000UeDkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -43638,13 +43734,6 @@
     "mapUrl": "https://goo.gl/maps/mY4m9QH1zbYmDue7A",
     "tags": [
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48789,
         "externalId": "a0p4a000000E7yrAAC",
         "name": "More space to move around",
@@ -43656,6 +43745,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -47497,13 +47593,6 @@
         ],
         "localStart": "09:15:00",
         "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "13:30:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages (Manadarin, Cantonese, Korean)",
@@ -47866,7 +47955,7 @@
   },
   {
     "displayAddress": "Lynnmall Shopping Centre (next to Whitcoulls), 3058 Great North Road New Lynn  Auckland  600",
-    "distanceInMeters": 33108.47773408,
+    "distanceInMeters": 38145.49289783,
     "extId": "a0R4a000000VSWLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
@@ -50521,7 +50610,7 @@
   },
   {
     "displayAddress": "226 West Coast Road Glen Eden  Auckland  602",
-    "distanceInMeters": 31450.12643013,
+    "distanceInMeters": 38355.62385025,
     "extId": "a0R4a000000VuotEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-28",
@@ -53451,7 +53540,7 @@
   },
   {
     "displayAddress": "Lynnmall Shopping Centre, Shop 1, 3058 Great North Road (Access via Westpac, BNZ entrance)",
-    "distanceInMeters": 33134.49653004,
+    "distanceInMeters": 38162.33390146,
     "extId": "a0R4a000000WeHLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -53702,7 +53791,7 @@
   },
   {
     "displayAddress": "268 blockhouse Bay Road Avondale  Auckland  600",
-    "distanceInMeters": 33942.1647322,
+    "distanceInMeters": 38203.58189356,
     "extId": "a0R4a000000WnAiEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-12",
@@ -54226,15 +54315,15 @@
         "days": [
           "fri"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
       },
       {
         "days": [
@@ -54247,8 +54336,8 @@
         "days": [
           "thu"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+Drummonds+Pharmacy/@-41.1696831,174.8242807,20.12z/data=!4m5!3m4!1s0x6d38acd21d5db197:0xe8f4dd4f9eb49da3!8m2!3d-41.1697831!4d174.8247484",
@@ -55410,7 +55499,7 @@
   },
   {
     "displayAddress": "1 McCrae Way New Lynn  Auckland  0600",
-    "distanceInMeters": 33120.03178935,
+    "distanceInMeters": 38055.43595159,
     "extId": "a0R4a000000XlTcEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-29",
@@ -56082,7 +56171,7 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -56096,7 +56185,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -56360,7 +56449,7 @@
     "distanceInMeters": 8613.66965213,
     "extId": "a0R4a000000YQabEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-03",
+    "startDate": "2021-11-05",
     "endDate": "2021-12-23",
     "location": {
       "lng": 174.727,
@@ -56683,7 +56772,7 @@
   },
   {
     "displayAddress": "275 New Windsor Road New Windsor  Auckland  600",
-    "distanceInMeters": 35230.81637338,
+    "distanceInMeters": 37619.79238385,
     "extId": "a0R4a000000YaOuEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-02",
