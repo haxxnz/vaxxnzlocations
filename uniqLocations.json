@@ -13550,14 +13550,14 @@
           "thu"
         ],
         "localStart": "18:00:00",
-        "localEnd": "21:00:00"
+        "localEnd": "20:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "18:00:00",
-        "localEnd": "21:00:00"
+        "localEnd": "20:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/8r5v4nJvu6jahzwo6",
@@ -15629,7 +15629,7 @@
     "extId": "a0R4a000000SKzREAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-05",
-    "endDate": "2021-11-30",
+    "endDate": "2021-12-18",
     "location": {
       "lng": 173.184,
       "lat": -41.3403
@@ -15642,14 +15642,14 @@
           "tue"
         ],
         "localStart": "17:45:00",
-        "localEnd": "20:15:00"
+        "localEnd": "19:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "17:45:00",
-        "localEnd": "20:15:00"
+        "localEnd": "19:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/42+Oxford+Street,+Richmond+7020,+New+Zealand/@-41.3405272,173.1820751,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3b943fcf388bb9:0xbcfc29409ba01eec!8m2!3d-41.3405312!4d173.1842638",
@@ -25754,17 +25754,17 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "26 Brown St   Upper Hutt  5018",
-    "distanceInMeters": 230.66059656,
+    "displayAddress": "723 Fergusson Drive Elderslea  Upper Hutt  5018",
+    "distanceInMeters": 43212.73754023,
     "extId": "a0R4a000000SzAKEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-09",
     "endDate": "2021-12-31",
     "location": {
-      "lng": 175.067,
-      "lat": -41.1265
+      "lng": 175.583,
+      "lat": -41.1256
     },
-    "name": "Riverstone Recreation Hall at Whirinaki (Temporary Unichem Upper Hutt site)",
+    "name": "Unichem Upper Hutt Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -25803,8 +25803,8 @@
         "localEnd": "17:00:00"
       }
     ],
-    "description": "NOTE: this venue is operating Tuesdays to Fridays under level 1 and 2. Vaccinations on Mondays will take place at Unichem Upper Hutt Pharmacy, 723 Fergusson Drive. Please keep an eye on our facebook page for updates and enter your cell number when booking (so we can contact you - the venue may change with alert levels). \r\n \r\nhttps://www.facebook.com/profile.php?id=100054237188521 \r\n \r\nYou will need to wait and be observed for 15 minutes after your vaccination.\r\n  \r\nYou must wear a facemask and be prepared to expose your full shoulder and upper arm without removing the facemask.\r\n \r\nPlease park in the rear carpark and ensure you are dressed warmly enough for the weather as there may be a cue outside.  \r\n  \r\nDO NOT ATTEND – PLEASE REBOOK If you are unwell with cold or flu like symptoms, sore throat, cough a high fever etc, have been to any locations of interest, are awaiting a COVID test or have been asked to stay home and self isolate.",
-    "mapUrl": "https://www.google.com/maps/place/723+Fergusson+Drive,+Elderslea,+Upper+Hutt+5018,+New+Zealand/@-41.1254769,175.0561567,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40ac51dcdaf5af:0x5815f818cfc47feb!8m2!3d-41.125481!4d175.0583454",
+    "description": "We have returned to the pharmacy after running a successful mass vaccination centre at Riverstone Recreation Hall at Whirinaki. Should alert levels or demand change we may return to the Hall. \r\n \r\nYou will need to wait and be observed for 15 minutes after your vaccination.\r\n \r\nYou must wear a facemask and be prepared to expose your full shoulder and upper arm without removing the facemask.\r\n \r\nDO NOT ATTEND – PLEASE REBOOK If you are unwell with cold or flu like symptoms, sore throat, cough a high fever etc, have been to any locations of interest, are awaiting a COVID test or have been asked to stay home and self isolate.",
+    "mapUrl": "https://urldefense.com/v3/__https://goo.gl/maps/kBEKi2FzqtD5Hgnb8__;!!A3teau8g8Q!DSbAb2ES37_tRbhHeWeWfSowI5i_kDtglIvyFnoeKumXjeZPsH9PdX7gV-Rmf5igm3vjvs4$",
     "tags": [
       {
         "id": 85184,
@@ -53778,7 +53778,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
@@ -53792,7 +53792,7 @@
       },
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
@@ -53886,13 +53886,6 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
           "sun"
         ],
         "localStart": "09:00:00",
@@ -53900,7 +53893,14 @@
       },
       {
         "days": [
-          "wed"
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:15:00"
@@ -53914,21 +53914,21 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:15:00"
       },
       {
         "days": [
-          "sat"
+          "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "15:15:00"
+        "localStart": "08:00:00",
+        "localEnd": "18:15:00"
       },
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:15:00"
@@ -53961,14 +53961,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "fri"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:15:00"
       },
       {
         "days": [
-          "fri"
+          "tue"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:15:00"
@@ -54007,7 +54007,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:45:00"
@@ -54021,21 +54021,7 @@
       },
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:45:00"
@@ -54046,6 +54032,20 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
       }
     ],
     "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
@@ -54082,13 +54082,6 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "11:00:00",
@@ -54097,6 +54090,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
