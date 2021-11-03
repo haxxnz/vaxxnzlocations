@@ -3921,7 +3921,7 @@
   },
   {
     "displayAddress": "1 McCrae Way New Lynn  Auckland  600",
-    "distanceInMeters": 32994.73584335,
+    "distanceInMeters": 38069.80572229,
     "extId": "a0R4a000000QD8JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -23508,6 +23508,20 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "10:00:00",
@@ -25721,14 +25735,14 @@
   },
   {
     "displayAddress": "723 Fergusson Drive Elderslea  Upper Hutt  5018",
-    "distanceInMeters": 15760.94725622,
+    "distanceInMeters": 833.09059328,
     "extId": "a0R4a000000SzAKEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-09",
     "endDate": "2021-12-31",
     "location": {
-      "lng": 174.881,
-      "lat": -41.1114
+      "lng": 175.058,
+      "lat": -41.1254
     },
     "name": "Unichem Upper Hutt Pharmacy",
     "timezone": "Pacific/Auckland",
@@ -30777,7 +30791,7 @@
   },
   {
     "displayAddress": "84a Titirangi Road, New Lynn, Auckland 0600",
-    "distanceInMeters": 32919.94834338,
+    "distanceInMeters": 37549.84383658,
     "extId": "a0R4a000000TamuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -33030,7 +33044,7 @@
   },
   {
     "displayAddress": "174 Golf Road Titirangi  Auckland  604",
-    "distanceInMeters": 33926.80043782,
+    "distanceInMeters": 36261.88208283,
     "extId": "a0R4a000000TqCbEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
@@ -35087,9 +35101,24 @@
         "localEnd": "17:45:00"
       }
     ],
-    "description": "Street parking | Wheelchair accessible | No toilets onsite.",
+    "description": "Staff spoken languages:  Mandarin, Cantonese, Hindi, Gujarati, Korean and Arabic",
     "mapUrl": "https://www.google.com/maps/place/Balmoral+Pharmacy+Auckland+%7C+Pharmacy+on+Dominion+Road/@-36.8892653,174.7465638,15z/data=!4m5!3m4!1s0x0:0x1be3fd73a77c07b5!8m2!3d-36.8892653!4d174.7465638",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-26",
     "locationPool": "default",
@@ -40758,7 +40787,7 @@
   },
   {
     "displayAddress": "Shop w516 Lynnmall Shopping Centre, 3058 Great North Road   Auckland  640",
-    "distanceInMeters": 33113.08753838,
+    "distanceInMeters": 38169.14641033,
     "extId": "a0R4a000000UZ2JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
@@ -41577,7 +41606,7 @@
   },
   {
     "displayAddress": "19 Delta Ave, New Lynn, Auckland 0600",
-    "distanceInMeters": 32797.47355031,
+    "distanceInMeters": 38478.37094254,
     "extId": "a0R4a000000UeDkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -46410,9 +46439,24 @@
         "localEnd": "18:45:00"
       }
     ],
-    "description": "Back Entrance: 72 Cavendish Drive, Manukau, 2104\r\n\r\nNo toilets onsite | Wheelchair accessible | Free onsite parking.",
+    "description": "Back Entrance: 72 Cavendish Drive, Manukau, 2104",
     "mapUrl": "https://g.page/bargain-chemist-manukau?share",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-13",
     "locationPool": "default",
@@ -47963,9 +48007,30 @@
         "localEnd": "17:30:00"
       }
     ],
-    "description": "Accessible toilets | Wheelchair accessible | Onsite parking | Foreign languages by appointment",
     "mapUrl": "https://goo.gl/maps/gUx6q3F5WNBABYua7",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-23",
     "locationPool": "default",
@@ -47976,7 +48041,7 @@
   },
   {
     "displayAddress": "Lynnmall Shopping Centre (next to Whitcoulls), 3058 Great North Road New Lynn  Auckland  600",
-    "distanceInMeters": 33108.47773408,
+    "distanceInMeters": 38145.49289783,
     "extId": "a0R4a000000VSWLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
@@ -50631,7 +50696,7 @@
   },
   {
     "displayAddress": "226 West Coast Road Glen Eden  Auckland  602",
-    "distanceInMeters": 31450.12643013,
+    "distanceInMeters": 38355.62385025,
     "extId": "a0R4a000000VuotEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-28",
@@ -53561,7 +53626,7 @@
   },
   {
     "displayAddress": "Lynnmall Shopping Centre, Shop 1, 3058 Great North Road (Access via Westpac, BNZ entrance)",
-    "distanceInMeters": 33134.49653004,
+    "distanceInMeters": 38162.33390146,
     "extId": "a0R4a000000WeHLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -53752,9 +53817,23 @@
         "localEnd": "16:15:00"
       }
     ],
-    "description": "Toilets onsite | Free onsite parking",
     "mapUrl": "https://www.google.com/maps/place/Allen's+Village+Pharmacy/@-36.7759551,174.5558371,20.56z/data=!4m5!3m4!1s0x0:0x57ab2fc97c6d32d4!8m2!3d-36.7756831!4d174.5558637",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-10-12",
     "locationPool": "default",
@@ -53812,7 +53891,7 @@
   },
   {
     "displayAddress": "268 blockhouse Bay Road Avondale  Auckland  600",
-    "distanceInMeters": 33942.1647322,
+    "distanceInMeters": 38203.58189356,
     "extId": "a0R4a000000WnAiEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-12",
@@ -55155,9 +55234,30 @@
         "localEnd": "18:45:00"
       }
     ],
-    "description": "Toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://g.page/AirportOaksPharmacy?share",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-10-20",
     "locationPool": "default",
@@ -55520,7 +55620,7 @@
   },
   {
     "displayAddress": "1 McCrae Way New Lynn  Auckland  0600",
-    "distanceInMeters": 33120.03178935,
+    "distanceInMeters": 38055.43595159,
     "extId": "a0R4a000000XlTcEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-29",
@@ -56001,9 +56101,23 @@
         "localEnd": "21:15:00"
       }
     ],
-    "description": "Free onsite parking | Low sensory environment",
     "mapUrl": "https://www.google.com/maps/place/Botany+Superclinic+Pharmacy+(inside+EastCare+Medical)/@-36.922397,174.9115113,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4b65dbed6ba1:0xffda54510b21063!8m2!3d-36.922397!4d174.9137",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-10-29",
     "locationPool": "default",
@@ -56793,7 +56907,7 @@
   },
   {
     "displayAddress": "275 New Windsor Road New Windsor  Auckland  600",
-    "distanceInMeters": 35230.81637338,
+    "distanceInMeters": 37619.79238385,
     "extId": "a0R4a000000YaOuEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-02",
