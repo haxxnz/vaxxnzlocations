@@ -17286,7 +17286,7 @@
       "lng": 169.136,
       "lat": -44.7094
     },
-    "name": "Aspiring Medical Centre - Wanaka Lakes Health Centre",
+    "name": "Aspiring Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -29072,9 +29072,30 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets available.",
     "mapUrl": "https://goo.gl/maps/yJTSH5LV1EdqiBtx5",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-12",
     "locationPool": "default",
@@ -32269,9 +32290,30 @@
         "localEnd": "17:45:00"
       }
     ],
-    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages by appointment",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+St+Lukes/@-36.8834567,174.7318765,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d465577fc4e25:0xfff8bc4168dc31dd!8m2!3d-36.8834567!4d174.7340652",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-27",
     "locationPool": "default",
@@ -32391,9 +32433,23 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "No toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://g.page/lifepharmacyorewa?share",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-02",
     "locationPool": "default",
@@ -33981,9 +34037,37 @@
         "localEnd": "17:45:00"
       }
     ],
-    "description": "Life Pharmacy Ormiston - Flat Bush accepts walk-ins | Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Ormiston+-+Flat+Bush/@-36.9647261,174.9127031,15z/data=!4m5!3m4!1s0x0:0x879ae0ddcea878ab!8m2!3d-36.9647261!4d174.9127031",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-09",
     "locationPool": "default",
@@ -36374,17 +36458,17 @@
     "mapUrl": "https://g.page/life_pharmacy_howick_village?share",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
         "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
@@ -44243,9 +44327,30 @@
         "localEnd": "17:15:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Meadowbank/@-36.8760131,174.8278125,15z/data=!4m5!3m4!1s0x0:0xc10189f8daedf83f!8m2!3d-36.8760131!4d174.8278125",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-17",
     "locationPool": "default",
@@ -44407,16 +44512,8 @@
         "localEnd": "17:15:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets.",
     "mapUrl": "https://goo.gl/maps/rHDwcLmjUX61Mjdk7",
     "tags": [
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
       {
         "id": 85183,
         "externalId": "a0p4a000000EOb1AAG",
@@ -44429,6 +44526,13 @@
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
         "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
@@ -48508,9 +48612,30 @@
         "localEnd": "17:15:00"
       }
     ],
-    "description": "Accessible toilets | Wheelchair accessible | Free parking available | Foreign languages by appointment.",
     "mapUrl": "https://www.google.co.nz/maps/place/Life+Pharmacy+NorthWest/@-36.8184968,174.6094733,17z/data=!4m5!3m4!1s0x6d0d3fe47bf13c23:0x676235bf35ffd256!8m2!3d-36.8184885!4d174.6116871",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-21",
     "locationPool": "default",
@@ -50730,9 +50855,31 @@
         "localEnd": "17:00:00"
       }
     ],
-    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages (Mandarin)",
+    "description": "Staff spoken language (Mandarin)",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.8804552,174.796426,15z/data=!4m5!3m4!1s0x0:0xd470dc19d15afd87!8m2!3d-36.8804656!4d174.7964243",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-10-06",
     "locationPool": "default",
@@ -53874,9 +54021,30 @@
         "localEnd": "17:15:00"
       }
     ],
-    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking (2 Hours)",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Newmarket/@-36.8703705,174.7769522,15z/data=!4m5!3m4!1s0x0:0x769bc8c381687db2!8m2!3d-36.8703705!4d174.7769522",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-10-05",
     "locationPool": "default",
