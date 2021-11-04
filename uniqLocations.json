@@ -23856,7 +23856,7 @@
     "extId": "a0R4a000000Sul9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
-    "endDate": "2021-12-01",
+    "endDate": "2022-01-17",
     "location": {
       "lng": 175.618,
       "lat": -40.3502
@@ -33433,9 +33433,31 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "Accessible toilets in the mall | Wheelchair accessible | Free onsite parking | Foreign Languages (Mandarin, Albanian)",
+    "description": "Foreign Languages (Mandarin, Albanian)",
     "mapUrl": "https://goo.gl/maps/4xEqRXvxKJrNGHmp7",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-07",
     "locationPool": "default",
@@ -33687,9 +33709,24 @@
         "localEnd": "16:15:00"
       }
     ],
-    "description": "No toilets onsite - mall toilets available | Wheelchair accessible | Free onsite parking | Foreign Languages (Korean, Mandarin, Hindi, Russian)",
+    "description": "Foreign Languages (Korean, Mandarin, Hindi, Russian)",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.7825935,174.7199911,17z/data=!4m12!1m6!3m5!1s0x6d0d390f11e8a405:0xddedb5c366fc534e!2sLife+Pharmacy!8m2!3d-36.7825935!4d174.7221798!3m4!1s0x6d0d390f11e8a405:0xddedb5c366fc534e!8m2!3d-36.7825935!4d174.722",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-03",
     "locationPool": "default",
@@ -50917,9 +50954,30 @@
         "localEnd": "16:00:00"
       }
     ],
-    "description": "Toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Birkenhead/@-36.8122036,174.7228466,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d38f3961e0f15:0x1965ca35aee3526!8m2!3d-36.8122282!4d174.7250308",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-28",
     "locationPool": "default",
@@ -57621,6 +57679,52 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-11-03",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Park Drive   Raglan  3225",
+    "distanceInMeters": 36672.04424189,
+    "extId": "a0R4a000000YmnREAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-04",
+    "endDate": "2021-11-10",
+    "location": {
+      "lng": 174.877,
+      "lat": -37.7987
+    },
+    "name": "Raglan Rugby Club",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/E7SgXtZX2yzp5FTm8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-04",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
