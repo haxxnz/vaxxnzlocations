@@ -423,13 +423,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -441,6 +434,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -1072,13 +1072,6 @@
     "mapUrl": "https://goo.gl/maps/eS52iNJPnEN3XrLs5",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85187,
         "externalId": "a0p4a000000EOb5AAG",
         "name": "Drive-through location",
@@ -1097,6 +1090,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -1869,21 +1869,7 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
           "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "sat"
         ],
         "localStart": "08:00:00",
         "localEnd": "18:30:00"
@@ -1904,9 +1890,23 @@
       },
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "07:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "07:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "08:00:00",
         "localEnd": "18:30:00"
       },
       {
@@ -6009,7 +6009,7 @@
   },
   {
     "displayAddress": "295 Palmerston Road, Gisborne  4010",
-    "distanceInMeters": 0.25764527,
+    "distanceInMeters": 245.44152147,
     "extId": "a0R4a000000QNR1EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-19",
@@ -11745,13 +11745,6 @@
     "mapUrl": "https://g.page/HubHornby?share",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -11763,6 +11756,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -14917,13 +14917,6 @@
     "mapUrl": "https://goo.gl/maps/BjRzcQisYZHxJ3mX9",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
@@ -14942,6 +14935,13 @@
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -20669,13 +20669,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -20687,6 +20680,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -20894,13 +20894,6 @@
     "mapUrl": "https://goo.gl/maps/CYHRWbY1ahL96eYq5",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
@@ -20926,6 +20919,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -24289,13 +24289,6 @@
     "mapUrl": "https://goo.gl/maps/bBMDBkDWncC4HvcBA",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85187,
         "externalId": "a0p4a000000EOb5AAG",
         "name": "Drive-through location",
@@ -24314,6 +24307,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -35532,31 +35532,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "7/11 Queens Drive Kilbirnie  Wellington  6022",
-    "distanceInMeters": 31647.66011783,
-    "extId": "a0R4a000000U0VJEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-24",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.794,
-      "lat": -41.3204
-    },
-    "name": "Masjid Event",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Walk in or book your appointment, bring your  bubble for group vaccinations. Ice cream van for those being vaccinated. All welcome.",
-    "mapUrl": "https://www.google.com/maps/place/Wellington+Masjid/@-41.3205726,174.7931844,19z/data=!4m5!3m4!1s0x6d38aff4cc40a383:0x7998590b217abb56!8m2!3d-41.3204169!4d174.7939032",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "411 Thames Highway Oamaru North  Oamaru  9400",
     "distanceInMeters": 0.33634677,
     "extId": "a0R4a000000U2BFEA0",
@@ -37192,13 +37167,6 @@
     "mapUrl": "https://goo.gl/maps/psb8s1QJrAEPasrT9",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -37210,6 +37178,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -42282,7 +42257,7 @@
   },
   {
     "displayAddress": "232 Gladstone Road   Gisborne  4010",
-    "distanceInMeters": 245.4584993,
+    "distanceInMeters": 0.52944602,
     "extId": "a0R4a000000Uf5gEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -49163,13 +49138,6 @@
     "mapUrl": "https://goo.gl/maps/BUtpnSCXLG8HH9s67",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -49181,6 +49149,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -52973,21 +52948,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -53001,7 +52962,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
