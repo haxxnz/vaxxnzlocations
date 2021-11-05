@@ -210,13 +210,6 @@
     "mapUrl": "https://goo.gl/maps/14HEWEg9DtjffSP88",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85187,
         "externalId": "a0p4a000000EOb5AAG",
         "name": "Drive-through location",
@@ -235,6 +228,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -919,13 +919,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -937,6 +930,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -11752,13 +11752,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -11770,6 +11763,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -17204,13 +17204,6 @@
     "mapUrl": "https://g.page/Elmwood-Pharmacy-Christchurch?share",
     "tags": [
       {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -17222,6 +17215,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
         "isSystemTag": false
       },
       {
@@ -24067,13 +24067,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -24085,6 +24078,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -26307,17 +26307,17 @@
     "mapUrl": "https://www.google.com/maps/place/Wellworks+Pharmacy+Taranaki+Street/@-41.2934236,174.7785918,15z/data=!4m5!3m4!1s0x0:0x76c127efdcc6fa6b!8m2!3d-41.2934236!4d174.7785918",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -31233,52 +31233,38 @@
     "openHours": [
       {
         "days": [
-          "sun"
+          "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:30:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:30:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
-          "thu"
+          "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:30:00"
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
       }
     ],
     "description": "No onsite parking - pay parking available nearby | Wheelchair accessible | Accessible toilets",
@@ -41970,13 +41956,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -41988,6 +41967,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -42230,13 +42216,6 @@
     "mapUrl": "https://www.google.co.nz/maps/place/Upper+Hutt+Health+Centre/@-41.1220455,175.0726724,18.5z/data=!4m8!1m2!3m1!2sUpper+Hutt+Health+Centre!3m4!1s0x6d40adb1a7271107:0xc9e99551a3d05dca!8m2!3d-41.1218951!4d175.0731879",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -42248,6 +42227,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -42483,13 +42469,6 @@
     "mapUrl": "https://goo.gl/maps/eiNVjB1N71sScEUT9",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
@@ -42501,6 +42480,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
