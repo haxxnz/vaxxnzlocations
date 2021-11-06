@@ -556,31 +556,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "136 Ngamotu Road Spotswood  New Plymouth  4310",
-    "distanceInMeters": 61609.47280207,
-    "extId": "a0R4a000000PiTuEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-06-08",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.024,
-      "lat": -39.0707
-    },
-    "name": "Tui Ora, New Plymouth - Reserve",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Wheelchair accessible toilets, Wheelchair ramp access to site\r\nForeign language translation service provided By appointment only \r\nSign language translator on site By appointment only\r\nOn-site parking  ",
-    "mapUrl": "https://goo.gl/maps/AZxuZSCTfNp5oiFZ7",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-05-31",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
     "distanceInMeters": 61399.81323653,
     "extId": "a0R4a000000PjSoEAK",
@@ -21050,151 +21025,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "33 Ganges Road Khandallah  Wellington  6035",
-    "distanceInMeters": 26846.81139901,
-    "extId": "a0R4a000000SdIkEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-18",
-    "endDate": "2021-11-14",
-    "location": {
-      "lng": 174.792,
-      "lat": -41.2467
-    },
-    "name": "Khandallah Presbyterian Church Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Khandallah+Presbyterian+Church/@-41.2472978,174.7918233,15z/data=!4m5!3m4!1s0x0:0x816b781d50c10044!8m2!3d-41.2473035!4d174.7918129",
-    "tags": [
-      {
-        "id": 85187,
-        "externalId": "a0p4a000000EOb5AAG",
-        "name": "Drive-through location",
-        "languageKey": "Drive-through location",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48793,
-        "externalId": "a0p4a000000E7yvAAC",
-        "name": "NZSL interpreter",
-        "languageKey": "NZSL interpreter",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-28",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
     "distanceInMeters": 68956.93554025,
     "extId": "a0R4a000000SevuEAC",
@@ -23056,66 +22886,6 @@
     "timezone": "Pacific/Auckland",
     "openHours": [],
     "mapUrl": "https://www.google.com/maps/place/Ruapehu+Road,+Waiouru+Military+Camp+4826,+New+Zealand/@-39.4686259,175.67463,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6a596780aeb75b:0x76097224312f3897!8m2!3d-39.4686259!4d175.6768187",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-02",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Coromandel Rescue Helicopter hanger; End Abrahamson Drive   Whitianga  3591",
-    "distanceInMeters": 24504.78074002,
-    "extId": "a0R4a000000SrRDEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-17",
-    "endDate": "2021-11-06",
-    "location": {
-      "lng": 175.674,
-      "lat": -36.8302
-    },
-    "name": "Te Korowai Whitianga Community Vaccination Site",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Abrahamson+Drive,+Whitianga+3591/@-36.8299916,175.6747066,19z/data=!3m1!4b1!4m5!3m4!1s0x6d725e87d2a1e829:0xc7be9ae781b72132!8m2!3d-36.8299836!4d175.6752382?shorturl=1",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-02",
@@ -27583,31 +27353,6 @@
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-08-06",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "22 Emmett Street, Newtown  Wellington  6021",
-    "distanceInMeters": 31828.18786229,
-    "extId": "a0R4a000000TB1qEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-01",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.781,
-      "lat": -41.3117
-    },
-    "name": "St Anne's Hall",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "All welcome for first or second doses. We cater for those with needle phobia – let staff know as soon as you arrive and we will arrange a support person (unless you have your own to bring!). Walk ins welcome.",
-    "mapUrl": "https://www.google.co.nz/maps/place/St+Anne's+Hall/@-41.3119325,174.7794793,19.25z/data=!4m5!3m4!1s0x6d38afc8ce1f83ed:0xba271b3cdbf47535!8m2!3d-41.3117656!4d174.7806802",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-10",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -43379,108 +43124,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "3 Williamson Road   Hastings  4102",
-    "distanceInMeters": 12172.80618942,
-    "extId": "a0R4a000000Utu4EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-12",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 176.916,
-      "lat": -39.5842
-    },
-    "name": "Clive Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/BgR7pL1AZoQfChKp8",
-    "tags": [
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-06",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "188 St Heliers Bay Road St Heliers  Auckland  1071",
     "distanceInMeters": 26824.52938098,
     "extId": "a0R4a000000Uw0TEAS",
@@ -45073,30 +44716,6 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/18+Glenda+Drive,+Frankton,+Queenstown+9300,+New+Zealand/@-45.0094544,168.7465892,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d51e577f73d201:0xa02bb19b521b5b0f!8m2!3d-45.0094544!4d168.7487779",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-08",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Joe Oconnell Drive Frankton  Queenstown  9371",
-    "distanceInMeters": 588.66330174,
-    "extId": "a0R4a000000V3CwEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-09",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 168.738,
-      "lat": -45.0166
-    },
-    "name": "Engage Safety - Queenstown Events Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Queenstown+Events+Centre/@-45.0168089,168.7352653,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d51e42dd6a3753:0x84532dd90de76de0!8m2!3d-45.0168027!4d168.7376365",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-08",
@@ -52290,30 +51909,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "508 Pakowhai Road Frimley  Hastings  4120",
-    "distanceInMeters": 4485.58390652,
-    "extId": "a0R4a000000W2KZEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-24",
-    "endDate": "2021-12-12",
-    "location": {
-      "lng": 176.835,
-      "lat": -39.626
-    },
-    "name": "Hastings Girls High School",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Hastings+Girls'+High+School/@-39.6267799,176.8349075,15z/data=!4m5!3m4!1s0x0:0x5b914839cfde42f5!8m2!3d-39.6267794!4d176.8349705",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "B2/570 Whangaparaoa Road Stanmore Bay  Auckland  0932",
     "distanceInMeters": 1698.13107368,
     "extId": "a0R4a000000W3JVEA0",
@@ -55505,30 +55100,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "71 High Street   Bulls  4818",
-    "distanceInMeters": 27932.69955716,
-    "extId": "a0R4a000000XMAEEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-15",
-    "endDate": "2021-12-01",
-    "location": {
-      "lng": 175.384,
-      "lat": -40.1739
-    },
-    "name": "Bulls Medical",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/71+High+Street,+Bulls+4818/@-40.1738645,175.3840257,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40391d2b47b8fd:0xd1e11c69f0ff6860!8m2!3d-40.1738645!4d175.3862144",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-14",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "149c Kirkbride Road Mangere  Auckland  2022",
     "distanceInMeters": 27598.9951217,
     "extId": "a0R4a000000XPybEAG",
@@ -57058,39 +56629,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "237 Taita Drive Avalon  Lower Hutt  5011",
-    "distanceInMeters": 12004.6296172,
-    "extId": "a0R4a000000YNGKEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-06",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.949,
-      "lat": -41.1846
-    },
-    "name": "Fraser Park Sportsville",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "description": "We allow WALK INS and BOOKINGS at our vax centre.\r\nWe are based indoors at the Level 2  Ricoh Sport Centre located at Fraser Park.\r\n\r\nYou will need to wait and be observed for 15 minutes after your vaccination.\r\nYou must wear a facemask and keep your social distancing of 2meters inside our centre.",
-    "mapUrl": "https://www.google.com/maps/place/Fraser+Park+Sportsville+Inc/@-41.1848518,174.9478039,17z/data=!4m9!1m2!2m1!1sricoh+sports+centre!3m5!1s0x6d475519e8dcf9d9:0x70d8ff1c9785bd4b!8m2!3d-41.1847852!4d174.94922!15sChNyaWNvaCBzcG9ydHMgY2VudHJlIgOIAQFaFSITcmljb2g",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-10-28",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "225 Onewa Road Birkenhead, Northcote, Northshore  Auckland  626",
     "distanceInMeters": 19246.27881423,
     "extId": "a0R4a000000YQabEAG",
@@ -57763,52 +57301,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-11-03",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Park Drive   Raglan  3225",
-    "distanceInMeters": 36672.04424189,
-    "extId": "a0R4a000000YmnREAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-04",
-    "endDate": "2021-11-10",
-    "location": {
-      "lng": 174.877,
-      "lat": -37.7987
-    },
-    "name": "Raglan Rugby Club",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/E7SgXtZX2yzp5FTm8",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-11-04",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
