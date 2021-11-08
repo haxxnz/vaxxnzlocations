@@ -10657,7 +10657,7 @@
           "tue"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:00:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
@@ -44982,6 +44982,27 @@
     "name": "Te Arawa Vaccination Drive-through",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "20:00:00"
+      },
       {
         "days": [
           "sun"
