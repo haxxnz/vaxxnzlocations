@@ -21670,59 +21670,6 @@
     }
   },
   {
-    "lat": -41.2087358,
-    "lng": 174.9043247,
-    "name": "218 High Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "1:30 PM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "1:30 PM – 8:00 PM",
-        "Wed – Thu": "10:00 AM – 4:30 PM",
-        "Sat": "10:30 AM – 4:30 PM",
-        "Sun": "9:30 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.131353,
-    "lng": 175.0656188,
-    "name": "Upper Hutt",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
-    "opennningHours": {
-      "schedule": {
-        "Thu – Sat": "9:30 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -46.2366904,
     "lng": 169.73963290000006,
     "name": "Clutha Health First Health Centre",
@@ -23461,7 +23408,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"4b2e262a22270b2c24392e262e2f22282a27652824652531\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"3e5b535f57527e59514c5b535b5a575d5f52105d51105044\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -23939,6 +23886,58 @@
       "notesHtml": [
         "Please call East Care Accident &amp; Medical Clinic 09-2771516 for out of hours assistance."
       ]
+    }
+  },
+  {
+    "lat": -41.2087358,
+    "lng": 174.9043247,
+    "name": "218 High Street",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "1:30 PM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "1:30 PM – 8:00 PM",
+        "Wed – Thu": "10:00 AM – 4:30 PM",
+        "Sun": "9:30 AM – 4:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.131353,
+    "lng": 175.0656188,
+    "name": "Upper Hutt",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
+    "opennningHours": {
+      "schedule": {
+        "Thu – Sat": "9:30 AM – 4:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
     }
   }
 ]
