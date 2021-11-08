@@ -13906,29 +13906,29 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -13948,8 +13948,8 @@
         "days": [
           "mon"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "17:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/MmPtZ2YBptBQCmvH6",
@@ -30079,7 +30079,7 @@
     "extId": "a0R4a000000TZO8EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-24",
-    "endDate": "2021-11-27",
+    "endDate": "2021-12-24",
     "location": {
       "lng": 175.626,
       "lat": -40.3478
@@ -54331,13 +54331,6 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "11:00:00",
@@ -54346,6 +54339,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
@@ -54460,6 +54460,20 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "mon"
         ],
         "localStart": "09:30:00",
@@ -54475,20 +54489,6 @@
       {
         "days": [
           "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -54549,7 +54549,7 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
@@ -54563,7 +54563,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:15:00"
@@ -56181,6 +56181,13 @@
       },
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "11:00:00",
@@ -56196,13 +56203,6 @@
       {
         "days": [
           "thu"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "11:00:00",
         "localEnd": "14:30:00"
@@ -56534,6 +56534,13 @@
       },
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "09:00:00",
@@ -56542,13 +56549,6 @@
       {
         "days": [
           "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -56602,6 +56602,13 @@
       },
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:30:00",
@@ -56613,13 +56620,6 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
@@ -57131,6 +57131,13 @@
       },
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -57142,13 +57149,6 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+Family+Health+Pharmacy/@-37.8893764,175.4538267,36m/data=!3m1!1e3!4m5!3m4!1s0x6d6d0321da97bdb5:0xee4def36bd7af2e!8m2!3d-37.8893112!4d175.4538504",
@@ -57479,14 +57479,14 @@
       },
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "12:00:00",
         "localEnd": "13:00:00"
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "12:00:00",
         "localEnd": "13:00:00"
@@ -57539,10 +57539,10 @@
       },
       {
         "days": [
-          "thu"
+          "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:15:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
@@ -57560,10 +57560,10 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "16:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/jCwqpi73afnbZJoN8",
@@ -57592,6 +57592,88 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-11-03",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "4 Bedford Court Cannons Creek  Porirua  5024",
+    "distanceInMeters": 17096.81743183,
+    "extId": "a0R4a000000Ymf8EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-13",
+    "endDate": "2021-12-24",
+    "location": {
+      "lng": 174.866,
+      "lat": -41.1413
+    },
+    "name": "Pacific Health Plus",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/s724Rkr7HSZZHkad7",
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-04",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
