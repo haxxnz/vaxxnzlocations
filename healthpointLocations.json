@@ -9264,7 +9264,9 @@
         "Mon – Wed": "9:00 AM – 5:00 AM",
         "Thu": "9:00 AM – 6:30 AM"
       },
-      "exceptions": {},
+      "exceptions": {
+        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:30 AM – 5:00 PM). Open 21 Dec (8:30 AM – 5:00 PM). Open 22 Dec (8:30 AM – 5:00 PM). Closed 23 Dec — 7 Jan."
+      },
       "notesHtml": []
     }
   },
@@ -20256,7 +20258,7 @@
     "name": "Central Energy Trust Arena 2: COVID-19 Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:20 PM.",
+    "openTodayHours": "9:30 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Drive through",
@@ -20268,9 +20270,8 @@
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-central-covid-19-vaccination/at/central-energy-trust-arena-2-covid-19-vaccination/",
     "opennningHours": {
       "schedule": {
-        "Mon – Wed": "8:30 AM – 6:20 PM",
-        "Fri": "8:30 AM – 6:20 PM",
-        "Sat – Sun": "9:30 AM – 4:20 PM"
+        "Mon – Wed": "9:30 AM – 4:30 PM",
+        "Fri – Sun": "9:30 AM – 4:30 PM"
       },
       "exceptions": {},
       "notesHtml": [
@@ -23408,7 +23409,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"3e5b535f57527e59514c5b535b5a575d5f52105d51105044\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d5b0b8b4bcb995b2baa7b0b8b0b1bcb6b4b9fbb6bafbbbaf\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -23858,37 +23859,6 @@
     }
   },
   {
-    "lat": -36.9567364,
-    "lng": 174.83386180000002,
-    "name": "The Doctors Middlemore",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "215 Massey Road, Māngere East, Auckland",
-    "telephone": "(09) 275 9977",
-    "faxNumber": "(09) 275 3353",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-middlemore/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 8:00 PM",
-        "Mon – Fri": "8:00 AM – 4:30 PM",
-        "Sat – Sun": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
-      },
-      "notesHtml": [
-        "Please call East Care Accident &amp; Medical Clinic 09-2771516 for out of hours assistance."
-      ]
-    }
-  },
-  {
     "lat": -41.2087358,
     "lng": 174.9043247,
     "name": "218 High Street",
@@ -23938,6 +23908,37 @@
       },
       "exceptions": {},
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9567364,
+    "lng": 174.83386180000002,
+    "name": "The Doctors Middlemore",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "215 Massey Road, Māngere East, Auckland",
+    "telephone": "(09) 275 9977",
+    "faxNumber": "(09) 275 3353",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-middlemore/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:00 AM – 8:00 PM",
+        "Mon – Fri": "8:00 AM – 4:30 PM",
+        "Sat – Sun": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
+      },
+      "notesHtml": [
+        "Please call East Care Accident &amp; Medical Clinic 09-2771516 for out of hours assistance."
+      ]
     }
   }
 ]
