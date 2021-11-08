@@ -4618,8 +4618,8 @@
         "days": [
           "sun"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "16:45:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:30:00"
       },
       {
         "days": [
@@ -45799,13 +45799,6 @@
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.7878775,174.7699741,15z/data=!4m5!3m4!1s0x0:0xad0819cd55540a7f!8m2!3d-36.7878775!4d174.7699741",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
@@ -45817,6 +45810,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       }
     ],
@@ -48822,20 +48822,6 @@
     "mapUrl": "https://www.google.co.nz/maps/place/5142+South+Road,+Oaonui+4681,+New+Zealand/@-39.3854222,173.8099632,17z/data=!3m1!4b1!4m5!3m4!1s0x6d15c46772a761b7:0x1ded4879ed508d80!8m2!3d-39.3854222!4d173.8121519",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -48861,6 +48847,20 @@
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
         "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
         "isSystemTag": false
       }
     ],
