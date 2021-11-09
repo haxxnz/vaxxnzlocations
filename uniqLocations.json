@@ -40967,6 +40967,89 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "42 Verissimo Drive Māngere  Auckland  2022",
+    "distanceInMeters": 32864.75984322,
+    "extId": "a0R4a000000UbxJEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-24",
+    "endDate": "2021-12-23",
+    "location": {
+      "lng": 174.79,
+      "lat": -36.9918
+    },
+    "name": "Airport Park N Ride - Open",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "18:30:00"
+      }
+    ],
+    "description": "Drive through vaccination centre | Open from 08.30am - 4.00pm",
+    "mapUrl": "https://www.google.com/maps/place/42+Verissimo+Drive,+M%C4%81ngere,+Auckland+2022/@-36.9904124,174.7862457,17z/data=!4m13!1m7!3m6!1s0x6d0d4fecad0db6f3:0x8b992114a9ec41da!2s42+Verissimo+Drive,+M%C4%81ngere,+Auckland+2022!3b1!8m2!3d-36.9904167!4d174.7884344",
+    "tags": [
+      {
+        "id": 85187,
+        "externalId": "a0p4a000000EOb5AAG",
+        "name": "Drive-through location",
+        "languageKey": "Drive-through location",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-24",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "145 Wai-Iti Road Highfield  Timaru  7910",
     "distanceInMeters": 69130.80026834,
     "extId": "a0R4a000000UdxkEAC",
@@ -41641,81 +41724,6 @@
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/232+Gladstone+Road,+Gisborne+4010/@-38.6644301,178.0226586,20.33z/data=!4m12!1m6!3m5!1s0x6d66783b3dba61bd:0xe6117ad00fe4a72c!2sBramwells+Unichem+Pharmacy!8m2!3d-38.6642882!4d178.0228023!3m4!1s0x6d66783b3dba61bd:0x644afb12",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-02",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Shop 11, 217 Great South Road Papatoetoe  Auckland  2025",
-    "distanceInMeters": 32993.5469587,
-    "extId": "a0R4a000000UfYdEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-03",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.861,
-      "lat": -36.9708
-    },
-    "name": "Unichem Hunters Plaza Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      }
-    ],
-    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign Languages (Marathi, Bengali, Fijian Hindi)",
-    "mapUrl": "https://www.google.com/maps/place/Unichem/@-36.9707715,174.8592888,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4c2b6e74794b:0xf0698797764c1ef7!8m2!3d-36.9707715!4d174.8614775",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-02",
@@ -45543,6 +45551,13 @@
     "name": "Unichem Main Street Pharmacy Howick",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
+      },
       {
         "days": [
           "fri"
