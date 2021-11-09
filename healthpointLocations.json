@@ -22450,36 +22450,6 @@
     }
   },
   {
-    "lat": -45.88205179999999,
-    "lng": 170.48280269999998,
-    "name": "Mornington Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "169 Eglinton Road, Mornington, Dunedin",
-    "telephone": "(03) 466 5011",
-    "faxNumber": "(03) 453 6115",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mornington-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "2:30 PM – 4:00 PM",
-        "Sat": "9:00 AM – 5:00 PM",
-        "Sun": "10:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 5:00 PM), Otago Anniversary (21 Mar, 10:00 AM – 5:00 PM), Good Friday (15 Apr, 10:00 AM – 5:00 PM), Easter Sunday (17 Apr, 10:00 AM – 5:00 PM), Easter Monday (18 Apr, 10:00 AM – 5:00 PM), ANZAC Day (25 Apr, 10:00 AM – 5:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 5:00 PM), Labour Day (24 Oct, 10:00 AM – 5:00 PM).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec. Open 26 Dec — 27 Dec. Open 27 Dec (10:00 AM – 5:00 PM). Open 28 Dec (10:00 AM – 5:00 PM). Open 29 Dec — 3 Jan. Open 3 Jan (10:00 AM – 5:00 PM). Open 4 Jan (10:00 AM – 5:00 PM). Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "After Hours: Call clinic phone for instructions on how to contact on call GP"
-      ]
-    }
-  },
-  {
     "lat": -37.2601873,
     "lng": 174.94639670000004,
     "name": "Unichem Tuakau Pharmacy",
@@ -22814,7 +22784,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"46232b272f2a06212934232b23222f25272a68252968283c\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"1c79717d75705c7b736e79717978757f7d70327f73327266\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -23202,58 +23172,6 @@
     "opennningHours": {
       "schedule": {
         "Mon – Sun": "9:00 AM – 5:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.2087358,
-    "lng": 174.9043247,
-    "name": "218 High Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "1:30 PM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "1:30 PM – 8:00 PM",
-        "Wed – Thu": "10:00 AM – 4:30 PM",
-        "Sun": "9:30 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.131353,
-    "lng": 175.0656188,
-    "name": "Upper Hutt",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
-    "opennningHours": {
-      "schedule": {
-        "Thu – Sat": "9:30 AM – 4:30 PM"
       },
       "exceptions": {},
       "notesHtml": []
@@ -23768,6 +23686,101 @@
     }
   },
   {
+    "lat": -45.88205179999999,
+    "lng": 170.48280269999998,
+    "name": "Mornington Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "169 Eglinton Road, Mornington, Dunedin",
+    "telephone": "(03) 466 5011",
+    "faxNumber": "(03) 453 6115",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mornington-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "2:30 PM – 4:00 PM",
+        "Sat": "9:00 AM – 5:00 PM",
+        "Sun": "10:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 5:00 PM), Otago Anniversary (21 Mar, 10:00 AM – 5:00 PM), Good Friday (15 Apr, 10:00 AM – 5:00 PM), Easter Sunday (17 Apr, 10:00 AM – 5:00 PM), Easter Monday (18 Apr, 10:00 AM – 5:00 PM), ANZAC Day (25 Apr, 10:00 AM – 5:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 5:00 PM), Labour Day (24 Oct, 10:00 AM – 5:00 PM).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec. Open 26 Dec — 27 Dec. Open 27 Dec (10:00 AM – 5:00 PM). Open 28 Dec (10:00 AM – 5:00 PM). Open 29 Dec — 3 Jan. Open 3 Jan (10:00 AM – 5:00 PM). Open 4 Jan (10:00 AM – 5:00 PM). Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "After Hours: Call clinic phone for instructions on how to contact on call GP"
+      ]
+    }
+  },
+  {
+    "lat": -35.7273362,
+    "lng": 174.3172539,
+    "name": "Whāngarei - 5 Waltons St",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
+    "telephone": "0800 272 4842",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "<strong>&nbsp;</strong>Ngāti Hine Health Trust Whangārei Vax Centre&nbsp; will be open <strong>EVERY DAY Monday - Friday</strong>",
+        "<strong>Opens at 9am - Closes between 12pm and 2pm depending on boookings.</strong>",
+        "<strong>&nbsp;</strong>",
+        "<strong>Booking are preferred , but walk-ins by whānau are welcome</strong>",
+        "<strong>Book by phoning 0800 272 4842 or online <a href=\"https://bookmyvaccine.covid19.health.nz/\"> Book My Vaccine</a></strong>",
+        "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
+        "<strong>All current Alert Level status guidelines will be followed.</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.3882477,
+    "lng": 174.0190557,
+    "name": "Moerewa Rugby Club",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Moerewa Rugby Club, 73 State Highway 1, Moerewa, Northland 0211",
+    "telephone": "0800 272 4842",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/moerewa-rugby-club-simpson-park-73-state/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "9:00 AM – 12:00 PM",
+        "Wed": "9:00 AM – 12:00 PM",
+        "Fri": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "Any booked appointments until the end of November after 12 pm will be honoured until finished for the day."
+      ]
+    }
+  },
+  {
     "lat": -40.3582214,
     "lng": 175.6124109,
     "name": "Palmerston North Central Vaccination Centre",
@@ -23875,45 +23888,36 @@
     }
   },
   {
-    "lat": -35.7273362,
-    "lng": 174.3172539,
-    "name": "Whāngarei - 5 Waltons St",
+    "lat": -41.2087358,
+    "lng": 174.9043247,
+    "name": "218 High Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "openTodayHours": "1:30 PM to 8:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
       "No appointment required",
       "Walk in"
     ],
-    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
-    "telephone": "0800 272 4842",
+    "address": "218 High Street, Hutt Central, Lower Hutt, Wellington 5010",
+    "telephone": "",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/218-high-street-hutt-central/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "9:00 AM – 12:00 PM"
+        "Tue": "1:30 PM – 8:00 PM",
+        "Wed – Thu": "10:00 AM – 4:30 PM",
+        "Sun": "9:30 AM – 4:30 PM"
       },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "&nbsp;",
-        "<strong>&nbsp;</strong>Ngāti Hine Health Trust Whangārei Vax Centre&nbsp; will be open <strong>EVERY DAY Monday - Friday</strong>",
-        "<strong>Opens at 9am - Closes between 12pm and 2pm depending on boookings.</strong>",
-        "<strong>&nbsp;</strong>",
-        "<strong>Booking are preferred , but walk-ins by whānau are welcome</strong>",
-        "<strong>Book by phoning 0800 272 4842 or online <a href=\"https://bookmyvaccine.covid19.health.nz/\"> Book My Vaccine</a></strong>",
-        "<strong>Mask wearing is mandatory , unless you have an exemption</strong>",
-        "<strong>All current Alert Level status guidelines will be followed.</strong>"
-      ]
+      "exceptions": {},
+      "notesHtml": []
     }
   },
   {
-    "lat": -35.3882477,
-    "lng": 174.0190557,
-    "name": "Moerewa Rugby Club",
+    "lat": -41.131353,
+    "lng": 175.0656188,
+    "name": "Upper Hutt",
     "branch": "community",
     "isOpenToday": false,
     "openTodayHours": ".",
@@ -23923,20 +23927,16 @@
       "No appointment required",
       "Walk in"
     ],
-    "address": "Moerewa Rugby Club, 73 State Highway 1, Moerewa, Northland 0211",
-    "telephone": "0800 272 4842",
+    "address": "51 Lane Street, Wallaceville, Upper Hutt, Wellington 5018",
+    "telephone": "",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/moerewa-rugby-club-simpson-park-73-state/",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hutt-valley-covid-19-community-vaccination/at/upper-hutt-heretaunga-christian-centre-51/",
     "opennningHours": {
       "schedule": {
-        "Mon": "9:00 AM – 12:00 PM",
-        "Wed": "9:00 AM – 12:00 PM",
-        "Fri": "9:00 AM – 12:00 PM"
+        "Thu – Sat": "9:30 AM – 4:30 PM"
       },
       "exceptions": {},
-      "notesHtml": [
-        "Any booked appointments until the end of November after 12 pm will be honoured until finished for the day."
-      ]
+      "notesHtml": []
     }
   }
 ]
