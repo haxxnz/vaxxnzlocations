@@ -57586,5 +57586,59 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "3 Takinga Street Ōwhata  Rotorua  3074",
+    "distanceInMeters": 12453.77135171,
+    "extId": "a0R4a000000Z70lEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-09",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 176.326,
+      "lat": -38.0424
+    },
+    "name": "Pikiao Rugby League Clubrooms",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "12:00:00",
+        "localEnd": "14:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/oxCMejFs52mPLQz56",
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-09",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   }
 ]
