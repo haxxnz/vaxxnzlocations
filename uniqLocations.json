@@ -24844,8 +24844,8 @@
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "11:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "11:15:00"
       },
       {
         "days": [
@@ -50794,7 +50794,7 @@
     "extId": "a0R4a000000Vv6YEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-07",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.742,
       "lat": -36.9027
@@ -50814,40 +50814,76 @@
           "fri"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:45:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:45:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:45:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:45:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:45:00"
       }
     ],
-    "description": "Accessible toilets onsite | Free onsite parking",
+    "description": "Foreign spoken languages of staff:  Arabic, Somali, Swahili",
     "mapUrl": "https://goo.gl/maps/HU3oR3od4cpqnHEKA",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-10-06",
     "locationPool": "default",
@@ -54093,7 +54129,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "tue"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
@@ -54114,7 +54150,7 @@
       },
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "11:00:00",
         "localEnd": "19:45:00"
@@ -54236,7 +54272,7 @@
       },
       {
         "days": [
-          "thu"
+          "sat"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -54264,7 +54300,7 @@
       },
       {
         "days": [
-          "sat"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:15:00"
@@ -57287,7 +57323,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "tue"
         ],
         "localStart": "12:00:00",
         "localEnd": "13:00:00"
@@ -57301,7 +57337,7 @@
       },
       {
         "days": [
-          "tue"
+          "mon"
         ],
         "localStart": "12:00:00",
         "localEnd": "13:00:00"
@@ -57333,10 +57369,10 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:15:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
@@ -57347,17 +57383,17 @@
       },
       {
         "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "16:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -57375,7 +57411,7 @@
       },
       {
         "days": [
-          "thu"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
