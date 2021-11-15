@@ -1640,17 +1640,17 @@
     "mapUrl": "https://goo.gl/maps/Ju8kcourVsNHmzCJ7",
     "tags": [
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
         "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -3723,7 +3723,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:00:00.000Z",
+    "nextAvailableSlot": "2021-11-15T20:05:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -13293,7 +13293,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T07:50:00.000Z",
+    "nextAvailableSlot": "2021-11-19T23:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -14141,7 +14141,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-17T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-17T06:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -15021,7 +15021,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T22:00:00.000Z",
+    "nextAvailableSlot": "2021-11-19T22:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -18729,7 +18729,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:30:00.000Z",
+    "nextAvailableSlot": "2021-11-16T02:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -18828,104 +18828,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-15T21:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "74 Taharoto Road Takapuna  Auckland  622",
-    "distanceInMeters": 40088.74551575,
-    "extId": "a0R4a000000SWxKEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-02",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.753,
-      "lat": -36.785
-    },
-    "name": "Shorecare Smales Farm",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      }
-    ],
-    "description": "Located a short walk from the Smales Farm Bus Station and North Shore Hospital | Free and accessible parking available | Language interpreter services available by appointment.",
-    "mapUrl": "https://www.google.com/maps/place/74+Taharoto+Road,+Takapuna,+Auckland+0622,+New+Zealand/@-36.7852,174.7505654,17z/data=!3m1!4b1!4m9!1m2!2m1!1sGround+Floor+AIA+building,+74+Taharoto+Road,+Takapuna,+Auckland+0622!3m5!1s0x6d0d39c80153a211:0xaa285340763ab74d",
-    "tags": [
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-27",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T07:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -21001,7 +20903,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:42:00.000Z",
+    "nextAvailableSlot": "2021-11-15T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -22289,7 +22191,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 62480.45766576,
+    "distanceInMeters": 22551.29541551,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -26625,7 +26527,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:50:00.000Z",
+    "nextAvailableSlot": "2021-11-15T20:40:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -27598,7 +27500,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 62341.02152167,
+    "distanceInMeters": 22677.14877718,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -32074,7 +31976,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:40:00.000Z",
+    "nextAvailableSlot": "2021-11-15T20:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -32099,7 +32001,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T23:35:00.000Z",
+    "nextAvailableSlot": "2021-11-15T23:40:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -33233,7 +33135,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:30:00.000Z",
+    "nextAvailableSlot": "2021-11-15T20:40:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -34047,7 +33949,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:20:00.000Z",
+    "nextAvailableSlot": "2021-11-15T20:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -41821,7 +41723,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T21:00:00.000Z",
+    "nextAvailableSlot": "2021-11-15T21:15:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -44527,7 +44429,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T21:00:00.000Z",
+    "nextAvailableSlot": "2021-11-15T21:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -46108,7 +46010,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T20:20:00.000Z",
+    "nextAvailableSlot": "2021-11-15T20:25:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -46440,7 +46342,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T18:00:00.000Z",
+    "nextAvailableSlot": "2021-11-17T18:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -49394,13 +49296,6 @@
     "mapUrl": "https://www.google.co.nz/maps/place/Local+Doctors+-+Glendene+Medical+Centre/@-36.8869399,174.6424742,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d41a884d3df83:0x30d3a912af61761e!8m2!3d-36.8869486!4d174.644565?hl=en",
     "tags": [
       {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48788,
         "externalId": "a0p4a000000E7yqAAC",
         "name": "Quiet or low sensory environment",
@@ -49412,6 +49307,13 @@
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
         "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
         "isSystemTag": false
       },
       {
@@ -52664,7 +52566,7 @@
   },
   {
     "displayAddress": "Lynnmall Shopping Centre, Shop 1, 3058 Great North Road (Access via Westpac, BNZ entrance)",
-    "distanceInMeters": 38162.33390146,
+    "distanceInMeters": 36765.67269581,
     "extId": "a0R4a000000WeHLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -54766,84 +54668,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-16T04:10:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "1 McCrae Way New Lynn  Auckland  0600",
-    "distanceInMeters": 36752.42051193,
-    "extId": "a0R4a000000XlTcEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-29",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.684,
-      "lat": -36.9088
-    },
-    "name": "Health New Lynn 7 day Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "12:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "11:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "description": "Spoken languages (Mandarin, Korean)",
-    "mapUrl": "https://goo.gl/maps/hDucbXBxFFXQn7M3A",
-    "tags": [
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-10-28",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T23:30:00.000Z",
+    "nextAvailableSlot": "2021-11-16T04:25:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -55263,7 +55088,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-15T07:45:00.000Z",
+    "nextAvailableSlot": "2021-11-15T19:15:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
