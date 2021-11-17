@@ -14450,7 +14450,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"3f5a525e56537f58504d5a525a5b565c5e53115c50115145\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"62070f030b0e22050d10070f07060b01030e4c010d4c0c18\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -19539,35 +19539,6 @@
     }
   },
   {
-    "lat": -36.87333599999999,
-    "lng": 174.8288636,
-    "name": "Meadowbank Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Make an appointment"
-    ],
-    "address": "2 Blackett Crescent, Meadowbank, Auckland",
-    "telephone": "(09) 528 4242",
-    "faxNumber": "(09) 528 0023",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/meadowbank-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 2 Jan. Open 3 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "<strong>Lunch break weekdays 12pm - 1pm</strong>",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
-    }
-  },
-  {
     "lat": -36.8658329,
     "lng": 174.76406640000005,
     "name": "Grafton Medical Centre",
@@ -24569,6 +24540,35 @@
       },
       "exceptions": {},
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.87333599999999,
+    "lng": 174.8288636,
+    "name": "Meadowbank Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Make an appointment"
+    ],
+    "address": "2 Blackett Crescent, Meadowbank, Auckland",
+    "telephone": "(09) 528 4242",
+    "faxNumber": "(09) 528 0023",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/meadowbank-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 2 Jan. Open 3 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>Lunch break weekdays 12pm - 1pm</strong>",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
     }
   }
 ]
