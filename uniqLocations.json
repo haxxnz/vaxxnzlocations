@@ -17718,7 +17718,7 @@
     "extId": "a0R4a000000ST3zEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-03",
-    "endDate": "2021-12-12",
+    "endDate": "2022-02-04",
     "location": {
       "lng": 172.557,
       "lat": -43.5526
@@ -17728,45 +17728,45 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "17:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
       }
     ],
     "description": "Wheelchair Accessible. Onsite parking.",
