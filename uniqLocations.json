@@ -12661,6 +12661,68 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "2 Tone Street   Bluff  9814",
+    "distanceInMeters": 19763.21701777,
+    "extId": "a0R4a000000SDU5EAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2022-02-28",
+    "location": {
+      "lng": 168.35,
+      "lat": -46.6042
+    },
+    "name": "Bluff Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "16:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/2+Tone+Street,+Bluff+9814,+New+Zealand/@-46.6042882,168.3480567,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d2b9e67a3f821b:0x821f2d7187712e87!8m2!3d-46.6042882!4d168.3502454",
+    "tags": [
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-20",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-23T04:50:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "1913 Cambridge Road   Cambridge  3434",
     "distanceInMeters": 22526.37992928,
     "extId": "a0R4a000000SEWpEAO",
@@ -48572,81 +48634,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "3271 South Road Pihama  Opunake  4682",
-    "distanceInMeters": 48766.67746345,
-    "extId": "a0R4a000000VYaXEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-07",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 173.934,
-      "lat": -39.5019
-    },
-    "name": "Pihama Hall",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.co.nz/maps/place/3271+South+Road,+Pihama+4682,+New+Zealand/@-39.5019138,173.9321353,17z/data=!3m1!4b1!4m5!3m4!1s0x6d15955327e81f83:0xce5e949972a8718c!8m2!3d-39.5019138!4d173.934324",
-    "tags": [
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-16",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "2716 Eltham Road Te Kiri  Opunake  4682",
     "distanceInMeters": 40837.3880916,
     "extId": "a0R4a000000VYeAEAW",
@@ -51878,40 +51865,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T21:15:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "16 Kamahi Place Pukehangi  Rotorua  3015",
-    "distanceInMeters": 70955.68347416,
-    "extId": "a0R4a000000W2APEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-23",
-    "endDate": "2021-12-17",
-    "location": {
-      "lng": 176.212,
-      "lat": -38.139
-    },
-    "name": "Linton Park Community Centre, Vaccination Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      }
-    ],
-    "description": "Community event Thursday 21 October and 18 November",
-    "mapUrl": "https://www.google.com/maps/place/Linton+Park+Community+Centre/@-38.1390502,176.2120382,15z/data=!4m5!3m4!1s0x0:0x55e2b253919b0c26!8m2!3d-38.139!4d176.2119983",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
