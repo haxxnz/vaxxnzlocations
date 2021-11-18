@@ -181,6 +181,117 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "25 Deal Street, Kaikōura 7300",
+    "distanceInMeters": 0.20402305,
+    "extId": "a0R4a000000P71YEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-28",
+    "endDate": "2021-12-12",
+    "location": {
+      "lng": 173.681,
+      "lat": -42.4014
+    },
+    "name": "Kaikōura Healthcare",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "11:30:00",
+        "localEnd": "14:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/14HEWEg9DtjffSP88",
+    "tags": [
+      {
+        "id": 85187,
+        "externalId": "a0p4a000000EOb5AAG",
+        "name": "Drive-through location",
+        "languageKey": "Drive-through location",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-05-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T23:36:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "348 Lincoln Road Addington  Christchurch  8024",
     "distanceInMeters": 1796.01667919,
     "extId": "a0R4a000000P74DEAS",
@@ -454,7 +565,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T21:06:00.000Z",
+    "nextAvailableSlot": "2021-11-22T00:18:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -656,7 +767,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:50:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -1118,7 +1229,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -1472,7 +1583,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T19:05:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -2121,7 +2232,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T06:00:00.000Z",
+    "nextAvailableSlot": "2021-11-18T07:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -2226,7 +2337,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T06:00:00.000Z",
+    "nextAvailableSlot": "2021-11-18T07:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -5207,7 +5318,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T06:00:00.000Z",
+    "nextAvailableSlot": "2021-11-23T21:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -5356,7 +5467,7 @@
     "extId": "a0R4a000000QGk0EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-01",
-    "endDate": "2021-12-17",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.087,
       "lat": -38.6819
@@ -5368,29 +5479,29 @@
         "days": [
           "fri"
         ],
-        "localStart": "08:30:00",
+        "localStart": "07:30:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:45:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "08:30:00",
+        "localStart": "07:30:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:45:00"
       },
       {
         "days": [
@@ -5495,6 +5606,153 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T19:30:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Amohau Street   Rotorua  3010",
+    "distanceInMeters": 73941.37865757,
+    "extId": "a0R4a000000QGl8EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-01",
+    "endDate": "2022-03-31",
+    "location": {
+      "lng": 176.248,
+      "lat": -38.1411
+    },
+    "name": "Rotorua COVID-19 Immunisation Hub - Central Mall (next to Noel Leeming)",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "07:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "07:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "description": "Next to Noel Leeming",
+    "mapUrl": "https://www.google.com/search?rlz=1C1GCEA_enAU947AU947&tbs=lf:1,lf_ui:10&tbm=lcl&q=Rotorua+Central+Mall,+Amohau+Street,+Rotorua+3010&rflfq=1&num=10&ved=2ahUKEwjX6Zez4ozxAhUzxjgGHT--BYgQtgN6BAgEEAU#rlfi=hd:;si:;mv:[[-38.13826679605025,176.25750880666808],[",
+    "tags": [
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48793,
+        "externalId": "a0p4a000000E7yvAAC",
+        "name": "NZSL interpreter",
+        "languageKey": "NZSL interpreter",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T18:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -5654,7 +5912,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -5793,7 +6051,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:55:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -6236,7 +6494,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -7013,7 +7271,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -9202,7 +9460,7 @@
     "extId": "a0R4a000000QaRMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
-    "endDate": "2021-12-04",
+    "endDate": "2021-12-16",
     "location": {
       "lng": 176.1,
       "lat": -40.2094
@@ -10025,7 +10283,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T21:16:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -10975,7 +11233,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-28T23:08:00.000Z",
+    "nextAvailableSlot": "2021-11-22T01:46:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -11565,7 +11823,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -11759,7 +12017,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:48:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -12361,7 +12619,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -14494,7 +14752,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T07:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -15697,7 +15955,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -16272,7 +16530,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-20T21:20:00.000Z",
+    "nextAvailableSlot": "2021-11-20T21:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -16810,7 +17068,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-25T01:15:00.000Z",
+    "nextAvailableSlot": "2021-11-19T00:21:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -18088,7 +18346,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:50:00.000Z",
+    "nextAvailableSlot": "2021-11-21T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -18961,7 +19219,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -19544,7 +19802,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T06:00:00.000Z",
+    "nextAvailableSlot": "2021-11-18T21:40:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -20306,7 +20564,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -21378,7 +21636,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T21:10:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -21440,7 +21698,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:50:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -23378,7 +23636,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T23:05:00.000Z",
+    "nextAvailableSlot": "2021-11-18T23:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -23639,7 +23897,7 @@
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
-    "endDate": "2021-12-12",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 171.743,
       "lat": -43.8872
@@ -23651,8 +23909,8 @@
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "10:30:00"
+        "localStart": "08:00:00",
+        "localEnd": "16:45:00"
       },
       {
         "days": [
@@ -24574,7 +24832,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:39:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:42:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -24739,7 +24997,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-22T20:30:00.000Z",
+    "nextAvailableSlot": "2021-11-22T20:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -25205,7 +25463,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:35:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:40:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -27180,7 +27438,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T23:25:00.000Z",
+    "nextAvailableSlot": "2021-11-18T23:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -28049,7 +28307,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:55:00.000Z",
+    "nextAvailableSlot": "2021-11-19T20:35:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -29256,7 +29514,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-22T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -29549,7 +29807,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:39:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -31142,7 +31400,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T23:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -31682,7 +31940,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -32229,7 +32487,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:40:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -32254,7 +32512,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T23:35:00.000Z",
+    "nextAvailableSlot": "2021-11-18T23:40:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -33084,7 +33342,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -35199,7 +35457,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-21T21:30:00.000Z",
+    "nextAvailableSlot": "2021-11-21T21:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -36614,7 +36872,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:54:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:36:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -36689,7 +36947,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-19T03:20:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -36974,7 +37232,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-23T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -37828,7 +38086,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T06:05:00.000Z",
+    "nextAvailableSlot": "2021-11-19T05:35:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -38267,7 +38525,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:48:00.000Z",
+    "nextAvailableSlot": "2021-11-18T23:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -39815,7 +40073,7 @@
     "extId": "a0R4a000000UWLIEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.185,
       "lat": -37.6413
@@ -39825,24 +40083,38 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:45:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:45:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:45:00"
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/Go4health/@-37.641523,176.182601,17z/data=!4m5!3m4!1s0x6d6ddbc35dc369d3:0x27c7d01a4d1cdaa6!8m2!3d-37.6414871!4d176.1848482",
@@ -40952,7 +41224,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T06:00:00.000Z",
+    "nextAvailableSlot": "2021-11-18T07:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -44802,7 +45074,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:50:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -46188,7 +46460,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -46604,7 +46876,7 @@
     "extId": "a0R4a000000VQ2vEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.109,
       "lat": -37.6945
@@ -46755,7 +47027,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:35:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -47420,7 +47692,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -49378,6 +49650,20 @@
       },
       {
         "days": [
+          "tue"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "10:00:00",
@@ -49388,7 +49674,7 @@
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "15:00:00"
       }
     ],
     "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
@@ -51002,7 +51288,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:40:00.000Z",
+    "nextAvailableSlot": "2021-11-18T19:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -51185,7 +51471,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:50:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -53522,7 +53808,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T22:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -54653,7 +54939,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T06:00:00.000Z",
+    "nextAvailableSlot": "2021-11-18T07:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -55291,7 +55577,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -55504,7 +55790,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T05:45:00.000Z",
+    "nextAvailableSlot": "2021-11-18T06:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -57087,7 +57373,7 @@
     "exhausted": false,
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T20:30:00.000Z",
+    "nextAvailableSlot": "2021-11-19T20:35:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
