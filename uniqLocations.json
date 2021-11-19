@@ -18568,74 +18568,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "3/670 Cambridge Road Te Awamutu  Waikato  3800",
-    "distanceInMeters": 26799.56611392,
-    "extId": "a0R4a000000SWkVEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-03",
-    "endDate": "2021-12-03",
-    "location": {
-      "lng": 175.341,
-      "lat": -38.0084
-    },
-    "name": "Sanders Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:45:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/Sanders+Pharmacy+Te+Awamutu/@-38.008212,175.3389165,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6ce68c181d140f:0x53bc7aba1f3f2d42!8m2!3d-38.0084263!4d175.3405808",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-27",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "463 Great South Road, Otahuhu, Auckland 1062",
     "distanceInMeters": 28880.36665662,
     "extId": "a0R4a000000SWtSEAW",
@@ -55687,14 +55619,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "fri"
         ],
         "localStart": "08:00:00",
-        "localEnd": "17:30:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
-          "thu"
+          "wed"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:30:00"
@@ -55708,17 +55640,17 @@
       },
       {
         "days": [
-          "wed"
+          "thu"
         ],
         "localStart": "08:00:00",
         "localEnd": "17:30:00"
       },
       {
         "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "08:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "17:30:00"
       }
     ],
     "description": "Free off-site parking | toilets available | Low sensory environment - noise only - available on request",
@@ -55749,21 +55681,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:45:00"
@@ -55777,7 +55695,21 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:45:00"
@@ -55811,35 +55743,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "fri"
+          "sun"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:45:00"
@@ -55853,7 +55757,35 @@
       },
       {
         "days": [
-          "sun"
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:45:00"
@@ -56416,14 +56348,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "fri"
         ],
         "localStart": "12:00:00",
         "localEnd": "14:00:00"
       },
       {
         "days": [
-          "fri"
+          "tue"
         ],
         "localStart": "12:00:00",
         "localEnd": "14:00:00"
@@ -56486,10 +56418,10 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "wed"
         ],
-        "localStart": "14:30:00",
-        "localEnd": "16:30:00"
+        "localStart": "11:00:00",
+        "localEnd": "13:00:00"
       },
       {
         "days": [
@@ -56500,10 +56432,10 @@
       },
       {
         "days": [
-          "wed"
+          "mon"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "13:00:00"
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
       }
     ],
     "description": "Language interpreter service available",
@@ -57012,14 +56944,14 @@
       },
       {
         "days": [
-          "tue"
+          "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -57033,17 +56965,17 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
-          "sun"
+          "tue"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "14:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+Family+Health+Pharmacy/@-37.8893764,175.4538267,36m/data=!3m1!1e3!4m5!3m4!1s0x6d6d0321da97bdb5:0xee4def36bd7af2e!8m2!3d-37.8893112!4d175.4538504",
@@ -57488,21 +57420,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -57516,7 +57434,21 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -57633,21 +57565,21 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
           "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:15:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -57675,10 +57607,10 @@
       },
       {
         "days": [
-          "sun"
+          "tue"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "16:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/jCwqpi73afnbZJoN8",
