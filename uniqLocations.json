@@ -19053,7 +19053,7 @@
     "extId": "a0R4a000000SX2UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.854,
       "lat": -36.9798
@@ -32436,7 +32436,7 @@
     "extId": "a0R4a000000TqJDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.786,
       "lat": -36.9217
@@ -32487,9 +32487,30 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages",
     "mapUrl": "https://www.google.co.nz/maps/place/227+Onehunga+Mall,+Onehunga,+Auckland+1061,+New+Zealand/@-36.9213098,174.7849906,18z/data=!4m5!3m4!1s0x6d0d48b23f12a199:0xd010cd1f2f515e52!8m2!3d-36.9217316!4d174.7853772?hl=en",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-06",
     "locationPool": "default",
@@ -33723,7 +33744,29 @@
     ],
     "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking | Foreign languages by appointment",
     "mapUrl": "https://www.google.com/maps/place/FREE+PRESCRIPTIONS+-+ProHealth+Manukau+Pharmacy/@-36.9842988,174.8786501,15z/data=!4m5!3m4!1s0x0:0x7dad73f0566ea2e!8m2!3d-36.9842984!4d174.8786512",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-09",
     "locationPool": "default",
@@ -53520,7 +53563,7 @@
     "extId": "a0R4a000000Wn5dEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-01",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.664,
       "lat": -36.3976
@@ -53552,6 +53595,20 @@
     ],
     "mapUrl": "https://www.google.com/maps/place/Lee+%26+Hart+Pharmacy+%2F+Harts+Pharmacy/@-36.397584,174.6641439,20.47z/data=!4m5!3m4!1s0x6d0cdc23edff014f:0x65d87ad0aeb5a4db!8m2!3d-36.3976205!4d174.6642677",
     "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
       {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
