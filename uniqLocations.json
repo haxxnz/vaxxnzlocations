@@ -33478,7 +33478,7 @@
     "extId": "a0R4a000000TsTZEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.903,
       "lat": -37.1998
@@ -34540,7 +34540,7 @@
     "extId": "a0R4a000000U2BZEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.855,
       "lat": -36.8985
@@ -34591,9 +34591,52 @@
         "localEnd": "17:45:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets onsite | Separate clinic room for special needs | Languages: Mandarin, Cantonese, Korean and Indian",
+    "description": "Separate clinic room for special needs | Foreign Languages spoken by staff: Mandarin, Cantonese, Korean and Hindi",
     "mapUrl": "https://www.google.com/maps/place/Unichem+Panmure+Pharmacy/@-36.8992641,174.854346,15z/data=!4m5!3m4!1s0x0:0xef24ac1477e84cdc!8m2!3d-36.8992553!4d174.8543092",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-18",
     "locationPool": "default",
@@ -49454,7 +49497,7 @@
     "extId": "a0R4a000000VscQEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.796,
       "lat": -36.8804
@@ -49468,18 +49511,25 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
       }
     ],
     "description": "Staff spoken language (Mandarin)",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy/@-36.8804552,174.796426,15z/data=!4m5!3m4!1s0x0:0xd470dc19d15afd87!8m2!3d-36.8804656!4d174.7964243",
     "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
       {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
@@ -55256,9 +55306,31 @@
         "localEnd": "17:45:00"
       }
     ],
-    "description": "Toilets onsite | Free onsite parking | Foreign Languages (Cantonese and Mandarin) | Quiet and Low sensory environment",
+    "description": "Foreign Spoken Languages: Cantonese and Mandarin",
     "mapUrl": "https://goo.gl/maps/snmpa2uB4K6PXJsf7",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-10-26",
     "locationPool": "default",
@@ -56961,13 +57033,6 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -56976,6 +57041,13 @@
       {
         "days": [
           "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
