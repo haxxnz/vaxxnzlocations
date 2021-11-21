@@ -2184,7 +2184,7 @@
     "extId": "a0R4a000000Q4q2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
-    "endDate": "2022-03-27",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.725,
       "lat": -36.811
@@ -2470,7 +2470,7 @@
     "extId": "a0R4a000000Q4taEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.611,
       "lat": -36.8235
@@ -32017,7 +32017,7 @@
     "extId": "a0R4a000000TqCbEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.67,
       "lat": -36.9263
@@ -32061,9 +32061,24 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | No toilets available.",
+    "description": "Foreign spoken languages:  Afrikaans, Hindi, Gujrati",
     "mapUrl": "https://www.google.com/maps/place/174+Golf+Road,+Titirangi,+Auckland+0604,+New+Zealand/@-36.9265085,174.668008,17z/data=!4m5!3m4!1s0x6d0d43e736168295:0xf0f457609b3614e6!8m2!3d-36.9265085!4d174.6702074",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-10",
     "locationPool": "default",
@@ -52781,7 +52796,7 @@
     "extId": "a0R4a000000WeB3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-06",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.777,
       "lat": -36.8691
@@ -56584,7 +56599,21 @@
     "openHours": [
       {
         "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -56606,20 +56635,6 @@
       {
         "days": [
           "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -57067,21 +57082,7 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -57095,7 +57096,21 @@
       },
       {
         "days": [
-          "mon"
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
