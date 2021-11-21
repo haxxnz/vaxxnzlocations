@@ -5,7 +5,7 @@
     "extId": "a0R4a000000OMJgEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-04-12",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.871,
       "lat": -36.9594
@@ -81,7 +81,7 @@
     "extId": "a0R4a000000OOysEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-04-13",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.855,
       "lat": -37.0252
@@ -2296,7 +2296,7 @@
     "extId": "a0R4a000000Q4qbEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-23",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.822,
       "lat": -36.9071
@@ -2401,7 +2401,7 @@
     "extId": "a0R4a000000Q4rfEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-24",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.633,
       "lat": -36.8834
@@ -2546,7 +2546,7 @@
     "extId": "a0R4a000000QA9NEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-22",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.906,
       "lat": -37.2014
@@ -2713,7 +2713,7 @@
     "extId": "a0R4a000000QCsmEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-23",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.852,
       "lat": -36.8817
@@ -3149,7 +3149,7 @@
     "extId": "a0R4a000000QCxVEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-23",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.909,
       "lat": -37.0339
@@ -6574,7 +6574,7 @@
   },
   {
     "displayAddress": "11 Quay Street   Whakatane 3120",
-    "distanceInMeters": 0.60287867,
+    "distanceInMeters": 70414.62325114,
     "extId": "a0R4a000000QVAOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -9224,7 +9224,7 @@
   },
   {
     "displayAddress": "Corner of Main + Centre Streets   Pahiatua, Tararua  4910",
-    "distanceInMeters": 21720.28185338,
+    "distanceInMeters": 21817.17856274,
     "extId": "a0R4a000000Qa3tEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-17",
@@ -9439,7 +9439,7 @@
   },
   {
     "displayAddress": "23 Gordon Street, Dannevirke  Dannevirke  4930",
-    "distanceInMeters": 43989.04412043,
+    "distanceInMeters": 43432.22589184,
     "extId": "a0R4a000000QaRMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -9772,7 +9772,7 @@
   },
   {
     "displayAddress": "24 Barraud Street, Dannevirke  Tararua  4930",
-    "distanceInMeters": 43722.17591812,
+    "distanceInMeters": 43167.81143138,
     "extId": "a0R4a000000QaaOEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -10507,7 +10507,7 @@
   },
   {
     "displayAddress": "Corner Main St and Centre St, Pahiatua 4910",
-    "distanceInMeters": 21727.97855764,
+    "distanceInMeters": 21825.47153998,
     "extId": "a0R4a000000RGTLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
@@ -16013,7 +16013,7 @@
     "extId": "a0R4a000000SLiXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
-    "endDate": "2021-12-31",
+    "endDate": "2022-02-28",
     "location": {
       "lng": 173.011,
       "lat": -41.1117
@@ -16889,6 +16889,83 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "29 Brookside Road, Rolleston, Canterbury 7614",
+    "distanceInMeters": 21919.64459813,
+    "extId": "a0R4a000000SP7TEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-26",
+    "endDate": "2021-11-30",
+    "location": {
+      "lng": 172.375,
+      "lat": -43.5947
+    },
+    "name": "Rolleston Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "13:15:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:15:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/YERN9YbeygcZ4QYC7",
+    "tags": [
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-26",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-25T01:21:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "13 Johnston Street   Nightcaps  9630",
     "distanceInMeters": 56826.11649914,
     "extId": "a0R4a000000SPAoEAO",
@@ -17700,6 +17777,132 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-21T19:30:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "102 The Runway, Wigram, Christchurch 8042",
+    "distanceInMeters": 6554.01237088,
+    "extId": "a0R4a000000ST3zEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-03",
+    "endDate": "2022-02-04",
+    "location": {
+      "lng": 172.557,
+      "lat": -43.5526
+    },
+    "name": "Unichem Wigram Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "description": "Wheelchair Accessible. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/2KeT1N9TeKRXWpTD8",
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-26",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:36:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -32259,7 +32462,7 @@
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "14:45:00"
+        "localEnd": "12:45:00"
       },
       {
         "days": [
@@ -34000,7 +34203,7 @@
   },
   {
     "displayAddress": "252 The Strand   Whakatane  3120",
-    "distanceInMeters": 691.13099478,
+    "distanceInMeters": 69724.38183973,
     "extId": "a0R4a000000TvHwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -34246,7 +34449,7 @@
     "extId": "a0R4a000000TxfIEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.959,
       "lat": -37.0698
@@ -40651,7 +40854,7 @@
     "extId": "a0R4a000000UbxJEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-24",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.79,
       "lat": -36.9918
@@ -42033,7 +42236,7 @@
     "extId": "a0R4a000000UjYtEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
-    "endDate": "2022-03-27",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.694,
       "lat": -36.5925
@@ -45677,7 +45880,7 @@
   },
   {
     "displayAddress": "Opotiki Community Health Centre, 32 King Street   Opotiki  3122",
-    "distanceInMeters": 25642.71912104,
+    "distanceInMeters": 40216.19935589,
     "extId": "a0R4a000000VHVdEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
@@ -48445,7 +48648,7 @@
   },
   {
     "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
-    "distanceInMeters": 5678.14633152,
+    "distanceInMeters": 74715.19139645,
     "extId": "a0R4a000000Vc9WEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -57778,6 +57981,67 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-28T22:04:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "35 Vercoe Road Beerescourt  Hamilton  3200",
+    "distanceInMeters": 2688.56687627,
+    "extId": "a0R4a000000ZovBEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-22",
+    "endDate": "2022-03-31",
+    "location": {
+      "lng": 175.26,
+      "lat": -37.765
+    },
+    "name": "Vercoe Road Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
+      }
+    ],
+    "mapUrl": "https://g.page/Vercoepharmacy?share",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-19",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   }
 ]
