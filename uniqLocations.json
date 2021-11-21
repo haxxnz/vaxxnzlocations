@@ -10944,7 +10944,7 @@
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2021-12-12",
+    "endDate": "2022-02-06",
     "location": {
       "lng": 171.749,
       "lat": -43.9076
@@ -10958,13 +10958,6 @@
         ],
         "localStart": "10:00:00",
         "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "16:30:00",
-        "localEnd": "19:30:00"
       }
     ],
     "description": "Opposite Briscoes, next door to Number 1 Shoes \r\n\r\nWalk-in’s welcome. Wheelchair accessible. On-site parking",
@@ -14806,7 +14799,7 @@
     "extId": "a0R4a000000SK4aEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
-    "endDate": "2021-12-12",
+    "endDate": "2022-02-06",
     "location": {
       "lng": 172.76,
       "lat": -43.5694
@@ -14816,42 +14809,42 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "mon"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
       },
       {
         "days": [
           "wed"
         ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
         "localStart": "09:30:00",
-        "localEnd": "14:00:00"
+        "localEnd": "13:30:00"
       },
       {
         "days": [
           "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:00:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "14:00:00"
@@ -16893,83 +16886,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-25T00:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "29 Brookside Road, Rolleston, Canterbury 7614",
-    "distanceInMeters": 21919.64459813,
-    "extId": "a0R4a000000SP7TEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-26",
-    "endDate": "2021-11-30",
-    "location": {
-      "lng": 172.375,
-      "lat": -43.5947
-    },
-    "name": "Rolleston Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "13:15:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "13:15:00",
-        "localEnd": "16:45:00"
-      }
-    ],
-    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
-    "mapUrl": "https://goo.gl/maps/YERN9YbeygcZ4QYC7",
-    "tags": [
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-25T01:21:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -22142,7 +22058,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 22551.29541551,
+    "distanceInMeters": 62480.45766576,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -27325,7 +27241,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 22677.14877718,
+    "distanceInMeters": 62341.02152167,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -28896,7 +28812,7 @@
   },
   {
     "displayAddress": "Shop 9 - 52 Jubilee Drive   Pauanui  3579",
-    "distanceInMeters": 25252.75376407,
+    "distanceInMeters": 59838.24541997,
     "extId": "a0R4a000000TTYkEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
