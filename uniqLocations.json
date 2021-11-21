@@ -632,7 +632,7 @@
   },
   {
     "displayAddress": "41 Hunter Street   Hawera  4610",
-    "distanceInMeters": 59654.66335138,
+    "distanceInMeters": 59642.14729385,
     "extId": "a0R4a000000Pit9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -687,7 +687,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 1736.11195333,
+    "distanceInMeters": 1748.86409133,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -827,7 +827,7 @@
   },
   {
     "displayAddress": "17 Camberwell Road Hāwera  New Plymouth  4610",
-    "distanceInMeters": 59619.9977489,
+    "distanceInMeters": 59607.54626965,
     "extId": "a0R4a000000PjaAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -9224,7 +9224,7 @@
   },
   {
     "displayAddress": "Corner of Main + Centre Streets   Pahiatua, Tararua  4910",
-    "distanceInMeters": 21817.17856274,
+    "distanceInMeters": 21670.27830429,
     "extId": "a0R4a000000Qa3tEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-17",
@@ -9439,7 +9439,7 @@
   },
   {
     "displayAddress": "23 Gordon Street, Dannevirke  Dannevirke  4930",
-    "distanceInMeters": 43432.22589184,
+    "distanceInMeters": 43116.1670526,
     "extId": "a0R4a000000QaRMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -9772,7 +9772,7 @@
   },
   {
     "displayAddress": "24 Barraud Street, Dannevirke  Tararua  4930",
-    "distanceInMeters": 43167.81143138,
+    "distanceInMeters": 42852.01198804,
     "extId": "a0R4a000000QaaOEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -10514,7 +10514,7 @@
   },
   {
     "displayAddress": "Corner Main St and Centre St, Pahiatua 4910",
-    "distanceInMeters": 21825.47153998,
+    "distanceInMeters": 21678.78446571,
     "extId": "a0R4a000000RGTLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
@@ -11330,7 +11330,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 17352.30325592,
+    "distanceInMeters": 17360.53248617,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -12502,7 +12502,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 13.69369803,
+    "distanceInMeters": 0.65385398,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -18745,6 +18745,74 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "3/670 Cambridge Road Te Awamutu  Waikato  3800",
+    "distanceInMeters": 26799.56611392,
+    "extId": "a0R4a000000SWkVEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-03",
+    "endDate": "2021-12-03",
+    "location": {
+      "lng": 175.341,
+      "lat": -38.0084
+    },
+    "name": "Sanders Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:45:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Sanders+Pharmacy+Te+Awamutu/@-38.008212,175.3389165,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6ce68c181d140f:0x53bc7aba1f3f2d42!8m2!3d-38.0084263!4d175.3405808",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-27",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -37719,7 +37787,7 @@
   },
   {
     "displayAddress": "283 Devon Street West   New Plymouth  4310",
-    "distanceInMeters": 1380.80457577,
+    "distanceInMeters": 1394.66744389,
     "extId": "a0R4a000000UOrIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38047,7 +38115,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 2787.17784987,
+    "distanceInMeters": 2798.22920338,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38290,7 +38358,7 @@
   },
   {
     "displayAddress": "130 High Street   Eltham  4322",
-    "distanceInMeters": 44816.09620842,
+    "distanceInMeters": 44804.83366496,
     "extId": "a0R4a000000UOywEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38380,7 +38448,7 @@
   },
   {
     "displayAddress": "289 Broadway   Stratford  4322",
-    "distanceInMeters": 35438.69937561,
+    "distanceInMeters": 35428.30990838,
     "extId": "a0R4a000000UPRYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38477,7 +38545,7 @@
   },
   {
     "displayAddress": "65 Victoria Street   Hawera  4610",
-    "distanceInMeters": 60122.59011195,
+    "distanceInMeters": 60110.18269286,
     "extId": "a0R4a000000UPUTEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -38567,7 +38635,7 @@
   },
   {
     "displayAddress": "192 High Street   Hāwera  4610",
-    "distanceInMeters": 60275.53134188,
+    "distanceInMeters": 60263.1218963,
     "extId": "a0R4a000000UPXrEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -38657,7 +38725,7 @@
   },
   {
     "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
-    "distanceInMeters": 9285.94866855,
+    "distanceInMeters": 9295.07969822,
     "extId": "a0R4a000000UPXsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -38858,7 +38926,7 @@
   },
   {
     "displayAddress": "235 Broadway   Stratford  4332",
-    "distanceInMeters": 35291.99308665,
+    "distanceInMeters": 35281.61987696,
     "extId": "a0R4a000000UPhIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38927,7 +38995,7 @@
   },
   {
     "displayAddress": "95 Vivian Street   New Plymouth  4310",
-    "distanceInMeters": 1518.0832383,
+    "distanceInMeters": 1531.03798905,
     "extId": "a0R4a000000UPs2EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38996,7 +39064,7 @@
   },
   {
     "displayAddress": "99 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 0.09243972,
+    "distanceInMeters": 13.8167304,
     "extId": "a0R4a000000UPwKEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -44895,7 +44963,7 @@
   },
   {
     "displayAddress": "10 Endeavour Street Marfell  New Plymouth  4310",
-    "distanceInMeters": 1228.3990384,
+    "distanceInMeters": 1223.84957692,
     "extId": "a0R4a000000V8DNEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -44920,7 +44988,7 @@
   },
   {
     "displayAddress": "Rangiātea, 131 South Road Spotswood  New Plymouth  4310",
-    "distanceInMeters": 2011.66023688,
+    "distanceInMeters": 2011.78162064,
     "extId": "a0R4a000000V8JaEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -47527,7 +47595,7 @@
     "extId": "a0R4a000000VSvpEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-23",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.609,
       "lat": -36.8185
@@ -47587,6 +47655,27 @@
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/Life+Pharmacy+NorthWest/@-36.8184968,174.6094733,17z/data=!4m5!3m4!1s0x6d0d3fe47bf13c23:0x676235bf35ffd256!8m2!3d-36.8184885!4d174.6116871",
     "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
       {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
@@ -47957,7 +48046,7 @@
   },
   {
     "displayAddress": "55 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 362.645051,
+    "distanceInMeters": 374.28618825,
     "extId": "a0R4a000000VX91EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -48235,7 +48324,7 @@
   },
   {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
-    "distanceInMeters": 5398.96021433,
+    "distanceInMeters": 5407.75560869,
     "extId": "a0R4a000000VXrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -48296,7 +48385,7 @@
   },
   {
     "displayAddress": "2716 Eltham Road Te Kiri  Opunake  4682",
-    "distanceInMeters": 40837.3880916,
+    "distanceInMeters": 40823.49644002,
     "extId": "a0R4a000000VYeAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-11",
@@ -48371,7 +48460,7 @@
   },
   {
     "displayAddress": "746 Auroa Road Auroa  Hawera  4678",
-    "distanceInMeters": 45341.27083569,
+    "distanceInMeters": 45327.46956984,
     "extId": "a0R4a000000VYi7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-12",
@@ -48453,7 +48542,7 @@
   },
   {
     "displayAddress": "Victoria Street Kaponga  Hawera  4679",
-    "distanceInMeters": 40257.95631339,
+    "distanceInMeters": 40244.85405785,
     "extId": "a0R4a000000VYqZEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-13",
@@ -48493,7 +48582,7 @@
   },
   {
     "displayAddress": "Preston Street   Eltham  4322",
-    "distanceInMeters": 44185.57812004,
+    "distanceInMeters": 44174.23349926,
     "extId": "a0R4a000000VYsVEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-15",
@@ -48573,7 +48662,7 @@
   },
   {
     "displayAddress": "19 Pukearuhe Road, Mimi,  Urenui  4377",
-    "distanceInMeters": 35722.58263248,
+    "distanceInMeters": 35728.84914712,
     "extId": "a0R4a000000VYwcEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-19",
@@ -48884,7 +48973,7 @@
   },
   {
     "displayAddress": "8 Romeo Street   Stratford  4332",
-    "distanceInMeters": 36195.112048,
+    "distanceInMeters": 36184.62604192,
     "extId": "a0R4a000000VeDXEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -54314,7 +54403,7 @@
   },
   {
     "displayAddress": "72 Vivian Street   New Plymouth  3114",
-    "distanceInMeters": 1689.66332617,
+    "distanceInMeters": 1702.38732984,
     "extId": "a0R4a000000XKDKEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-13",
@@ -56809,7 +56898,14 @@
       },
       {
         "days": [
-          "fri"
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -56823,24 +56919,17 @@
       },
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "sun"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+Family+Health+Pharmacy/@-37.8893764,175.4538267,36m/data=!3m1!1e3!4m5!3m4!1s0x6d6d0321da97bdb5:0xee4def36bd7af2e!8m2!3d-37.8893112!4d175.4538504",
