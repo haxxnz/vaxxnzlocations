@@ -2014,35 +2014,6 @@
     }
   },
   {
-    "lat": -37.7914843,
-    "lng": 175.2827947,
-    "name": "Victoria Clinic - GP and Urgent Care",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "173 Anglesea Street, Hamilton",
-    "telephone": "(07) 834 0333",
-    "faxNumber": "(07) 834 0314",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/victoria-clinic-gp-and-urgent-care/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 8:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "Tui Medical - Te Rapa Urgent Care and Medical Centre."
-      },
-      "notesHtml": [
-        "Our GP Clinic hours are 8:30 to 17:00 Monday to Friday.",
-        "After Hours: Please call the practice and follow instructions for the afterhours service."
-      ]
-    }
-  },
-  {
     "lat": -39.755526,
     "lng": 174.47291380000001,
     "name": "Ngāti Ruanui Pātea Medical Centre",
@@ -12621,7 +12592,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a1c4ccc0c8cde1c6ced3c4ccc4c5c8c2c0cd8fc2ce8fcfdb\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"5c39313d35301c3b332e39313938353f3d30723f33723226\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -24444,6 +24415,35 @@
       },
       "exceptions": {},
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.7914843,
+    "lng": 175.2827947,
+    "name": "Victoria Clinic - GP and Urgent Care",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "173 Anglesea Street, Hamilton",
+    "telephone": "(07) 834 0333",
+    "faxNumber": "(07) 834 0314",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/victoria-clinic-gp-and-urgent-care/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:00 AM – 8:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "Tui Medical - Te Rapa Urgent Care and Medical Centre."
+      },
+      "notesHtml": [
+        "Our GP Clinic hours are 8:30 to 17:00 Monday to Friday.",
+        "After Hours: Please call the practice and follow instructions for the afterhours service."
+      ]
     }
   }
 ]
