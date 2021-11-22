@@ -6798,6 +6798,13 @@
     "mapUrl": "https://goo.gl/maps/H8WhsPyuNwtCXC84A",
     "tags": [
       {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
@@ -9224,7 +9231,7 @@
   },
   {
     "displayAddress": "Corner of Main + Centre Streets   Pahiatua, Tararua  4910",
-    "distanceInMeters": 21670.27830429,
+    "distanceInMeters": 21720.28185338,
     "extId": "a0R4a000000Qa3tEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-17",
@@ -9439,7 +9446,7 @@
   },
   {
     "displayAddress": "23 Gordon Street, Dannevirke  Dannevirke  4930",
-    "distanceInMeters": 43116.1670526,
+    "distanceInMeters": 43989.04412043,
     "extId": "a0R4a000000QaRMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -9772,7 +9779,7 @@
   },
   {
     "displayAddress": "24 Barraud Street, Dannevirke  Tararua  4930",
-    "distanceInMeters": 42852.01198804,
+    "distanceInMeters": 43722.17591812,
     "extId": "a0R4a000000QaaOEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -10514,7 +10521,7 @@
   },
   {
     "displayAddress": "Corner Main St and Centre St, Pahiatua 4910",
-    "distanceInMeters": 21678.78446571,
+    "distanceInMeters": 21727.97855764,
     "extId": "a0R4a000000RGTLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
@@ -11182,7 +11189,7 @@
     "extId": "a0R4a000000RewYEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
-    "endDate": "2021-12-03",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.14,
       "lat": -40.7528
@@ -20942,6 +20949,117 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "33 Ganges Road Khandallah  Wellington  6035",
+    "distanceInMeters": 41637.04990179,
+    "extId": "a0R4a000000SdIkEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-12-04",
+    "endDate": "2022-01-31",
+    "location": {
+      "lng": 174.792,
+      "lat": -41.2467
+    },
+    "name": "Khandallah Presbyterian Church Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "14:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Khandallah+Presbyterian+Church/@-41.2472978,174.7918233,15z/data=!4m5!3m4!1s0x0:0x816b781d50c10044!8m2!3d-41.2473035!4d174.7918129",
+    "tags": [
+      {
+        "id": 85187,
+        "externalId": "a0p4a000000EOb5AAG",
+        "name": "Drive-through location",
+        "languageKey": "Drive-through location",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48793,
+        "externalId": "a0p4a000000E7yvAAC",
+        "name": "NZSL interpreter",
+        "languageKey": "NZSL interpreter",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
     "distanceInMeters": 17521.95137894,
     "extId": "a0R4a000000SevuEAC",
@@ -22342,7 +22460,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 22551.29541551,
+    "distanceInMeters": 62480.45766576,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -27525,7 +27643,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 22677.14877718,
+    "distanceInMeters": 62341.02152167,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -29297,7 +29415,7 @@
         "localEnd": "20:45:00"
       }
     ],
-    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "description": "Only available when **No (I'll just book the first vaccination for now)** option is selected.",
     "mapUrl": "https://goo.gl/maps/j2DJXC4hDedvGeAm6",
     "tags": [
       {
@@ -55454,7 +55572,7 @@
     "extId": "a0R4a000000XlTcEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-29",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.684,
       "lat": -36.9088
@@ -55756,35 +55874,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:45:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:45:00"
@@ -55798,7 +55888,35 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:45:00"
+      },
+      {
+        "days": [
+          "sun"
         ],
         "localStart": "09:00:00",
         "localEnd": "19:45:00"
