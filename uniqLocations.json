@@ -9231,7 +9231,7 @@
   },
   {
     "displayAddress": "Corner of Main + Centre Streets   Pahiatua, Tararua  4910",
-    "distanceInMeters": 21670.27830429,
+    "distanceInMeters": 21720.28185338,
     "extId": "a0R4a000000Qa3tEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-17",
@@ -9446,7 +9446,7 @@
   },
   {
     "displayAddress": "23 Gordon Street, Dannevirke  Dannevirke  4930",
-    "distanceInMeters": 43116.1670526,
+    "distanceInMeters": 43989.04412043,
     "extId": "a0R4a000000QaRMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -9779,7 +9779,7 @@
   },
   {
     "displayAddress": "24 Barraud Street, Dannevirke  Tararua  4930",
-    "distanceInMeters": 42852.01198804,
+    "distanceInMeters": 43722.17591812,
     "extId": "a0R4a000000QaaOEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-28",
@@ -10521,7 +10521,7 @@
   },
   {
     "displayAddress": "Corner Main St and Centre St, Pahiatua 4910",
-    "distanceInMeters": 21678.78446571,
+    "distanceInMeters": 21727.97855764,
     "extId": "a0R4a000000RGTLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
@@ -15647,7 +15647,7 @@
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "19:00:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
@@ -15655,13 +15655,6 @@
         ],
         "localStart": "10:00:00",
         "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "19:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/6+High+Street,+Picton+7220,+New+Zealand/@-41.2889856,174.0049198,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3939fcc6b38eef:0x462f9db248488c89!8m2!3d-41.2889897!4d174.0071085",
@@ -16885,7 +16878,7 @@
   },
   {
     "displayAddress": "80 Kapanga Road   Coromandel  3506",
-    "distanceInMeters": 20197.25222582,
+    "distanceInMeters": 0.51683961,
     "extId": "a0R4a000000SOnsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -16914,83 +16907,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-25T00:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "29 Brookside Road, Rolleston, Canterbury 7614",
-    "distanceInMeters": 21919.64459813,
-    "extId": "a0R4a000000SP7TEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-26",
-    "endDate": "2021-11-30",
-    "location": {
-      "lng": 172.375,
-      "lat": -43.5947
-    },
-    "name": "Rolleston Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "13:15:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "13:15:00",
-        "localEnd": "16:45:00"
-      }
-    ],
-    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
-    "mapUrl": "https://goo.gl/maps/YERN9YbeygcZ4QYC7",
-    "tags": [
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-25T01:21:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -20498,7 +20414,7 @@
   },
   {
     "displayAddress": "64 Albert Street   Whitianga  3510",
-    "distanceInMeters": 0.19132727,
+    "distanceInMeters": 20196.75083124,
     "extId": "a0R4a000000SaclEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -22467,7 +22383,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 22551.29541551,
+    "distanceInMeters": 41168.88807376,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -24839,7 +24755,7 @@
   },
   {
     "displayAddress": "58 Albert Street Whitianga  Waikato  3510",
-    "distanceInMeters": 52.2124621,
+    "distanceInMeters": 20235.08366827,
     "extId": "a0R4a000000Syg7EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -27650,7 +27566,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 22677.14877718,
+    "distanceInMeters": 41275.10589702,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -29997,7 +29913,7 @@
     "extId": "a0R4a000000TamuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.671,
       "lat": -36.9145
@@ -30048,9 +29964,37 @@
         "localEnd": "17:45:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | Toilets onsite.",
     "mapUrl": "https://goo.gl/maps/FSCfq51uWw4zNbji8",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-25",
     "locationPool": "default",
@@ -30586,7 +30530,7 @@
     "extId": "a0R4a000000Tc5UEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.779,
       "lat": -36.7968
@@ -31583,7 +31527,7 @@
     "extId": "a0R4a000000TfxiEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.734,
       "lat": -36.8835
@@ -31643,6 +31587,13 @@
     ],
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+St+Lukes/@-36.8834567,174.7318765,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d465577fc4e25:0xfff8bc4168dc31dd!8m2!3d-36.8834567!4d174.7340652",
     "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
       {
         "id": 48788,
         "externalId": "a0p4a000000E7yqAAC",
@@ -48352,7 +48303,7 @@
     "extId": "a0R4a000000VXDXEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-29",
-    "endDate": "2021-12-12",
+    "endDate": "2022-02-06",
     "location": {
       "lng": 172.702,
       "lat": -43.5175
@@ -49747,7 +49698,7 @@
     "extId": "a0R4a000000VqoNEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.546,
       "lat": -36.7725
@@ -49777,9 +49728,30 @@
         "localEnd": "12:00:00"
       }
     ],
-    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://goo.gl/maps/9UySg9YLTJhYAFTP9",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-29",
     "locationPool": "default",
@@ -52690,7 +52662,7 @@
     "extId": "a0R4a000000WMl0EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-06",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.883,
       "lat": -36.9865
@@ -53065,7 +53037,7 @@
     "extId": "a0R4a000000WWzeEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-14",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.745,
       "lat": -36.7893
@@ -55833,38 +55805,38 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "mon"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "17:15:00"
       }
     ],
     "description": "Foreign Spoken Languages: Cantonese and Mandarin",
@@ -57529,15 +57501,15 @@
         "days": [
           "tue"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "14:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "14:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "15:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/fSdsKNc9qkqyzCgn8",
