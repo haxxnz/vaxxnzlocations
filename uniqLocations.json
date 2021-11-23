@@ -7010,7 +7010,7 @@
     "extId": "a0R4a000000QVceEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2021-12-19",
+    "endDate": "2022-04-10",
     "location": {
       "lng": 168.352,
       "lat": -46.4128
@@ -28165,7 +28165,7 @@
     "extId": "a0R4a000000TPYBEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
-    "endDate": "2022-03-31",
+    "endDate": "2021-12-25",
     "location": {
       "lng": 176.832,
       "lat": -39.6305
@@ -33383,7 +33383,7 @@
     "extId": "a0R4a000000Ts1zEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
-    "endDate": "2021-12-12",
+    "endDate": "2021-12-21",
     "location": {
       "lng": 176.88,
       "lat": -39.667
@@ -33391,6 +33391,13 @@
     "name": "Te Mata Peak Practice",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
       {
         "days": [
           "fri"
@@ -33403,7 +33410,7 @@
           "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "12:30:00"
+        "localEnd": "11:30:00"
       }
     ],
     "description": " ",
@@ -51014,17 +51021,17 @@
     "mapUrl": "https://www.google.com/maps/place/78+Vincent+Street,+Howick,+Auckland+2014,+New+Zealand/@-36.9025631,174.9235863,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4b3b9e327c29:0x826168248eb31a49!8m2!3d-36.9025631!4d174.925775",
     "tags": [
       {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
         "isSystemTag": false
       },
       {
