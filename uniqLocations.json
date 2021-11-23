@@ -26754,7 +26754,7 @@
     "extId": "a0R4a000000TCyaEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-15",
-    "endDate": "2021-12-25",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.928,
       "lat": -41.2048
@@ -30829,7 +30829,7 @@
     "extId": "a0R4a000000TeSSEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.93,
       "lat": -36.8943
@@ -30839,42 +30839,50 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:00:00"
+        "localEnd": "12:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/vX6DgZSTLEbspT5cA",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-17",
     "locationPool": "default",
@@ -32607,7 +32615,7 @@
     "extId": "a0R4a000000TqtOEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-03",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.913,
       "lat": -36.9335
@@ -45257,10 +45265,10 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "sun"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localStart": "11:00:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
@@ -45278,10 +45286,10 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "16:15:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
       },
       {
         "days": [
@@ -56426,10 +56434,10 @@
     "openHours": [
       {
         "days": [
-          "wed"
+          "mon"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "13:00:00"
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
@@ -56440,10 +56448,10 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
-        "localStart": "14:30:00",
-        "localEnd": "16:30:00"
+        "localStart": "11:00:00",
+        "localEnd": "13:00:00"
       }
     ],
     "description": "Language interpreter service available",
@@ -56565,21 +56573,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "17:30:00"
@@ -56593,7 +56587,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "17:30:00"
@@ -56699,14 +56707,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
@@ -56720,7 +56721,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
@@ -56728,13 +56743,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
-          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
