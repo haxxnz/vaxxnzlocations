@@ -14913,7 +14913,21 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "15:15:00"
@@ -14927,7 +14941,7 @@
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "09:30:00",
         "localEnd": "15:15:00"
