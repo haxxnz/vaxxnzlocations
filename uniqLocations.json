@@ -13388,6 +13388,13 @@
     "openHours": [
       {
         "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:00:00",
@@ -52158,7 +52165,7 @@
     "extId": "a0R4a000000WDHqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-29",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.651,
       "lat": -36.8548
@@ -52171,40 +52178,47 @@
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "14:00:00"
       }
     ],
     "description": "Language interpreter service available by appointment | Low sensory environment - available on request",
     "mapUrl": "https://www.google.com/maps/place/Peninsula+Medical/@-36.854803,174.6489143,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d408b25428f3d:0x41c008cfe6a5b8b6!8m2!3d-36.854803!4d174.651103",
     "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
       {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
@@ -54638,7 +54652,7 @@
     "extId": "a0R4a000000XLWrEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-16",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.857,
       "lat": -36.901
@@ -57236,21 +57250,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -57264,7 +57264,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -57948,38 +57962,45 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
           "fri"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:15:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:15:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:15:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:15:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:15:00",
+        "localEnd": "19:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/VQ4kiV3GEUcrWMjr8",
@@ -58368,6 +58389,150 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-28T22:04:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "960 Victoria Street Whitiora  Hamilton North  3200",
+    "distanceInMeters": 1887.98576125,
+    "extId": "a0R4a000000ZjJAEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-19",
+    "endDate": "2022-03-31",
+    "location": {
+      "lng": 175.276,
+      "lat": -37.7794
+    },
+    "name": "Neville Kane Value Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/coZRUb8t1CRr6zR18",
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-18",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "14 Beale Street Hamilton East  Hamilton  3216",
+    "distanceInMeters": 1194.61922161,
+    "extId": "a0R4a000000a1GIEAY",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-29",
+    "endDate": "2022-03-31",
+    "location": {
+      "lng": 175.292,
+      "lat": -37.7896
+    },
+    "name": "Hamilton East Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/muDCWzykdM88LsAS8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-23",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
