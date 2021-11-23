@@ -3652,7 +3652,7 @@
     "extId": "a0R4a000000QD8JEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.682,
       "lat": -36.9088
@@ -29923,9 +29923,52 @@
         "localEnd": "20:15:00"
       }
     ],
-    "description": "Medi-Centre is taking walk-ins whole day everyday: 9am-6pm on Mon to Thu | 9am-8pm on Fri to Sat | Onsite parking | Accessible toilets onsite.",
+    "description": "Medi-Centre is taking walk-ins whole day everyday: 9am-6pm on Mon to Thu | 9am-8pm on Fri to Sat",
     "mapUrl": "https://goo.gl/maps/JoF3cxxPtHaLafrU8",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-30",
     "locationPool": "default",
@@ -30003,7 +30046,7 @@
     "extId": "a0R4a000000TbV9EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.765,
       "lat": -36.848
@@ -30394,7 +30437,7 @@
     "extId": "a0R4a000000Te9kEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.803,
       "lat": -36.9692
@@ -30452,7 +30495,7 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "Accessible to all whaanau. Nau Mai, Haere Mai | Free onsite parking | Wheelchair accessible | Accessible toilets",
+    "description": "Accessible to all whaanau. Nau Mai, Haere Mai",
     "mapUrl": "https://g.page/turuki?share",
     "tags": [
       {
@@ -33312,7 +33355,7 @@
     "extId": "a0R4a000000Ts5DEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-02",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.736,
       "lat": -36.9209
@@ -33363,9 +33406,59 @@
         "localEnd": "17:45:00"
       }
     ],
-    "description": "Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
+    "description": "Foreign languages spoken:  Hindi, Fijian, Korean, Gujarati, Nepalese, Thai",
     "mapUrl": "https://goo.gl/maps/qnJsf5NXqtCBzRRH9",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-31",
     "locationPool": "default",
@@ -44305,7 +44398,7 @@
     "extId": "a0R4a000000V68YEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.721,
       "lat": -36.9002
@@ -45305,7 +45398,7 @@
     "extId": "a0R4a000000VAvNEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.93,
       "lat": -36.8923
@@ -45315,37 +45408,37 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
           "fri"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "12:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "12:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "12:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "12:00:00"
       }
     ],
@@ -50370,7 +50463,7 @@
     "extId": "a0R4a000000VvgGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-24",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.729,
       "lat": -36.749
@@ -51661,21 +51754,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:45:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -51689,7 +51768,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:45:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "08:45:00",
         "localEnd": "17:00:00"
@@ -52397,7 +52490,7 @@
     "extId": "a0R4a000000WO0EEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-14",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.657,
       "lat": -36.9379
@@ -52997,7 +53090,7 @@
     "extId": "a0R4a000000WmzaEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-15",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.556,
       "lat": -36.7757
@@ -54371,7 +54464,7 @@
     "extId": "a0R4a000000XM30EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.752,
       "lat": -36.8724
@@ -56983,21 +57076,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:15:00"
@@ -57011,7 +57090,21 @@
       },
       {
         "days": [
-          "thu"
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:15:00"
@@ -57073,14 +57166,14 @@
     "openHours": [
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "15:00:00"
       },
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "15:00:00"
@@ -57418,21 +57511,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -57446,7 +57525,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
