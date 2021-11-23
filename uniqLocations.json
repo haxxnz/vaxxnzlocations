@@ -24490,6 +24490,111 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Orewa Medical Plaza, 08 Tamariki Avenue, Orewa 0931",
+    "distanceInMeters": 18372.70948515,
+    "extId": "a0R4a000000Syu4EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-07",
+    "endDate": "2022-03-31",
+    "location": {
+      "lng": 174.695,
+      "lat": -36.5878
+    },
+    "name": "Orewa Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "description": "Language interpreter service available by appointment | Low sensory environment - available on request",
+    "mapUrl": "https://www.google.com/maps/place/Orewa+Medical+Centre/@-36.5878405,174.693039,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d240668d71061:0x6c5d5f9fde5efa7c!8m2!3d-36.5878723!4d174.6952413",
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-20",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "108 Ridge Road, Howick, Auckland 2014",
     "distanceInMeters": 6103.44589068,
     "extId": "a0R4a000000Sz39EAC",
@@ -39354,7 +39459,7 @@
     "extId": "a0R4a000000UU8REAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.494,
       "lat": -36.7676
@@ -39412,9 +39517,50 @@
         "localEnd": "16:45:00"
       }
     ],
-    "description": "Walk in's Available | Accessible toilets onsite | Wheelchair accessible | Onsite parking | Foreign languages by appointment.",
     "mapUrl": "https://www.google.com/maps/place/Waimauku+Pharmacy+Silver+Fern/@-36.7676372,174.4944546,15z/data=!4m5!3m4!1s0x0:0x7de41d09fbb6a009!8m2!3d-36.7676372!4d174.4944546",
     "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
       {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
@@ -45080,7 +45226,7 @@
     "extId": "a0R4a000000V91fEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.926,
       "lat": -36.9137
@@ -45138,9 +45284,30 @@
         "localEnd": "17:15:00"
       }
     ],
-    "description": "Accessible toilets in Plaza | Wheelchair accessible | Free onsite parking",
     "mapUrl": "https://www.google.com/maps/place/112+Whitford+Road,+Somerville,+Auckland+2014,+New+Zealand/@-36.9137107,174.9263079,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d4b463404346f:0x264cf81b2b18296!8m2!3d-36.9137107!4d174.9284966",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-09",
     "locationPool": "default",
@@ -51158,17 +51325,17 @@
     "mapUrl": "https://goo.gl/maps/xuvzLvzfisrSwBC19",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
@@ -52042,7 +52209,7 @@
     "extId": "a0R4a000000WHlEEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-04",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.741,
       "lat": -36.7594
@@ -52050,6 +52217,20 @@
     "name": "Sunnynook Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "14:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "14:45:00"
+      },
       {
         "days": [
           "fri"
@@ -52067,7 +52248,15 @@
     ],
     "description": "Onsite parking & street parking along Becroft Dr | No toilets available | Low sensory - not available.",
     "mapUrl": "https://www.google.com/maps/place/Sunnynook+Medical+Centre/@-36.7604412,174.7406353,15z/data=!4m5!3m4!1s0x0:0xff2c914124092de3!8m2!3d-36.7604412!4d174.7406353",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-28",
     "locationPool": "default",
@@ -56753,7 +56942,7 @@
     "extId": "a0R4a000000YYdoEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-03",
-    "endDate": "2021-12-23",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.633,
       "lat": -36.8807
