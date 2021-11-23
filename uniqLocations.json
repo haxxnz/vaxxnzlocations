@@ -1970,82 +1970,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "35 Graham Street, Auckland 1010",
-    "distanceInMeters": 10322.06334842,
-    "extId": "a0R4a000000Q4pdEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-06-24",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.759,
-      "lat": -36.8463
-    },
-    "name": "Auckland CBD Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "18:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "18:30:00"
-      }
-    ],
-    "description": "Relocated from Elliot Street to 35 Graham Street  | Public transport: The 1053 bus stop (route #24) and the 1324 bus stop (route #22) on Victoria Street are a three-minute walk from the centre.  There are additional stops at Victoria Park or the centre is a ten-minute walk from St Patrick’s Cathedral, Wyndham Street | Limited paid parking on the street | Drop off zone available | One accessible car park | Unisex accessible toilet | Low Sensory available - light and noise.",
-    "mapUrl": "https://goo.gl/maps/KgxBpAAjds9SXLC46",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-08",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T18:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "67 Skyhawk Road Wigram  Christchurch  8042",
     "distanceInMeters": 88.71365594,
     "extId": "a0R4a000000Q4pxEAC",
@@ -2176,223 +2100,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-21T23:08:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Inside Highbury Shopping Centre – 1 Cnr Highbury Bypass and Birkenhead Avenue, Birkenhead, Auckland 0626",
-    "distanceInMeters": 42901.72734712,
-    "extId": "a0R4a000000Q4q2EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-06-24",
-    "endDate": "2021-12-19",
-    "location": {
-      "lng": 174.725,
-      "lat": -36.811
-    },
-    "name": "Birkenhead Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "20:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      }
-    ],
-    "description": "Public Transport: On bus routes to Albany, Takapuna and Britomart, Birkdale and Beach Haven. Bus stops close to the Mall entrances on both Birkenhead and Mokoia Road |\r\nAccessible parking accessed via the lower carpark or the access off Highbury Bypass. There is a mall lift adjacent to the Burger King drive-through and two accessible parks. Additional accessible carparks are available in the lower and upper carpark, accessed via Hammond Place, off Birkenhead Avenue.  Please note: Access from the lower car park is via a travellator or stairs. The upper car park only requires a short, level walk to the vaccination centre |\r\nNo drop off zones available |\r\nAccessible toilets available in the Highbury Shopping Centre |\r\nUnisex toilets – for urgent use, post-vaccination only |\r\nLow sensory environment - Available on request- noise only.",
-    "mapUrl": "https://goo.gl/maps/MrDUCidkBSPRAojX8",
-    "tags": [
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-08",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T19:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "105 Leonard Road Mt Wellington  Auckland  1060",
-    "distanceInMeters": 3023.79502364,
-    "extId": "a0R4a000000Q4qbEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-06-23",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 174.822,
-      "lat": -36.9071
-    },
-    "name": "Mt Wellington Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:30:00"
-      }
-    ],
-    "description": "Public Transport: Bus route #66 Pt Chevalier to Sylvia Park |\r\nTrain to Penrose and 1km walk to the Centre |\r\nAccessible parking – wardens can direct you where to park |\r\nNo drop off zones |\r\nAccessible toilets - inside the building, ask staff for directions |\r\nNo Unisex toilets |\r\nForeign language translation service provided |\r\nLow sensory environment - Not available.",
-    "mapUrl": "https://goo.gl/maps/itNL2qbPQzFSxqhCA",
-    "tags": [
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-08",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T19:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -3413,125 +3120,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "382 Manukau Road Epsom, Auckland 1344. Parking at Alexandra Park, entry from 30 Campbell Crescent.",
-    "distanceInMeters": 7016.359484,
-    "extId": "a0R4a000000QD0eEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-29",
-    "endDate": "2021-12-23",
-    "location": {
-      "lng": 174.776,
-      "lat": -36.8923
-    },
-    "name": "Epsom Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      }
-    ],
-    "description": "Parking is at Alexandra Park, entry from 30 Campbell Crescent. Follow the arrows and traffic management staff who will direct you where to park |\r\nAccessible parking only available at 382 Manukau Road, accessed from the Southbound Lane (turn left) on Manukau Road |\r\nTraffic direction signs in place along Manukau Road, Queen Mary Avenue, and Campbell Crescent |\r\nDrop off zones at 382 Manukau Road |\r\nUnisex toilets | Accessible toilet |\r\nLow sensory environment - Available on request - lighting and noise.",
-    "mapUrl": "https://goo.gl/maps/qDJYPDZMTbV8v8A77",
-    "tags": [
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-27",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T19:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -6823,7 +6411,7 @@
   },
   {
     "displayAddress": "101 Victoria Road St Kilda  Dunedin  9012",
-    "distanceInMeters": 3335.8785684,
+    "distanceInMeters": 4391.21126969,
     "extId": "a0R4a000000QVNUEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -7328,7 +6916,7 @@
   },
   {
     "displayAddress": "7-11 Charlotte Street Balclutha  9230",
-    "distanceInMeters": 69736.68242475,
+    "distanceInMeters": 72148.48047345,
     "extId": "a0R4a000000QVc5EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7924,7 +7512,7 @@
   },
   {
     "displayAddress": "Meridian Mall, Lower Ground Floor, 267 George Street, Dunedin, 9016",
-    "distanceInMeters": 2154.98400018,
+    "distanceInMeters": 313.32708257,
     "extId": "a0R4a000000QVmvEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -8797,7 +8385,7 @@
   },
   {
     "displayAddress": "7 Eden Street   Milton  9220",
-    "distanceInMeters": 48703.17005472,
+    "distanceInMeters": 51108.12621383,
     "extId": "a0R4a000000QZRDEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -13335,7 +12923,7 @@
   },
   {
     "displayAddress": "8 Broadway Central Dunedin  Dunedin  9016",
-    "distanceInMeters": 1401.81877063,
+    "distanceInMeters": 1219.69617971,
     "extId": "a0R4a000000SI5cEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -13460,7 +13048,7 @@
   },
   {
     "displayAddress": "40 Clyde Street, Balclutha",
-    "distanceInMeters": 69848.74659018,
+    "distanceInMeters": 72260.67147159,
     "extId": "a0R4a000000SIDWEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -13564,7 +13152,7 @@
   },
   {
     "displayAddress": "130 Gordon Road Fairfield  Mosgiel  9024",
-    "distanceInMeters": 10462.29764914,
+    "distanceInMeters": 12301.07425232,
     "extId": "a0R4a000000SIHYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -13890,7 +13478,7 @@
   },
   {
     "displayAddress": "98 Macandrew Road, South Dunedin  Dunedin  9012",
-    "distanceInMeters": 2067.47706448,
+    "distanceInMeters": 3306.36410353,
     "extId": "a0R4a000000SIRTEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -14036,7 +13624,7 @@
   },
   {
     "displayAddress": "Shop G10a, 267 George Street   Dunedin  9016",
-    "distanceInMeters": 2157.22152923,
+    "distanceInMeters": 345.46277387,
     "extId": "a0R4a000000SISlEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -14168,7 +13756,7 @@
   },
   {
     "displayAddress": "402 George Street North Dunedin  Dunedin  9016",
-    "distanceInMeters": 2475.75113725,
+    "distanceInMeters": 74.20483126,
     "extId": "a0R4a000000SITyEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -16838,7 +16426,7 @@
   },
   {
     "displayAddress": "59A Musselburgh Rise Musselburgh  Dunedin  9013",
-    "distanceInMeters": 3074.54694825,
+    "distanceInMeters": 3399.73890526,
     "extId": "a0R4a000000SNrxEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -18137,7 +17725,7 @@
   },
   {
     "displayAddress": "351 King Edward Street South Dunedin  Dunedin  9012",
-    "distanceInMeters": 2217.44182203,
+    "distanceInMeters": 3272.81918908,
     "extId": "a0R4a000000STWWEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -18185,7 +17773,7 @@
   },
   {
     "displayAddress": "609 Highgate Maori Hill  Dunedin  9010",
-    "distanceInMeters": 3021.26178482,
+    "distanceInMeters": 1207.23362349,
     "extId": "a0R4a000000STdbEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -18662,7 +18250,7 @@
   },
   {
     "displayAddress": "201 Main Road   Waikouaiti  9510",
-    "distanceInMeters": 34927.250447,
+    "distanceInMeters": 32743.62480144,
     "extId": "a0R4a000000SURrEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -18717,7 +18305,7 @@
   },
   {
     "displayAddress": "4 Howden Street   Green Island  9018",
-    "distanceInMeters": 4792.34855353,
+    "distanceInMeters": 7183.8943189,
     "extId": "a0R4a000000SUXuEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -18758,7 +18346,7 @@
   },
   {
     "displayAddress": "10 Beaumaris Street   Outram  9019",
-    "distanceInMeters": 19885.69606838,
+    "distanceInMeters": 21598.16331351,
     "extId": "a0R4a000000SUaZEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -19243,7 +18831,7 @@
   },
   {
     "displayAddress": "351A King Edward Street South Dunedin  Dunedin  9012",
-    "distanceInMeters": 2276.63428315,
+    "distanceInMeters": 3355.6270657,
     "extId": "a0R4a000000SXJBEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -19507,7 +19095,7 @@
   },
   {
     "displayAddress": "133 Great King Street Dunedin Central  Dunedin  9016",
-    "distanceInMeters": 2272.08393462,
+    "distanceInMeters": 379.70332092,
     "extId": "a0R4a000000SXPOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -19653,7 +19241,7 @@
   },
   {
     "displayAddress": "24 George Street Port Chalmers  Dunedin  9023",
-    "distanceInMeters": 13006.54649971,
+    "distanceInMeters": 10600.41324616,
     "extId": "a0R4a000000SXReEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -19750,7 +19338,7 @@
   },
   {
     "displayAddress": "216 Main South Road Green Island  Dunedin  9018",
-    "distanceInMeters": 4771.20650238,
+    "distanceInMeters": 7158.38158266,
     "extId": "a0R4a000000SXV2EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -20007,7 +19595,7 @@
   },
   {
     "displayAddress": "1 North Road North East Valley  Dunedin  9010",
-    "distanceInMeters": 4094.06317735,
+    "distanceInMeters": 1703.44817271,
     "extId": "a0R4a000000SXZ9EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -20236,7 +19824,7 @@
   },
   {
     "displayAddress": "287A Highgate Roslyn  Dunedin  9010",
-    "distanceInMeters": 1690.372244,
+    "distanceInMeters": 1329.41384536,
     "extId": "a0R4a000000SXgUEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -20574,7 +20162,7 @@
   },
   {
     "displayAddress": "169 Eglinton Road Mornington  Dunedin  9011",
-    "distanceInMeters": 23.78675109,
+    "distanceInMeters": 2447.29706949,
     "extId": "a0R4a000000SbirEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -21598,7 +21186,7 @@
   },
   {
     "displayAddress": "21 Inglis Street   Mosgiel  9024",
-    "distanceInMeters": 10556.7427516,
+    "distanceInMeters": 12512.37851643,
     "extId": "a0R4a000000SjnHEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -22670,7 +22258,7 @@
   },
   {
     "displayAddress": "27 Albany Street North Dunedin  Dunedin  9016",
-    "distanceInMeters": 2648.04904885,
+    "distanceInMeters": 225.82946667,
     "extId": "a0R4a000000SqhdEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -22809,7 +22397,7 @@
   },
   {
     "displayAddress": "Shop G1, Wall Street Mall, 211 George Street, Dunedin Central, Dunedin 9016",
-    "distanceInMeters": 2075.62546181,
+    "distanceInMeters": 415.91395204,
     "extId": "a0R4a000000SqjFEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -23925,7 +23513,7 @@
   },
   {
     "displayAddress": "29 Albany Street   Dunedin  9016",
-    "distanceInMeters": 2652.943796,
+    "distanceInMeters": 229.75981645,
     "extId": "a0R4a000000SwO8EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -23966,7 +23554,7 @@
   },
   {
     "displayAddress": "70 Macandrew Road South Dunedin  Dunedin  9012",
-    "distanceInMeters": 2084.93706446,
+    "distanceInMeters": 3245.28250132,
     "extId": "a0R4a000000SwTkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -24091,7 +23679,7 @@
   },
   {
     "displayAddress": "2 Broadway   Dunedin  9016",
-    "distanceInMeters": 1438.70904174,
+    "distanceInMeters": 1243.22398488,
     "extId": "a0R4a000000SwVCEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -24195,7 +23783,7 @@
   },
   {
     "displayAddress": "26 Bank Street North East Valley  Dunedin  9010",
-    "distanceInMeters": 4056.79986847,
+    "distanceInMeters": 1685.72378565,
     "extId": "a0R4a000000SwYfEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-24",
@@ -24569,7 +24157,7 @@
   },
   {
     "displayAddress": "2 Pitt Street,   Dunedin  9016",
-    "distanceInMeters": 2424.39884578,
+    "distanceInMeters": 0.35111722,
     "extId": "a0R4a000000Sy8yEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -25460,7 +25048,7 @@
   },
   {
     "displayAddress": "A9/1 Wagener Place, Mt Albert, Auckland 1025",
-    "distanceInMeters": 33991.63588593,
+    "distanceInMeters": 11142.97407899,
     "extId": "a0R4a000000SzPtEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -26240,7 +25828,7 @@
   },
   {
     "displayAddress": "2 Factory Road   Mosgiel  9024",
-    "distanceInMeters": 10484.71821787,
+    "distanceInMeters": 12307.07284077,
     "extId": "a0R4a000000T7VKEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -27992,7 +27580,7 @@
     "extId": "a0R4a000000TKtxEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
-    "endDate": "2021-12-11",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.286,
       "lat": -40.6332
@@ -35420,7 +35008,7 @@
   },
   {
     "displayAddress": "170 Eglinton Road Mornington  Dunedin  9011",
-    "distanceInMeters": 0.22912624,
+    "distanceInMeters": 2423.93080065,
     "extId": "a0R4a000000U2FwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -35781,7 +35369,7 @@
   },
   {
     "displayAddress": "195b Main South Road Green Island  Dunedin  9018",
-    "distanceInMeters": 4680.73002761,
+    "distanceInMeters": 7067.72540852,
     "extId": "a0R4a000000U2KqEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -35850,7 +35438,7 @@
   },
   {
     "displayAddress": "300 George Street Dunedin Central  Dunedin  9016",
-    "distanceInMeters": 2250.4043111,
+    "distanceInMeters": 246.5808758,
     "extId": "a0R4a000000U2MDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -41193,90 +40781,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "42 Verissimo Drive Māngere  Auckland  2022",
-    "distanceInMeters": 25172.61802837,
-    "extId": "a0R4a000000UbxJEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-24",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 174.79,
-      "lat": -36.9918
-    },
-    "name": "Airport Park N Ride - Open",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:00:00"
-      }
-    ],
-    "description": "Drive through vaccination centre | Open from 08.30am - 4.00pm",
-    "mapUrl": "https://www.google.com/maps/place/42+Verissimo+Drive,+M%C4%81ngere,+Auckland+2022/@-36.9904124,174.7862457,17z/data=!4m13!1m7!3m6!1s0x6d0d4fecad0db6f3:0x8b992114a9ec41da!2s42+Verissimo+Drive,+M%C4%81ngere,+Auckland+2022!3b1!8m2!3d-36.9904167!4d174.7884344",
-    "tags": [
-      {
-        "id": 85187,
-        "externalId": "a0p4a000000EOb5AAG",
-        "name": "Drive-through location",
-        "languageKey": "Drive-through location",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-24",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "145 Wai-Iti Road Highfield  Timaru  7910",
     "distanceInMeters": 68184.59236237,
     "extId": "a0R4a000000UdxkEAC",
@@ -41523,7 +41027,7 @@
     "distanceInMeters": 6553.45943461,
     "extId": "a0R4a000000UeS1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-14",
+    "startDate": "2021-09-22",
     "endDate": "2021-12-31",
     "location": {
       "lng": 172.635,
@@ -41650,7 +41154,7 @@
       }
     ],
     "type": "OnlineBooking",
-    "availableDate": "2021-09-13",
+    "availableDate": "2021-09-22",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
@@ -42572,82 +42076,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:34:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "50 Centreway Road Orewa  Auckland  931",
-    "distanceInMeters": 18898.86656883,
-    "extId": "a0R4a000000UjYtEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-15",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 174.694,
-      "lat": -36.5925
-    },
-    "name": "Orewa Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "08:00:00",
-        "localEnd": "15:30:00"
-      }
-    ],
-    "description": "Public transport on bus routes 981 and 984, stop is on Centreway Rd | Use Centrestage entrance, first carpark on the left | Free onsite parking available | Unisex toilets | No accessible toilets available | Low sensory - available on request.",
-    "mapUrl": "https://goo.gl/maps/ifwibw5esYYMsgK57",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-11",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T19:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -43684,7 +43112,7 @@
     "extId": "a0R4a000000V12hEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-19",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.828,
       "lat": -36.8755
@@ -43742,8 +43170,16 @@
         "localEnd": "17:15:00"
       }
     ],
+    "description": "Foreign spoken language:  Japanese",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Meadowbank/@-36.8760131,174.8278125,15z/data=!4m5!3m4!1s0x0:0xc10189f8daedf83f!8m2!3d-36.8760131!4d174.8278125",
     "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
       {
         "id": 85188,
         "externalId": "a0p4a000000EOb6AAG",
@@ -44533,7 +43969,7 @@
   },
   {
     "displayAddress": "350 South Road Caversham  Dunedin  9012",
-    "distanceInMeters": 1535.10979938,
+    "distanceInMeters": 3778.73348559,
     "extId": "a0R4a000000V2y5EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -46486,7 +45922,7 @@
         "localEnd": "17:00:00"
       }
     ],
-    "description": "-",
+    "description": "Present your Living Rewards card to receive 25 points for 1st dose, 50 points for 2nd dose, 50 points for booster . Located next to the food court Johnsonville Shopping Centre.",
     "mapUrl": "https://www.google.com/maps/place/Life+Pharmacy+Johnsonville/@-41.2232691,174.8055197,17.75z/data=!4m5!3m4!1s0x6d38adb7ca5510db:0x552e74cf0f92b313!8m2!3d-41.2233141!4d174.8071201",
     "tags": [
       {
@@ -51518,7 +50954,7 @@
     "extId": "a0R4a000000W19CEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-03",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.796,
       "lat": -36.8298
@@ -51767,7 +51203,7 @@
     "extId": "a0R4a000000W1Z1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-28",
-    "endDate": "2021-12-20",
+    "endDate": "2022-01-27",
     "location": {
       "lng": 175.623,
       "lat": -40.3493
@@ -51777,6 +51213,13 @@
     "openHours": [
       {
         "days": [
+          "wed"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "14:00:00",
@@ -51784,7 +51227,22 @@
       }
     ],
     "mapUrl": "https://goo.gl/maps/xuvzLvzfisrSwBC19",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-23",
     "locationPool": "default",
@@ -52454,35 +51912,7 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
@@ -52496,10 +51926,38 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
       }
     ],
     "description": "Foreign spoken languages:  Cantonese, Mandarin",
@@ -52552,7 +52010,7 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "13:30:00",
         "localEnd": "16:30:00"
@@ -52566,7 +52024,7 @@
       },
       {
         "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "13:30:00",
         "localEnd": "16:30:00"
@@ -52600,21 +52058,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -52628,7 +52072,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:15:00"
@@ -52732,21 +52190,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
@@ -52760,7 +52204,21 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "12:00:00"
@@ -54022,8 +53480,23 @@
         "localEnd": "15:15:00"
       }
     ],
+    "description": "Foreign Spoken Languages:  Arabic, Hindi, Korean, Pilipino, Samoan, Spanish, Telegu",
     "mapUrl": "https://g.page/Clendonpharmacy?share",
     "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
       {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
@@ -54061,7 +53534,7 @@
     "extId": "a0R4a000000WnE1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
-    "endDate": "2021-12-20",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.619,
       "lat": -40.3559
@@ -54086,6 +53559,13 @@
       {
         "days": [
           "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "wed"
         ],
         "localStart": "10:30:00",
         "localEnd": "12:30:00"
@@ -56552,13 +56032,6 @@
       },
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "09:00:00",
@@ -56567,6 +56040,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
@@ -56621,13 +56101,6 @@
       },
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "09:30:00",
@@ -56639,6 +56112,13 @@
         ],
         "localStart": "09:30:00",
         "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Language interpreter service available by appointment | Low sensory environment - available on request",
@@ -56709,7 +56189,7 @@
   },
   {
     "displayAddress": "215 Ponsonby Road, Ponsonby, Auckland  1011",
-    "distanceInMeters": 47456.21713311,
+    "distanceInMeters": 11036.97195348,
     "extId": "a0R4a000000Y2scEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-08",
@@ -56918,7 +56398,7 @@
   },
   {
     "displayAddress": "52 St Lukes Road Mt Albert  Auckland  1025",
-    "distanceInMeters": 50773.96248952,
+    "distanceInMeters": 11128.66790773,
     "extId": "a0R4a000000YFvMEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-15",
@@ -57333,13 +56813,6 @@
       },
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
           "thu"
         ],
         "localStart": "09:00:00",
@@ -57351,6 +56824,13 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Unichem+Family+Health+Pharmacy/@-37.8893764,175.4538267,36m/data=!3m1!1e3!4m5!3m4!1s0x6d6d0321da97bdb5:0xee4def36bd7af2e!8m2!3d-37.8893112!4d175.4538504",
@@ -57520,7 +57000,7 @@
   },
   {
     "displayAddress": "275 New Windsor Road New Windsor  Auckland  600",
-    "distanceInMeters": 37619.79238385,
+    "distanceInMeters": 36039.38008248,
     "extId": "a0R4a000000YaOuEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-02",
@@ -57835,7 +57315,7 @@
     "extId": "a0R4a000000YdzLEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-18",
-    "endDate": "2022-01-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.592,
       "lat": -40.3732
@@ -57886,6 +57366,13 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "tue"
         ],
         "localStart": "09:00:00",
@@ -57908,13 +57395,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -57991,14 +57471,14 @@
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "12:00:00",
         "localEnd": "13:00:00"
       },
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "12:00:00",
         "localEnd": "13:00:00"
@@ -58052,10 +57532,10 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "16:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -58073,10 +57553,10 @@
       },
       {
         "days": [
-          "thu"
+          "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:15:00",
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/jCwqpi73afnbZJoN8",
