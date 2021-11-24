@@ -24811,7 +24811,7 @@
     "extId": "a0R4a000000Sz8YEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.648,
       "lat": -36.863
@@ -24862,9 +24862,24 @@
         "localEnd": "18:00:00"
       }
     ],
-    "description": "Onsite parking | Wheelchair accessible | No toilets onsite | Languages spoken - Cantonese, Mandarin, Hindi.",
+    "description": "Foreign languages spoken - Cantonese, Mandarin, Hindi.",
     "mapUrl": "https://www.google.co.nz/maps/place/Unichem+All+Seasons+Pharmacy/@-36.8627925,174.64625,17z/data=!3m2!4b1!5s0x6d0d40f62f02922f:0x4e52176e7fbd40b2!4m5!3m4!1s0x6d0d40f624f8d773:0xbf9fe38929e29f57!8m2!3d-36.8627925!4d174.6484387?hl=en",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-08-04",
     "locationPool": "default",
