@@ -5445,7 +5445,7 @@
     "lat": -41.2049105,
     "lng": 174.92669039999998,
     "name": "",
-    "branch": "primary",
+    "branch": "pharmacy",
     "openTodayHours": "",
     "instructionLis": [],
     "address": "Healthcare ServicesRegionWas this page helpful?",
@@ -17383,7 +17383,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"1e7b737f77725e79716c7b737b7a777d7f72307d71307064\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"4f2a222e26230f28203d2a222a2b262c2e23612c20612135\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -22341,39 +22341,6 @@
     }
   },
   {
-    "lat": -36.9060132,
-    "lng": 174.7742012,
-    "name": "Greenwood Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "641 Manukau Road, Royal Oak, Auckland",
-    "telephone": "(09) 625 6173",
-    "faxNumber": "(09) 624 2169",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/greenwood-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM",
-        "Sat": "9:00 AM – 4:00 PM",
-        "Sun": "9:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (9:00 AM – 6:00 PM). Open 21 Dec (9:00 AM – 6:00 PM). Open 22 Dec (9:00 AM – 6:00 PM). Open 23 Dec (9:00 AM – 6:00 PM). Open 24 Dec (9:00 AM – 12:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 6:00 PM). Open 30 Dec (9:00 AM – 6:00 PM). Open 31 Dec (9:00 AM – 6:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (9:00 AM – 6:00 PM). Open 6 Jan (9:00 AM – 6:00 PM). Open 7 Jan (9:00 AM – 6:00 PM).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "<strong>Note: Weekend Clinic is for patient to phone for appointment.&nbsp; This is NOT a walk-in clinic.</strong>",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -36.8300638,
     "lng": 174.7981033,
     "name": "Devonport Health",
@@ -24330,6 +24297,39 @@
         "Every 2nd Tuesday of the month the clinic is closed for a staff meeting between: 1pm and 2.15pm.",
         "<em><strong>** Due to Covid response patients must call for an appointment/telephone triage before presenting until further notice .&nbsp;</strong></em>",
         "<strong>After hours </strong>advice is available on our practice phone number: (09) 570 2999. Your call will be answered by a nurse. For emergencies, please ring 111."
+      ]
+    }
+  },
+  {
+    "lat": -36.9060132,
+    "lng": 174.7742012,
+    "name": "Greenwood Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "641 Manukau Road, Royal Oak, Auckland",
+    "telephone": "(09) 625 6173",
+    "faxNumber": "(09) 624 2169",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/greenwood-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 4:00 PM",
+        "Sun": "9:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:00 AM – 5:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (8:00 AM – 5:00 PM). Open 30 Dec (8:00 AM – 5:00 PM). Open 31 Dec (8:00 AM – 5:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (8:00 AM – 5:00 PM). Open 6 Jan (8:00 AM – 5:00 PM). Open 7 Jan (8:00 AM – 5:00 PM).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>Note: Weekend Clinic is for patient to phone for appointment.&nbsp; This is NOT a walk-in clinic.</strong>",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;"
       ]
     }
   }
