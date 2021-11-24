@@ -14310,7 +14310,7 @@
           "sat"
         ],
         "localStart": "10:00:00",
-        "localEnd": "15:30:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
@@ -15694,24 +15694,31 @@
     "openHours": [
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "14:00:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -20843,7 +20850,7 @@
     "extId": "a0R4a000000ScMwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
-    "endDate": "2021-12-12",
+    "endDate": "2022-02-06",
     "location": {
       "lng": 172.568,
       "lat": -43.5745
@@ -20855,22 +20862,15 @@
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
+        "localStart": "09:30:00",
+        "localEnd": "11:30:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "11:30:00"
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Toilets - Yes. Wheelchair accessible. Onsite parking.",
