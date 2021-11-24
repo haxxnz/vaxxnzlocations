@@ -34161,7 +34161,7 @@
     "extId": "a0R4a000000Tu4jEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.328,
       "lat": -37.7854
@@ -39934,7 +39934,7 @@
     "extId": "a0R4a000000UVFREA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.11,
       "lat": -37.6958
@@ -42932,7 +42932,7 @@
     "extId": "a0R4a000000UtnDEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-17",
-    "endDate": "2021-12-23",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 174.775,
       "lat": -36.9102
@@ -42990,9 +42990,31 @@
         "localEnd": "17:15:00"
       }
     ],
-    "description": "Pharmacy next to Pak'n Save | Accessible toilets onsite | Wheelchair accessible | Free onsite parking",
+    "description": "Pharmacy next to Pak'n Save",
     "mapUrl": "https://www.google.com/maps/place/Unichem+Royal+Oak+Pharmacy/@-36.9104878,174.7730311,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d48a73e55d32b:0xeb261665e831bf1!8m2!3d-36.9104878!4d174.7752198",
-    "tags": [],
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-14",
     "locationPool": "default",
@@ -43232,7 +43254,7 @@
     "extId": "a0R4a000000UxGFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.14,
       "lat": -37.6682
@@ -44094,7 +44116,7 @@
     "extId": "a0R4a000000V1hIEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.131,
       "lat": -37.7264
@@ -52263,7 +52285,7 @@
     "extId": "a0R4a000000WCejEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-04",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.135,
       "lat": -37.6897
