@@ -12671,7 +12671,7 @@
     "extId": "a0R4a000000SEWpEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
-    "endDate": "2021-12-24",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 175.454,
       "lat": -37.8894
@@ -20180,7 +20180,7 @@
         "localEnd": "12:45:00"
       }
     ],
-    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "description": "**Walk-ins welcomed**\r\nToilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
     "mapUrl": "https://goo.gl/maps/xNJQTeC6AuSnmtpA7",
     "tags": [
       {
@@ -27088,13 +27088,6 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:00:00",
@@ -32740,7 +32733,29 @@
     ],
     "description": "Accessible toilets onsite | Free onsite parking | Foreign languages by appointment",
     "mapUrl": "https://goo.gl/maps/czT4E9CkrTWiyNLWA",
-    "tags": [],
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
     "type": "OnlineBooking",
     "availableDate": "2021-09-22",
     "locationPool": "default",
@@ -57164,8 +57179,8 @@
         "days": [
           "mon"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "15:45:00"
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
@@ -57377,7 +57392,7 @@
     "extId": "a0R4a000000YSR4EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
-    "endDate": "2021-12-24",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 175.454,
       "lat": -37.8894
