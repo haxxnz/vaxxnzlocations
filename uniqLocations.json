@@ -7972,7 +7972,7 @@
     "extId": "a0R4a000000QVmvEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2022-01-09",
+    "endDate": "2022-03-27",
     "location": {
       "lng": 170.505,
       "lat": -45.8702
@@ -7991,28 +7991,28 @@
         "days": [
           "thu"
         ],
-        "localStart": "11:00:00",
+        "localStart": "10:30:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "11:00:00",
+        "localStart": "10:30:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "11:00:00",
+        "localStart": "10:30:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "11:00:00",
+        "localStart": "10:30:00",
         "localEnd": "18:00:00"
       }
     ],
@@ -8156,7 +8156,7 @@
   },
   {
     "displayAddress": "50 Tapanui-Raes Junction Highway,   Tapanui  9522",
-    "distanceInMeters": 30708.29733946,
+    "distanceInMeters": 30492.36639393,
     "extId": "a0R4a000000QWPEEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8896,7 +8896,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 67766.22210791,
+    "distanceInMeters": 67738.12981991,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -16868,53 +16868,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "421 Ormond Road   Gisborne  4010",
-    "distanceInMeters": 3119.35770203,
-    "extId": "a0R4a000000SO0qEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-28",
-    "endDate": "2021-12-10",
-    "location": {
-      "lng": 178.003,
-      "lat": -38.6386
-    },
-    "name": "Poutama Room (Gisborne Hospital)",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/421+Ormond+Road,+Lytton+West,+Gisborne+4010,+New+Zealand/@-38.6387059,178.0007656,17z/data=!4m13!1m7!3m6!1s0x6d6677fcd8b09bbf:0x73295ee8b8f0130!2s421+Ormond+Road,+Lytton+West,+Gisborne+4010,+New+Zealand!3b1!8m2!3d-38.6387",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "80 Kapanga Road   Coromandel  3506",
     "distanceInMeters": 42277.28267695,
     "extId": "a0R4a000000SOnsEAG",
@@ -22767,7 +22720,7 @@
     "extId": "a0R4a000000Stp2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.808,
       "lat": -38.9877
@@ -40064,38 +40017,38 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/Go4health/@-37.641523,176.182601,17z/data=!4m5!3m4!1s0x6d6ddbc35dc369d3:0x27c7d01a4d1cdaa6!8m2!3d-37.6414871!4d176.1848482",
@@ -43818,7 +43771,7 @@
     "extId": "a0R4a000000V14nEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
-    "endDate": "2021-12-19",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 176.344,
       "lat": -38.4371
@@ -51250,7 +51203,7 @@
     "extId": "a0R4a000000VwI4EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-28",
-    "endDate": "2022-01-30",
+    "endDate": "2022-02-28",
     "location": {
       "lng": 174.841,
       "lat": -41.1372
