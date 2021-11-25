@@ -43640,7 +43640,7 @@
   },
   {
     "displayAddress": "3B/160 Hobsonville Point Road Hobsonville  Auckland  618",
-    "distanceInMeters": 11287.76114124,
+    "distanceInMeters": 43859.62762412,
     "extId": "a0R4a000000V0yuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
@@ -53253,7 +53253,7 @@
   },
   {
     "displayAddress": "408 Titirangi Road Titirangi  Auckland  0604",
-    "distanceInMeters": 34316.63299785,
+    "distanceInMeters": 35175.58861654,
     "extId": "a0R4a000000WO0EEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-14",
@@ -58849,7 +58849,7 @@
   },
   {
     "displayAddress": "3A/160 Hobsonville Point Road Hobsonville  Auckland  0616",
-    "distanceInMeters": 11276.37996871,
+    "distanceInMeters": 43875.69626546,
     "extId": "a0R4a000000ZbMUEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-24",
@@ -59142,6 +59142,69 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "6 Mount Albert Road Mount Albert  Auckland  1025",
+    "distanceInMeters": 5731.28572769,
+    "extId": "a0R4a000000ZlkjEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-12-09",
+    "endDate": "2022-03-31",
+    "location": {
+      "lng": 174.716,
+      "lat": -36.8843
+    },
+    "name": "Assist Healthcare ",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "16:45:00"
+      }
+    ],
+    "description": "Language interpreter service available by appointment | Low sensory environment available by appointment",
+    "mapUrl": "https://goo.gl/maps/wEwjj63hkSHUXtKX9",
+    "tags": [
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-18",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-12-12T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
