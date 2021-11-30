@@ -7821,37 +7821,6 @@
     }
   },
   {
-    "lat": -43.1543888,
-    "lng": 172.73291300000005,
-    "name": "Amberley Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "By invitation only",
-      "Make an appointment"
-    ],
-    "address": "6 Hilton Drive, Amberley",
-    "telephone": "(03) 314 8504",
-    "faxNumber": "(03) 314 8535",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/amberley-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM",
-        "Sat – Sun": "9:30 AM – 12:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr). Open Waitangi Day (Observed 7/2/22) (7 Feb, 9:30 AM – 12:30 PM), Easter Sunday (17 Apr, 9:30 AM – 12:30 PM), Easter Monday (18 Apr, 9:30 AM – 12:30 PM), ANZAC Day (25 Apr, 9:30 AM – 12:30 PM), Queen's Birthday (6 Jun, 9:30 AM – 12:30 PM), Labour Day (24 Oct, 9:30 AM – 12:30 PM), Canterbury Anniversary (11 Nov, 9:30 AM – 12:30 PM).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "We provide 24/7 medical and emergency care.",
-        "Please check our website for further information:&nbsp; www.amberleymc.co.nz",
-        "<strong>After Hours -</strong> Call clinic phone and you will be transferred to an after hours service"
-      ]
-    }
-  },
-  {
     "lat": -45.87751669999999,
     "lng": 170.50015859999996,
     "name": "Anderson's Exchange Pharmacy",
@@ -19274,33 +19243,6 @@
     }
   },
   {
-    "lat": -36.9799477,
-    "lng": 174.85362110000005,
-    "name": "Unichem Papatoetoe Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "63 St George Street, Papatoetoe, Auckland",
-    "telephone": "(09) 278 7613",
-    "faxNumber": "(09) 278 7615",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-papatoetoe-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:30 AM – 5:30 PM). Open 21 Dec (8:30 AM – 5:30 PM). Open 22 Dec (8:30 AM – 5:30 PM). Open 23 Dec (8:30 AM – 5:30 PM). Open 24 Dec (8:30 AM – 4:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (8:30 AM – 5:30 PM). Open 30 Dec (8:30 AM – 5:30 PM). Open 31 Dec (8:30 AM – 5:30 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (8:30 AM – 5:30 PM). Open 6 Jan (8:30 AM – 5:30 PM). Open 7 Jan (8:30 AM – 5:30 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -35.4050319,
     "lng": 173.80464089999998,
     "name": "Unichem Orrs Pharmacy Kaikohe",
@@ -24149,7 +24091,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"b6d3dbd7dfdaf6d1d9c4d3dbd3d2dfd5d7da98d5d998d8cc\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"46232b272f2a06212934232b23222f25272a68252968283c\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -24643,6 +24585,64 @@
         "Preferred urgent care clinic out of hours": "Bakerfield Medical and Urgent Care."
       },
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9799477,
+    "lng": 174.85362110000005,
+    "name": "Unichem Papatoetoe Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "63 St George Street, Papatoetoe, Auckland",
+    "telephone": "(09) 278 7613",
+    "faxNumber": "(09) 278 7615",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-papatoetoe-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:30 AM – 5:30 PM). Open 21 Dec (8:30 AM – 5:30 PM). Open 22 Dec (8:30 AM – 5:30 PM). Open 23 Dec (8:30 AM – 5:30 PM). Open 24 Dec (8:30 AM – 4:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (8:30 AM – 5:30 PM). Open 30 Dec (8:30 AM – 5:30 PM). Open 31 Dec (8:30 AM – 5:30 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (8:30 AM – 5:30 PM). Open 6 Jan (8:30 AM – 5:30 PM). Open 7 Jan (8:30 AM – 5:30 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.1543888,
+    "lng": 172.73291300000005,
+    "name": "Amberley Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "By invitation only",
+      "Make an appointment"
+    ],
+    "address": "6 Hilton Drive, Amberley",
+    "telephone": "(03) 314 8504",
+    "faxNumber": "(03) 314 8535",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/amberley-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat – Sun": "9:30 AM – 12:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr). Open Waitangi Day (Observed 7/2/22) (7 Feb, 9:30 AM – 12:30 PM), Easter Sunday (17 Apr, 9:30 AM – 12:30 PM), Easter Monday (18 Apr, 9:30 AM – 12:30 PM), ANZAC Day (25 Apr, 9:30 AM – 12:30 PM), Queen's Birthday (6 Jun, 9:30 AM – 12:30 PM), Labour Day (24 Oct, 9:30 AM – 12:30 PM), Canterbury Anniversary (11 Nov, 9:30 AM – 12:30 PM).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:00 AM – 4:00 PM). Closed 25 Dec. Open 26 Dec (9:30 AM – 12:30 PM). Open 27 Dec (9:30 AM – 12:30 PM). Open 28 Dec (9:30 AM – 12:30 PM). Open 29 Dec — 31 Dec. Closed 1 Jan. Open 2 Jan (9:30 AM – 12:30 PM). Open 3 Jan (9:30 AM – 12:30 PM). Open 4 Jan (9:30 AM – 12:30 PM). Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "We provide 24/7 medical and emergency care.",
+        "Please check our website for further information:&nbsp; www.amberleymc.co.nz",
+        "<strong>After Hours -</strong> Call clinic phone and you will be transferred to an after hours service"
+      ]
     }
   }
 ]

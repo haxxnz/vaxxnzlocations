@@ -136,6 +136,13 @@
     "mapUrl": "https://www.google.com/maps/place/81+Finlayson+Avenue,+Clendon+Park,+Auckland+2103,+New+Zealand/@-37.025201,174.8551338,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d5202ada50d79:0x4501edd20115e80b!8m2!3d-37.0252053!4d174.8573225",
     "tags": [
       {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -161,13 +168,6 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
         "isSystemTag": false
       }
     ],
@@ -2190,6 +2190,13 @@
     "mapUrl": "https://goo.gl/maps/itNL2qbPQzFSxqhCA",
     "tags": [
       {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -2208,13 +2215,6 @@
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
         "isSystemTag": false
       }
     ],
@@ -4803,7 +4803,7 @@
   },
   {
     "displayAddress": "The Old Warehouse Building, 11 Matthews Avenue, Kaitaia  410",
-    "distanceInMeters": 0.19078518,
+    "distanceInMeters": 140.51805151,
     "extId": "a0R4a000000QDrAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-10",
@@ -6660,7 +6660,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road, Wanaka  Wanaka  9305",
-    "distanceInMeters": 63757.78109599,
+    "distanceInMeters": 45815.43773545,
     "extId": "a0R4a000000QVM7EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6708,7 +6708,7 @@
   },
   {
     "displayAddress": "18 Limerick Street   Alexandra  9320",
-    "distanceInMeters": 569.80286627,
+    "distanceInMeters": 57936.39656378,
     "extId": "a0R4a000000QVMvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7035,7 +7035,7 @@
   },
   {
     "displayAddress": "93 Tarbert Street   Alexandra  9320",
-    "distanceInMeters": 0.18432931,
+    "distanceInMeters": 57908.84738528,
     "extId": "a0R4a000000QVV4EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -7478,7 +7478,7 @@
   },
   {
     "displayAddress": "192 Waenga Drive   Cromwell  9384",
-    "distanceInMeters": 28660.76761486,
+    "distanceInMeters": 35720.34169009,
     "extId": "a0R4a000000QVgsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7686,7 +7686,7 @@
   },
   {
     "displayAddress": "1a Traders Lane   Cromwell  9384",
-    "distanceInMeters": 27823.98552918,
+    "distanceInMeters": 35353.6987672,
     "extId": "a0R4a000000QVj3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7902,11 +7902,11 @@
   },
   {
     "displayAddress": "Level 1, 34 Grant Road 5-Mile   Queenstown  9300",
-    "distanceInMeters": 57768.47706869,
+    "distanceInMeters": 173.05206414,
     "extId": "a0R4a000000QWCUEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2021-12-05",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 168.743,
       "lat": -45.0131
@@ -8012,7 +8012,7 @@
   },
   {
     "displayAddress": "65 SCOTLAND STREET   Roxburgh  9500",
-    "distanceInMeters": 32389.98084982,
+    "distanceInMeters": 73594.31779974,
     "extId": "a0R4a000000QWQqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -8088,7 +8088,7 @@
   },
   {
     "displayAddress": "4 Thirteenth Avenue Lower Shotover  Queenstown  9304",
-    "distanceInMeters": 55693.72927827,
+    "distanceInMeters": 3307.73995972,
     "extId": "a0R4a000000QWQvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8136,7 +8136,7 @@
   },
   {
     "displayAddress": "9 Isle Street, Queenstown  9300",
-    "distanceInMeters": 63016.5109191,
+    "distanceInMeters": 6935.39668257,
     "extId": "a0R4a000000QWVCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -13186,7 +13186,7 @@
   },
   {
     "displayAddress": "Shop 7, 32 Grant Road, Five Mile Retail Centre, Frankton  Queenstown  9371",
-    "distanceInMeters": 57814.42296885,
+    "distanceInMeters": 150.55871395,
     "extId": "a0R4a000000SIJoEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -16594,7 +16594,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road,   Wanaka  9305",
-    "distanceInMeters": 63757.78109599,
+    "distanceInMeters": 45815.43773545,
     "extId": "a0R4a000000SPVuEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-26",
@@ -18915,7 +18915,7 @@
     "extId": "a0R4a000000SXReEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
+    "endDate": "2022-07-31",
     "location": {
       "lng": 170.621,
       "lat": -45.8157
@@ -19397,7 +19397,7 @@
   },
   {
     "displayAddress": "4/6 Centennial Avenue,   Alexandra  9340",
-    "distanceInMeters": 339.54154321,
+    "distanceInMeters": 57888.18243103,
     "extId": "a0R4a000000SXaCEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -21215,7 +21215,7 @@
   },
   {
     "displayAddress": "Shop C-05, Queenstown, Central Shopping Centre 19 Grant Road Frankton  Queenstown  9300",
-    "distanceInMeters": 57908.88651732,
+    "distanceInMeters": 0.20297562,
     "extId": "a0R4a000000SqVNEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-09",
@@ -21395,11 +21395,11 @@
   },
   {
     "displayAddress": "53 Hawthorne Drive Frankton  Queenstown  9300",
-    "distanceInMeters": 57029.54114175,
+    "distanceInMeters": 1744.05537587,
     "extId": "a0R4a000000SqYMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
-    "endDate": "2022-02-27",
+    "endDate": "2022-07-31",
     "location": {
       "lng": 168.744,
       "lat": -45.0274
@@ -21613,7 +21613,7 @@
     "extId": "a0R4a000000Sqf3EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
-    "endDate": "2022-02-27",
+    "endDate": "2022-07-03",
     "location": {
       "lng": 168.348,
       "lat": -46.3771
@@ -21625,7 +21625,7 @@
         "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:45:00",
         "localEnd": "12:00:00"
       },
       {
@@ -24124,7 +24124,7 @@
     "extId": "a0R4a000000Sz39EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
-    "endDate": "2021-12-20",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.923,
       "lat": -36.8956
@@ -24143,8 +24143,8 @@
         "days": [
           "sat"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "16:30:00"
+        "localStart": "09:30:00",
+        "localEnd": "12:30:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Low sensory environment available",
@@ -25577,7 +25577,7 @@
   },
   {
     "displayAddress": "9 Isle Street   Queenstown  9300",
-    "distanceInMeters": 62991.39528622,
+    "distanceInMeters": 6910.71804725,
     "extId": "a0R4a000000T7XLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -25681,7 +25681,7 @@
   },
   {
     "displayAddress": "1091 Frankton Road Frankton  Queenstown  9300",
-    "distanceInMeters": 58450.28577401,
+    "distanceInMeters": 977.00475728,
     "extId": "a0R4a000000T7atEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -25958,7 +25958,7 @@
   },
   {
     "displayAddress": "Corner Rees Street & The Mall   Queenstown  9300",
-    "distanceInMeters": 62737.19057773,
+    "distanceInMeters": 6854.41485647,
     "extId": "a0R4a000000T7dTEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -26159,7 +26159,7 @@
   },
   {
     "displayAddress": "22 The Mall Cromwell  Central Otago  9310",
-    "distanceInMeters": 28596.77244066,
+    "distanceInMeters": 35909.46176448,
     "extId": "a0R4a000000T7ghEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -27771,7 +27771,7 @@
   },
   {
     "displayAddress": "1046 Broadwood Road   Broadwood  491",
-    "distanceInMeters": 20000.23255089,
+    "distanceInMeters": 20014.99060088,
     "extId": "a0R4a000000TQkMEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -27875,7 +27875,7 @@
   },
   {
     "displayAddress": "1 Old Beach Road   Kohukohu  491",
-    "distanceInMeters": 37430.68207809,
+    "distanceInMeters": 37460.81011998,
     "extId": "a0R4a000000TQoxEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -28090,7 +28090,7 @@
   },
   {
     "displayAddress": "295 Harbour View Road   Omapere  0473",
-    "distanceInMeters": 47798.33026221,
+    "distanceInMeters": 47758.60014692,
     "extId": "a0R4a000000TQzAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -29394,20 +29394,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 85182,
         "externalId": "a0p4a000000EOb0AAG",
         "name": "Toilets",
@@ -29415,10 +29401,24 @@
         "isSystemTag": false
       },
       {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
         "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       },
       {
@@ -31762,13 +31762,6 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
           "fri"
         ],
         "localStart": "09:00:00",
@@ -31801,6 +31794,13 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "15:45:00"
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/227+Onehunga+Mall,+Onehunga,+Auckland+1061,+New+Zealand/@-36.9213098,174.7849906,18z/data=!4m5!3m4!1s0x6d0d48b23f12a199:0xd010cd1f2f515e52!8m2!3d-36.9217316!4d174.7853772?hl=en",
@@ -33043,27 +33043,6 @@
     "mapUrl": "https://goo.gl/maps/qnJsf5NXqtCBzRRH9",
     "tags": [
       {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85182,
         "externalId": "a0p4a000000EOb0AAG",
         "name": "Toilets",
@@ -33089,6 +33068,27 @@
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
         "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
@@ -34087,7 +34087,7 @@
     "extId": "a0R4a000000U2BFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
-    "endDate": "2022-02-27",
+    "endDate": "2022-07-31",
     "location": {
       "lng": 170.982,
       "lat": -45.0808
@@ -34448,7 +34448,7 @@
     "extId": "a0R4a000000U2FwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
-    "endDate": "2022-02-27",
+    "endDate": "2022-07-31",
     "location": {
       "lng": 170.483,
       "lat": -45.8818
@@ -37257,7 +37257,7 @@
   },
   {
     "displayAddress": "53 Commerce Street   Kaitaia  410",
-    "distanceInMeters": 140.07191509,
+    "distanceInMeters": 0.57963098,
     "extId": "a0R4a000000UOukEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -43746,7 +43746,7 @@
   },
   {
     "displayAddress": "18 Glenda Drive Frankton  Queenstown  9300",
-    "distanceInMeters": 57588.16229462,
+    "distanceInMeters": 581.704924,
     "extId": "a0R4a000000V37MEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -43814,7 +43814,7 @@
   },
   {
     "displayAddress": "12 Centennial Avenue   Arrowtown  9302",
-    "distanceInMeters": 55723.29137768,
+    "distanceInMeters": 10806.79611212,
     "extId": "a0R4a000000V3EiEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -57435,7 +57435,7 @@
   },
   {
     "displayAddress": "Dunstan Hospital, 29 Hospital Road   Clyde  9330",
-    "distanceInMeters": 7680.71354558,
+    "distanceInMeters": 50861.86129597,
     "extId": "a0R4a000000a32vEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-07",
