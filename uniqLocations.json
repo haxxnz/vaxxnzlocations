@@ -10706,17 +10706,17 @@
         "isSystemTag": false
       },
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       }
     ],
@@ -11891,17 +11891,17 @@
         "isSystemTag": false
       },
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       }
     ],
@@ -11912,31 +11912,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-25T00:33:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "7 Swansea Road Flaxmere  Hastings  4120",
-    "distanceInMeters": 5238.91810437,
-    "extId": "a0R4a000000S1sIEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-27",
-    "endDate": "2021-11-30",
-    "location": {
-      "lng": 176.786,
-      "lat": -39.624
-    },
-    "name": "Flaxmere Cook Island Hall",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/uk2XVvLrsJVrTRjHA",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-15",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T21:15:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -18229,104 +18204,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "74 Taharoto Road Takapuna  Auckland  622",
-    "distanceInMeters": 7340.17013842,
-    "extId": "a0R4a000000SWxKEAW",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-02",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.753,
-      "lat": -36.785
-    },
-    "name": "Shorecare Smales Farm",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "22:00:00"
-      }
-    ],
-    "description": "Located a short walk from the Smales Farm Bus Station and North Shore Hospital | Free and accessible parking available | Language interpreter services available by appointment.",
-    "mapUrl": "https://www.google.com/maps/place/74+Taharoto+Road,+Takapuna,+Auckland+0622,+New+Zealand/@-36.7852,174.7505654,17z/data=!3m1!4b1!4m9!1m2!2m1!1sGround+Floor+AIA+building,+74+Taharoto+Road,+Takapuna,+Auckland+0622!3m5!1s0x6d0d39c80153a211:0xaa285340763ab74d",
-    "tags": [
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-27",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T05:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "2/65 St George Street Papatoetoe  Auckland  2025",
     "distanceInMeters": 24879.13304796,
     "extId": "a0R4a000000SWxPEAW",
@@ -24432,131 +24309,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "141 the parade Island Bay  Wellington  6023",
-    "distanceInMeters": 50391.34833253,
-    "extId": "a0R4a000000SzAjEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-13",
-    "endDate": "2021-12-01",
-    "location": {
-      "lng": 174.774,
-      "lat": -41.3346
-    },
-    "name": "Unichem Island Bay Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Unichem+Pharmacy/@-41.3345693,174.7735174,20z/data=!4m21!1m15!4m14!1m6!1m2!1s0x6d38bab32cecb523:0x1147bdfc2cfef45a!2sUnichem+Pharmacy+141+The+Parade,+Island+Bay,+Wellington+6023!2m2!1d174.773656!2d-41.3346616!1m5!1m1!1s0x",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-04",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "99 Atawhai Drive   Nelson  7010",
     "distanceInMeters": 3195.93045392,
     "extId": "a0R4a000000SzEqEAK",
@@ -25446,32 +25198,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "1 Fell Street   Grovetown  7202",
-    "distanceInMeters": 62399.92150681,
-    "extId": "a0R4a000000T4WREA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-19",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 173.966,
-      "lat": -41.482
-    },
-    "name": "Ukaipo",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Nau mai, Haere mai!\r\nTe Piki Oranga provides quality Kaupapa Māori Health services, with an emphasis on whānau well-being. \r\nOur clinics and qualified kaimahi create a supportive and welcoming environment for whānau to access and receive their Covid-19 vaccination.\r\nKarawhiua - Be A Doer!\r\n\"Protecting our whānau is what we do\"",
-    "mapUrl": "https://goo.gl/maps/y6BpQppKj9ga2a5E8",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-05",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-26T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "2 Factory Road   Mosgiel  9024",
     "distanceInMeters": 10360.17866488,
     "extId": "a0R4a000000T7VKEA0",
@@ -25677,96 +25403,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-19T22:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "1091 Frankton Road Frankton  Queenstown  9300",
-    "distanceInMeters": 977.00475728,
-    "extId": "a0R4a000000T7atEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 168.732,
-      "lat": -45.016
-    },
-    "name": "Unichem Summerfields Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Unichem+Summerfields+Pharmacy/@-45.0160793,168.7290654,17z/data=!4m5!3m4!1s0xa9d51e685decaa05:0x3d2d6f58c9318153!8m2!3d-45.0160713!4d168.731278",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85187,
-        "externalId": "a0p4a000000EOb5AAG",
-        "name": "Drive-through location",
-        "languageKey": "Drive-through location",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-06",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-21T20:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -28988,7 +28624,7 @@
   },
   {
     "displayAddress": "84a Titirangi Road, New Lynn, Auckland 0600",
-    "distanceInMeters": 32919.94834338,
+    "distanceInMeters": 10965.99683938,
     "extId": "a0R4a000000TamuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -33408,90 +33044,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "167 Colombo Street Sydenham  Christchurch  8023",
-    "distanceInMeters": 28403.71781356,
-    "extId": "a0R4a000000TtwfEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-14",
-    "endDate": "2021-12-12",
-    "location": {
-      "lng": 172.637,
-      "lat": -43.5561
-    },
-    "name": "Christchurch South Pharmacy (Hardings Pharmacy)",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "17:45:00",
-        "localEnd": "20:45:00"
-      }
-    ],
-    "description": "Wheelchair accessible. Onsite parking.",
-    "mapUrl": "https://g.page/hardingspharmacy?share",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-21",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T04:55:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "61 Jellicoe Street, Te Puke  Tauranga  3119",
     "distanceInMeters": 40034.81208442,
     "extId": "a0R4a000000Tu4jEAC",
@@ -37023,17 +36575,17 @@
         "isSystemTag": false
       },
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       }
     ],
@@ -39608,145 +39160,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "73 State Highway 1   Moerewa  211",
-    "distanceInMeters": 47233.04891639,
-    "extId": "a0R4a000000UZ11EAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-06",
-    "endDate": "2021-12-24",
-    "location": {
-      "lng": 174.019,
-      "lat": -35.3882
-    },
-    "name": "Ngati Hine Moerewa",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Moerewa+Rugby+Club/@-35.388109,174.0179815,19z/data=!4m8!1m2!3m1!2sMoerewa+Rugby+Club!3m4!1s0x6d0bbdd8fc000001:0x1e7e0ca5225a483c!8m2!3d-35.3882477!4d174.0190557",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-01",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:10:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Shop w516 Lynnmall Shopping Centre, 3058 Great North Road   Auckland  640",
     "distanceInMeters": 9494.28947208,
     "extId": "a0R4a000000UZ2JEAW",
@@ -42075,152 +41488,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "170 Otaika Road Raumanga  Whangarei  110",
-    "distanceInMeters": 2421.53045281,
-    "extId": "a0R4a000000UsGmEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-09",
-    "endDate": "2021-11-30",
-    "location": {
-      "lng": 174.304,
-      "lat": -35.7438
-    },
-    "name": "Raumanga Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:15:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Raumanga+Medical+Centre/@-35.7437499,174.3043518,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0b7faea16215e3:0x2789cbc43d9718d6!8m2!3d-35.7438109!4d174.3065911",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-06",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:10:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "691 Manukau Road Royal Oak  Auckland  1023",
     "distanceInMeters": 6696.55972546,
     "extId": "a0R4a000000UtnDEAS",
@@ -43625,17 +42892,17 @@
         "isSystemTag": false
       },
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       }
     ],
@@ -47388,47 +46655,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "8 Donovan Street Blockhouse Bay  Auckland  600",
-    "distanceInMeters": 9883.54146513,
-    "extId": "a0R4a000000VTESEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-17",
-    "endDate": "2021-11-30",
-    "location": {
-      "lng": 174.7,
-      "lat": -36.9224
-    },
-    "name": "Donovan Street Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      }
-    ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets",
-    "mapUrl": "https://www.google.co.nz/maps/place/Donovan+Street+Medical+Centre/@-36.9224161,174.6995895,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d441d641e37ef:0xef322fb7cd847879!8m2!3d-36.9224204!4d174.7017782?hl=en&shorturl=1",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-15",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-21T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "10 Turua Street St Heliers   Auckland 1071",
     "distanceInMeters": 8358.04497133,
     "extId": "a0R4a000000VTaHEAW",
@@ -47907,81 +47133,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-19T00:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "19 Pukearuhe Road, Mimi,  Urenui  4377",
-    "distanceInMeters": 43412.67293122,
-    "extId": "a0R4a000000VYwcEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-19",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 174.45,
-      "lat": -38.9711
-    },
-    "name": "Waitoetoe Hall",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.co.nz/maps/place/19+Pukearuhe+Road,+Mimi+4377,+New+Zealand/@-38.9710623,174.4482033,17z/data=!3m1!4b1!4m5!3m4!1s0x6d14ee3073dfd0c7:0x86e1c1b3480932c6!8m2!3d-38.9710623!4d174.450392",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-16",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-29T20:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -56815,7 +55966,7 @@
   },
   {
     "displayAddress": "421 Swanson Road Ranui  Auckland  0612",
-    "distanceInMeters": 24795.32295435,
+    "distanceInMeters": 50017.98506516,
     "extId": "a0R4a000000YhIvEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-16",
@@ -57545,7 +56696,7 @@
   },
   {
     "displayAddress": "3A/160 Hobsonville Point Road Hobsonville  Auckland  0616",
-    "distanceInMeters": 41323.7963274,
+    "distanceInMeters": 11276.37996871,
     "extId": "a0R4a000000ZbMUEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-24",
@@ -57680,6 +56831,13 @@
     "mapUrl": "https://goo.gl/maps/fEfPLij4BdknUpKP9",
     "tags": [
       {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
@@ -57698,13 +56856,6 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
         "isSystemTag": false
       }
     ],
@@ -57756,13 +56907,6 @@
     "mapUrl": "https://goo.gl/maps/coZRUb8t1CRr6zR18",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -57781,6 +56925,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
