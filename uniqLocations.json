@@ -31050,67 +31050,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Education Centre, Palmerston North Hospital, Ruahine Street   Palmerston North  4442",
-    "distanceInMeters": 1164.45769624,
-    "extId": "a0R4a000000TkRlEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-29",
-    "endDate": "2021-12-17",
-    "location": {
-      "lng": 175.619,
-      "lat": -40.3387
-    },
-    "name": "Palmerston North Hospital VC",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/r5DfJCbBw8ChQGsG6",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-11-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "41 Weld Street   Hokitika  7810",
     "distanceInMeters": 34135.50767851,
     "extId": "a0R4a000000Tm4OEAS",
@@ -32999,13 +32938,6 @@
     "mapUrl": "https://www.google.com/maps/place/Unichem+Hobsonville+Pharmacy/@-36.7977715,174.6468023,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d3f0712741abb:0x8a73d755da97acfa!8m2!3d-36.7977715!4d174.648991",
     "tags": [
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -33031,6 +32963,13 @@
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
         "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       }
     ],
