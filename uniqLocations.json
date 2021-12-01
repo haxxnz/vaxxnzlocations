@@ -22900,47 +22900,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "29 Albany Street   Dunedin  9016",
-    "distanceInMeters": 4005.91484223,
-    "extId": "a0R4a000000SwO8EAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 170.509,
-      "lat": -45.8661
-    },
-    "name": "Albany Street Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/Albany+Street+Medical+Centre/@-45.8661386,170.5069035,17z/data=!4m5!3m4!1s0xa82eac71c388130f:0xe50dc9e808c0d58f!8m2!3d-45.8661228!4d170.508756",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-03",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-24T00:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "70 Macandrew Road South Dunedin  Dunedin  9012",
     "distanceInMeters": 1676.79461744,
     "extId": "a0R4a000000SwTkEAK",
@@ -23167,47 +23126,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-19T01:15:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "26 Bank Street North East Valley  Dunedin  9010",
-    "distanceInMeters": 5459.58900836,
-    "extId": "a0R4a000000SwYfEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-24",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 170.518,
-      "lat": -45.8545
-    },
-    "name": "Gardens Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "13:30:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/The+Garden+Medical+%26+Sports+Medicine+Centre/@-45.8545802,170.5153984,17z/data=!3m1!4b1!4m5!3m4!1s0xa82eac61f58ec561:0x107369ef25579672!8m2!3d-45.8546026!4d170.5175742",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-03",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-24T00:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -44517,13 +44435,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85184,
         "externalId": "a0p4a000000EOb2AAG",
         "name": "Onsite parking",
@@ -44535,6 +44446,13 @@
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
         "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       }
     ],
