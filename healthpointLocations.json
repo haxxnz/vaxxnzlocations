@@ -395,8 +395,8 @@
     "lng": 175.8601015806198,
     "name": "Pauanui Medical Centre",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 12:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -524,7 +524,7 @@
     "name": "Tairua Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -677,7 +677,7 @@
     "name": "Unichem Waipukurau Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -848,6 +848,28 @@
     }
   },
   {
+    "lat": -41.2790453,
+    "lng": 174.0253536,
+    "name": "Waikawa Marae",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "210 Waikawa Road, Picton, Marlborough 7220",
+    "telephone": "0800 ORANGA (672 642)",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-piki-oranga-covid-19-vaccination-centres/at/waikawa-marae-picton/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {
+        "Public Holidays": "Closed on all public holidays."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -41.482127,
     "lng": 173.9664473,
     "name": "Ūkaipō",
@@ -1004,8 +1026,8 @@
     "lng": 176.91705619999993,
     "name": "5 Sale Street",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "7:00 AM to 1:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -1029,8 +1051,8 @@
     "lng": 176.8153549,
     "name": "821 Orchard Road",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "11:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -1055,7 +1077,7 @@
     "name": "Unichem Mornington Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 7:00 PM.",
+    "openTodayHours": "9:00 AM to 5:45 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -1280,7 +1302,7 @@
     "name": "Kowhai Surgery Ltd",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1371,7 +1393,7 @@
     "name": "Life Pharmacy Takapuna",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 9:00 PM.",
+    "openTodayHours": "9:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -1498,7 +1520,7 @@
     "name": "Life Pharmacy New Plymouth",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 8:00 PM.",
+    "openTodayHours": "9:00 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -1693,7 +1715,7 @@
     "name": "Warkworth Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 7:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -1803,7 +1825,7 @@
     "name": "Unichem Mackays Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -1926,7 +1948,7 @@
     "name": "Life Pharmacy Johnsonville",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 8:00 PM.",
+    "openTodayHours": "9:00 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -2471,7 +2493,7 @@
     "name": "Unichem Newtown Mall Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "openTodayHours": "9:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -2501,7 +2523,7 @@
     "name": "Civic Theatre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "11:00 AM to 6:00 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -2803,7 +2825,7 @@
     "name": "Tongan Health Society (Langimalie Health Centres)",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -2883,8 +2905,8 @@
     "lng": 175.7378734,
     "name": "Raungaiti Marae Health Clinic",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "12:30 PM to 4:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -3251,8 +3273,8 @@
     "lng": 175.41198329999997,
     "name": "Te Waiora Community Health Services",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only",
@@ -3280,8 +3302,8 @@
     "lng": 175.2349365,
     "name": "Te Waiora Community Health Services",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "1:30 PM to 3:30 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only",
@@ -3492,7 +3514,7 @@
     "name": "Riccarton COVAX Facility 2B",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 7:30 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -3544,7 +3566,7 @@
     "name": "The Doctors QuayMed",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -3743,7 +3765,7 @@
     "name": "Unichem Hobsonville Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 6:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -4319,7 +4341,7 @@
     "name": "Alabaster's Merivale Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -4610,7 +4632,7 @@
     "name": "Life Pharmacy North City",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 9:00 PM.",
+    "openTodayHours": "9:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -4692,7 +4714,7 @@
     "name": "NorthCare Pukete Road",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "7:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -4927,7 +4949,7 @@
     "name": "Kaikōura Health (Te Hā o Te Ora)",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -5571,8 +5593,8 @@
     "lng": 176.2292294,
     "name": "Old Foodstuffs Warehouse",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "3:00 PM to 8:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -5842,7 +5864,7 @@
     "name": "Shop 15",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "11:30 AM to 6:30 PM.",
+    "openTodayHours": "9:30 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -5928,7 +5950,7 @@
     "name": "Life Pharmacy Chartwell",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 9:00 PM.",
+    "openTodayHours": "9:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -6183,7 +6205,7 @@
     "name": "Howick Health and Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -6246,7 +6268,7 @@
     "name": "Hillside Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:20 AM to 5:30 PM.",
+    "openTodayHours": "8:20 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -6311,7 +6333,7 @@
     "name": "Johnsonville Shopping Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 8:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -6371,7 +6393,7 @@
     "name": "960 Victoria Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -7060,8 +7082,8 @@
     "lng": 174.7814107,
     "name": "Capital Gateway",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:15 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -7398,7 +7420,7 @@
     "name": "Unichem Main Street Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -7987,7 +8009,7 @@
     "name": "418 Main South Road",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 7:30 PM.",
+    "openTodayHours": "9:30 AM to 5:30 PM.",
     "instructionLis": [
       "Make an appointment",
       "Walk in"
@@ -8244,7 +8266,7 @@
     "name": "VECA Medical Health Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -8518,7 +8540,7 @@
     "name": "Life Pharmacy Queensgate",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 9:00 PM.",
+    "openTodayHours": "9:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -8609,7 +8631,7 @@
     "name": "MEDPLUS",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -8762,7 +8784,7 @@
     "name": "Rakaia Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 8:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required"
@@ -8827,7 +8849,7 @@
     "name": "Tuapeka Community Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:30 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only"
@@ -8962,7 +8984,7 @@
     "name": "244 Grey Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 AM.",
+    "openTodayHours": "9:00 AM to 4:00 AM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Walk in"
@@ -9805,7 +9827,7 @@
     "name": "City Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "7:30 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -9969,7 +9991,7 @@
     "name": "Millhouse Integrative Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:15 AM to 6:45 PM.",
+    "openTodayHours": "8:15 AM to 6:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -10323,7 +10345,7 @@
     "name": "Life Pharmacy Ormiston",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 9:00 PM.",
+    "openTodayHours": "9:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -10505,7 +10527,7 @@
     "name": "Clevedon Village Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -10802,8 +10824,8 @@
     "lng": 170.46883839999998,
     "name": "Kurow Medical Centre",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Eligible GP enrolled patients only"
     ],
@@ -10829,8 +10851,8 @@
     "lng": 169.97077160000003,
     "name": "Kurow Medical Centre",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 1:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Eligible GP enrolled patients only"
     ],
@@ -10853,8 +10875,8 @@
     "lng": 170.10048430000006,
     "name": "Kurow Medical Centre",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only"
     ],
@@ -11072,7 +11094,7 @@
     "name": "Island Bay Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:30 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only"
@@ -11315,7 +11337,7 @@
     "name": "Whangaparaoa Family Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 8:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -11451,8 +11473,8 @@
     "lng": 175.79570779999995,
     "name": "3 Hospital Road",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 6:30 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -12030,8 +12052,8 @@
     "lng": 174.7793294,
     "name": "The Doctors Hauraki Corner",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -12102,7 +12124,7 @@
     "name": "Travel Clinic North Shore",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 2:00 PM.",
+    "openTodayHours": "9:00 AM to 1:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -12430,7 +12452,7 @@
     "name": "Birkenhead Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "openTodayHours": "8:00 AM to 3:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -12610,7 +12632,7 @@
     "name": "Kauri HealthCare",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "By invitation only",
       "Make an appointment"
@@ -12785,7 +12807,7 @@
     "name": "Barrington Shopping Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 7:30 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -12968,7 +12990,7 @@
     "name": "Riccarton Medical Practice",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access"
     ],
@@ -13088,7 +13110,7 @@
     "name": "Tinwald Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -13118,7 +13140,7 @@
     "name": "Pegasus Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access"
     ],
@@ -13347,7 +13369,7 @@
     "name": "Unichem Campus Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -13672,7 +13694,7 @@
     "name": "Chatham Islands Health Centre - General Practice",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 4:30 PM.",
+    "openTodayHours": "7:00 AM to 4:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -13787,7 +13809,7 @@
     "name": "Murihiku Medical Services",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -13977,7 +13999,7 @@
     "name": "Village Health Lincoln Road",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -14091,7 +14113,7 @@
     "name": "The Doctors Ahuriri (Formerly The Doctors Westshore)",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 1:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -14293,8 +14315,8 @@
     "lng": 172.90963395102574,
     "name": "Whakawhiti Ora Pai Community Health Centre",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -14342,7 +14364,7 @@
     "name": "Courtenay Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -14386,7 +14408,7 @@
     "name": "Durham Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required"
@@ -14779,7 +14801,7 @@
     "name": "Bates Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:45 AM to 5:30 PM.",
+    "openTodayHours": "8:45 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -14845,8 +14867,8 @@
     "lng": 174.0190557,
     "name": "Simson Park",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 12:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -15010,8 +15032,8 @@
     "lng": 174.9248642,
     "name": "Waiwhetu Sports and Fitness Centre",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "2:00 PM to 4:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -15066,7 +15088,7 @@
     "name": "Waikari Health Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -15449,7 +15471,7 @@
     "name": "Straven Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:15 AM to 6:00 PM.",
+    "openTodayHours": "8:15 AM to 4:30 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -15841,7 +15863,7 @@
     "name": "Manurewa Healthcare",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -15901,7 +15923,7 @@
     "name": "Mission Bay Doctors",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -16047,7 +16069,7 @@
     "name": "Hamilton Lake Clinic",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 7:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -16314,7 +16336,7 @@
     "name": "Sunnynook Medical Centre Ltd",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -16834,7 +16856,7 @@
     "name": "Papatoetoe South Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "openTodayHours": "9:00 AM to 2:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -16894,7 +16916,7 @@
     "name": "4 Lydney Place North",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "12:30 PM to 7:55 PM.",
+    "openTodayHours": "8:30 AM to 3:55 PM.",
     "instructionLis": [
       "No appointment required"
     ],
@@ -17389,7 +17411,7 @@
     "name": "Morrinsville Vaccination Centre - Campbell Hall",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "12:00 PM to 7:00 PM.",
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -17486,7 +17508,7 @@
     "name": "Tokoroa Whare Rongoā Āraimate Community Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "11:00 AM to 6:00 PM.",
+    "openTodayHours": "9:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -17998,7 +18020,7 @@
     "name": "New Plymouth Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "12:00 PM to 7:30 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -18339,7 +18361,7 @@
     "name": "Ruapehu Health Limited",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -18437,7 +18459,7 @@
     "name": "Crawford Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 7:00 PM.",
+    "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -18817,7 +18839,7 @@
     "name": "Albany Family Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -18876,7 +18898,7 @@
     "name": "Assist Healthcare",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 5:50 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -19142,7 +19164,7 @@
     "name": "Balmoral Doctors",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -19173,7 +19195,7 @@
     "name": "Botany Terrace Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -19318,7 +19340,7 @@
     "name": "Dodson Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -19347,7 +19369,7 @@
     "name": "Doctors Cammack & Evans",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:30 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "By invitation only"
@@ -19469,7 +19491,7 @@
     "name": "DW Family Doctors",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -19700,7 +19722,7 @@
     "name": "Gore Health Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -19849,7 +19871,7 @@
     "name": "Fellbrook Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -20051,7 +20073,7 @@
     "name": "Palmerston North Central Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "7:30 AM to 8:00 PM.",
+    "openTodayHours": "8:30 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -20123,7 +20145,7 @@
     "name": "The Plaza Palmerston North",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 8:30 PM.",
+    "openTodayHours": "9:30 AM to 6:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -20410,8 +20432,8 @@
     "lng": 174.96053619999998,
     "name": "Hutt Union & Community Health Service Taita",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -20564,7 +20586,7 @@
     "name": "Henderson Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -20656,7 +20678,7 @@
     "name": "100 Orchard Road",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:30 PM.",
+    "openTodayHours": "10:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -20738,8 +20760,8 @@
     "lng": 170.9636854,
     "name": "Pakiwaitara",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -20812,7 +20834,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"8eebe3efe7e2cee9e1fcebe3ebeae7edefe2a0ede1a0e0f4\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"7a1f171b13163a1d15081f171f1e13191b16541915541400\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -20822,8 +20844,8 @@
     "lng": 173.3892952,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -20884,8 +20906,8 @@
     "lng": 173.65421709999998,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 12:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -20971,8 +20993,8 @@
     "lng": 173.52451410000003,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -21027,8 +21049,8 @@
     "lng": 173.31042809999997,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 2:30 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -21054,7 +21076,7 @@
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "openTodayHours": "9:00 AM to 12:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -21503,7 +21525,7 @@
     "name": "Sunset Road Family Doctors",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -22022,7 +22044,7 @@
     "name": "Ranfurly Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 3:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -22185,7 +22207,7 @@
     "name": "Tauranga Crossing Shopping Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 8:00 PM.",
+    "openTodayHours": "9:00 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -22241,7 +22263,7 @@
     "name": "14 Wakefield Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "12:00 PM to 6:00 PM.",
+    "openTodayHours": "10:00 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -22407,7 +22429,7 @@
     "name": "Junction Health",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "By invitation only"
@@ -22466,7 +22488,7 @@
     "name": "Queenstown Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 12:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -22499,7 +22521,7 @@
     "name": "Queenstown Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -22697,7 +22719,7 @@
     "name": "Kelburn Northland Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -23131,7 +23153,7 @@
     "name": "Mt Eden Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:45 PM.",
+    "openTodayHours": "8:00 AM to 5:45 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
@@ -23250,8 +23272,8 @@
     "lng": 170.66781079999998,
     "name": "East Otago Health",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 1:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -23395,7 +23417,7 @@
     "name": "Waitara Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [],
     "address": "Cnr McLean Street and Grey Street, Waitara",
     "telephone": "(06) 754 8119",
@@ -23860,8 +23882,8 @@
     "lng": 176.7022071,
     "name": "Kawerau Town Hall",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 7:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "No appointment required",
@@ -24025,7 +24047,7 @@
     "name": "Kapiti Youth Support - Paraparaumu",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -24413,7 +24435,7 @@
     "name": "Burwood Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "openTodayHours": "9:00 AM to 5:30 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -24470,7 +24492,7 @@
     "name": "My Doctor Matakana",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "openTodayHours": "2:00 PM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
@@ -24790,7 +24812,7 @@
     "name": "218 High Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 2:30 PM.",
+    "openTodayHours": "9:30 AM to 4:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -24956,7 +24978,7 @@
     "name": "Kerikeri Vaccination Clinic",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "12:00 PM to 7:00 PM.",
+    "openTodayHours": "9:00 AM to 3:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -25018,7 +25040,7 @@
     "name": "Semenoff Stadium",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "12:00 PM to 7:00 PM.",
+    "openTodayHours": "9:00 AM to 3:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
