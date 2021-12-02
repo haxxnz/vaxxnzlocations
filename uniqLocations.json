@@ -3599,13 +3599,6 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -3617,6 +3610,13 @@
         "externalId": "a0p4a000000E7yqAAC",
         "name": "Quiet or low sensory environment",
         "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
@@ -6408,7 +6408,7 @@
     "extId": "a0R4a000000QV5iEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-20",
-    "endDate": "2021-12-24",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.233,
       "lat": -37.7478
@@ -10988,7 +10988,7 @@
     "extId": "a0R4a000000Rfp4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-27",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.539,
       "lat": -37.1389
@@ -18136,7 +18136,7 @@
           "tue"
         ],
         "localStart": "18:00:00",
-        "localEnd": "18:30:00"
+        "localEnd": "18:15:00"
       },
       {
         "days": [
@@ -22034,37 +22034,9 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "14:00:00"
-      },
-      {
-        "days": [
           "sun"
         ],
         "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:30:00",
         "localEnd": "19:00:00"
       },
       {
@@ -22078,7 +22050,35 @@
         "days": [
           "wed"
         ],
-        "localStart": "14:30:00",
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
         "localEnd": "19:00:00"
       }
     ],
@@ -22976,6 +22976,7 @@
         "localEnd": "19:30:00"
       }
     ],
+    "description": "**CDHB Staff Booster clinic only**",
     "mapUrl": "https://www.google.com/maps/place/Christchurch+Hospital/@-43.5344117,172.625289,19z/data=!4m5!3m4!1s0x0:0x844d2d9c75794b18!8m2!3d-43.5343563!4d172.6255867",
     "tags": [],
     "type": "OnlineBooking",
@@ -29427,13 +29428,6 @@
     "mapUrl": "https://goo.gl/maps/Jzywid9kquYPPZHN9",
     "tags": [
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -29441,17 +29435,24 @@
         "isSystemTag": false
       },
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
         "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -43328,20 +43329,20 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "12 Centennial Avenue   Arrowtown  9302",
-    "distanceInMeters": 10806.79611212,
+    "displayAddress": "33 Buckingham Street   Arrowtown  9302",
+    "distanceInMeters": 10811.07081769,
     "extId": "a0R4a000000V3EiEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
     "endDate": "2021-12-31",
     "location": {
-      "lng": 168.839,
-      "lat": -44.9427
+      "lng": 168.832,
+      "lat": -44.9382
     },
-    "name": "Engage Safety - Arrowtown Community Centre",
+    "name": "Engage Safety - Arrowtown Athenaeum Hall",
     "timezone": "Pacific/Auckland",
     "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Arrowtown+Community+Center/@-44.9429181,168.8365686,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d523ab9b9ecc03:0x84459b0a8733e631!8m2!3d-44.9429181!4d168.8387573",
+    "mapUrl": "https://www.google.com/maps/place/Arrowtown+Athenaeum+Hall/@-44.9400338,168.833482,16.5z/data=!4m22!1m16!4m15!1m6!1m2!1s0xa9d5227e9136ec55:0xaa5a7de14af23675!2s12+Centennial+Avenue,+Arrowtown!2m2!1d168.8387573!2d-44.9429181!1m6!1m2!1s0xa9d5187e41380ced:0x",
     "tags": [],
     "type": "OnlineBooking",
     "availableDate": "2021-09-08",
@@ -48367,17 +48368,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
         "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
         "isSystemTag": false
       },
       {
@@ -56650,74 +56651,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "209 Oxford Street   Levin  5510",
-    "distanceInMeters": 40473.82850886,
-    "extId": "a0R4a000000Z4oyEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-12-13",
-    "endDate": "2022-01-13",
-    "location": {
-      "lng": 175.286,
-      "lat": -40.6224
-    },
-    "name": "Unichem Levin Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/FnGLj8U8H19TVbiA7",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-11-09",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-12T21:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
