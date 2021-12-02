@@ -4256,13 +4256,6 @@
     "mapUrl": "https://www.google.com/maps/place/K%C4%81rori+Mall/@-41.284107,174.7377597,15z/data=!4m12!1m6!3m5!1s0x0:0x40582ff0013ae90f!2sK%C4%81rori+Mall!8m2!3d-41.284107!4d174.7377597!3m4!1s0x0:0x40582ff0013ae90f!8m2!3d-41.284107!4d174.7377597",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -4288,6 +4281,13 @@
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -5103,13 +5103,6 @@
     "mapUrl": "https://www.google.com/maps/place/Maraeroa+Marae+Health+Centre+Inc/@-41.1290014,174.8808691,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3f54f5b291c785:0x98fe070535dbc500!8m2!3d-41.1291081!4d174.8824168",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -5142,6 +5135,13 @@
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -49643,7 +49643,7 @@
     "extId": "a0R4a000000W1eLEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-04",
-    "endDate": "2021-12-31",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 174.327,
       "lat": -35.7318
@@ -56436,6 +56436,20 @@
     "name": "Unichem Papakura Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:30:00"
+      },
       {
         "days": [
           "wed"
