@@ -2851,13 +2851,6 @@
     "mapUrl": "https://www.google.com/maps/place/Ecentre,+Massey+University+Albany/@-36.7368197,174.6916626,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d3bf7205e156d:0x6a10f213609ff547!8m2!3d-36.7368197!4d174.6938513",
     "tags": [
       {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -2883,6 +2876,13 @@
         "externalId": "a0p4a000000EOb6AAG",
         "name": "Disabled car parking",
         "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
         "isSystemTag": false
       },
       {
@@ -4625,17 +4625,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -4980,17 +4980,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -5270,17 +5270,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -5410,17 +5410,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -8780,39 +8780,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "11 Bridge Street   Mataura  9712",
-    "distanceInMeters": 46512.03296797,
-    "extId": "a0R4a000000QZXQEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-22",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 168.867,
-      "lat": -46.194
-    },
-    "name": "Mataura Medical Practice",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/fCFceVDMrg7E2vuJ7",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-12",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-25T02:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "3 Chester Street   Otautau  9610",
     "distanceInMeters": 40494.79537409,
     "extId": "a0R4a000000QZYiEAO",
@@ -12140,13 +12107,6 @@
     "mapUrl": "https://www.google.com/maps/place/14+Seddon+Street,+Raetihi+4632,+New+Zealand/@-39.4273865,175.280835,17z/data=!4m8!1m2!2m1!1sThe+Centre+14-+16+Seddon+Street+raetihi!3m4!1s0x6d6ae82ddbbb53a1:0xf277a4c7c51c9400!8m2!3d-39.4275917!4d175.2808846",
     "tags": [
       {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
         "id": 85186,
         "externalId": "a0p4a000000EOb4AAG",
         "name": "Walk-ins available",
@@ -12165,6 +12125,13 @@
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
@@ -16240,89 +16207,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "97 Gala Street Queens Park  Invercargill  9810",
-    "distanceInMeters": 670.98659767,
-    "extId": "a0R4a000000SNh4EAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-18",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 168.353,
-      "lat": -46.4068
-    },
-    "name": "Queens Park Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Queens+Park+General+Practice+Ltd/@-46.4067188,168.3507548,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d2c4983b9701ad:0x68c75ef97cfc9d01!8m2!3d-46.4067188!4d168.3529435",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-22T01:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "233 North Road Waikiwi  Invercargill  9810",
     "distanceInMeters": 3767.3005161,
     "extId": "a0R4a000000SNn7EAG",
@@ -17560,102 +17444,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "351 King Edward Street South Dunedin  Dunedin  9012",
-    "distanceInMeters": 3272.81918908,
-    "extId": "a0R4a000000STWWEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 170.502,
-      "lat": -45.8968
-    },
-    "name": "Dunedin South Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "18:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/Dunedin+South+Medical+Centre/@-45.8976967,170.5008752,18.67z/data=!4m5!3m4!1s0xa82eaea4605a428d:0x977af3137f0188a!8m2!3d-45.8976082!4d170.5016697",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-21T20:15:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "609 Highgate Maori Hill  Dunedin  9010",
-    "distanceInMeters": 1207.23362349,
-    "extId": "a0R4a000000STdbEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-30",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 170.501,
-      "lat": -45.8576
-    },
-    "name": "Maori Hill Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "13:30:00",
-        "localEnd": "15:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/Maori+Hill+Clinic/@-45.8650693,170.4929871,15z/data=!4m5!3m4!1s0xa82eac78c29337f1:0x6841ab7c661bc548!8m2!3d-45.8581163!4d170.5008484",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-22T00:40:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "1 Herbert Street Gladstone  Invercargill  9810",
     "distanceInMeters": 2012.5626049,
     "extId": "a0R4a000000STnMEAW",
@@ -17981,61 +17769,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "201 Main Road   Waikouaiti  9510",
-    "distanceInMeters": 32743.62480144,
-    "extId": "a0R4a000000SURrEAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2021-12-05",
-    "location": {
-      "lng": 170.669,
-      "lat": -45.5957
-    },
-    "name": "East Otago Health",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "11:30:00",
-        "localEnd": "14:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/pJvX8F6KVQbeZoTC9",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T00:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "4 Howden Street   Green Island  9018",
     "distanceInMeters": 7183.8943189,
     "extId": "a0R4a000000SUXuEAO",
@@ -18316,13 +18049,6 @@
     "mapUrl": "https://www.google.com/maps/place/Lifeline+Medical+Centre+Otahuhu/@-36.9459496,174.8402269,16z/data=!4m5!3m4!1s0x6d0d4f9dc3d7c8f1:0xfebc48273db8ba3c!8m2!3d-36.9458424!4d174.8446043",
     "tags": [
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -18334,6 +18060,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       }
     ],
@@ -20405,17 +20138,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -24476,17 +24209,17 @@
     "mapUrl": "https://www.google.co.nz/maps/place/Chemist+Warehouse+St.+Lukes/@-36.8841134,174.7286536,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d46ff6f07a22b:0xcdb6b7afb8a65760!8m2!3d-36.8841062!4d174.7308461?hl=en",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
         "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
@@ -24501,7 +24234,7 @@
   },
   {
     "displayAddress": "2/295 Penrose Road, Mt Wellington, Auckland 1060",
-    "distanceInMeters": 15023.11286471,
+    "distanceInMeters": 39942.53191881,
     "extId": "a0R4a000000SzVDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
@@ -24655,32 +24388,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-28T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "210 Waikawa Road   Picton  7220",
-    "distanceInMeters": 27153.50221247,
-    "extId": "a0R4a000000SzqCEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-20",
-    "endDate": "2021-12-31",
-    "location": {
-      "lng": 174.029,
-      "lat": -41.2762
-    },
-    "name": "Waikawa Marae",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Nau mai, Haere mai!\r\nTe Piki Oranga provides quality Kaupapa Māori Health services, with an emphasis on whānau well-being. \r\nOur clinics and qualified kaimahi create a supportive and welcoming environment for whānau to access and receive their Covid-19 vaccination.\r\nKarawhiua - Be A Doer!\r\n\"Protecting our whānau is what we do\"",
-    "mapUrl": "https://www.google.com/maps/place/Waikawa+Marae+Inc/@-41.2762877,174.0296224,15z/data=!4m12!1m6!3m5!1s0x0:0x7e1f718c560128b1!2sWaikawa+Marae+Inc!8m2!3d-41.2762084!4d174.0294959!3m4!1s0x0:0x7e1f718c560128b1!8m2!3d-41.2762084!4d174.0294959",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-04",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-02T00:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -26758,17 +26465,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -26855,17 +26562,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -27723,17 +27430,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -28015,17 +27722,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -28273,17 +27980,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -34638,110 +34345,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "300 George Street Dunedin Central  Dunedin  9016",
-    "distanceInMeters": 246.5808758,
-    "extId": "a0R4a000000U2MDEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-30",
-    "endDate": "2021-12-02",
-    "location": {
-      "lng": 170.506,
-      "lat": -45.8698
-    },
-    "name": "Bargain Chemist George Street",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Bargain+Chemist+George+Street/@-45.8699705,170.5039866,17z/data=!3m1!4b1!4m5!3m4!1s0xa82ead2b6392a4cf:0x7153725b7017a156!8m2!3d-45.8699232!4d170.5062045?shorturl=1",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-24",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "75 Picton Street Howick  Auckland  2014",
     "distanceInMeters": 40696.3110894,
     "extId": "a0R4a000000U2MIEA0",
@@ -37081,17 +36684,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -39177,17 +38780,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -43743,17 +43346,17 @@
         "isSystemTag": false
       },
       {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48787,
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
@@ -44541,13 +44144,6 @@
     "mapUrl": "https://www.google.com/maps/place/12B+Picton+Street,+Howick,+Auckland+2014/@-36.8923765,174.9299573,20.44z/data=!4m5!3m4!1s0x6d0d4b2883bb2087:0x7ca9b1e51e21a0b5!8m2!3d-36.89235!4d174.9299036",
     "tags": [
       {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -44566,6 +44162,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
         "isSystemTag": false
       }
     ],
@@ -46151,13 +45754,6 @@
     "mapUrl": "https://goo.gl/maps/gUx6q3F5WNBABYua7",
     "tags": [
       {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -46169,6 +45765,13 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
         "isSystemTag": false
       }
     ],
@@ -52250,6 +51853,103 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T22:30:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "210 Jervois Road Herne Bay  Auckland  1011",
+    "distanceInMeters": 10671.26072488,
+    "extId": "a0R4a000000WnHlEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-15",
+    "endDate": "2022-06-30",
+    "location": {
+      "lng": 174.735,
+      "lat": -36.8456
+    },
+    "name": "Herne Bay Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/6JN7GA23Y5BfA1Tk6",
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-10-14",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
