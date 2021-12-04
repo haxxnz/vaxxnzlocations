@@ -5843,17 +5843,17 @@
     "mapUrl": "https://g.page/EastgateChristchurch?share",
     "tags": [
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
         "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -13662,17 +13662,17 @@
     "mapUrl": "https://goo.gl/maps/NDfAwxJFpcw431dg7",
     "tags": [
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 48792,
         "externalId": "a0p4a000000E7yuAAC",
         "name": "Support to make decisions",
         "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -14249,17 +14249,17 @@
     "mapUrl": "https://g.page/hardingschemist?share",
     "tags": [
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
         "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -16125,17 +16125,17 @@
     "mapUrl": "https://g.page/Elmwood-Pharmacy-Christchurch?share",
     "tags": [
       {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
         "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
         "isSystemTag": false
       },
       {
@@ -36758,6 +36758,31 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:40:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "9 Wallis street   Raglan  3225",
+    "distanceInMeters": 32543.77602158,
+    "extId": "a0R4a000000UR8SEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-15",
+    "endDate": "2022-03-30",
+    "location": {
+      "lng": 174.869,
+      "lat": -37.7991
+    },
+    "name": "Raglan Medical",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/iM4mxo9v1hZCw1uh9",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-22T21:20:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
