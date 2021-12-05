@@ -5976,17 +5976,17 @@
     "mapUrl": "https://www.google.co.nz/maps/dir//295+Palmerston+Road,+Gisborne+4010",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
         "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -7515,17 +7515,17 @@
     "mapUrl": "https://www.google.com/maps/place/Spey+Street,+Invercargill+9810/@-46.4095427,168.3460779,17z/data=!4m13!1m7!3m6!1s0xa9d2c49bdee86be9:0x328bb751b547ccfc!2s92+Spey+Street,+Invercargill+9810!3b1!8m2!3d-46.4095427!4d168.3482666!3m4!1s0xa9d2c49be01b0845:0x7bc",
     "tags": [
       {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
         "id": 85185,
         "externalId": "a0p4a000000EOb3AAG",
         "name": "Public transport options",
         "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
         "isSystemTag": false
       },
       {
@@ -21256,31 +21256,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Ruapehu Street   Waiouru  4826",
-    "distanceInMeters": 74316.96153849,
-    "extId": "a0R4a000000Sr5bEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-08",
-    "endDate": "2021-12-28",
-    "location": {
-      "lng": 175.677,
-      "lat": -39.4686
-    },
-    "name": "Waiouru Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Ruapehu+Road,+Waiouru+Military+Camp+4826,+New+Zealand/@-39.4686259,175.67463,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6a596780aeb75b:0x76097224312f3897!8m2!3d-39.4686259!4d175.6768187",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-02",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-04T22:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
