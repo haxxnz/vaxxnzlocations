@@ -1,5 +1,69 @@
 [
   {
+    "lat": -36.8486298,
+    "lng": 174.7477917,
+    "name": "College Hill Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "46 College Hill, Freemans Bay, Auckland",
+    "telephone": "(09) 360 8008",
+    "faxNumber": "(09) 360 8048",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/college-hill-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
+      },
+      "notesHtml": [
+        "Outside these hours&nbsp;by arrangement, please discuss with our reception staff.",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
+    "lat": -36.709549,
+    "lng": 174.72829660000002,
+    "name": "Northcross Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "855 East Coast Road, Northcross, Auckland",
+    "telephone": "(09) 478 5234",
+    "faxNumber": "(09) 479 5726",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/northcross-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:30 AM – 8:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 8:30 AM – 8:00 PM), Good Friday (15 Apr, 8:30 AM – 8:00 PM), Easter Sunday (17 Apr, 8:30 AM – 8:00 PM), Easter Monday (18 Apr, 8:30 AM – 8:00 PM), ANZAC Day (25 Apr, 8:30 AM – 8:00 PM), Queen's Birthday (6 Jun, 8:30 AM – 8:00 PM), Labour Day (24 Oct, 8:30 AM – 8:00 PM).Christmas: Open 20 Dec (8:30 AM – 8:00 PM). Open 21 Dec (8:30 AM – 8:00 PM). Open 22 Dec (8:30 AM – 8:00 PM). Open 23 Dec (8:30 AM – 8:00 PM). Open 24 Dec (8:30 AM – 8:00 PM). Open 25 Dec (10:00 AM – 2:00 PM). Open 26 Dec (8:30 AM – 8:00 PM). Open 27 Dec (8:30 AM – 8:00 PM). Open 28 Dec (8:30 AM – 8:00 PM). Open 29 Dec (8:30 AM – 8:00 PM). Open 30 Dec (8:30 AM – 8:00 PM). Open 31 Dec (8:30 AM – 8:00 PM). Open 1 Jan (8:30 AM – 8:00 PM). Open 2 Jan (8:30 AM – 8:00 PM). Open 3 Jan (8:30 AM – 8:00 PM). Open 4 Jan (8:30 AM – 8:00 PM). Open 5 Jan (8:30 AM – 8:00 PM). Open 6 Jan (8:30 AM – 8:00 PM). Open 7 Jan (8:30 AM – 8:00 PM)."
+      },
+      "notesHtml": [
+        "Public Holidays: 8:30am - 8pm",
+        "Christmas Day: 10:00am - 2:00pm&nbsp;",
+        "COVID-19 Vaccination Hours: 9:30am - 6:00pm.",
+        "COVID-19 Vaccination Dates: &nbsp;We will temporarily halt our COVID vaccination service between the dates of 11th December 2021 and the 31st of &nbsp;January 2022. &nbsp;We will resume vaccinations on 1st February 2022.",
+        "&nbsp;",
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
     "lat": -35.68353280000001,
     "lng": 174.3230339,
     "name": "The Doctors Tikipunga",
@@ -24,65 +88,6 @@
       },
       "notesHtml": [
         "<strong>After Hours:</strong> White Cross Whangārei - (09) 470 1083"
-      ]
-    }
-  },
-  {
-    "lat": -36.97489789999999,
-    "lng": 174.92300139999998,
-    "name": "Flat Bush Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "201 Murphys Road, Flat Bush, Auckland",
-    "telephone": "(09) 930 8314",
-    "faxNumber": "(09) 930 8318",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/flat-bush-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "8:30 AM – 8:00 PM",
-        "Tue – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "8:30 AM – 12:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:30 AM – 12:00 PM). Closed 25 Dec — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -43.6333427,
-    "lng": 171.64751,
-    "name": "Methven Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Cnr Methven Chertsey Road & Methven Highway, Methven",
-    "telephone": "(03) 302 8105",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/methven-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "Please phone the clinic 03-3028105 to make a booking.&nbsp; &nbsp;Please advise us&nbsp; if you have recently travelled, or have cold or flu symptoms.",
-        "If you are an overseas visitor, please bring your passport with you.",
-        "After Hours: Local after hours is shared with Rakaia Medical Centre. Please phone 033028105 and follow instructions. You will be transferred to an after hours service"
       ]
     }
   },
@@ -113,32 +118,6 @@
         "<strong>After Hours:</strong>",
         "Please call our number for out of hours assistance. Your call will be answered by a registered nurse."
       ]
-    }
-  },
-  {
-    "lat": -41.30369719999999,
-    "lng": 174.7641798,
-    "name": "Brooklyn Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "155 Ohiro Road, Brooklyn, Wellington",
-    "telephone": "(04) 384 2761",
-    "faxNumber": "(04) 801 5041",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/brooklyn-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:30 AM – 5:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 1:00 PM). Open 30 Dec (9:00 AM – 1:00 PM). Open 31 Dec (9:00 AM – 1:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
-      },
-      "notesHtml": []
     }
   },
   {
@@ -515,36 +494,6 @@
     }
   },
   {
-    "lat": -36.8486298,
-    "lng": 174.7477917,
-    "name": "College Hill Doctors",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "46 College Hill, Freemans Bay, Auckland",
-    "telephone": "(09) 360 8008",
-    "faxNumber": "(09) 360 8048",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/college-hill-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
-      },
-      "notesHtml": [
-        "Outside these hours&nbsp;by arrangement, please discuss with our reception staff.",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
-    }
-  },
-  {
     "lat": -45.0496762,
     "lng": 169.19456679999996,
     "name": "Cromwell Family Practice",
@@ -569,36 +518,6 @@
       "notesHtml": [
         "<strong>After Hours: </strong>",
         "Call clinic phone to go through to an after hours service who can contact on call GP.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -41.50749829999999,
-    "lng": 173.8294985,
-    "name": "Renwick Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "44 High Street, Renwick",
-    "telephone": "(03) 572 8838",
-    "faxNumber": "(03) 572 8839",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/renwick-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Marlborough Anniversary (31 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:45 AM – 4:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Open 31 Dec (8:45 AM – 4:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "Marlborough Urgent Care Centre."
-      },
-      "notesHtml": [
-        "After Hours: Phone GP and follow instructions.&nbsp; You will be transfered to an after hours service or call 111 for emergencies",
-        "<strong>Note: Monthly staff meeting 1230 - 1400hrs (once a month)</strong>"
       ]
     }
   },
@@ -649,6 +568,908 @@
       "schedule": {},
       "exceptions": {},
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.3346575,
+    "lng": 174.77359679999995,
+    "name": "Unichem Island Bay Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:45 AM to 6:00 PM.",
+    "instructionLis": [],
+    "address": "141 The Parade, Island Bay, Wellington",
+    "telephone": "(04) 383 8680",
+    "faxNumber": "(04) 383 8227",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-island-bay-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:45 AM – 6:00 PM",
+        "Sat": "9:30 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:45 AM – 6:00 PM). Open 21 Dec (8:45 AM – 6:00 PM). Open 22 Dec (8:45 AM – 6:00 PM). Open 23 Dec (8:45 AM – 6:00 PM). Open 24 Dec (8:45 AM – 6:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 5:00 PM). Open 30 Dec (9:00 AM – 5:00 PM). Open 31 Dec (9:00 AM – 5:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (9:00 AM – 5:00 PM). Open 6 Jan (9:00 AM – 5:00 PM). Open 7 Jan (9:00 AM – 5:00 PM)."
+      },
+      "notesHtml": [
+        "Throughout December and most of January, we will be taking a break from COVID19 Vaccinations.&nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.8788902,
+    "lng": 174.8561936,
+    "name": "Local Doctors Glen Innes",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "5 Mayfair Place, Glen Innes, Auckland",
+    "telephone": "(09) 528 9054",
+    "faxNumber": "(09) 528 9058",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/local-doctors-glen-innes/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:00 AM – 8:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec (8:00 AM – 8:00 PM). Open 21 Dec (8:00 AM – 8:00 PM). Open 22 Dec (8:00 AM – 8:00 PM). Open 23 Dec (8:00 AM – 8:00 PM). Open 24 Dec (8:00 AM – 8:00 PM). Closed 25 Dec. Open 26 Dec (8:00 AM – 8:00 PM). Open 27 Dec (8:00 AM – 8:00 PM). Open 28 Dec (8:00 AM – 8:00 PM). Open 29 Dec (8:00 AM – 8:00 PM). Open 30 Dec (8:00 AM – 8:00 PM). Open 31 Dec (8:00 AM – 8:00 PM). Open 1 Jan (8:00 AM – 8:00 PM). Open 2 Jan (8:00 AM – 8:00 PM). Open 3 Jan (8:00 AM – 8:00 PM). Open 4 Jan (8:00 AM – 8:00 PM). Open 5 Jan (8:00 AM – 8:00 PM). Open 6 Jan (8:00 AM – 8:00 PM). Open 7 Jan (8:00 AM – 8:00 PM)."
+      },
+      "notesHtml": [
+        "<strong>This clinic is currently dedicated to treating patients WITH COVID-19 symptoms and ONLY ABLE to treat able to treat patients with respiratory symptoms. For more information or to find an alternative clinic, please visit our&nbsp;<a href=\"https://www.localdoctors.co.nz/clinic-directory-2\" target=\"_blank\" rel=\"noopener\">clinic directory</a>.&nbsp;</strong>",
+        "After hours urgent care Local Doctors Ōtara, 3 Watford Street, Ōtara. Phone: (09) 274 3414.",
+        "For 24/7 urgent care clinics see listings for <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/white-cross-accident-urgent-medical-ascot/\">White Cross Ascot</a> and <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/white-cross-accident-urgent-medical-henderson/\">White Cross Henderson</a>."
+      ]
+    }
+  },
+  {
+    "lat": -45.0960529,
+    "lng": 170.97216950000006,
+    "name": "North Otago Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "213-215 Thames Street, Ōamaru",
+    "telephone": "(03) 434 8246",
+    "faxNumber": "(03) 434 6280",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/north-otago-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 5:00 PM",
+        "Sun": "10:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "COVID 19 Vaccination Walk in Hours: Tuesday to Friday 10am-3pm",
+        "Sunday COVID 19 Vaccination and walk in Clinic - 10am - 1:30pm"
+      ]
+    }
+  },
+  {
+    "lat": -42.46411944005499,
+    "lng": 171.19118199192226,
+    "name": "Te Nikau Grey Hospital",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "Covid Vaccination Entrance - opposite St John's, Waterwalk Road, Greymouth, West Coast 7805",
+    "telephone": "(03) 769 7400",
+    "faxNumber": "(03) 769 7699",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/at/te-nikau-grey-hospital/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "10:00 AM – 4:00 PM",
+        "Wed": "1:00 PM – 7:00 PM",
+        "Thu – Sat": "10:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>Community Services building, south-western corner of the Te Nīkau Hospital &amp; Health Centre campus opposite the St John building on Waterwalk Road, Greymouth.</strong>",
+        "<strong>*Note:</strong>&nbsp;Drop-ins are now available at the Greymouth COVID-19 vaccination clinic."
+      ]
+    }
+  },
+  {
+    "lat": -41.7521101,
+    "lng": 171.5996669,
+    "name": "Masonic Lodge",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "51 Russell Street, Westport, West Coast 7825",
+    "telephone": "(03) 769 7400",
+    "faxNumber": "(03) 769 7699",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/at/masonic-lodge-51-russell-street-westport/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>*Note:</strong>&nbsp;Drop-ins are welcome.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -42.7178499,
+    "lng": 170.9636854,
+    "name": "Pakiwaitara",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "32 Weld Street, Hokitika, West Coast 7810",
+    "telephone": "(03) 769 7400",
+    "faxNumber": "(03) 769 7699",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/at/pakiwaitara-hokitika-vaccination-clinic-32/",
+    "opennningHours": {
+      "schedule": {
+        "Fri": "10:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.8571007,
+    "lng": 174.76169749999997,
+    "name": "The Auckland City Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "419 Queen Street, Auckland Central, Auckland",
+    "telephone": "(09) 368 4240",
+    "faxNumber": "(09) 368 4241",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/the-auckland-city-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -46.2366904,
+    "lng": 169.73963290000006,
+    "name": "Clutha Health First Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Clutha Health First, Balclutha",
+    "telephone": "(03) 419 0500",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clutha-health-first-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "9:00 AM – 6:00 PM",
+        "Mon – Fri": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 7 Jan."
+      },
+      "notesHtml": [
+        "If urgent care is required outside of our practice hours, please&nbsp;phone us. Your call will be answered by a Registered Nurse at our Triage service where appropriate care will be determined.",
+        "Weekend clinics are by appointment only which can be arranged by calling us on 4190500 and speaking to our Triage Service."
+      ]
+    }
+  },
+  {
+    "lat": -36.88107823984726,
+    "lng": 174.63268518447876,
+    "name": "West Auckland Healthcare - Wai Health Clinic",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "6-8 Pioneer Street, Henderson, Auckland",
+    "telephone": "(09) 839 0280",
+    "faxNumber": "(09) 839 0842",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/west-auckland-healthcare-wai-health-clinic/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:00 AM – 5:00 PM). Open 21 Dec (8:00 AM – 5:00 PM). Open 22 Dec (8:00 AM – 5:00 PM). Open 23 Dec (8:00 AM – 5:00 PM). Open 24 Dec (8:00 AM – 2:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (8:00 AM – 5:00 PM). Open 30 Dec (8:00 AM – 5:00 PM). Open 31 Dec (8:00 AM – 2:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (8:00 AM – 5:00 PM). Open 6 Jan (8:00 AM – 5:00 PM). Open 7 Jan (8:00 AM – 5:00 PM).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
+      },
+      "notesHtml": [
+        "This clinic is currently dedicated to treating patients WITHOUT COVID-19 symptoms and is UNABLE TO TREAT patients that have respiratory symptoms such as a cough, cold, a runny nose, sore throats, and fever. For more information or to find an alternative clinic, please visit our&nbsp;<a href=\"https://www.localdoctors.co.nz/clinic-directory-2\" target=\"_blank\" rel=\"noopener\">clinic directory</a>.&nbsp;<strong>Currently no COVID testing available.</strong>",
+        "Patients can book appointments or walk-in Monday to Friday, 8am to 5pm. Book an appointment on ManageMyHealth or phone 839 0280.",
+        "For medical assistance after hours please contact any of the following:",
+        "Visit our <a href=\"http://localdoctors.co.nz/\">Local Doctors website</a>&nbsp;for full 7 day urgent care clinic listings.&nbsp;",
+        "For 24/7 urgent care clinics see listings for <a href=\"https://www.whitecross.co.nz/clinics/ascot-24-7-white-cross\">White Cross Ascot </a>and <a href=\"https://www.whitecross.co.nz/clinics/henderson-24-7\">White Cross Henderson</a>.",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.87244829999999,
+    "lng": 174.75180449999993,
+    "name": "Dominion Road Surgery",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "123 Dominion Road, Mt Eden, Auckland",
+    "telephone": "(09) 630 1212",
+    "faxNumber": "(09) 630 1247",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/dominion-road-surgery/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec — 6 Jan. Open 7 Jan.",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>Lunch Break 13:00 - 14:00</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -37.3930744,
+    "lng": 175.8405153,
+    "name": "Waihi Family Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "43 Kenny Street, Waihi",
+    "telephone": "(07) 863 2112",
+    "faxNumber": "(07) 863 7728",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/waihi-family-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct). Open Easter Monday (18 Apr, 9:00 AM – 1:00 PM).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 27 Dec. Open 28 Dec (9:00 AM – 11:00 AM). Open 29 Dec — 31 Dec. Closed 1 Jan — 3 Jan. Open 4 Jan (9:00 AM – 12:00 PM). Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "<strong>After Hours: Weekend clinics/on call/duty shared with other local practices. Call clinic for details.</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -39.0686943,
+    "lng": 174.06794809999997,
+    "name": "Tui Ora Family Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "36 Maratahu Street, Westown, New Plymouth",
+    "telephone": "(06) 759 7310",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-ora-family-health/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "8:30 AM – 5:00 PM",
+        "Wed": "9:30 AM – 5:00 PM",
+        "Thu – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:30 AM – 12:00 PM). Closed 25 Dec — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.8868005,
+    "lng": 174.64467420000005,
+    "name": "Glendene Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "4343 Great North Road, Glendene, Auckland",
+    "telephone": "(09) 822 5148",
+    "faxNumber": "(09) 822 5149",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/glendene-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
+      },
+      "notesHtml": [
+        "Visit our <a href=\"http://localdoctors.co.nz/\">Local Doctors website</a>&nbsp;for full 7 day urgent care clinic listings.",
+        "For 24/7 urgent care clinics see our White Cross website listings for<a href=\"http://www.whitecross.co.nz/urgent-care/ascot-247/\"> White Cross Ascot</a>&nbsp;and <a href=\"http://www.whitecross.co.nz/urgent-care/henderson-247/\">White Cross Henderson</a>."
+      ]
+    }
+  },
+  {
+    "lat": -39.0022982,
+    "lng": 174.23526790000005,
+    "name": "Waitara Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [],
+    "address": "Cnr McLean Street and Grey Street, Waitara",
+    "telephone": "(06) 754 8119",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/waitara-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:30 AM – 5:30 PM",
+        "Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 4 Jan. Open 5 Jan (8:30 AM – 3:00 PM). Open 6 Jan (8:30 AM – 3:00 PM). Open 7 Jan (8:30 AM – 3:00 PM).",
+        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
+      },
+      "notesHtml": [
+        "Please note the surgery is closed between Christmas and New year. It re-opens on the 5th January 2022 but will be closing at 3pm until Monday 10 January 2022. Normal hours will then resume."
+      ]
+    }
+  },
+  {
+    "lat": -36.88392863562319,
+    "lng": 174.71697092056274,
+    "name": "Four Kauri Family Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only"
+    ],
+    "address": "880 New North Road, Mount Albert, Auckland",
+    "telephone": "(09) 846 0002",
+    "faxNumber": "(09) 846 0656",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/four-kauri-family-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "OR",
+        "If one of our doctors is not available or it is after hours you can get a virtual GP consultation with a real doctor from the comfort of your own home, workplace, holiday house or anywhere by using CareHQ, from 7am – 7pm, 7 days per week. Find out more&nbsp;<a href=\"http://www.carehq.co.nz/\">www.carehq.co.nz</a>",
+        "<strong>Care HQ<br></strong>Registered for&nbsp;<a href=\"https://www.carehq.co.nz/\" target=\"_blank\" rel=\"noopener\">Care HQ</a>"
+      ]
+    }
+  },
+  {
+    "lat": -41.5097576,
+    "lng": 173.93520220000005,
+    "name": "Unichem Springlands Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "131 Middle Renwick Road, Springlands, Blenheim",
+    "telephone": "(03) 578 2271",
+    "faxNumber": "(03) 579 2371",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-springlands-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat – Sun": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 5:00 PM), Good Friday (15 Apr, 10:00 AM – 5:00 PM), Easter Sunday (17 Apr, 10:00 AM – 5:00 PM), Easter Monday (18 Apr, 10:00 AM – 5:00 PM), ANZAC Day (25 Apr, 10:00 AM – 5:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 5:00 PM), Labour Day (24 Oct, 10:00 AM – 5:00 PM), Marlborough Anniversary (31 Oct, 10:00 AM – 5:00 PM).Christmas: Open 20 Dec — 7 Jan."
+      },
+      "notesHtml": [
+        "Public Holidays as advertised. Please phone the pharmacy to check."
+      ]
+    }
+  },
+  {
+    "lat": -38.1308092,
+    "lng": 176.30012540000007,
+    "name": "Owhata Medical Centre Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "556 Te Ngae Road, Owhata, Rotorua",
+    "telephone": "(07) 345 5467",
+    "faxNumber": "(07) 345 5479",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/owhata-medical-centre-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9087362,
+    "lng": 174.6836473,
+    "name": "",
+    "branch": "primary",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/totara-health-1-mccrae-way-new-lynn-auckland/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.5186073,
+    "lng": 172.5255582,
+    "name": "Inspire Health Medical Practice",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "1 Filly Place, Yaldhurst, Christchurch",
+    "telephone": "(03) 372 5190",
+    "faxNumber": "(03) 372 5191",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/inspire-health-medical-practice/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
+    "lat": -36.8503737,
+    "lng": 174.85862959999997,
+    "name": "St Heliers Medical",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Pimlico Building, 10 Turua Street, Saint Heliers, Auckland",
+    "telephone": "(09) 575 9491",
+    "faxNumber": "(09) 575 7031",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/st-heliers-medical/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 23 Dec. Closed 24 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>Please note our reception phones are diverted to after hours service at 4.30pm.</strong> This is a phone service answered by a nurse who can help with urgent medical advice."
+      ]
+    }
+  },
+  {
+    "lat": -39.0607253,
+    "lng": 174.0696355,
+    "name": "Central Medical Centre (New Plymouth)",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "72 Vivian Street, New Plymouth",
+    "telephone": "(06) 758 6666",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/central-medical-centre-new-plymouth/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:00 AM – 3:00 PM). Closed 25 Dec — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.662825,
+    "lng": 175.1542428,
+    "name": "Tūrangawaewae Marae",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Drive through",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "Nga Miro Health Center Carpark, 29 River Road, Ngāruawāhia, Waikato 3720",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turangawaewae-marae-ngaruawahia-community/at/turangawaewae-marae-29-river-road-ngaruawahia/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Sat": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "We also have late night vaccinations opposite the Z station (106 Great South Road, Ngāruawāhia 3720)",
+        "These will be during the week also:",
+        "Tuesday: 13:00 - 19:00",
+        "Thursday: 13:00 - 19:00",
+        "As well as a fixed Testing site in the Nga Miro parking lot:",
+        "Tuesday/Thursday: 08:00 - 15:00",
+        "Wednesday/ Friday: 11:00 - 18:00",
+        "Saturday: 09:00 - 14:00"
+      ]
+    }
+  },
+  {
+    "lat": -37.667942,
+    "lng": 175.1491357,
+    "name": "Z Station",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Drive through",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "106 Great South Road, Ngāruawāhia, Waikato 3720",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turangawaewae-marae-ngaruawahia-community/at/z-station-106-great-south-road-ngaruawahia/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "1:00 PM – 7:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.7491174,
+    "lng": 175.233495,
+    "name": "Hamilton Te Awa Vaccination Centre - Te Awa The Base",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "Te Awa, The Base, Level 1, Corner Te Rapa Road &amp; Wairere Drive, Hamilton 3200",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/hamilton-te-awa-vaccination-centre-te-awa/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 5:00 PM",
+        "Thu – Fri": "9:00 AM – 9:00 PM",
+        "Sat – Sun": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun). Open Labour Day (24 Oct, 9:00 AM – 5:00 PM).Christmas: Open 20 Dec — 7 Jan."
+      },
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "The Busit Bus Hub is located at the northern end of The Base, near Citta Design. A wide range of services are available. Visit <a href=\"http://www.busit.co.nz/\" target=\"_blank\" rel=\"noopener\">www.busit.co.nz</a> for routes and timetables.",
+        "There is plenty of parking underground and around the Te Awa shopping mall, including disability parking. The lift at the northern end of the underground car park or near Paper Plus on the ground floor opens directly opposite the vaccination centre entrance. If you're taking the escalators, you'll find the vaccination centre in the northeastern corner of Level 1, near the indoor playground.",
+        "&nbsp;",
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -37.6562401,
+    "lng": 175.5294273,
+    "name": "Morrinsville Vaccination Centre - Campbell Hall",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "Campbell Hall, Knox Presbyterian Church, 45-49 Canada Street, Morrinsville, Waikato 3300",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/morrinsville-vaccination-centre-campbell/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "9:00 AM – 4:00 PM",
+        "Thu": "12:00 PM – 7:00 PM",
+        "Fri – Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec — 25 Dec. Closed 26 Dec — 27 Dec. Open 28 Dec — 1 Jan. Closed 2 Jan — 3 Jan. Open 4 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "On-street parking available along Canada Street or in the car park behind the church (access off Canada Street or Anderson Street).&nbsp;",
+        "Entry to the vaccination centre in Campbell Hall is to the left of the main church entrance. If you've parked behind the building, come around to the front entrance.&nbsp;",
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -37.1388669,
+    "lng": 175.5394425,
+    "name": "Thames Vaccination Centre - Goldfields Shopping Centre",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "Goldfields Shopping Centre, Thames, Waikato 3500",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/thames-vaccination-centre-goldfields-shopping/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Sat": "9:00 AM – 4:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec — 25 Dec. Closed 26 Dec — 27 Dec. Open 28 Dec — 1 Jan. Closed 2 Jan — 3 Jan. Open 4 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "Goldfields has plenty of parking. The vaccination centre is a few shops away from The Warehouse so come in the entrance near McDonalds and walk into the centre then take the corridor on the left.",
+        "Public toilets are available inside the mall and there is disability parking close to the entrance.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -38.0090309,
+    "lng": 175.3285638,
+    "name": "Te Awamutu Vaccination Centre - 244 Arawata Street (Former Bunnings site)",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "244 Arawata Street, Te Awamutu, Waikato 3800",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/te-awamutu-vaccination-centre-244-arawata/",
+    "opennningHours": {
+      "schedule": {
+        "Wed – Fri": "9:00 AM – 3:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec — 21 Dec. Open 22 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "<strong>Travel Directions:</strong>",
+        "The centre is in the former Bunnings store. Access is off either Scout Lane or Arawata Street and there's plenty of parking, including disablity parking along the building.",
+        "Entry to the the vaccination centre is down the end of the building if you're walking away from Arawata Street. Toilets are available on-site.",
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -38.217811,
+    "lng": 175.8724701,
+    "name": "Tokoroa Whare Rongoā Āraimate Community Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "203 Leith Place, Tokoroa, Waikato 3420",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-community-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "9:00 AM – 4:00 PM",
+        "Thu": "11:00 AM – 6:00 PM",
+        "Fri": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec — 24 Dec. Closed 25 Dec — 27 Dec. Open 28 Dec — 31 Dec. Closed 1 Jan — 3 Jan. Open 4 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "Leith Place and Bridge Street have plenty of on-street parking, including disability parking close to the centre. The entrance is accessible by wheelchair. Toilets are available on-site (not disabled).",
+        "Saturday vaccinations are held at 1 Maraetai Road, Tokoroa. from 10am to 3pm.&nbsp; &nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -38.2272205,
+    "lng": 175.8716569,
+    "name": "Tokoroa Whare Rongoā Āraimate SWPICS DRIVE-THROUGH Community Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Offers AstraZeneca Vaccine"
+    ],
+    "address": "1 Maraetai Road, Tokoroa, Waikato 3420",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-swpics-drive/",
+    "opennningHours": {
+      "schedule": {
+        "Sat": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "This vaccination site is a drive-through but pedestrians can also be vaccinated. Just stay clear of the cars and make yourself known to the vaccination team.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -37.1994762,
+    "lng": 174.90587240000002,
+    "name": "Seddon Medical",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "13A Hall Street, Pukekohe",
+    "telephone": "(09) 237 0055",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/seddon-medical/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM",
+        "Mon – Thu": "10:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:30 AM – 5:00 PM). Open 21 Dec (8:30 AM – 5:00 PM). Open 22 Dec (8:30 AM – 5:00 PM). Open 23 Dec (8:30 AM – 5:00 PM). Open 24 Dec (8:30 AM – 3:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (8:30 AM – 5:00 PM). Open 30 Dec (8:30 AM – 5:00 PM). Open 31 Dec (8:30 AM – 5:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (8:30 AM – 5:00 PM). Open 6 Jan (8:30 AM – 5:00 PM). Open 7 Jan (8:30 AM – 5:00 PM).",
+        "Preferred urgent care clinic out of hours": "Urgent Care Franklin Limited."
+      },
+      "notesHtml": [
+        "Seddon Medical is closed on Saturdays and Sundays"
+      ]
+    }
+  },
+  {
+    "lat": -37.2010956,
+    "lng": 174.90045859999998,
+    "name": "Pukekohe Family Health Care",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "Pukekohe Health Centre, 10 West Street, Pukekohe, Auckland",
+    "telephone": "(09) 237 0280",
+    "faxNumber": "(09) 238 3377",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pukekohe-family-health-care/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "Urgent Care Franklin Limited."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
     }
   },
   {
@@ -1178,23 +1999,6 @@
     }
   },
   {
-    "lat": -36.9087362,
-    "lng": 174.6836473,
-    "name": "",
-    "branch": "pharmacy",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/totara-health-1-mccrae-way-new-lynn-auckland/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.0279299,
     "lng": 174.88751739999998,
     "name": "Unichem Leabank Pharmacy",
@@ -1396,40 +2200,6 @@
       },
       "notesHtml": [
         "Please note, Our COVID-19 Vaccination site hours are SAME as Pharmacy hours.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -36.709549,
-    "lng": 174.72829660000002,
-    "name": "Northcross Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "855 East Coast Road, Northcross, Auckland",
-    "telephone": "(09) 478 5234",
-    "faxNumber": "(09) 479 5726",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/northcross-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:30 AM – 8:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 8:30 AM – 8:00 PM), Good Friday (15 Apr, 8:30 AM – 8:00 PM), Easter Sunday (17 Apr, 8:30 AM – 8:00 PM), Easter Monday (18 Apr, 8:30 AM – 8:00 PM), ANZAC Day (25 Apr, 8:30 AM – 8:00 PM), Queen's Birthday (6 Jun, 8:30 AM – 8:00 PM), Labour Day (24 Oct, 8:30 AM – 8:00 PM).Christmas: Open 20 Dec (8:30 AM – 8:00 PM). Open 21 Dec (8:30 AM – 8:00 PM). Open 22 Dec (8:30 AM – 8:00 PM). Open 23 Dec (8:30 AM – 8:00 PM). Open 24 Dec (8:30 AM – 8:00 PM). Open 25 Dec (10:00 AM – 2:00 PM). Open 26 Dec (8:30 AM – 8:00 PM). Open 27 Dec (8:30 AM – 8:00 PM). Open 28 Dec (8:30 AM – 8:00 PM). Open 29 Dec (8:30 AM – 8:00 PM). Open 30 Dec (8:30 AM – 8:00 PM). Open 31 Dec (8:30 AM – 8:00 PM). Open 1 Jan (8:30 AM – 8:00 PM). Open 2 Jan (8:30 AM – 8:00 PM). Open 3 Jan (8:30 AM – 8:00 PM). Open 4 Jan (8:30 AM – 8:00 PM). Open 5 Jan (8:30 AM – 8:00 PM). Open 6 Jan (8:30 AM – 8:00 PM). Open 7 Jan (8:30 AM – 8:00 PM)."
-      },
-      "notesHtml": [
-        "Public Holidays: 8:30am - 8pm",
-        "Christmas Day: 10:00am - 2:00pm&nbsp;",
-        "COVID-19 Vaccination Hours: 9:30am - 6:00pm.",
-        "COVID-19 Vaccination Dates: &nbsp;We will temporarily halt our COVID vaccination service between the dates of 11th December 2021 and the 31st of &nbsp;January 2022. &nbsp;We will resume vaccinations on 1st February 2022.",
-        "&nbsp;",
-        "&nbsp;",
-        "&nbsp;"
       ]
     }
   },
@@ -4293,34 +5063,6 @@
     }
   },
   {
-    "lat": -43.8140785,
-    "lng": 172.96148199999993,
-    "name": "Akaroa Health Limited",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "2 Aylmers Valley Road, Akaroa",
-    "telephone": "(03) 304 7004",
-    "faxNumber": "(03) 304 8683",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/akaroa-health-limited/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "After Hours: Call clinic phone for registered nurse who can contact an on call doctor.&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -43.8887696,
     "lng": 171.73855479999997,
     "name": "Three Rivers Health",
@@ -7122,7 +7864,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"76131b171f1a36111904131b13121f15171a58151958180c\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"3b5e565a52577b5c54495e565e5f52585a57155854155541\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -10384,66 +11126,6 @@
     }
   },
   {
-    "lat": -39.48352,
-    "lng": 176.8966292,
-    "name": "The Doctors Ahuriri (Formerly The Doctors Westshore)",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "5 Ossian Street, Ahuriri, Napier",
-    "telephone": "(06) 835 5661",
-    "faxNumber": "(06) 835 5663",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-ahuriri-formerly-the-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:30 AM – 5:00 PM",
-        "Fri": "8:30 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "City Medical Urgent Care."
-      },
-      "notesHtml": [
-        "Note:&nbsp; The clinic is closed between 12:30pm-1:30pm Monday to Thursday",
-        "After hours contact:&nbsp;&nbsp;<a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-napier/\">The Doctors Napier</a>&nbsp;Ph:&nbsp; (06) 835 4696"
-      ]
-    }
-  },
-  {
-    "lat": -39.5229328,
-    "lng": 176.8685695,
-    "name": "The Doctors Greenmeadows",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "524 Kennedy Road, Greenmeadows, Napier",
-    "telephone": "(06) 844 6277",
-    "faxNumber": "(06) 844 3748",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-greenmeadows/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "City Medical Urgent Care."
-      },
-      "notesHtml": [
-        "After Hours: <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-napier/\">The Doctors - Napier</a>&nbsp;(outside of The Doctors Napier hours, City Medical is available)",
-        "&nbsp;",
-        "**Please note our doors open at 9:00am. (Phone lines are open from 8:00am-6:00pm)&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -39.64274890000001,
     "lng": 176.84284939999998,
     "name": "",
@@ -10457,34 +11139,6 @@
     "opennningHours": {
       "schedule": {},
       "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -39.494102,
-    "lng": 176.9149338,
-    "name": "The Doctors Napier",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "30 Munroe Street, Napier South, Napier (Entrance via Vautier St)",
-    "telephone": "(06) 835 4696",
-    "faxNumber": "(06) 834 4248",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-napier/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 8:00 PM",
-        "Sat – Sun": "8:00 AM – 6:00 PM",
-        "Mon – Sun": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 8:00 AM – 6:00 PM), Good Friday (15 Apr, 8:00 AM – 6:00 PM), Easter Sunday (17 Apr, 8:00 AM – 6:00 PM), Easter Monday (18 Apr, 8:00 AM – 6:00 PM), ANZAC Day (25 Apr, 8:00 AM – 6:00 PM), Queen's Birthday (6 Jun, 8:00 AM – 6:00 PM), Hawke's Bay Anniversary (21 Oct, 8:00 AM – 6:00 PM), Labour Day (24 Oct, 8:00 AM – 6:00 PM).Christmas: Open 20 Dec (8:00 AM – 8:00 PM). Open 21 Dec (8:00 AM – 8:00 PM). Open 22 Dec (8:00 AM – 8:00 PM). Open 23 Dec (8:00 AM – 8:00 PM). Open 24 Dec (8:00 AM – 8:00 PM). Closed 25 Dec. Open 26 Dec (8:00 AM – 6:00 PM). Open 27 Dec (8:00 AM – 6:00 PM). Open 28 Dec (8:00 AM – 6:00 PM). Open 29 Dec (8:00 AM – 8:00 PM). Open 30 Dec (8:00 AM – 8:00 PM). Open 31 Dec (8:00 AM – 8:00 PM). Open 1 Jan (8:00 AM – 6:00 PM). Open 2 Jan (8:00 AM – 6:00 PM). Open 3 Jan (8:00 AM – 6:00 PM). Open 4 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "City Medical Urgent Care."
-      },
       "notesHtml": []
     }
   },
@@ -11718,23 +12372,6 @@
     }
   },
   {
-    "lat": -40.3565526,
-    "lng": 175.61946680000005,
-    "name": "",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/445-ferguson-street-palmerston-north/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -40.4676543,
     "lng": 175.28016379999997,
     "name": "Te Waiora Community Health Services",
@@ -12026,6 +12663,23 @@
       "exceptions": {
         "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 3 Jan. Open 4 Jan — 7 Jan."
       },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.3565526,
+    "lng": 175.61946680000005,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/445-ferguson-street-palmerston-north/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -18361,35 +19015,6 @@
     }
   },
   {
-    "lat": -35.2325379,
-    "lng": 173.9451325,
-    "name": "KeriMed Doctors Partnership",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "By invitation only"
-    ],
-    "address": "2 Rānui Avenue, Kerikeri",
-    "telephone": "(09) 407 0025",
-    "faxNumber": "(09) 407 8812",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kerimed-doctors-partnership/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM",
-        "Sat": "8:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Northland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 25 Dec. Closed 26 Dec. Open 27 Dec — 1 Jan. Closed 2 Jan. Open 3 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "<strong>Saturday Hours are for urgent care.&nbsp; Patient to phone for appointment</strong>",
-        "After Hours: Call clinic phone number for an after hours service.&nbsp; Your call will be diverted to an after hours triage nurse who will advise the best course of action."
-      ]
-    }
-  },
-  {
     "lat": -35.5332157,
     "lng": 173.3892952,
     "name": "Hauora Hokianga / Hokianga Health",
@@ -24606,488 +25231,109 @@
     }
   },
   {
-    "lat": -41.3346575,
-    "lng": 174.77359679999995,
-    "name": "Unichem Island Bay Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:45 AM to 6:00 PM.",
-    "instructionLis": [],
-    "address": "141 The Parade, Island Bay, Wellington",
-    "telephone": "(04) 383 8680",
-    "faxNumber": "(04) 383 8227",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-island-bay-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:45 AM – 6:00 PM",
-        "Sat": "9:30 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:45 AM – 6:00 PM). Open 21 Dec (8:45 AM – 6:00 PM). Open 22 Dec (8:45 AM – 6:00 PM). Open 23 Dec (8:45 AM – 6:00 PM). Open 24 Dec (8:45 AM – 6:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 5:00 PM). Open 30 Dec (9:00 AM – 5:00 PM). Open 31 Dec (9:00 AM – 5:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (9:00 AM – 5:00 PM). Open 6 Jan (9:00 AM – 5:00 PM). Open 7 Jan (9:00 AM – 5:00 PM)."
-      },
-      "notesHtml": [
-        "Throughout December and most of January, we will be taking a break from COVID19 Vaccinations.&nbsp;&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -36.8788902,
-    "lng": 174.8561936,
-    "name": "Local Doctors Glen Innes",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "5 Mayfair Place, Glen Innes, Auckland",
-    "telephone": "(09) 528 9054",
-    "faxNumber": "(09) 528 9058",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/local-doctors-glen-innes/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 8:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec (8:00 AM – 8:00 PM). Open 21 Dec (8:00 AM – 8:00 PM). Open 22 Dec (8:00 AM – 8:00 PM). Open 23 Dec (8:00 AM – 8:00 PM). Open 24 Dec (8:00 AM – 8:00 PM). Closed 25 Dec. Open 26 Dec (8:00 AM – 8:00 PM). Open 27 Dec (8:00 AM – 8:00 PM). Open 28 Dec (8:00 AM – 8:00 PM). Open 29 Dec (8:00 AM – 8:00 PM). Open 30 Dec (8:00 AM – 8:00 PM). Open 31 Dec (8:00 AM – 8:00 PM). Open 1 Jan (8:00 AM – 8:00 PM). Open 2 Jan (8:00 AM – 8:00 PM). Open 3 Jan (8:00 AM – 8:00 PM). Open 4 Jan (8:00 AM – 8:00 PM). Open 5 Jan (8:00 AM – 8:00 PM). Open 6 Jan (8:00 AM – 8:00 PM). Open 7 Jan (8:00 AM – 8:00 PM)."
-      },
-      "notesHtml": [
-        "<strong>This clinic is currently dedicated to treating patients WITH COVID-19 symptoms and ONLY ABLE to treat able to treat patients with respiratory symptoms. For more information or to find an alternative clinic, please visit our&nbsp;<a href=\"https://www.localdoctors.co.nz/clinic-directory-2\" target=\"_blank\" rel=\"noopener\">clinic directory</a>.&nbsp;</strong>",
-        "After hours urgent care Local Doctors Ōtara, 3 Watford Street, Ōtara. Phone: (09) 274 3414.",
-        "For 24/7 urgent care clinics see listings for <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/white-cross-accident-urgent-medical-ascot/\">White Cross Ascot</a> and <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/white-cross-accident-urgent-medical-henderson/\">White Cross Henderson</a>."
-      ]
-    }
-  },
-  {
-    "lat": -45.0960529,
-    "lng": 170.97216950000006,
-    "name": "North Otago Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "213-215 Thames Street, Ōamaru",
-    "telephone": "(03) 434 8246",
-    "faxNumber": "(03) 434 6280",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/north-otago-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 5:00 PM",
-        "Sun": "10:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "COVID 19 Vaccination Walk in Hours: Tuesday to Friday 10am-3pm",
-        "Sunday COVID 19 Vaccination and walk in Clinic - 10am - 1:30pm"
-      ]
-    }
-  },
-  {
-    "lat": -42.46411944005499,
-    "lng": 171.19118199192226,
-    "name": "Te Nikau Grey Hospital",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "Covid Vaccination Entrance - opposite St John's, Waterwalk Road, Greymouth, West Coast 7805",
-    "telephone": "(03) 769 7400",
-    "faxNumber": "(03) 769 7699",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/at/te-nikau-grey-hospital/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "10:00 AM – 4:00 PM",
-        "Wed": "1:00 PM – 7:00 PM",
-        "Thu – Sat": "10:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>Community Services building, south-western corner of the Te Nīkau Hospital &amp; Health Centre campus opposite the St John building on Waterwalk Road, Greymouth.</strong>",
-        "<strong>*Note:</strong>&nbsp;Drop-ins are now available at the Greymouth COVID-19 vaccination clinic."
-      ]
-    }
-  },
-  {
-    "lat": -41.7521101,
-    "lng": 171.5996669,
-    "name": "Masonic Lodge",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "51 Russell Street, Westport, West Coast 7825",
-    "telephone": "(03) 769 7400",
-    "faxNumber": "(03) 769 7699",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/at/masonic-lodge-51-russell-street-westport/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>*Note:</strong>&nbsp;Drop-ins are welcome.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -42.7178499,
-    "lng": 170.9636854,
-    "name": "Pakiwaitara",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "32 Weld Street, Hokitika, West Coast 7810",
-    "telephone": "(03) 769 7400",
-    "faxNumber": "(03) 769 7699",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/at/pakiwaitara-hokitika-vaccination-clinic-32/",
-    "opennningHours": {
-      "schedule": {
-        "Fri": "10:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.8571007,
-    "lng": 174.76169749999997,
-    "name": "The Auckland City Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "419 Queen Street, Auckland Central, Auckland",
-    "telephone": "(09) 368 4240",
-    "faxNumber": "(09) 368 4241",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/the-auckland-city-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 6:00 PM",
-        "Sat": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -46.2366904,
-    "lng": 169.73963290000006,
-    "name": "Clutha Health First Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Clutha Health First, Balclutha",
-    "telephone": "(03) 419 0500",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clutha-health-first-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "9:00 AM – 6:00 PM",
-        "Mon – Fri": "9:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 7 Jan."
-      },
-      "notesHtml": [
-        "If urgent care is required outside of our practice hours, please&nbsp;phone us. Your call will be answered by a Registered Nurse at our Triage service where appropriate care will be determined.",
-        "Weekend clinics are by appointment only which can be arranged by calling us on 4190500 and speaking to our Triage Service."
-      ]
-    }
-  },
-  {
-    "lat": -36.88107823984726,
-    "lng": 174.63268518447876,
-    "name": "West Auckland Healthcare - Wai Health Clinic",
+    "lat": -35.2325379,
+    "lng": 173.9451325,
+    "name": "KeriMed Doctors Partnership",
     "branch": "primary",
     "isOpenToday": true,
     "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
+      "Eligible GP enrolled patients only",
+      "By invitation only"
     ],
-    "address": "6-8 Pioneer Street, Henderson, Auckland",
-    "telephone": "(09) 839 0280",
-    "faxNumber": "(09) 839 0842",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/west-auckland-healthcare-wai-health-clinic/",
+    "address": "2 Rānui Avenue, Kerikeri",
+    "telephone": "(09) 407 0025",
+    "faxNumber": "(09) 407 8812",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kerimed-doctors-partnership/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
+        "Mon – Fri": "8:00 AM – 5:00 PM",
+        "Sat": "8:00 AM – 1:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:00 AM – 5:00 PM). Open 21 Dec (8:00 AM – 5:00 PM). Open 22 Dec (8:00 AM – 5:00 PM). Open 23 Dec (8:00 AM – 5:00 PM). Open 24 Dec (8:00 AM – 2:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (8:00 AM – 5:00 PM). Open 30 Dec (8:00 AM – 5:00 PM). Open 31 Dec (8:00 AM – 2:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (8:00 AM – 5:00 PM). Open 6 Jan (8:00 AM – 5:00 PM). Open 7 Jan (8:00 AM – 5:00 PM).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
       },
       "notesHtml": [
-        "This clinic is currently dedicated to treating patients WITHOUT COVID-19 symptoms and is UNABLE TO TREAT patients that have respiratory symptoms such as a cough, cold, a runny nose, sore throats, and fever. For more information or to find an alternative clinic, please visit our&nbsp;<a href=\"https://www.localdoctors.co.nz/clinic-directory-2\" target=\"_blank\" rel=\"noopener\">clinic directory</a>.&nbsp;<strong>Currently no COVID testing available.</strong>",
-        "Patients can book appointments or walk-in Monday to Friday, 8am to 5pm. Book an appointment on ManageMyHealth or phone 839 0280.",
-        "For medical assistance after hours please contact any of the following:",
-        "Visit our <a href=\"http://localdoctors.co.nz/\">Local Doctors website</a>&nbsp;for full 7 day urgent care clinic listings.&nbsp;",
-        "For 24/7 urgent care clinics see listings for <a href=\"https://www.whitecross.co.nz/clinics/ascot-24-7-white-cross\">White Cross Ascot </a>and <a href=\"https://www.whitecross.co.nz/clinics/henderson-24-7\">White Cross Henderson</a>.",
-        "&nbsp;"
+        "<strong>Saturday Hours are for urgent care.&nbsp; Patient to phone for appointment</strong>",
+        "After Hours: Call clinic phone number for an after hours service.&nbsp; Your call will be diverted to an after hours triage nurse who will advise the best course of action."
       ]
     }
   },
   {
-    "lat": -36.87244829999999,
-    "lng": 174.75180449999993,
-    "name": "Dominion Road Surgery",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 5:30 PM.",
+    "lat": -39.5082293,
+    "lng": 176.8606106,
+    "name": "Napier Marist Old Boys Clubrooms",
+    "branch": "community",
+    "openTodayHours": "",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
+      "Make an appointment"
     ],
-    "address": "123 Dominion Road, Mt Eden, Auckland",
-    "telephone": "(09) 630 1212",
-    "faxNumber": "(09) 630 1247",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/dominion-road-surgery/",
+    "address": "9 Clyde Jeffery Drive, Poraiti, Napier, Hawke's Bay 4112",
+    "telephone": "(06) 835 4696",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/the-doctors-napier-at-marist-clubrooms/",
     "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec — 6 Jan. Open 7 Jan.",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": [
-        "<strong>Lunch Break 13:00 - 14:00</strong>"
+        "MARIST VACCINATION CLINIC IS NOW CLOSED UNTIL 6.1.2022",
+        "MARIST VACCINATION CLINIC IS NOW CLOSED UNTIL 6.1.2022"
       ]
     }
   },
   {
-    "lat": -37.3930744,
-    "lng": 175.8405153,
-    "name": "Waihi Family Doctors",
+    "lat": -41.50749829999999,
+    "lng": 173.8294985,
+    "name": "Renwick Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "44 High Street, Renwick",
+    "telephone": "(03) 572 8838",
+    "faxNumber": "(03) 572 8839",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/renwick-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Marlborough Anniversary (31 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:45 AM – 4:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Open 31 Dec (8:45 AM – 4:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "Marlborough Urgent Care Centre."
+      },
+      "notesHtml": [
+        "After Hours: Phone GP and follow instructions.&nbsp; You will be transfered to an after hours service or call 111 for emergencies",
+        "<strong>Note: Monthly staff meeting 1230 - 1400hrs (once a month)</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -41.30369719999999,
+    "lng": 174.7641798,
+    "name": "Brooklyn Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Eligible GP enrolled patients only",
       "Make an appointment"
     ],
-    "address": "43 Kenny Street, Waihi",
-    "telephone": "(07) 863 2112",
-    "faxNumber": "(07) 863 7728",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/waihi-family-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct). Open Easter Monday (18 Apr, 9:00 AM – 1:00 PM).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 27 Dec. Open 28 Dec (9:00 AM – 11:00 AM). Open 29 Dec — 31 Dec. Closed 1 Jan — 3 Jan. Open 4 Jan (9:00 AM – 12:00 PM). Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "<strong>After Hours: Weekend clinics/on call/duty shared with other local practices. Call clinic for details.</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -39.0686943,
-    "lng": 174.06794809999997,
-    "name": "Tui Ora Family Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "36 Maratahu Street, Westown, New Plymouth",
-    "telephone": "(06) 759 7310",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-ora-family-health/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "8:30 AM – 5:00 PM",
-        "Wed": "9:30 AM – 5:00 PM",
-        "Thu – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:30 AM – 12:00 PM). Closed 25 Dec — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.8868005,
-    "lng": 174.64467420000005,
-    "name": "Glendene Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "4343 Great North Road, Glendene, Auckland",
-    "telephone": "(09) 822 5148",
-    "faxNumber": "(09) 822 5149",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/glendene-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
-      },
-      "notesHtml": [
-        "Visit our <a href=\"http://localdoctors.co.nz/\">Local Doctors website</a>&nbsp;for full 7 day urgent care clinic listings.",
-        "For 24/7 urgent care clinics see our White Cross website listings for<a href=\"http://www.whitecross.co.nz/urgent-care/ascot-247/\"> White Cross Ascot</a>&nbsp;and <a href=\"http://www.whitecross.co.nz/urgent-care/henderson-247/\">White Cross Henderson</a>."
-      ]
-    }
-  },
-  {
-    "lat": -39.0022982,
-    "lng": 174.23526790000005,
-    "name": "Waitara Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [],
-    "address": "Cnr McLean Street and Grey Street, Waitara",
-    "telephone": "(06) 754 8119",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/waitara-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:30 AM – 5:30 PM",
-        "Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 4 Jan. Open 5 Jan (8:30 AM – 3:00 PM). Open 6 Jan (8:30 AM – 3:00 PM). Open 7 Jan (8:30 AM – 3:00 PM).",
-        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
-      },
-      "notesHtml": [
-        "Please note the surgery is closed between Christmas and New year. It re-opens on the 5th January 2022 but will be closing at 3pm until Monday 10 January 2022. Normal hours will then resume."
-      ]
-    }
-  },
-  {
-    "lat": -36.88392863562319,
-    "lng": 174.71697092056274,
-    "name": "Four Kauri Family Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only"
-    ],
-    "address": "880 New North Road, Mount Albert, Auckland",
-    "telephone": "(09) 846 0002",
-    "faxNumber": "(09) 846 0656",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/four-kauri-family-medical-centre/",
+    "address": "155 Ohiro Road, Brooklyn, Wellington",
+    "telephone": "(04) 384 2761",
+    "faxNumber": "(04) 801 5041",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/brooklyn-medical-centre/",
     "opennningHours": {
       "schedule": {
         "Mon – Fri": "8:30 AM – 5:30 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - St Lukes."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "OR",
-        "If one of our doctors is not available or it is after hours you can get a virtual GP consultation with a real doctor from the comfort of your own home, workplace, holiday house or anywhere by using CareHQ, from 7am – 7pm, 7 days per week. Find out more&nbsp;<a href=\"http://www.carehq.co.nz/\">www.carehq.co.nz</a>",
-        "<strong>Care HQ<br></strong>Registered for&nbsp;<a href=\"https://www.carehq.co.nz/\" target=\"_blank\" rel=\"noopener\">Care HQ</a>"
-      ]
-    }
-  },
-  {
-    "lat": -41.5097576,
-    "lng": 173.93520220000005,
-    "name": "Unichem Springlands Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "131 Middle Renwick Road, Springlands, Blenheim",
-    "telephone": "(03) 578 2271",
-    "faxNumber": "(03) 579 2371",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-springlands-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat – Sun": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 5:00 PM), Good Friday (15 Apr, 10:00 AM – 5:00 PM), Easter Sunday (17 Apr, 10:00 AM – 5:00 PM), Easter Monday (18 Apr, 10:00 AM – 5:00 PM), ANZAC Day (25 Apr, 10:00 AM – 5:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 5:00 PM), Labour Day (24 Oct, 10:00 AM – 5:00 PM), Marlborough Anniversary (31 Oct, 10:00 AM – 5:00 PM).Christmas: Open 20 Dec — 7 Jan."
-      },
-      "notesHtml": [
-        "Public Holidays as advertised. Please phone the pharmacy to check."
-      ]
-    }
-  },
-  {
-    "lat": -38.1308092,
-    "lng": 176.30012540000007,
-    "name": "Owhata Medical Centre Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "556 Te Ngae Road, Owhata, Rotorua",
-    "telephone": "(07) 345 5467",
-    "faxNumber": "(07) 345 5479",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/owhata-medical-centre-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
+        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:30 AM – 5:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 1:00 PM). Open 30 Dec (9:00 AM – 1:00 PM). Open 31 Dec (9:00 AM – 1:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
       },
       "notesHtml": []
     }
@@ -25118,422 +25364,172 @@
     }
   },
   {
-    "lat": -43.5186073,
-    "lng": 172.5255582,
-    "name": "Inspire Health Medical Practice",
+    "lat": -43.6333427,
+    "lng": 171.64751,
+    "name": "Methven Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 6:00 PM.",
     "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
     ],
-    "address": "1 Filly Place, Yaldhurst, Christchurch",
-    "telephone": "(03) 372 5190",
-    "faxNumber": "(03) 372 5191",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/inspire-health-medical-practice/",
+    "address": "Cnr Methven Chertsey Road & Methven Highway, Methven",
+    "telephone": "(03) 302 8105",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/methven-medical-centre/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
+        "Mon – Fri": "8:30 AM – 6:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
       },
       "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+        "Please phone the clinic 03-3028105 to make a booking.&nbsp; &nbsp;Please advise us&nbsp; if you have recently travelled, or have cold or flu symptoms.",
+        "If you are an overseas visitor, please bring your passport with you.",
+        "After Hours: Local after hours is shared with Rakaia Medical Centre. Please phone 033028105 and follow instructions. You will be transferred to an after hours service"
       ]
     }
   },
   {
-    "lat": -39.5082293,
-    "lng": 176.8606106,
-    "name": "Napier Marist Old Boys Clubrooms",
-    "branch": "community",
-    "openTodayHours": "",
+    "lat": -36.97489789999999,
+    "lng": 174.92300139999998,
+    "name": "Flat Bush Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 8:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment"
     ],
-    "address": "9 Clyde Jeffery Drive, Poraiti, Napier, Hawke's Bay 4112",
+    "address": "201 Murphys Road, Flat Bush, Auckland",
+    "telephone": "(09) 930 8314",
+    "faxNumber": "(09) 930 8318",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/flat-bush-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "8:30 AM – 8:00 PM",
+        "Tue – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "8:30 AM – 12:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:30 AM – 12:00 PM). Closed 25 Dec — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.48352,
+    "lng": 176.8966292,
+    "name": "The Doctors Ahuriri (Formerly The Doctors Westshore)",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "5 Ossian Street, Ahuriri, Napier",
+    "telephone": "(06) 835 5661",
+    "faxNumber": "(06) 835 5663",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-ahuriri-formerly-the-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (9:00 AM – 6:00 PM). Open 21 Dec (9:00 AM – 6:00 PM). Open 22 Dec (9:00 AM – 6:00 PM). Open 23 Dec (9:00 AM – 6:00 PM). Open 24 Dec (9:00 AM – 6:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 6:00 PM). Open 30 Dec (9:00 AM – 6:00 PM). Open 31 Dec (9:00 AM – 6:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (9:00 AM – 6:00 PM). Open 6 Jan (9:00 AM – 6:00 PM). Open 7 Jan (9:00 AM – 6:00 PM).",
+        "Preferred urgent care clinic out of hours": "City Medical Urgent Care."
+      },
+      "notesHtml": [
+        "Note:&nbsp; The clinic is closed between 12:30pm-1:30pm Monday to Thursday",
+        "After hours contact:&nbsp;&nbsp;<a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-napier/\">The Doctors Napier</a>&nbsp;Ph:&nbsp; (06) 835 4696"
+      ]
+    }
+  },
+  {
+    "lat": -39.5229328,
+    "lng": 176.8685695,
+    "name": "The Doctors Greenmeadows",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "524 Kennedy Road, Greenmeadows, Napier",
+    "telephone": "(06) 844 6277",
+    "faxNumber": "(06) 844 3748",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-greenmeadows/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct).Christmas: Open 20 Dec (9:00 AM – 6:00 PM). Open 21 Dec (9:00 AM – 6:00 PM). Open 22 Dec (9:00 AM – 6:00 PM). Open 23 Dec (9:00 AM – 6:00 PM). Open 24 Dec (9:00 AM – 6:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 6:00 PM). Open 30 Dec (9:00 AM – 6:00 PM). Open 31 Dec (9:00 AM – 6:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (9:00 AM – 6:00 PM). Open 6 Jan (9:00 AM – 6:00 PM). Open 7 Jan (9:00 AM – 6:00 PM)."
+      },
+      "notesHtml": [
+        "After Hours: <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-napier/\">The Doctors - Napier</a>",
+        "&nbsp;",
+        "**Please note our doors open at 9:00am. (Phone lines are open from 8:00am-6:00pm)&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -39.494102,
+    "lng": 176.9149338,
+    "name": "The Doctors Napier",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "30 Munroe Street, Napier South, Napier (Entrance via Vautier St)",
     "telephone": "(06) 835 4696",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/the-doctors-napier-at-marist-clubrooms/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "MARIST VACCINATION CLINIC IS NOW CLOSED UNTIL 6.1.2022"
-      ]
-    }
-  },
-  {
-    "lat": -36.8503737,
-    "lng": 174.85862959999997,
-    "name": "St Heliers Medical",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Pimlico Building, 10 Turua Street, Saint Heliers, Auckland",
-    "telephone": "(09) 575 9491",
-    "faxNumber": "(09) 575 7031",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/st-heliers-medical/",
+    "faxNumber": "(06) 834 4248",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-napier/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
+        "Mon – Sun": "9:00 AM – 5:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 23 Dec. Closed 24 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "<strong>Please note our reception phones are diverted to after hours service at 4.30pm.</strong> This is a phone service answered by a nurse who can help with urgent medical advice."
-      ]
-    }
-  },
-  {
-    "lat": -39.0607253,
-    "lng": 174.0696355,
-    "name": "Central Medical Centre (New Plymouth)",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "72 Vivian Street, New Plymouth",
-    "telephone": "(06) 758 6666",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/central-medical-centre-new-plymouth/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Taranaki Anniversary (14 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:00 AM – 3:00 PM). Closed 25 Dec — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "Phoenix Urgent Doctors."
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 8:00 AM – 8:00 PM), Good Friday (15 Apr, 8:00 AM – 8:00 PM), Easter Sunday (17 Apr, 8:00 AM – 8:00 PM), Easter Monday (18 Apr, 8:00 AM – 8:00 PM), ANZAC Day (25 Apr, 8:00 AM – 8:00 PM), Queen's Birthday (6 Jun, 8:00 AM – 8:00 PM), Hawke's Bay Anniversary (21 Oct, 8:00 AM – 8:00 PM), Labour Day (24 Oct, 8:00 AM – 8:00 PM).Christmas: Open 20 Dec (8:00 AM – 8:00 PM). Open 21 Dec (8:00 AM – 8:00 PM). Open 22 Dec (8:00 AM – 8:00 PM). Open 23 Dec (8:00 AM – 8:00 PM). Open 24 Dec (8:00 AM – 8:00 PM). Open 25 Dec (8:00 AM – 8:00 PM). Open 26 Dec (8:00 AM – 8:00 PM). Open 27 Dec (8:00 AM – 8:00 PM). Open 28 Dec (8:00 AM – 8:00 PM). Open 29 Dec (8:00 AM – 8:00 PM). Open 30 Dec (8:00 AM – 8:00 PM). Open 31 Dec (8:00 AM – 8:00 PM). Open 1 Jan (8:00 AM – 8:00 PM). Open 2 Jan (8:00 AM – 8:00 PM). Open 3 Jan (8:00 AM – 8:00 PM). Open 4 Jan (8:00 AM – 8:00 PM). Open 5 Jan (8:00 AM – 8:00 PM). Open 6 Jan (8:00 AM – 8:00 PM). Open 7 Jan (8:00 AM – 8:00 PM)."
       },
       "notesHtml": []
     }
   },
   {
-    "lat": -37.662825,
-    "lng": 175.1542428,
-    "name": "Tūrangawaewae Marae",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Drive through",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "Nga Miro Health Center Carpark, 29 River Road, Ngāruawāhia, Waikato 3720",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turangawaewae-marae-ngaruawahia-community/at/turangawaewae-marae-29-river-road-ngaruawahia/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Sat": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "We also have late night vaccinations opposite the Z station (106 Great South Road, Ngāruawāhia 3720)",
-        "These will be during the week also:",
-        "Tuesday: 13:00 - 19:00",
-        "Thursday: 13:00 - 19:00",
-        "As well as a fixed Testing site in the Nga Miro parking lot:",
-        "Tuesday/Thursday: 08:00 - 15:00",
-        "Wednesday/ Friday: 11:00 - 18:00",
-        "Saturday: 09:00 - 14:00"
-      ]
-    }
-  },
-  {
-    "lat": -37.667942,
-    "lng": 175.1491357,
-    "name": "Z Station",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Drive through",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "106 Great South Road, Ngāruawāhia, Waikato 3720",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turangawaewae-marae-ngaruawahia-community/at/z-station-106-great-south-road-ngaruawahia/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Wed": "1:00 PM – 7:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.7491174,
-    "lng": 175.233495,
-    "name": "Hamilton Te Awa Vaccination Centre - Te Awa The Base",
-    "branch": "community",
+    "lat": -43.8140785,
+    "lng": 172.96148199999993,
+    "name": "Akaroa Health Limited",
+    "branch": "primary",
     "isOpenToday": true,
     "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "Te Awa, The Base, Level 1, Corner Te Rapa Road &amp; Wairere Drive, Hamilton 3200",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/hamilton-te-awa-vaccination-centre-te-awa/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 5:00 PM",
-        "Thu – Fri": "9:00 AM – 9:00 PM",
-        "Sat – Sun": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun). Open Labour Day (24 Oct, 9:00 AM – 5:00 PM).Christmas: Open 20 Dec — 7 Jan."
-      },
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "The Busit Bus Hub is located at the northern end of The Base, near Citta Design. A wide range of services are available. Visit <a href=\"http://www.busit.co.nz/\" target=\"_blank\" rel=\"noopener\">www.busit.co.nz</a> for routes and timetables.",
-        "There is plenty of parking underground and around the Te Awa shopping mall, including disability parking. The lift at the northern end of the underground car park or near Paper Plus on the ground floor opens directly opposite the vaccination centre entrance. If you're taking the escalators, you'll find the vaccination centre in the northeastern corner of Level 1, near the indoor playground.",
-        "&nbsp;",
-        "&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -37.6562401,
-    "lng": 175.5294273,
-    "name": "Morrinsville Vaccination Centre - Campbell Hall",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "Campbell Hall, Knox Presbyterian Church, 45-49 Canada Street, Morrinsville, Waikato 3300",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/morrinsville-vaccination-centre-campbell/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Wed": "9:00 AM – 4:00 PM",
-        "Thu": "12:00 PM – 7:00 PM",
-        "Fri – Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec — 25 Dec. Closed 26 Dec — 27 Dec. Open 28 Dec — 1 Jan. Closed 2 Jan — 3 Jan. Open 4 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "On-street parking available along Canada Street or in the car park behind the church (access off Canada Street or Anderson Street).&nbsp;",
-        "Entry to the vaccination centre in Campbell Hall is to the left of the main church entrance. If you've parked behind the building, come around to the front entrance.&nbsp;",
-        "&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -37.1388669,
-    "lng": 175.5394425,
-    "name": "Thames Vaccination Centre - Goldfields Shopping Centre",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "Goldfields Shopping Centre, Thames, Waikato 3500",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/thames-vaccination-centre-goldfields-shopping/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Sat": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec — 25 Dec. Closed 26 Dec — 27 Dec. Open 28 Dec — 1 Jan. Closed 2 Jan — 3 Jan. Open 4 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "Goldfields has plenty of parking. The vaccination centre is a few shops away from The Warehouse so come in the entrance near McDonalds and walk into the centre then take the corridor on the left.",
-        "Public toilets are available inside the mall and there is disability parking close to the entrance.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -38.0090309,
-    "lng": 175.3285638,
-    "name": "Te Awamutu Vaccination Centre - 244 Arawata Street (Former Bunnings site)",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "244 Arawata Street, Te Awamutu, Waikato 3800",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/te-awamutu-vaccination-centre-244-arawata/",
-    "opennningHours": {
-      "schedule": {
-        "Wed – Fri": "9:00 AM – 3:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec — 21 Dec. Open 22 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "&nbsp;",
-        "<strong>Travel Directions:</strong>",
-        "The centre is in the former Bunnings store. Access is off either Scout Lane or Arawata Street and there's plenty of parking, including disablity parking along the building.",
-        "Entry to the the vaccination centre is down the end of the building if you're walking away from Arawata Street. Toilets are available on-site.",
-        "&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -38.217811,
-    "lng": 175.8724701,
-    "name": "Tokoroa Whare Rongoā Āraimate Community Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "203 Leith Place, Tokoroa, Waikato 3420",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-community-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Wed": "9:00 AM – 4:00 PM",
-        "Thu": "11:00 AM – 6:00 PM",
-        "Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec — 24 Dec. Closed 25 Dec — 27 Dec. Open 28 Dec — 31 Dec. Closed 1 Jan — 3 Jan. Open 4 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "Leith Place and Bridge Street have plenty of on-street parking, including disability parking close to the centre. The entrance is accessible by wheelchair. Toilets are available on-site (not disabled).",
-        "Saturday vaccinations are held at 1 Maraetai Road, Tokoroa. from 10am to 3pm.&nbsp; &nbsp;&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -38.2272205,
-    "lng": 175.8716569,
-    "name": "Tokoroa Whare Rongoā Āraimate SWPICS DRIVE-THROUGH Community Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in",
-      "Offers AstraZeneca Vaccine"
-    ],
-    "address": "1 Maraetai Road, Tokoroa, Waikato 3420",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-vaccination-centres/at/tokoroa-whare-rongoa-araimate-swpics-drive/",
-    "opennningHours": {
-      "schedule": {
-        "Sat": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "This vaccination site is a drive-through but pedestrians can also be vaccinated. Just stay clear of the cars and make yourself known to the vaccination team.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -37.1994762,
-    "lng": 174.90587240000002,
-    "name": "Seddon Medical",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
       "Make an appointment"
     ],
-    "address": "13A Hall Street, Pukekohe",
-    "telephone": "(09) 237 0055",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/seddon-medical/",
+    "address": "2 Aylmers Valley Road, Akaroa",
+    "telephone": "(03) 304 7004",
+    "faxNumber": "(03) 304 8683",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/akaroa-health-limited/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM",
-        "Mon – Thu": "10:00 AM – 2:00 PM"
+        "Mon – Fri": "9:00 AM – 5:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec (8:30 AM – 5:00 PM). Open 21 Dec (8:30 AM – 5:00 PM). Open 22 Dec (8:30 AM – 5:00 PM). Open 23 Dec (8:30 AM – 5:00 PM). Open 24 Dec (8:30 AM – 3:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (8:30 AM – 5:00 PM). Open 30 Dec (8:30 AM – 5:00 PM). Open 31 Dec (8:30 AM – 5:00 PM). Closed 1 Jan — 4 Jan. Open 5 Jan (8:30 AM – 5:00 PM). Open 6 Jan (8:30 AM – 5:00 PM). Open 7 Jan (8:30 AM – 5:00 PM).",
-        "Preferred urgent care clinic out of hours": "Urgent Care Franklin Limited."
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
       },
       "notesHtml": [
-        "Seddon Medical is closed on Saturdays and Sundays"
-      ]
-    }
-  },
-  {
-    "lat": -37.2010956,
-    "lng": 174.90045859999998,
-    "name": "Pukekohe Family Health Care",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "Pukekohe Health Centre, 10 West Street, Pukekohe, Auckland",
-    "telephone": "(09) 237 0280",
-    "faxNumber": "(09) 238 3377",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pukekohe-family-health-care/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "Urgent Care Franklin Limited."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+        "After Hours: Call clinic phone for registered nurse who can contact an on call doctor.&nbsp;",
+        "&nbsp;"
       ]
     }
   }
