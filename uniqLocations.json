@@ -15088,7 +15088,7 @@
     "extId": "a0R4a000000SNn7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2022-02-27",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 168.348,
       "lat": -46.379
@@ -15096,6 +15096,13 @@
     "name": "Waikiwi Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
       {
         "days": [
           "wed"
