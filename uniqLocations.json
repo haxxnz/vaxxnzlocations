@@ -4027,7 +4027,7 @@
   },
   {
     "displayAddress": "6/29 Totara St   Taupo  3330",
-    "distanceInMeters": 0.22621229,
+    "distanceInMeters": 62235.9575864,
     "extId": "a0R4a000000QGk0EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-01",
@@ -5191,7 +5191,7 @@
   },
   {
     "displayAddress": "11 Quay Street   Whakatane 3120",
-    "distanceInMeters": 690.89564117,
+    "distanceInMeters": 69308.9169528,
     "extId": "a0R4a000000QVAOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -6998,6 +6998,89 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "100 Stanmore Road Linwood  Christchurch  8011",
+    "distanceInMeters": 9993.92030899,
+    "extId": "a0R4a000000QefQEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-12-16",
+    "endDate": "2021-12-17",
+    "location": {
+      "lng": 172.657,
+      "lat": -43.5303
+    },
+    "name": "MIHI Māori Mobile  - Linwood Village",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/ruvs92hXf7tZM9cF7",
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-12-09",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "62 Victoria Ave City centre  Whanganui  4500",
     "distanceInMeters": 0.55916433,
     "extId": "a0R4a000000QsKBEA0",
@@ -7343,7 +7426,7 @@
   },
   {
     "displayAddress": "6 Commerce Street   Mangakino  3421",
-    "distanceInMeters": 44185.85837262,
+    "distanceInMeters": 48804.06787331,
     "extId": "a0R4a000000R8ZJEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-13",
@@ -20120,7 +20203,7 @@
     "extId": "a0R4a000000T7ghEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
-    "endDate": "2022-02-27",
+    "endDate": "2022-07-31",
     "location": {
       "lng": 169.197,
       "lat": -45.0374
@@ -23921,7 +24004,7 @@
   },
   {
     "displayAddress": "252 The Strand   Whakatane  3120",
-    "distanceInMeters": 0.43416962,
+    "distanceInMeters": 68618.39691635,
     "extId": "a0R4a000000TvHwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -25924,7 +26007,7 @@
   },
   {
     "displayAddress": "51 Tongariro Street   Taupō  3330",
-    "distanceInMeters": 1621.01519621,
+    "distanceInMeters": 63168.45298603,
     "extId": "a0R4a000000UM0TEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -27683,6 +27766,124 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "79 Springfield Road St Albans  Christchurch  8014",
+    "distanceInMeters": 7460.61205947,
+    "extId": "a0R4a000000UZ8REAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-12-13",
+    "endDate": "2022-02-06",
+    "location": {
+      "lng": 172.633,
+      "lat": -43.5163
+    },
+    "name": "MIHI Māori Mobile - Rehua Marae",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "19:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/qwot914ocRg6JBtB6",
+    "tags": [
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-12-09",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -33143,7 +33344,7 @@
   },
   {
     "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
-    "distanceInMeters": 6195.02119109,
+    "distanceInMeters": 73528.86846862,
     "extId": "a0R4a000000Vc9WEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
