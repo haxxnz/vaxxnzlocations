@@ -7047,28 +7047,6 @@
     }
   },
   {
-    "lat": -41.284107,
-    "lng": 174.7377597,
-    "name": "Karori Mall Vaccination Hub",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Karori Mall, Parkvale Road, Karori, Wellington 6012",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/karori-mall-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {
-        "Christmas": "Closed 20 Dec — 24 Dec. Open 25 Dec. Closed 26 Dec — 31 Dec. Open 1 Jan. Closed 2 Jan — 7 Jan."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -44.3949423,
     "lng": 171.24775069999998,
     "name": "12 Elizabeth Street",
@@ -18989,7 +18967,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"8beee6eae2e7cbece4f9eee6eeefe2e8eae7a5e8e4a5e5f1\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a7c2cac6cecbe7c0c8d5c2cac2c3cec4c6cb89c4c889c9dd\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -25738,6 +25716,31 @@
       "notesHtml": [
         "After Hours: Phone 07 884 9208 and you will be transferred to an after hours service who shall direct you."
       ]
+    }
+  },
+  {
+    "lat": -41.284107,
+    "lng": 174.7377597,
+    "name": "Karori Mall Vaccination Hub",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Karori Mall, Parkvale Road, Karori, Wellington 6012",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/karori-mall-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (9:00 AM – 4:00 PM). Closed 25 Dec — 28 Dec. Open 29 Dec (9:00 AM – 4:00 PM). Open 30 Dec (9:00 AM – 4:00 PM). Closed 31 Dec — 7 Jan."
+      },
+      "notesHtml": []
     }
   }
 ]
