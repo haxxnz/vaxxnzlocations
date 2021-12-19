@@ -1809,7 +1809,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 341.02504314,
+    "distanceInMeters": 67592.11740465,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -2164,7 +2164,7 @@
   },
   {
     "displayAddress": "6 Roulston Street Pukekohe  Auckland  2120",
-    "distanceInMeters": 71014.6045237,
+    "distanceInMeters": 41811.23290261,
     "extId": "a0R4a000000QA9NEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-22",
@@ -2571,7 +2571,7 @@
   },
   {
     "displayAddress": "1 Lincoln Street   Patea",
-    "distanceInMeters": 48945.73304894,
+    "distanceInMeters": 24826.77454947,
     "extId": "a0R4a000000QCw6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-13",
@@ -7387,7 +7387,7 @@
   },
   {
     "displayAddress": "50 Tapanui-Raes Junction Highway,   Tapanui  9522",
-    "distanceInMeters": 31361.7219823,
+    "distanceInMeters": 30708.29733946,
     "extId": "a0R4a000000QWPEEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8223,7 +8223,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 68040.54589801,
+    "distanceInMeters": 67766.22210791,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8949,7 +8949,7 @@
   },
   {
     "displayAddress": "18 Woollcombe Street, Timaru 7910",
-    "distanceInMeters": 67428.17022326,
+    "distanceInMeters": 0.50374759,
     "extId": "a0R4a000000Qf41EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -9885,7 +9885,7 @@
   },
   {
     "displayAddress": "248 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 0.4056226,
+    "distanceInMeters": 67427.58791497,
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -12784,7 +12784,7 @@
   },
   {
     "displayAddress": "10 Graham Street   Tinwald  7700",
-    "distanceInMeters": 2862.06156765,
+    "distanceInMeters": 64753.85956853,
     "extId": "a0R4a000000SJyIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -16234,96 +16234,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "60 Victoria Avenue Avenal  Invercargill  9810",
-    "distanceInMeters": 1721.7883245,
-    "extId": "a0R4a000000SUG0EAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-30",
-    "endDate": "2022-04-30",
-    "location": {
-      "lng": 168.348,
-      "lat": -46.4053
-    },
-    "name": "Victoria Avenue Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Victoria+Avenue+Medical+Centre/@-46.4055319,168.3461905,17z/data=!4m5!3m4!1s0xa9d2c498b4478911:0x555d86899a410b99!8m2!3d-46.4055137!4d168.3483789",
-    "tags": [
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-24T00:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "4 Howden Street   Green Island  9018",
     "distanceInMeters": 7401.96472174,
     "extId": "a0R4a000000SUXuEAO",
@@ -18343,7 +18253,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 67789.34489634,
+    "distanceInMeters": 366.16871433,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -18994,7 +18904,7 @@
   },
   {
     "displayAddress": "24 Kitchener St, Wairoa 4108",
-    "distanceInMeters": 73530.41088549,
+    "distanceInMeters": 66241.00652752,
     "extId": "a0R4a000000Sm1JEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-30",
@@ -20636,7 +20546,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 2333.38879961,
+    "distanceInMeters": 68976.01916322,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -22688,7 +22598,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 66927.60051322,
+    "distanceInMeters": 2323.41269752,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -23797,7 +23707,7 @@
   },
   {
     "displayAddress": "15 Mackenzie Drive   Twizel  7910",
-    "distanceInMeters": 0.16756394,
+    "distanceInMeters": 60238.14966264,
     "extId": "a0R4a000000TDDYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -29872,7 +29782,7 @@
   },
   {
     "displayAddress": "48 King Street   Pukekohe  2120",
-    "distanceInMeters": 71280.51750079,
+    "distanceInMeters": 41563.69405982,
     "extId": "a0R4a000000TsTZEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-11",
@@ -31830,7 +31740,7 @@
   },
   {
     "displayAddress": "81 King Street   Temuka  7920",
-    "distanceInMeters": 53220.88628738,
+    "distanceInMeters": 17237.35175491,
     "extId": "a0R4a000000U5OJEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-29",
@@ -32321,81 +32231,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:36:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "2/32 Reyburn Street   Whangārei  110",
-    "distanceInMeters": 2120.10251735,
-    "extId": "a0R4a000000U8hJEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-25",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 174.327,
-      "lat": -35.727
-    },
-    "name": "Unichem Whangarei Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "17:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "17:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "17:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "17:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "17:00:00",
-        "localEnd": "19:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/2%2F32+Reyburn+Street,+Whang%C4%81rei+0110/@-35.7272169,174.3242586,17z/data=!4m5!3m4!1s0x6d0b7eee207f2653:0xf2d922b79777e078!8m2!3d-35.7272213!4d174.3264473",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-25",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T03:20:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -34704,7 +34539,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 45402.71018199,
+    "distanceInMeters": 34231.06588193,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -37421,6 +37256,75 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "15 Ashley Street, Rangiora 7400",
+    "distanceInMeters": 23410.29978137,
+    "extId": "a0R4a000000UgFJEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-18",
+    "endDate": "2022-02-06",
+    "location": {
+      "lng": 172.595,
+      "lat": -43.3018
+    },
+    "name": "Stan's 7 Day Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:15:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "description": "**Walk-ins welcomed**\r\n\r\nToilets - Yes wheelchair accessible. Onsite parking.",
+    "mapUrl": "https://goo.gl/maps/bPCZCtV7C4sv7bPF6",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-02",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:15:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Shop 27, Rotorua Central Mall, 1170 Amohau Street   Rotorua  3010",
     "distanceInMeters": 69150.63111683,
     "extId": "a0R4a000000UjI2EAK",
@@ -40058,7 +39962,7 @@
   },
   {
     "displayAddress": "11 West Street   Pukekohe  2120",
-    "distanceInMeters": 71290.66090183,
+    "distanceInMeters": 41585.2492584,
     "extId": "a0R4a000000V8bDEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -43521,7 +43425,7 @@
   },
   {
     "displayAddress": "4/155 Wills Street, Ashburton 7700",
-    "distanceInMeters": 583.75895981,
+    "distanceInMeters": 67988.90770966,
     "extId": "a0R4a000000VexzEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -43861,7 +43765,7 @@
   },
   {
     "displayAddress": "13a Hall Street Pukekohe  Auckland  2120",
-    "distanceInMeters": 71202.47093052,
+    "distanceInMeters": 41612.51528077,
     "extId": "a0R4a000000Vp48EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -44417,7 +44321,7 @@
   },
   {
     "displayAddress": "32 George Street   Tuakau  2121",
-    "distanceInMeters": 63787.03857757,
+    "distanceInMeters": 48946.40170697,
     "extId": "a0R4a000000VsCMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -46106,7 +46010,7 @@
     "extId": "a0R4a000000W1Z1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-28",
-    "endDate": "2022-01-27",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.623,
       "lat": -40.3493
@@ -46118,12 +46022,33 @@
         "days": [
           "wed"
         ],
-        "localStart": "14:00:00",
+        "localStart": "09:00:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "14:00:00",
         "localEnd": "17:00:00"
@@ -47509,7 +47434,7 @@
   },
   {
     "displayAddress": "51/53 George Street   Tuakau  2121",
-    "distanceInMeters": 63579.95742218,
+    "distanceInMeters": 49163.65380754,
     "extId": "a0R4a000000We3JEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
@@ -47793,7 +47718,7 @@
   },
   {
     "displayAddress": "11 Paerata Road Pukekohe  Auckland  2120",
-    "distanceInMeters": 72307.75000523,
+    "distanceInMeters": 40484.86987324,
     "extId": "a0R4a000000WeHpEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -53977,7 +53902,7 @@
   },
   {
     "displayAddress": "178 King Street   Temuka  7920",
-    "distanceInMeters": 52952.93559285,
+    "distanceInMeters": 17635.93060875,
     "extId": "a0R4a000000ZjDpEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -54529,7 +54454,7 @@
   },
   {
     "displayAddress": "16 Cox Street   Geraldine  7930",
-    "distanceInMeters": 45556.60434883,
+    "distanceInMeters": 34023.61344699,
     "extId": "a0R4a000000a0yEEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-06",
