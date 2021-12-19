@@ -4582,23 +4582,6 @@
     }
   },
   {
-    "lat": -36.87587749999999,
-    "lng": 174.82816460000004,
-    "name": "",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/meadowbank-shopping-centre-35-47-saint-johns/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.84860949999999,
     "lng": 174.8304257,
     "name": "Mission Bay Doctors",
@@ -10575,6 +10558,23 @@
     "telephone": "",
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/sylvia-park-shopping-centre-286-mt-wellington/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.87587749999999,
+    "lng": 174.82816460000004,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/meadowbank-shopping-centre-35-47-saint-johns/",
     "opennningHours": {
       "schedule": {},
       "exceptions": {},
@@ -18512,7 +18512,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d8bdb5b9b1b498bfb7aabdb5bdbcb1bbb9b4f6bbb7f6b6a2\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"0c69616d65604c6b637e69616968656f6d60226f63226276\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -25803,6 +25803,36 @@
     }
   },
   {
+    "lat": -36.8527281,
+    "lng": 174.74457389999998,
+    "name": "Ponsonby Medical Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Make an appointment"
+    ],
+    "address": "1 Vermont Street, Ponsonby, Auckland",
+    "telephone": "(09) 378 7916",
+    "faxNumber": "(09) 378 9586",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ponsonby-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "8:00 AM – 5:30 PM",
+        "Thu": "8:00 AM – 7:00 PM",
+        "Fri": "8:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:00 AM – 12:00 PM). Closed 25 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "NOTE THAT WE USUALLY HAVE AN EVENING SURGERY ON THURSDAYS APOINTMENTS BY PRIOR ARRANGMENT ONLY.",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
     "lat": -36.8571007,
     "lng": 174.76169749999997,
     "name": "The Auckland City Pharmacy",
@@ -25857,36 +25887,6 @@
         "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec — 7 Jan."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.8527281,
-    "lng": 174.74457389999998,
-    "name": "Ponsonby Medical Centre",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Make an appointment"
-    ],
-    "address": "1 Vermont Street, Ponsonby, Auckland",
-    "telephone": "(09) 378 7916",
-    "faxNumber": "(09) 378 9586",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ponsonby-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "8:00 AM – 5:30 PM",
-        "Thu": "8:00 AM – 7:00 PM",
-        "Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Open 24 Dec (8:00 AM – 12:00 PM). Closed 25 Dec — 4 Jan. Open 5 Jan — 7 Jan.",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "NOTE THAT WE USUALLY HAVE AN EVENING SURGERY ON THURSDAYS APOINTMENTS BY PRIOR ARRANGMENT ONLY.",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
     }
   }
 ]
