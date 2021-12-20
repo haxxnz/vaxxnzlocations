@@ -9693,36 +9693,6 @@
     }
   },
   {
-    "lat": -43.6027645,
-    "lng": 172.7213713,
-    "name": "Lyttelton Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "19 London Street, Lyttelton",
-    "telephone": "(03) 328 8314",
-    "faxNumber": "(03) 328 9019",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/lyttelton-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 5:30 PM",
-        "Thu": "9:00 AM – 6:00 PM",
-        "Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:30 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -44.4014388,
     "lng": 171.25162420000004,
     "name": "Roberts Pharmacy",
@@ -10440,7 +10410,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f59098949c99b5929a87909890919c969499db969adb9b8f\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"1e7b737f77725e79716c7b737b7a777d7f72307d71307064\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -25748,6 +25718,36 @@
         "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
         "Staff meetings are held on alternate Wednesay and Friday of first week of month between 12.00pm and 14.00pm."
       ]
+    }
+  },
+  {
+    "lat": -43.6027645,
+    "lng": 172.7213713,
+    "name": "Lyttelton Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "19 London Street, Lyttelton",
+    "telephone": "(03) 328 8314",
+    "faxNumber": "(03) 328 9019",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/lyttelton-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 5:30 PM",
+        "Thu": "9:00 AM – 6:00 PM",
+        "Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:30 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": []
     }
   }
 ]
