@@ -9885,7 +9885,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d1b4bcb0b8bd91b6bea3b4bcb4b5b8b2b0bdffb2beffbfab\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"27424a464e4b67404855424a42434e44464b09444809495d\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -15099,33 +15099,6 @@
     }
   },
   {
-    "lat": -36.87297,
-    "lng": 174.7685275,
-    "name": "Cairnhill Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "95 Mountain Road, Epsom, Auckland",
-    "telephone": "(09) 630 9507; For Dr Xing Zhang call 522 0065",
-    "faxNumber": "(09) 630 9515",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/cairnhill-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "Physiotherapy Hours: Mon -Fri: 7:00-18:00-Physiotherapy is now located as a seperate enterprise at the rear of the medical centre"
-      ]
-    }
-  },
-  {
     "lat": -36.8486298,
     "lng": 174.7477917,
     "name": "College Hill Doctors",
@@ -19611,34 +19584,6 @@
         "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec — 7 Jan."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -35.7317718,
-    "lng": 174.3267202,
-    "name": "Chemist Warehouse Okara Park",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 9:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "21 Okara Drive, Morningside, Whangārei",
-    "telephone": "(09) 941 4918",
-    "faxNumber": "(09) 553 3644",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-okara-park/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 9:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 7 Jan."
-      },
-      "notesHtml": [
-        "Open on all public holidays",
-        "8.00am to 9.00pm"
-      ]
     }
   },
   {
@@ -25817,6 +25762,58 @@
       "notesHtml": [
         "<strong>WHEN CLOSED - REFER TO THE PRACTICE AT THE MARAE LANE</strong>"
       ]
+    }
+  },
+  {
+    "lat": -36.87297,
+    "lng": 174.7685275,
+    "name": "Cairnhill Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "95 Mountain Road, Epsom, Auckland",
+    "telephone": "(09) 630 9507; For Dr Xing Zhang call 522 0065",
+    "faxNumber": "(09) 630 9515",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/cairnhill-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "Physiotherapy Hours: Mon -Fri: 7:00-18:00-Physiotherapy is now located as a seperate enterprise at the rear of the medical centre"
+      ]
+    }
+  },
+  {
+    "lat": -35.7317718,
+    "lng": 174.3267202,
+    "name": "Chemist Warehouse Okara Park",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 9:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "21 Okara Drive, Morningside, Whangārei",
+    "telephone": "(09) 941 4918",
+    "faxNumber": "(09) 553 3644",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/chemist-warehouse-okara-park/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:00 AM – 9:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays..Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec. Open 26 Dec — 7 Jan."
+      },
+      "notesHtml": []
     }
   }
 ]
