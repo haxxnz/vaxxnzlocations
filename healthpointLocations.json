@@ -5154,11 +5154,14 @@
       "schedule": {
         "Mon – Fri": "8:00 AM – 5:00 PM"
       },
-      "exceptions": {},
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
       "notesHtml": [
         "<strong>NOTE:-&nbsp; When Waimauku Pharmacy 8 Station Road is closed&nbsp; phones and services are diverted to the Waimauku Pharmacy - Silver fern outlet. </strong>",
         "<strong>All phones are diverted in these instances</strong>.&nbsp;",
-        "We have a centralised database so all prescriptions needs and repeats can be fulfilled at Silverfern outlet"
+        "We have a centralised database so all prescriptions needs and repeats can be fulfilled at Silverfern outlet",
+        "&nbsp;"
       ]
     }
   },
@@ -5167,8 +5170,8 @@
     "lng": 174.49446688488644,
     "name": "Waimauku Pharmacy",
     "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -5185,7 +5188,9 @@
         "Sat": "8:30 AM – 5:00 PM",
         "Sun": "9:00 AM – 5:00 PM"
       },
-      "exceptions": {},
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
       "notesHtml": []
     }
   },
@@ -9163,7 +9168,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"8eebe3efe7e2cee9e1fcebe3ebeae7edefe2a0ede1a0e0f4\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"86e3ebe7efeac6e1e9f4e3ebe3e2efe5e7eaa8e5e9a8e8fc\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
