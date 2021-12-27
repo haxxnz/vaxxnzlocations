@@ -9083,7 +9083,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"7e1b131f17123e19110c1b131b1a171d1f12501d11501004\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"9ffaf2fef6f3dff8f0edfaf2fafbf6fcfef3b1fcf0b1f1e5\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -17410,31 +17410,6 @@
     }
   },
   {
-    "lat": -39.4978101,
-    "lng": 176.91705619999993,
-    "name": "5 Sale Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "1:00 PM to 7:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "5 Sale Street, Napier South, Napier, Hawke's Bay 4110",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-kupenga-hauora-ahuriri-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "1:00 PM – 7:00 PM",
-        "Thu": "7:00 AM – 1:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.881665,
     "lng": 174.8516079,
     "name": "Tāmaki (Glen Innes) Vaccination Centre, 261 Morrin Road, St Johns, Auckland",
@@ -25691,6 +25666,33 @@
         "&nbsp;",
         "&nbsp;Closed on all statutory holidays"
       ]
+    }
+  },
+  {
+    "lat": -39.4978101,
+    "lng": 176.91705619999993,
+    "name": "5 Sale Street",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "5 Sale Street, Napier South, Napier, Hawke's Bay 4110",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-kupenga-hauora-ahuriri-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "1:00 PM – 7:00 PM",
+        "Thu": "7:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec. Closed 21 Dec — 22 Dec. Open 23 Dec. Closed 24 Dec — 29 Dec. Open 30 Dec. Closed 31 Dec — 2 Jan. Open 3 Jan. Closed 4 Jan — 5 Jan. Open 6 Jan. Closed 7 Jan."
+      },
+      "notesHtml": []
     }
   }
 ]
