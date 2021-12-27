@@ -2899,36 +2899,6 @@
     }
   },
   {
-    "lat": -36.9111937,
-    "lng": 174.71705529999997,
-    "name": "New Windsor Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "275 New Windsor Road, New Windsor, Auckland",
-    "telephone": "(09) 627 9833",
-    "faxNumber": "(09) 627 9872",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/new-windsor-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 26 Dec. Open 27 Dec — 31 Dec. Closed 1 Jan — 2 Jan. Open 3 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "&nbsp;",
-        "&nbsp;",
-        "&nbsp;Closed on all statutory holidays"
-      ]
-    }
-  },
-  {
     "lat": -36.8503776,
     "lng": 174.7650025,
     "name": "Unichem Queen St Pharmacy",
@@ -9113,7 +9083,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"593c34383035193e362b3c343c3d303a3835773a36773723\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ddb8b0bcb4b19dbab2afb8b0b8b9b4bebcb1f3beb2f3b3a7\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -25690,6 +25660,36 @@
       },
       "notesHtml": [
         "Located in the Market Space at 65 Broadway, Kaikohe"
+      ]
+    }
+  },
+  {
+    "lat": -36.9111937,
+    "lng": 174.71705529999997,
+    "name": "New Windsor Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "275 New Windsor Road, New Windsor, Auckland",
+    "telephone": "(09) 627 9833",
+    "faxNumber": "(09) 627 9872",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/new-windsor-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "&nbsp;",
+        "&nbsp;Closed on all statutory holidays"
       ]
     }
   }
