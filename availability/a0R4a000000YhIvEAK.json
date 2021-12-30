@@ -40,6 +40,10 @@
     ],
     "2021-12-31": [
       {
+        "localStartTime": "09:00:00",
+        "durationSeconds": 900
+      },
+      {
         "localStartTime": "09:15:00",
         "durationSeconds": 900
       },
@@ -347,10 +351,6 @@
       },
       {
         "localStartTime": "15:30:00",
-        "durationSeconds": 900
-      },
-      {
-        "localStartTime": "15:45:00",
         "durationSeconds": 900
       }
     ],
@@ -3527,5 +3527,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2021-12-30T01:07:21.569Z"
+  "lastUpdatedAt": "2021-12-30T01:46:32.883Z"
 }
