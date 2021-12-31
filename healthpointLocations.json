@@ -7404,23 +7404,6 @@
     }
   },
   {
-    "lat": -43.5094813,
-    "lng": 172.63048019999997,
-    "name": "",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/250-springfield-road-st-albans-christchurch/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.5592762,
     "lng": 172.6548636,
     "name": "St Martins Medical Practice",
@@ -8106,6 +8089,23 @@
     }
   },
   {
+    "lat": -43.5094813,
+    "lng": 172.63048019999997,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/250-springfield-road-st-albans-christchurch/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -44.4014388,
     "lng": 171.25162420000004,
     "name": "Roberts Pharmacy",
@@ -8715,7 +8715,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d6b3bbb7bfba96b1b9a4b3bbb3b2bfb5b7baf8b5b9f8b8ac\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"03666e626a6f43646c71666e66676a60626f2d606c2d6d79\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -22066,37 +22066,6 @@
     }
   },
   {
-    "lat": -36.7961076,
-    "lng": 175.0449138,
-    "name": "Ostend Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "9 Belgium Street, Ostend, Waiheke Island, Auckland",
-    "telephone": "(09) 372 5005",
-    "faxNumber": "(09) 372 7056",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ostend-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "An after hours service is available on Waiheke Island.",
-        "To access this service 7&nbsp;days per week call the clinic and you will be transferred to the&nbsp;after hours phone on (09) 372 5005.",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -41.30112560000001,
     "lng": 174.77929560000007,
     "name": "Ora Toa - Poneke Medical Centre",
@@ -25562,6 +25531,37 @@
         "Our clinic will be closed for the observed break from 23 December 2021 until 10 January 2022. For other options, contact your GP, local pharmacy or book via <a href=\"https://bookmyvaccine.covid19.health.nz/\">bookmyvaccine</a>.",
         "AstaZeneca vaccinations are available BY BOOKING ONLY on Tuesday 21 December from 8.30am-11am or Wednesday 22 December from 10.30am-11.45 - book via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
         "Subject to change.&nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.7961076,
+    "lng": 175.0449138,
+    "name": "Ostend Medical Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "9 Belgium Street, Ostend, Waiheke Island, Auckland",
+    "telephone": "(09) 372 5005",
+    "faxNumber": "(09) 372 7056",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ostend-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 30 Dec. Closed 31 Dec — 4 Jan. Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "An after hours service is available on Waiheke Island.",
+        "To access this service 7&nbsp;days per week call the clinic and you will be transferred to the&nbsp;after hours phone on (09) 372 5005.",
+        "&nbsp;"
       ]
     }
   }
