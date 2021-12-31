@@ -8715,7 +8715,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"791c14181015391e160b1c141c1d101a1815571a16571703\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"d6b3bbb7bfba96b1b9a4b3bbb3b2bfb5b7baf8b5b9f8b8ac\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -24037,54 +24037,6 @@
     }
   },
   {
-    "lat": -37.7778287,
-    "lng": 175.2663051,
-    "name": "K'aute Pasifika Trust",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "20 Richmond Street, Whitiora, Hamilton, Waikato 3200",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-pop-up-vaccination-centres/at/kaute-pasifika-trust-20-richmond-street-whitiora/",
-    "opennningHours": {
-      "schedule": {
-        "Thu – Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.800542395605824,
-    "lng": 174.86454745484858,
-    "name": "Te Kopua Domain",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 1:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "Te Kopua Domain, 61 Marine Parade, Raglan, Waikato 3225",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-pop-up-vaccination-centres/at/te-kopua-domain-61-marine-parade-raglan/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {
-        "Christmas": "Open 29 Dec (9:00 AM – 1:00 PM). Open 30 Dec (9:00 AM – 1:00 PM). Open 31 Dec (9:00 AM – 1:00 PM). Open 2 Jan (9:00 AM – 1:00 PM). Open 3 Jan (9:00 AM – 1:00 PM). Open 4 Jan (9:00 AM – 1:00 PM). Open 5 Jan (9:00 AM – 1:00 PM). Open 6 Jan (9:00 AM – 1:00 PM). Open 7 Jan (9:00 AM – 1:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.7896314,
     "lng": 175.29238409999994,
     "name": "Unichem Hamilton East Pharmacy",
@@ -25330,6 +25282,60 @@
     }
   },
   {
+    "lat": -46.1276521,
+    "lng": 167.68986310000003,
+    "name": "Tuatapere Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "69A Orawia Road, Tuatapere",
+    "telephone": "(03) 226 6123",
+    "faxNumber": "(03) 226 6348",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tuatapere-medical-centre/at/69a-orawia-road-tuatapere/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), Southland Anniversary (19 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
+      },
+      "notesHtml": [
+        "After Hours: Clinic phone goes through to an after hours service",
+        "<strong>Note: Lunch Break closed between: 1230 - 1330hrs - Daily</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -45.9331621,
+    "lng": 167.9568925,
+    "name": "Tuatapere Medical Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "87 Birchwood Road, Ohai",
+    "telephone": "(03) 225 4700",
+    "faxNumber": "(03) 226 6348",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tuatapere-medical-centre/at/87-birchwood-road-ohai/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "9:00 AM – 5:00 PM",
+        "Thu": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), Southland Anniversary (19 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec. Closed 22 Dec. Open 23 Dec. Closed 24 Dec — 5 Jan. Open 6 Jan. Closed 7 Jan."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -36.91035369999999,
     "lng": 174.64981710000006,
     "name": "Westview Medical Centre",
@@ -25355,6 +25361,54 @@
       "notesHtml": [
         "Due to the level 4 lockdown, our business hours have decreased"
       ]
+    }
+  },
+  {
+    "lat": -37.7778287,
+    "lng": 175.2663051,
+    "name": "K'aute Pasifika Trust",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "20 Richmond Street, Whitiora, Hamilton, Waikato 3200",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-pop-up-vaccination-centres/at/kaute-pasifika-trust-20-richmond-street-whitiora/",
+    "opennningHours": {
+      "schedule": {
+        "Thu – Fri": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.800542395605824,
+    "lng": 174.86454745484858,
+    "name": "Te Kopua Domain",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "Te Kopua Domain, 61 Marine Parade, Raglan, Waikato 3225",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/waikato-covid-19-pop-up-vaccination-centres/at/te-kopua-domain-61-marine-parade-raglan/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {
+        "Christmas": "Open 29 Dec (9:00 AM – 1:00 PM). Open 30 Dec (9:00 AM – 1:00 PM). Open 31 Dec (9:00 AM – 1:00 PM). Open 2 Jan (9:00 AM – 1:00 PM). Open 3 Jan (9:00 AM – 1:00 PM). Open 4 Jan (9:00 AM – 1:00 PM). Open 5 Jan (9:00 AM – 1:00 PM). Open 6 Jan (9:00 AM – 1:00 PM). Open 7 Jan (9:00 AM – 1:00 PM)."
+      },
+      "notesHtml": []
     }
   },
   {
@@ -25488,8 +25542,7 @@
     "lng": 174.3293066,
     "name": "Semenoff Stadium",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "openTodayHours": "",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -25502,74 +25555,14 @@
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/semenoff-stadium-northland-events-centre/",
     "opennningHours": {
-      "schedule": {
-        "Mon": "10:00 AM – 5:00 PM",
-        "Tue": "8:00 AM – 2:00 PM",
-        "Wed": "10:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 22 Dec. Closed 23 Dec — 7 Jan."
-      },
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": [
         "<strong>NO BOOKING REQUIRED</strong>",
         "Our clinic will be closed for the observed break from 23 December 2021 until 10 January 2022. For other options, contact your GP, local pharmacy or book via <a href=\"https://bookmyvaccine.covid19.health.nz/\">bookmyvaccine</a>.",
         "AstaZeneca vaccinations are available BY BOOKING ONLY on Tuesday 21 December from 8.30am-11am or Wednesday 22 December from 10.30am-11.45 - book via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
         "Subject to change.&nbsp;&nbsp;"
       ]
-    }
-  },
-  {
-    "lat": -46.1276521,
-    "lng": 167.68986310000003,
-    "name": "Tuatapere Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "69A Orawia Road, Tuatapere",
-    "telephone": "(03) 226 6123",
-    "faxNumber": "(03) 226 6348",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tuatapere-medical-centre/at/69a-orawia-road-tuatapere/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), Southland Anniversary (19 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Open 20 Dec — 24 Dec. Closed 25 Dec — 28 Dec. Open 29 Dec — 31 Dec. Closed 1 Jan — 4 Jan. Open 5 Jan — 7 Jan."
-      },
-      "notesHtml": [
-        "After Hours: Clinic phone goes through to an after hours service",
-        "<strong>Note: Lunch Break closed between: 1230 - 1330hrs - Daily</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -45.9331621,
-    "lng": 167.9568925,
-    "name": "Tuatapere Medical Centre",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "87 Birchwood Road, Ohai",
-    "telephone": "(03) 225 4700",
-    "faxNumber": "(03) 226 6348",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tuatapere-medical-centre/at/87-birchwood-road-ohai/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "9:00 AM – 5:00 PM",
-        "Thu": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), Southland Anniversary (19 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).Christmas: Closed 20 Dec. Open 21 Dec. Closed 22 Dec. Open 23 Dec. Closed 24 Dec — 5 Jan. Open 6 Jan. Closed 7 Jan."
-      },
-      "notesHtml": []
     }
   }
 ]
