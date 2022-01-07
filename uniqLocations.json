@@ -181,6 +181,117 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "25 Deal Street, Kaikōura 7300",
+    "distanceInMeters": 0.20402305,
+    "extId": "a0R4a000000P71YEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-28",
+    "endDate": "2022-02-07",
+    "location": {
+      "lng": 173.681,
+      "lat": -42.4014
+    },
+    "name": "Kaikōura Healthcare",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "11:30:00",
+        "localEnd": "14:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/14HEWEg9DtjffSP88",
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85187,
+        "externalId": "a0p4a000000EOb5AAG",
+        "name": "Drive-through location",
+        "languageKey": "Drive-through location",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-05-16",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-25T23:12:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "348 Lincoln Road Addington  Christchurch  8024",
     "distanceInMeters": 8315.70717592,
     "extId": "a0R4a000000P74DEAS",
@@ -3902,7 +4013,7 @@
   },
   {
     "displayAddress": "22 Normanby Street   Dargaville  310",
-    "distanceInMeters": 49952.66725501,
+    "distanceInMeters": 45693.01025828,
     "extId": "a0R4a000000QDS5EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-11",
@@ -4541,7 +4652,7 @@
   },
   {
     "displayAddress": "51 Okara Drive, Whangarei 0110   Whangarei  110",
-    "distanceInMeters": 4337.0596377,
+    "distanceInMeters": 1969.62569412,
     "extId": "a0R4a000000QE3BEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
@@ -6470,7 +6581,7 @@
   },
   {
     "displayAddress": "9 Birch Lane   Gore  9710",
-    "distanceInMeters": 54738.16540113,
+    "distanceInMeters": 745.01741884,
     "extId": "a0R4a000000QVVTEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6553,7 +6664,7 @@
   },
   {
     "displayAddress": "12 Eccles Street Gore 9710",
-    "distanceInMeters": 54609.59432357,
+    "distanceInMeters": 869.98759103,
     "extId": "a0R4a000000QVX5EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -6608,7 +6719,7 @@
   },
   {
     "displayAddress": "Victoria Room, First Floor, Civic Centre, 88 Tay Street, Invercargill  9810",
-    "distanceInMeters": 3982.76302782,
+    "distanceInMeters": 57494.55831626,
     "extId": "a0R4a000000QVceEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6878,7 +6989,7 @@
   },
   {
     "displayAddress": "92 Spey Street   Invercargill  9812",
-    "distanceInMeters": 3598.040466,
+    "distanceInMeters": 57483.82485941,
     "extId": "a0R4a000000QVhlEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -7288,7 +7399,7 @@
   },
   {
     "displayAddress": "50 Tapanui-Raes Junction Highway,   Tapanui  9522",
-    "distanceInMeters": 31361.7219823,
+    "distanceInMeters": 30492.36639393,
     "extId": "a0R4a000000QWPEEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7944,7 +8055,7 @@
   },
   {
     "displayAddress": "394 Great North Road   Winton 9720",
-    "distanceInMeters": 27022.19510974,
+    "distanceInMeters": 48100.23321321,
     "extId": "a0R4a000000QZPMEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8117,7 +8228,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 68040.54589801,
+    "distanceInMeters": 67738.12981991,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8172,7 +8283,7 @@
   },
   {
     "displayAddress": "McQueen Avenue   Mataura  9712",
-    "distanceInMeters": 44822.94168742,
+    "distanceInMeters": 12156.94323982,
     "extId": "a0R4a000000QZXQEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -8205,7 +8316,7 @@
   },
   {
     "displayAddress": "3 Chester Street   Otautau  9610",
-    "distanceInMeters": 37428.72700299,
+    "distanceInMeters": 73538.20304684,
     "extId": "a0R4a000000QZYiEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -8260,7 +8371,7 @@
   },
   {
     "displayAddress": "69A Orawia Road   Tuatapere  9642",
-    "distanceInMeters": 57795.83214406,
+    "distanceInMeters": 60074.25517914,
     "extId": "a0R4a000000QZaXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -9147,7 +9258,7 @@
   },
   {
     "displayAddress": "71 Water Walk Road   Greymouth  7892",
-    "distanceInMeters": 34135.4437992,
+    "distanceInMeters": 67286.98690219,
     "extId": "a0R4a000000QwdeEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-29",
@@ -9443,7 +9554,7 @@
     "extId": "a0R4a000000RKWsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
-    "endDate": "2022-01-14",
+    "endDate": "2022-03-31",
     "location": {
       "lng": 175.264,
       "lat": -38.8832
@@ -9453,7 +9564,7 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "14:00:00"
@@ -10927,7 +11038,7 @@
   },
   {
     "displayAddress": "104 Palmerston Street,   Riverton/Aparima  9822",
-    "distanceInMeters": 25651.22969696,
+    "distanceInMeters": 26745.94366208,
     "extId": "a0R4a000000SCqZEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -11090,7 +11201,7 @@
   },
   {
     "displayAddress": "2 Tone Street   Bluff  9814",
-    "distanceInMeters": 25244.76099991,
+    "distanceInMeters": 72413.30471455,
     "extId": "a0R4a000000SDU5EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -11969,7 +12080,7 @@
   },
   {
     "displayAddress": "266 Great North Road   Winton  9720",
-    "distanceInMeters": 26208.47396909,
+    "distanceInMeters": 48226.9494553,
     "extId": "a0R4a000000SIQ6EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -14240,7 +14351,7 @@
   },
   {
     "displayAddress": "97 Gala Street Queens Park  Invercargill  9810",
-    "distanceInMeters": 3327.59999952,
+    "distanceInMeters": 57035.43001926,
     "extId": "a0R4a000000SNh4EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -14392,7 +14503,7 @@
   },
   {
     "displayAddress": "233 North Road Waikiwi  Invercargill  9810",
-    "distanceInMeters": 215.53062527,
+    "distanceInMeters": 55582.68616781,
     "extId": "a0R4a000000SNn7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -15739,7 +15850,7 @@
   },
   {
     "displayAddress": "1 Herbert Street Gladstone  Invercargill  9810",
-    "distanceInMeters": 1982.96240597,
+    "distanceInMeters": 56590.96727429,
     "extId": "a0R4a000000STnMEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -15815,7 +15926,7 @@
   },
   {
     "displayAddress": "63 Catherine Street Windsor  Invercargill  9810",
-    "distanceInMeters": 2497.26946088,
+    "distanceInMeters": 55508.95908486,
     "extId": "a0R4a000000STpIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -15891,7 +16002,7 @@
   },
   {
     "displayAddress": "Level 1, 112 Don Street   Invercargill  9810",
-    "distanceInMeters": 3730.35859898,
+    "distanceInMeters": 57139.38552287,
     "extId": "a0R4a000000STtjEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -15953,7 +16064,7 @@
   },
   {
     "displayAddress": "270 Elles Road Strathern  Invercargill  9812",
-    "distanceInMeters": 5780.1598609,
+    "distanceInMeters": 57961.31725136,
     "extId": "a0R4a000000SUCmEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -16590,7 +16701,7 @@
   },
   {
     "displayAddress": "43 Main Street   Gore Southland 9710",
-    "distanceInMeters": 55479.53035215,
+    "distanceInMeters": 0.09381699,
     "extId": "a0R4a000000SXNwEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -17104,7 +17215,7 @@
   },
   {
     "displayAddress": "104 Main Street East Gore  Gore Southland 9710",
-    "distanceInMeters": 55265.77722583,
+    "distanceInMeters": 219.87007924,
     "extId": "a0R4a000000SXX3EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -19246,7 +19357,7 @@
   },
   {
     "displayAddress": "280 North Road Waikiwi  Invercargill  9810",
-    "distanceInMeters": 0.16239811,
+    "distanceInMeters": 55479.5348796,
     "extId": "a0R4a000000Sqf3EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -19732,51 +19843,51 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
+        "localStart": "09:30:00",
         "localEnd": "19:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "19:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
         "localEnd": "19:00:00"
       }
     ],
@@ -22589,7 +22700,7 @@
   },
   {
     "displayAddress": "62-64 Windsor Street Windsor  Invercargill  9810",
-    "distanceInMeters": 2424.72626931,
+    "distanceInMeters": 55494.17033294,
     "extId": "a0R4a000000T7cBEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -23240,7 +23351,7 @@
   },
   {
     "displayAddress": "15 Mackenzie Drive   Twizel  7910",
-    "distanceInMeters": 0.16756394,
+    "distanceInMeters": 60238.14966264,
     "extId": "a0R4a000000TDDYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -23273,7 +23384,7 @@
   },
   {
     "displayAddress": "75 Glengarry Crescent Glengarry  Invercargill 9810  9810",
-    "distanceInMeters": 4013.23322509,
+    "distanceInMeters": 54700.84079411,
     "extId": "a0R4a000000TE8LEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -23548,7 +23659,7 @@
   },
   {
     "displayAddress": "116 Onerahi Road Onerahi  Whangarei  110",
-    "distanceInMeters": 0.35707962,
+    "distanceInMeters": 5604.79325131,
     "extId": "a0R4a000000THWzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -23673,7 +23784,7 @@
   },
   {
     "displayAddress": "Shop 1-5, 81 Paramount Parade Tikipunga  Whangarei  0112",
-    "distanceInMeters": 8996.51816932,
+    "distanceInMeters": 6761.81657009,
     "extId": "a0R4a000000THjAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -23992,7 +24103,7 @@
   },
   {
     "displayAddress": "4 Kensington Avenue Kensington  Whangarei  112",
-    "distanceInMeters": 6698.7089126,
+    "distanceInMeters": 3990.41603909,
     "extId": "a0R4a000000TLq9EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-12",
@@ -24380,7 +24491,7 @@
   },
   {
     "displayAddress": "Shops 2&3 Otaika Shopping Centre, 147a Otaika Road Raumanga  Whangarei  0110",
-    "distanceInMeters": 5604.48860631,
+    "distanceInMeters": 0.65604498,
     "extId": "a0R4a000000TTn6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -24506,7 +24617,7 @@
   },
   {
     "displayAddress": "521A Kamo Road Kamo  Whangarei  112",
-    "distanceInMeters": 10004.33853014,
+    "distanceInMeters": 6665.05351512,
     "extId": "a0R4a000000TZBmEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -30515,7 +30626,7 @@
   },
   {
     "displayAddress": "248 Elles Road Strathern  Invercargill  9812",
-    "distanceInMeters": 5643.44583336,
+    "distanceInMeters": 57736.33277709,
     "extId": "a0R4a000000U2IBEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -38720,7 +38831,7 @@
   },
   {
     "displayAddress": "12c Wood Street Mangawhai Heads  Mangawhai  505",
-    "distanceInMeters": 42517.91309311,
+    "distanceInMeters": 38733.1630231,
     "extId": "a0R4a000000V7iNEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -44765,7 +44876,7 @@
   },
   {
     "displayAddress": "21 Okara Drive Morningside  Whangarei  110",
-    "distanceInMeters": 4537.95943772,
+    "distanceInMeters": 2106.73402296,
     "extId": "a0R4a000000W1eLEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-04",
@@ -45933,7 +46044,7 @@
   },
   {
     "displayAddress": "60 Victoria Avenue Avenal  Invercargill  9810",
-    "distanceInMeters": 3124.17816777,
+    "distanceInMeters": 57215.31650037,
     "extId": "a0R4a000000WSWzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-14",
@@ -48272,7 +48383,7 @@
   },
   {
     "displayAddress": "425 Maunu Road   Maunu  0110",
-    "distanceInMeters": 7937.48848266,
+    "distanceInMeters": 2340.15656014,
     "extId": "a0R4a000000XQBkEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-14",
