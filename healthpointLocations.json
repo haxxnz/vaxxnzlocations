@@ -7920,7 +7920,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"9afff7fbf3f6dafdf5e8fff7fffef3f9fbf6b4f9f5b4f4e0\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"395c54585055795e564b5c545c5d505a5855175a56175743\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -11537,31 +11537,6 @@
       },
       "exceptions": {
         "Public Holidays": "Open on all public holidays.."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -40.3660107,
-    "lng": 175.6069971,
-    "name": "Cook Street Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "281 College Street, West End, Palmerston North",
-    "telephone": "(06) 358 7788",
-    "faxNumber": "(06) 358 7781",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/cook-street-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
       },
       "notesHtml": []
     }
@@ -24507,6 +24482,39 @@
     }
   },
   {
+    "lat": -40.2165855,
+    "lng": 175.56990700000006,
+    "name": "Feilding Health Care",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "7 Duke Street, Feilding",
+    "telephone": "(06) 323 9696 (for both in hours and after hours)",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/feilding-health-care/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "1:45 PM – 2:00 PM",
+        "Sat – Sun": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Wellington Anniversary (24 Jan). Open Waitangi Day (Observed 7/2/22) (7 Feb, 9:00 AM – 12:00 PM), Good Friday (15 Apr, 9:00 AM – 12:00 PM), Easter Sunday (17 Apr, 9:00 AM – 12:00 PM), Easter Monday (18 Apr, 9:00 AM – 12:00 PM), ANZAC Day (25 Apr, 9:00 AM – 12:00 PM), Queen's Birthday (6 Jun, 9:00 AM – 12:00 PM), Labour Day (24 Oct, 9:00 AM – 12:00 PM)."
+      },
+      "notesHtml": [
+        "8:00 AM - 5:00 PM",
+        "6:00 PM - 8:00 PM<br><strong>(Urgent Clinic)</strong>",
+        "9:00 AM - 12:00 PM",
+        "<strong>(Urgent Clinic)</strong>",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
     "lat": -37.7853722,
     "lng": 176.3283546,
     "name": "Life Pharmacy Te Puke",
@@ -25128,36 +25136,30 @@
     }
   },
   {
-    "lat": -40.2165855,
-    "lng": 175.56990700000006,
-    "name": "Feilding Health Care",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "lat": -40.3660107,
+    "lng": 175.6069971,
+    "name": "Cook Street Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
     ],
-    "address": "7 Duke Street, Feilding",
-    "telephone": "(06) 323 9696 (for both in hours and after hours)",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/feilding-health-care/",
+    "address": "281 College Street, West End, Palmerston North",
+    "telephone": "(06) 358 7788",
+    "faxNumber": "(06) 358 7781",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/cook-street-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "1:45 PM – 2:00 PM",
-        "Sat – Sun": "9:00 AM – 12:00 PM"
+        "Mon – Fri": "8:30 AM – 5:30 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Wellington Anniversary (24 Jan). Open Waitangi Day (Observed 7/2/22) (7 Feb, 9:00 AM – 12:00 PM), Good Friday (15 Apr, 9:00 AM – 12:00 PM), Easter Sunday (17 Apr, 9:00 AM – 12:00 PM), Easter Monday (18 Apr, 9:00 AM – 12:00 PM), ANZAC Day (25 Apr, 9:00 AM – 12:00 PM), Queen's Birthday (6 Jun, 9:00 AM – 12:00 PM), Labour Day (24 Oct, 9:00 AM – 12:00 PM)."
+        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
       },
-      "notesHtml": [
-        "8:00 AM - 5:00 PM",
-        "6:00 PM - 8:00 PM<br><strong>(Urgent Clinic)</strong>",
-        "9:00 AM - 12:00 PM",
-        "<strong>(Urgent Clinic)</strong>",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
+      "notesHtml": []
     }
   }
 ]
