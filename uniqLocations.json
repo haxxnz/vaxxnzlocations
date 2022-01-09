@@ -48134,17 +48134,38 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:45:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "09:30:00",
-        "localEnd": "17:45:00"
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps?q=Chemist+Plus,+435+Khyber+Pass+Road,+Newmarket,+Auckland+1023,+New+Zealand&rlz=1C1GCEA_enAU959AU960&um=1&ie=UTF-8&sa=X&ved=2ahUKEwjXsvW0mcjzAhWu7XMBHf6oC_kQ_AUoAXoECAEQAw",
