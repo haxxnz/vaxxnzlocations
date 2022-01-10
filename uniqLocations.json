@@ -1721,7 +1721,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 67592.11740465,
+    "distanceInMeters": 67953.39273812,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -2458,7 +2458,7 @@
   },
   {
     "displayAddress": "1 Lincoln Street   Patea",
-    "distanceInMeters": 24826.77454947,
+    "distanceInMeters": 53210.77189783,
     "extId": "a0R4a000000QCw6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-13",
@@ -4548,7 +4548,7 @@
   },
   {
     "displayAddress": "1 Sammareee Place   Kerikeri  230",
-    "distanceInMeters": 63733.4311068,
+    "distanceInMeters": 62411.3244455,
     "extId": "a0R4a000000QDxXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
@@ -6116,7 +6116,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road, Wanaka  Wanaka  9305",
-    "distanceInMeters": 36775.23649821,
+    "distanceInMeters": 36750.31253798,
     "extId": "a0R4a000000QVM7EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6164,7 +6164,7 @@
   },
   {
     "displayAddress": "18 Limerick Street   Alexandra  9320",
-    "distanceInMeters": 28964.0802391,
+    "distanceInMeters": 28902.80247123,
     "extId": "a0R4a000000QVMvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6366,7 +6366,7 @@
   },
   {
     "displayAddress": "93 Tarbert Street   Alexandra  9320",
-    "distanceInMeters": 28661.17858162,
+    "distanceInMeters": 28596.71301679,
     "extId": "a0R4a000000QVV4EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -6740,7 +6740,7 @@
   },
   {
     "displayAddress": "3/39 Barry Avenue   Cromwell  9384",
-    "distanceInMeters": 1332.50566947,
+    "distanceInMeters": 1389.97660276,
     "extId": "a0R4a000000QVeXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -6809,7 +6809,7 @@
   },
   {
     "displayAddress": "192 Waenga Drive   Cromwell  9384",
-    "distanceInMeters": 0.32617722,
+    "distanceInMeters": 200.49441374,
     "extId": "a0R4a000000QVgsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7017,7 +7017,7 @@
   },
   {
     "displayAddress": "1a Traders Lane   Cromwell  9384",
-    "distanceInMeters": 1451.55879641,
+    "distanceInMeters": 1574.36987694,
     "extId": "a0R4a000000QVj3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7232,8 +7232,90 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "7 Coquet Street   Oamaru  9400",
+    "distanceInMeters": 2099.60032673,
+    "extId": "a0R4a000000QVtNEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-01",
+    "endDate": "2022-02-28",
+    "location": {
+      "lng": 170.972,
+      "lat": -45.0983
+    },
+    "name": "Oamaru - Māori/Pacific Clinic - St. Paul's Presbyterian Church",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/eRxvu8STrRbi6Tdr9",
+    "tags": [
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Level 1, 34 Grant Road 5-Mile   Queenstown  9300",
-    "distanceInMeters": 35630.62506741,
+    "distanceInMeters": 35820.80475124,
     "extId": "a0R4a000000QWCUEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7288,7 +7370,7 @@
   },
   {
     "displayAddress": "50 Tapanui-Raes Junction Highway,   Tapanui  9522",
-    "distanceInMeters": 30708.29733946,
+    "distanceInMeters": 30492.36639393,
     "extId": "a0R4a000000QWPEEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7343,7 +7425,7 @@
   },
   {
     "displayAddress": "65 SCOTLAND STREET   Roxburgh  9500",
-    "distanceInMeters": 56387.04371095,
+    "distanceInMeters": 56405.28566997,
     "extId": "a0R4a000000QWQqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -7405,7 +7487,7 @@
   },
   {
     "displayAddress": "4 Thirteenth Avenue Lower Shotover  Queenstown  9304",
-    "distanceInMeters": 32718.88548767,
+    "distanceInMeters": 32906.01691766,
     "extId": "a0R4a000000QWQvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -7453,7 +7535,7 @@
   },
   {
     "displayAddress": "9 Isle Street, Queenstown  9300",
-    "distanceInMeters": 42236.85425102,
+    "distanceInMeters": 42430.35904363,
     "extId": "a0R4a000000QWVCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -8117,7 +8199,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 67766.22210791,
+    "distanceInMeters": 67738.12981991,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8835,7 +8917,7 @@
   },
   {
     "displayAddress": "18 Woollcombe Street, Timaru 7910",
-    "distanceInMeters": 0.50374759,
+    "distanceInMeters": 366.0725305,
     "extId": "a0R4a000000Qf41EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -9257,7 +9339,7 @@
   },
   {
     "displayAddress": "71 Water Walk Road   Greymouth  7892",
-    "distanceInMeters": 34135.4437992,
+    "distanceInMeters": 67286.98690219,
     "extId": "a0R4a000000QwdeEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-29",
@@ -9549,7 +9631,7 @@
   },
   {
     "displayAddress": "121 Hakiaha Street, Taumarunui, 3920",
-    "distanceInMeters": 73335.49057114,
+    "distanceInMeters": 74952.35241726,
     "extId": "a0R4a000000RKWsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -9699,7 +9781,7 @@
   },
   {
     "displayAddress": "248 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 67427.58791497,
+    "distanceInMeters": 67789.12805573,
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -9909,7 +9991,7 @@
   },
   {
     "displayAddress": "Goldfields Shopping Centre, 100 Mary Street   Thames  3500",
-    "distanceInMeters": 56674.62214126,
+    "distanceInMeters": 57182.75946828,
     "extId": "a0R4a000000Rfp4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-27",
@@ -10947,7 +11029,7 @@
   },
   {
     "displayAddress": "The Centre,\r\n14-16 Seddon St, Raetihi  4632",
-    "distanceInMeters": 59480.73754808,
+    "distanceInMeters": 59504.09092038,
     "extId": "a0R4a000000S8KjEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -11980,7 +12062,7 @@
   },
   {
     "displayAddress": "Shop 7, 32 Grant Road, Five Mile Retail Centre, Frankton  Queenstown  9371",
-    "distanceInMeters": 35679.16001932,
+    "distanceInMeters": 35869.33362793,
     "extId": "a0R4a000000SIJoEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -12731,7 +12813,7 @@
   },
   {
     "displayAddress": "10 Graham Street   Tinwald  7700",
-    "distanceInMeters": 64753.85956853,
+    "distanceInMeters": 65114.44705695,
     "extId": "a0R4a000000SJyIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -13386,7 +13468,7 @@
   },
   {
     "displayAddress": "546 Pollen Steet, Thames, Waikato 3500",
-    "distanceInMeters": 56926.30249076,
+    "distanceInMeters": 57434.412896,
     "extId": "a0R4a000000SKrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -14839,7 +14921,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road,   Wanaka  9305",
-    "distanceInMeters": 36775.23649821,
+    "distanceInMeters": 36750.31253798,
     "extId": "a0R4a000000SPVuEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-26",
@@ -17504,7 +17586,7 @@
   },
   {
     "displayAddress": "4/6 Centennial Avenue,   Alexandra  9340",
-    "distanceInMeters": 28808.87395033,
+    "distanceInMeters": 28746.4317578,
     "extId": "a0R4a000000SXaCEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -18247,7 +18329,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 366.16871433,
+    "distanceInMeters": 0.23748898,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -19098,7 +19180,7 @@
   },
   {
     "displayAddress": "Shop C-05, Queenstown, Central Shopping Centre 19 Grant Road Frankton  Queenstown  9300",
-    "distanceInMeters": 35720.04378771,
+    "distanceInMeters": 35909.95592688,
     "extId": "a0R4a000000SqVNEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-09",
@@ -19278,7 +19360,7 @@
   },
   {
     "displayAddress": "53 Hawthorne Drive Frankton  Queenstown  9300",
-    "distanceInMeters": 35518.90060933,
+    "distanceInMeters": 35711.73576217,
     "extId": "a0R4a000000SqYMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -20005,7 +20087,7 @@
   },
   {
     "displayAddress": "28 Te Rangitautahanga Road   Turangi  3334",
-    "distanceInMeters": 40352.562091,
+    "distanceInMeters": 41701.29125547,
     "extId": "a0R4a000000Stp2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -20625,7 +20707,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 68976.01916322,
+    "distanceInMeters": 69335.92979916,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -22524,7 +22606,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 2323.41269752,
+    "distanceInMeters": 2377.72856403,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -22788,7 +22870,7 @@
   },
   {
     "displayAddress": "9 Isle Street   Queenstown  9300",
-    "distanceInMeters": 42210.35659662,
+    "distanceInMeters": 42403.86327938,
     "extId": "a0R4a000000T7XLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -22892,7 +22974,7 @@
   },
   {
     "displayAddress": "1091 Frankton Road Frankton  Queenstown  9300",
-    "distanceInMeters": 36536.57313031,
+    "distanceInMeters": 36727.42447977,
     "extId": "a0R4a000000T7atEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -23065,7 +23147,7 @@
   },
   {
     "displayAddress": "Corner Rees Street & The Mall   Queenstown  9300",
-    "distanceInMeters": 42050.62671228,
+    "distanceInMeters": 42244.48407246,
     "extId": "a0R4a000000T7dTEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -23280,7 +23362,7 @@
   },
   {
     "displayAddress": "22 The Mall Cromwell  Central Otago  9310",
-    "distanceInMeters": 200.12518402,
+    "distanceInMeters": 0.56176868,
     "extId": "a0R4a000000T7ghEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -31438,7 +31520,7 @@
   },
   {
     "displayAddress": "81 King Street   Temuka  7920",
-    "distanceInMeters": 17237.35175491,
+    "distanceInMeters": 17521.91893608,
     "extId": "a0R4a000000U5OJEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-29",
@@ -34179,7 +34261,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 34231.06588193,
+    "distanceInMeters": 34482.26979008,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -35653,7 +35735,7 @@
   },
   {
     "displayAddress": "145 Wai-Iti Road Highfield  Timaru  7910",
-    "distanceInMeters": 2545.64131469,
+    "distanceInMeters": 2432.30422288,
     "extId": "a0R4a000000UdxkEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38774,7 +38856,7 @@
   },
   {
     "displayAddress": "18 Glenda Drive Frankton  Queenstown  9300",
-    "distanceInMeters": 35235.31077194,
+    "distanceInMeters": 35424.62997375,
     "extId": "a0R4a000000V37MEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -42510,7 +42592,7 @@
   },
   {
     "displayAddress": "4/155 Wills Street, Ashburton 7700",
-    "distanceInMeters": 67988.90770966,
+    "distanceInMeters": 68350.30586571,
     "extId": "a0R4a000000VexzEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -49169,7 +49251,7 @@
   },
   {
     "displayAddress": "38 Seddon Street   Raetihi  4632",
-    "distanceInMeters": 59469.91365153,
+    "distanceInMeters": 59492.29289572,
     "extId": "a0R4a000000XlHCEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-19",
@@ -52641,7 +52723,7 @@
   },
   {
     "displayAddress": "178 King Street   Temuka  7920",
-    "distanceInMeters": 17635.93060875,
+    "distanceInMeters": 17919.66639044,
     "extId": "a0R4a000000ZjDpEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -53289,7 +53371,7 @@
   },
   {
     "displayAddress": "93 Hakiaha Street   Taumarunui  3920",
-    "distanceInMeters": 73328.14134597,
+    "distanceInMeters": 74945.00793805,
     "extId": "a0R4a000000a2eAEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-26",
@@ -53846,13 +53928,6 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "09:00:00",
@@ -53885,6 +53960,13 @@
         ],
         "localStart": "10:00:00",
         "localEnd": "15:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:15:00"
       }
     ],
     "mapUrl": "https://g.page/LifePharmacyPakuranga?share",
@@ -54300,20 +54382,6 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "18:00:00",
-        "localEnd": "20:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "20:00:00"
-      },
-      {
-        "days": [
           "sun"
         ],
         "localStart": "08:30:00",
@@ -54336,6 +54404,20 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "18:00:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "20:00:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "18:00:00",
         "localEnd": "20:00:00"
