@@ -3134,7 +3134,7 @@
       "No appointment required",
       "Walk in"
     ],
-    "address": "112 Whitford Road, Somerville, Auckland",
+    "address": "Meadowlands Shopping Plaza, 112 Whitford Road, Somerville, Auckland",
     "telephone": "(09) 535 8080",
     "faxNumber": "(09) 535 9577",
     "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-meadowlands-pharmacy/",
@@ -7178,7 +7178,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"cfaaa2aea6a38fa8a0bdaaa2aaaba6acaea3e1aca0e1a1b5\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e0858d81898ca0878f92858d85848983818cce838fce8e9a\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -21620,8 +21620,7 @@
     "lng": 173.802253,
     "name": "65 Broadway",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 2:00 PM.",
+    "openTodayHours": "",
     "instructionLis": [
       "Anyone currently eligible can access",
       "Make an appointment",
@@ -21634,15 +21633,10 @@
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-hau-ora-o-ngapuhi-covid-19-vaccination/",
     "opennningHours": {
-      "schedule": {
-        "Tue": "10:00 AM – 2:00 PM",
-        "Fri": "10:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": [
-        "Located in the Market Space at 65 Broadway, Kaikohe"
+        "Mobi"
       ]
     }
   },
@@ -22700,28 +22694,6 @@
         "To see a list of all clinics within Hawke's Bay please follow the link below and click on the \"whats on where\" image",
         "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
       ]
-    }
-  },
-  {
-    "lat": -39.4945755,
-    "lng": 176.9135437,
-    "name": "Pak n Save Napier COVID-19 Vaccination Drive Thru - 25 Munroe Street",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through",
-      "Walk in"
-    ],
-    "address": "25 Munroe Street, Napier South, Napier, Hawke's Bay 4110",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/pak-n-save-napier-covid-19-vaccination-drive-1/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
     }
   },
   {
@@ -25901,6 +25873,43 @@
     }
   },
   {
+    "lat": -41.2890175,
+    "lng": 174.00714389999996,
+    "name": "Picton Healthcare Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "6 High Street, Picton",
+    "telephone": "(03) 573 6420",
+    "faxNumber": "(03) 573 8942",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/picton-healthcare-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 2:00 PM",
+        "Sun": "10:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Marlborough Anniversary (31 Oct). Open Easter Sunday (17 Apr, 10:00 AM – 2:00 PM)."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "We are running Covid19 vaccination clinics between 10am and 4pm Wednesday, Thursday and Friday, 10am-4pm Saturday and 10am-4pm Sunday Please book at the Ministry of Health Book My Vaccine webiste or by phoning 0800 28 29 26. Please see notes below regarding childrens vaccinations.&nbsp;",
+        "Walk&nbsp; in vaccinations may be available during the clinic hours listed above depending on bookings and the availablity of vaccine. Please phone 03 5736420 to enquire.",
+        "We are providing vaccinations to chilkdren aged&nbsp; 5-11 years from Wednesday 19th January. Appointments will be available Wednesday Thursday and Friday between 10am and 4pm and between 2pm and 4pm Saturday and Sunday.",
+        "On Monday 24 and Tuesday 25 January we are offering appointments between 10am and 4pm.",
+        "To book an appointment please phone the pharmacy on 03 5736420.&nbsp;",
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
     "lat": -37.137223107729575,
     "lng": 175.5440081758297,
     "name": "Te Korowai Hauora o Hauraki - Thames",
@@ -25929,37 +25938,25 @@
     }
   },
   {
-    "lat": -41.2890175,
-    "lng": 174.00714389999996,
-    "name": "Picton Healthcare Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "lat": -39.4945755,
+    "lng": 176.9135437,
+    "name": "Pak n Save Napier COVID-19 Vaccination Drive Thru - 25 Munroe Street",
+    "branch": "community",
+    "openTodayHours": "",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Make an appointment",
+      "No appointment required",
+      "Drive through",
       "Walk in"
     ],
-    "address": "6 High Street, Picton",
-    "telephone": "(03) 573 6420",
-    "faxNumber": "(03) 573 8942",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/picton-healthcare-pharmacy/",
+    "address": "25 Munroe Street, Napier South, Napier, Hawke's Bay 4110",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/pak-n-save-napier-covid-19-vaccination-drive-1/",
     "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 2:00 PM",
-        "Sun": "10:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Marlborough Anniversary (31 Oct). Open Easter Sunday (17 Apr, 10:00 AM – 2:00 PM)."
-      },
-      "notesHtml": [
-        "&nbsp;",
-        "We are running Covid19 vaccination clinics between 10am and 4pm Wednesday, Thursday and Friday, 10am-2pm Saturday and 10am-2pm Sunday Please book at the Ministry of Health Book My Vaccine webiste or by phoning 0800 28 29 26. Clinic hours may be extended when the gape between the second dose and the booster is reduced from six months to four months.&nbsp;",
-        "Walk&nbsp; in vaccinations may be available during the clinic hours listed above depending on bookings and the availablity of vaccine. Please phone 03 5736420 to enquire.",
-        "&nbsp;",
-        "&nbsp;"
-      ]
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
     }
   }
 ]
