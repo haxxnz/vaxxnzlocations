@@ -7233,7 +7233,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"244149454d4864434b56414941404d4745480a474b0a4a5e\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"46232b272f2a06212934232b23222f25272a68252968283c\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -25012,36 +25012,6 @@
     }
   },
   {
-    "lat": -37.5610921,
-    "lng": 175.9150637,
-    "name": "Katikati RSA and Citizens Club Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Katikati RSA and Citizens Club, Corner of Henry &amp; Main Roads, Katikati, Bay of Plenty 3129",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/western-bay-of-plenty-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Wed": "10:00 AM – 3:00 PM",
-        "Sun": "10:00 AM – 2:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": [
-        "<strong>CLOSED: 20th December to 11th January. </strong>",
-        "<strong>Re-opening from Wednesday 12th January 2022.</strong>"
-      ]
-    }
-  },
-  {
     "lat": -39.0015575,
     "lng": 174.23644420000005,
     "name": "Waitara Pharmacy",
@@ -25775,6 +25745,84 @@
     }
   },
   {
+    "lat": -36.3974348,
+    "lng": 174.66404809999995,
+    "name": "Life Pharmacy Franklin's",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "48 Queen St, Warkworth",
+    "telephone": "(09) 425 8014",
+    "faxNumber": "(09) 425 8024",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-franklins/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 5:00 PM",
+        "Sun": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.31600770000001,
+    "lng": 174.81504240000004,
+    "name": "Unichem Miramar Healthcare Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:30 PM.",
+    "instructionLis": [
+      "Anyone currently eligible can access"
+    ],
+    "address": "58 Miramar Avenue, Miramar, Wellington",
+    "telephone": "(04) 388 8516",
+    "faxNumber": "(04) 388 6587",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-miramar-healthcare-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:30 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.5610921,
+    "lng": 175.9150637,
+    "name": "Katikati RSA and Citizens Club Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Katikati RSA and Citizens Club, Corner of Henry &amp; Main Roads, Katikati, Bay of Plenty 3129",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/western-bay-of-plenty-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Wed": "10:00 AM – 3:00 PM",
+        "Sun": "10:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -35.1144128,
     "lng": 173.2659045,
     "name": "Kaitaia COVID-19 Vaccination &amp; Testing Centre",
@@ -25909,58 +25957,6 @@
         "AstaZeneca vaccinations are available BY BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
         "Subject to change.&nbsp;&nbsp;"
       ]
-    }
-  },
-  {
-    "lat": -36.3974348,
-    "lng": 174.66404809999995,
-    "name": "Life Pharmacy Franklin's",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "48 Queen St, Warkworth",
-    "telephone": "(09) 425 8014",
-    "faxNumber": "(09) 425 8024",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-franklins/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 5:00 PM",
-        "Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.31600770000001,
-    "lng": 174.81504240000004,
-    "name": "Unichem Miramar Healthcare Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:30 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access"
-    ],
-    "address": "58 Miramar Avenue, Miramar, Wellington",
-    "telephone": "(04) 388 8516",
-    "faxNumber": "(04) 388 6587",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-miramar-healthcare-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:30 PM",
-        "Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Wellington Anniversary (24 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
     }
   }
 ]
