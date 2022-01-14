@@ -7117,7 +7117,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"7b1e161a12173b1c14091e161e1f12181a17551814551501\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"1c79717d75705c7b736e79717978757f7d70327f73327266\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -20832,37 +20832,6 @@
     }
   },
   {
-    "lat": -36.9265863,
-    "lng": 174.8978581,
-    "name": "The Doctors Ti Rakau",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "316 Ti Rakau Drive, Burswood, Auckland",
-    "telephone": "(09) 273 8980",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/the-doctors-ti-rakau/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "8:00 AM – 8:00 PM",
-        "Mon – Fri": "8:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 8:00 AM – 8:00 PM), Good Friday (15 Apr, 8:00 AM – 8:00 PM), Easter Sunday (17 Apr, 8:00 AM – 8:00 PM), Easter Monday (18 Apr, 8:00 AM – 8:00 PM), ANZAC Day (25 Apr, 8:00 AM – 8:00 PM), Queen's Birthday (6 Jun, 8:00 AM – 8:00 PM), Labour Day (24 Oct, 8:00 AM – 8:00 PM).",
-        "Preferred urgent care clinic out of hours": "Botany Medical and Urgent Care."
-      },
-      "notesHtml": [
-        "The Doctors Ti Rakau have resumed usual hours for Alert level ORANGE We are open 8am-8pm daily."
-      ]
-    }
-  },
-  {
     "lat": -36.8904644,
     "lng": 174.7936289,
     "name": "The Doctors Greenlane",
@@ -25036,36 +25005,6 @@
     }
   },
   {
-    "lat": -37.6743899,
-    "lng": 176.2275998,
-    "name": "Your Pharmacy Mount Maunganui",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "42 Girven Road, Mount Maunganui",
-    "telephone": "(07) 574 8645",
-    "faxNumber": "(07) 574 8749",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/your-pharmacy-mount-maunganui/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM",
-        "Sat": "8:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": [
-        "Closed Public Holidays"
-      ]
-    }
-  },
-  {
     "lat": -38.2309197,
     "lng": 175.86075670000002,
     "name": "Unichem Health Centre Pharmacy",
@@ -25931,6 +25870,26 @@
     }
   },
   {
+    "lat": -39.64065179999999,
+    "lng": 176.8512482,
+    "name": "Clubs Hastings COVID-19 Vaccination Clinic",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "308 Victoria Street, Hastings, Hawke's Bay 4122",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/clubs-hastings-covid-19-vaccination-clinic/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -39.6374124,
     "lng": 176.84450860000004,
     "name": "Hastings Health Centre",
@@ -25985,23 +25944,33 @@
     }
   },
   {
-    "lat": -39.64065179999999,
-    "lng": 176.8512482,
-    "name": "Clubs Hastings COVID-19 Vaccination Clinic",
-    "branch": "community",
-    "openTodayHours": "",
+    "lat": -37.6743899,
+    "lng": 176.2275998,
+    "name": "Your Pharmacy Mount Maunganui",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Anyone currently eligible can access",
-      "Make an appointment"
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
     ],
-    "address": "308 Victoria Street, Hastings, Hawke's Bay 4122",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/clubs-hastings-covid-19-vaccination-clinic/",
+    "address": "42 Girven Road, Mount Maunganui",
+    "telephone": "(07) 574 8645",
+    "faxNumber": "(07) 574 8749",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/your-pharmacy-mount-maunganui/",
     "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat": "8:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": [
+        "Closed Public Holidays"
+      ]
     }
   }
 ]
