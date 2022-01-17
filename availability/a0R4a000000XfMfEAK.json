@@ -2,10 +2,6 @@
   "availabilityDates": {
     "2022-01-19": [
       {
-        "localStartTime": "12:00:00",
-        "durationSeconds": 1800
-      },
-      {
         "localStartTime": "13:00:00",
         "durationSeconds": 1800
       },
@@ -138,10 +134,6 @@
         "durationSeconds": 1800
       },
       {
-        "localStartTime": "12:30:00",
-        "durationSeconds": 1800
-      },
-      {
         "localStartTime": "13:00:00",
         "durationSeconds": 1800
       }
@@ -187,6 +179,10 @@
       }
     ],
     "2022-02-17": [
+      {
+        "localStartTime": "12:00:00",
+        "durationSeconds": 1800
+      },
       {
         "localStartTime": "12:30:00",
         "durationSeconds": 1800
@@ -385,5 +381,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-01-16T22:55:31.371Z"
+  "lastUpdatedAt": "2022-01-16T23:56:13.634Z"
 }
