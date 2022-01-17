@@ -6819,35 +6819,6 @@
     }
   },
   {
-    "lat": -36.900033,
-    "lng": 174.854786,
-    "name": "Hong Kong Surgery",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "111 Queens Road, Panmure, Auckland",
-    "telephone": "(09) 527 8829",
-    "faxNumber": "N/A",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hong-kong-surgery/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).",
-        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - Lunn Ave."
-      },
-      "notesHtml": [
-        "After hours please phone (09) 527 8829.",
-        "We are closed on weekends and public holidays."
-      ]
-    }
-  },
-  {
     "lat": -36.7972462,
     "lng": 174.7793294,
     "name": "The Doctors Hauraki Corner",
@@ -7779,30 +7750,6 @@
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-manu-toroa-covid-19-mobile-vaccination/at/tia-marae-20-malcolm-avenue-rangiuru/",
     "opennningHours": {
       "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.558343,
-    "lng": 175.1537373,
-    "name": "23 Parry Street",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "23 Parry Street, Huntly, Waikato 3700",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/raahui-pookeka-huntly-community-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Wed – Sat": "10:00 AM – 3:00 PM"
-      },
       "exceptions": {},
       "notesHtml": []
     }
@@ -19484,7 +19431,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f99c94989095b99e968b9c949c9d909a9895d79a96d79783\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"583d35393134183f372a3d353d3c313b3934763b37763622\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -26631,6 +26578,61 @@
         "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
         "&nbsp;"
       ]
+    }
+  },
+  {
+    "lat": -36.900033,
+    "lng": 174.854786,
+    "name": "Hong Kong Surgery",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Eligible GP enrolled patients only",
+      "Make an appointment",
+      "Child Pfizer vaccine (5-11 years)"
+    ],
+    "address": "111 Queens Road, Panmure, Auckland",
+    "telephone": "(09) 527 8829",
+    "faxNumber": "N/A",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hong-kong-surgery/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).",
+        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - Lunn Ave."
+      },
+      "notesHtml": [
+        "After hours please phone (09) 527 8829.",
+        "We are closed on weekends and public holidays."
+      ]
+    }
+  },
+  {
+    "lat": -37.558343,
+    "lng": 175.1537373,
+    "name": "23 Parry Street",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in",
+      "Child Pfizer vaccine (5-11 years)"
+    ],
+    "address": "23 Parry Street, Huntly, Waikato 3700",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/raahui-pookeka-huntly-community-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Wed – Sat": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
     }
   }
 ]
