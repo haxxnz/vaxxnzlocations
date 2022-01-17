@@ -302,6 +302,10 @@
     ],
     "2022-02-01": [
       {
+        "localStartTime": "10:00:00",
+        "durationSeconds": 1800
+      },
+      {
         "localStartTime": "10:30:00",
         "durationSeconds": 1800
       },
@@ -426,10 +430,6 @@
         "durationSeconds": 1800
       },
       {
-        "localStartTime": "11:30:00",
-        "durationSeconds": 1800
-      },
-      {
         "localStartTime": "12:00:00",
         "durationSeconds": 1800
       },
@@ -455,10 +455,6 @@
       },
       {
         "localStartTime": "16:00:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "16:30:00",
         "durationSeconds": 1800
       }
     ],
@@ -769,10 +765,6 @@
       },
       {
         "localStartTime": "16:00:00",
-        "durationSeconds": 1800
-      },
-      {
-        "localStartTime": "16:30:00",
         "durationSeconds": 1800
       }
     ],
@@ -1519,5 +1511,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-01-17T01:29:27.418Z"
+  "lastUpdatedAt": "2022-01-17T02:41:07.786Z"
 }
