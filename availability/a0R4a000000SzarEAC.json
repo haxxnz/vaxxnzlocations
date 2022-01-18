@@ -156,10 +156,6 @@
         "durationSeconds": 600
       },
       {
-        "localStartTime": "10:00:00",
-        "durationSeconds": 600
-      },
-      {
         "localStartTime": "10:10:00",
         "durationSeconds": 600
       },
@@ -1227,6 +1223,10 @@
       }
     ],
     "2022-02-05": [
+      {
+        "localStartTime": "10:00:00",
+        "durationSeconds": 900
+      },
       {
         "localStartTime": "10:15:00",
         "durationSeconds": 900
@@ -4953,5 +4953,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-01-18T07:17:34.524Z"
+  "lastUpdatedAt": "2022-01-18T08:27:50.041Z"
 }
