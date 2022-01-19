@@ -20481,6 +20481,46 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "Cnr Cambridge Road And Masters Avenue   Hamilton  3216",
+    "distanceInMeters": 8537.11459008,
+    "extId": "a0R4a000000Srq3EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-14",
+    "endDate": "2022-01-31",
+    "location": {
+      "lng": 175.317,
+      "lat": -37.7989
+    },
+    "name": "Hillcrest Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Hillcrest+Medical+Centre/@-37.7990579,175.314325,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6d192ae5b84677:0xb0966fef793d7d02!8m2!3d-37.7990579!4d175.3165137",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-02",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-21T21:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "144 Salisbury Road   Richmond  7020",
     "distanceInMeters": 1576.45419044,
     "extId": "a0R4a000000SsHtEAK",
