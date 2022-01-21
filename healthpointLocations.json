@@ -1188,40 +1188,6 @@
     }
   },
   {
-    "lat": -37.02403193189015,
-    "lng": 175.8601015806198,
-    "name": "Pauanui Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 12:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Pauanui Village Shopping Centre, 52 Jubilee Drive, Pauanui",
-    "telephone": "(07) 864 8404",
-    "faxNumber": "(07) 864 9381",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pauanui-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "9:00 AM – 12:00 PM",
-        "Tue": "9:00 AM – 3:00 PM",
-        "Wed": "9:00 AM – 12:00 PM",
-        "Fri": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": [
-        "<strong>Saturday: Walk in clinic 9am to 3pm Thames Hospital, Mackay Street, Thames</strong>",
-        "<strong>Sunday:&nbsp;Closed</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -37.78358267475688,
     "lng": 175.27336835861206,
     "name": "Redicare Medical Centre",
@@ -8027,7 +7993,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"47222a262e2b07202835222a22232e24262b69242869293d\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"751018141c1935121a07101810111c1614195b161a5b1b0f\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -24774,34 +24740,6 @@
     }
   },
   {
-    "lat": -39.4978101,
-    "lng": 176.91705619999993,
-    "name": "5 Sale Street",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "5 Sale Street, Napier South, Napier, Hawke's Bay 4110",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-kupenga-hauora-ahuriri-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "1:00 PM – 7:00 PM",
-        "Thu": "7:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -41.2473036,
     "lng": 174.7919669,
     "name": "Khandallah Presbyterian Church",
@@ -28688,6 +28626,69 @@
         "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
       },
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.4978101,
+    "lng": 176.91705619999993,
+    "name": "5 Sale Street",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "5 Sale Street, Napier South, Napier, Hawke's Bay 4110",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/te-kupenga-hauora-ahuriri-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "1:00 PM – 7:00 PM",
+        "Thu": "7:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.02403193189015,
+    "lng": 175.8601015806198,
+    "name": "Pauanui Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Pauanui Village Shopping Centre, 52 Jubilee Drive, Pauanui",
+    "telephone": "(07) 864 8404",
+    "faxNumber": "(07) 864 9381",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pauanui-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "9:00 AM – 12:00 PM",
+        "Tue": "9:00 AM – 3:00 PM",
+        "Wed": "9:00 AM – 12:00 PM",
+        "Fri": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": [
+        "<strong>Saturday: Walk in clinic 9am to 3pm Thames Hospital, Mackay Street, Thames</strong>",
+        "<strong>Sunday:&nbsp;Closed</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;"
+      ]
     }
   }
 ]
