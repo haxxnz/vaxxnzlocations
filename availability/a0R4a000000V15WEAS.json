@@ -42,6 +42,10 @@
         "durationSeconds": 900
       },
       {
+        "localStartTime": "12:00:00",
+        "durationSeconds": 900
+      },
+      {
         "localStartTime": "12:45:00",
         "durationSeconds": 900
       },
@@ -105,14 +109,6 @@
     "2022-01-23": [
       {
         "localStartTime": "11:15:00",
-        "durationSeconds": 900
-      },
-      {
-        "localStartTime": "12:45:00",
-        "durationSeconds": 900
-      },
-      {
-        "localStartTime": "13:00:00",
         "durationSeconds": 900
       },
       {
@@ -1421,10 +1417,6 @@
       }
     ],
     "2022-02-12": [
-      {
-        "localStartTime": "10:00:00",
-        "durationSeconds": 900
-      },
       {
         "localStartTime": "10:15:00",
         "durationSeconds": 900
@@ -4463,5 +4455,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-01-20T23:00:31.399Z"
+  "lastUpdatedAt": "2022-01-20T23:59:36.358Z"
 }
