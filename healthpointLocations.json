@@ -7908,7 +7908,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"36535b575f5a76515944535b53525f55575a18555918584c\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"90f5fdf1f9fcd0f7ffe2f5fdf5f4f9f3f1fcbef3ffbefeea\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -27420,6 +27420,83 @@
     }
   },
   {
+    "lat": -36.936480726107,
+    "lng": 174.88073937837842,
+    "name": "Highbrook Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "31 Highbrook Drive, East Tāmaki, Auckland",
+    "telephone": "(09) 212 2000",
+    "faxNumber": "(09) 399 2454",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/highbrook-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.8808731,
+    "lng": 174.89661820000003,
+    "name": "Unichem Marina Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 12:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required"
+    ],
+    "address": "1 Ara Tai Road, Half Moon Bay, Auckland",
+    "telephone": "(09) 534 5638",
+    "faxNumber": "(09) 534 5689",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-marina-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat": "8:30 AM – 4:00 PM",
+        "Sun": "9:30 AM – 12:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct). Open Easter Sunday (17 Apr, 9:30 AM – 12:30 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.2080231,
+    "lng": 176.1022908,
+    "name": "Ngāti Kahungunu ki Tāmaki nui-a-Rua",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "171-173 High Street, Dannevirke, Manawatu-Wanganui 4930",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-kahungunu-ki-tamaki-nui-a-rua-covid/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -37.6750439,
     "lng": 176.222781,
     "name": "Life Pharmacy Bayfair",
@@ -28662,83 +28739,6 @@
         "<strong>Note: Saturday Hours -&nbsp;is a Walk-In clinic</strong>",
         "<strong>WE ARE CURRENTLY CLOSED ON SATURDAYS DURING LEVEL 4 AND LEVEL 3</strong>"
       ]
-    }
-  },
-  {
-    "lat": -36.936480726107,
-    "lng": 174.88073937837842,
-    "name": "Highbrook Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "31 Highbrook Drive, East Tāmaki, Auckland",
-    "telephone": "(09) 212 2000",
-    "faxNumber": "(09) 399 2454",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/highbrook-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -40.2080231,
-    "lng": 176.1022908,
-    "name": "Ngāti Kahungunu ki Tāmaki nui-a-Rua",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "171-173 High Street, Dannevirke, Manawatu-Wanganui 4930",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-kahungunu-ki-tamaki-nui-a-rua-covid/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.8808731,
-    "lng": 174.89661820000003,
-    "name": "Unichem Marina Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 12:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
-    ],
-    "address": "1 Ara Tai Road, Half Moon Bay, Auckland",
-    "telephone": "(09) 534 5638",
-    "faxNumber": "(09) 534 5689",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-marina-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat": "8:30 AM – 4:00 PM",
-        "Sun": "9:30 AM – 12:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct). Open Easter Sunday (17 Apr, 9:30 AM – 12:30 PM)."
-      },
-      "notesHtml": []
     }
   }
 ]
