@@ -27005,7 +27005,7 @@
   },
   {
     "displayAddress": "124 Dawson Road Flat Bush  Auckland  2023",
-    "distanceInMeters": 59991.90600228,
+    "distanceInMeters": 30511.13727568,
     "extId": "a0R4a000000TbuHEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -31512,7 +31512,7 @@
         "localEnd": "18:00:00"
       }
     ],
-    "description": "Separate clinic room for special needs | Foreign Languages spoken by staff: Mandarin, Cantonese, Korean and Hindi",
+    "description": "Clinic rooms available for families with children and special needs. Easy access to carparks. Foreign languages: Mandarin, Cantonese and Korean",
     "mapUrl": "https://www.google.com/maps/place/Unichem+Panmure+Pharmacy/@-36.8992641,174.854346,15z/data=!4m5!3m4!1s0x0:0xef24ac1477e84cdc!8m2!3d-36.8992553!4d174.8543092",
     "tags": [
       {
@@ -32964,6 +32964,31 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T21:10:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Merrick Street Blaketown  Greymouth  7805",
+    "distanceInMeters": 34025.63787845,
+    "extId": "a0R4a000000U8I6EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-29",
+    "endDate": "2022-07-31",
+    "location": {
+      "lng": 171.191,
+      "lat": -42.4621
+    },
+    "name": "Greymouth Drive Through Clinic",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/8X6g3mupxkpSanSQA",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-25",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -44083,6 +44108,31 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Corner Livingston and Stafford St   Hokitika  7810",
+    "distanceInMeters": 1281.06721517,
+    "extId": "a0R4a000000Vf6cEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-10-09",
+    "endDate": "2022-07-31",
+    "location": {
+      "lng": 170.978,
+      "lat": -42.7228
+    },
+    "name": "Hokitika Drive Through",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/42%C2%B043'22.3%22S+170%C2%B058'40.1%22E/@-42.7230755,170.9778549,231m/data=!3m1!1e3!4m5!3m4!1s0x0:0x0!8m2!3d-42.722873!4d170.977808",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -56425,82 +56475,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-12-16",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "1490 Dominion Road Mt Roskill  Auckland  1041",
-    "distanceInMeters": 15564.6408217,
-    "extId": "a0R4a000000bY3ZEAU",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2022-01-14",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 174.736,
-      "lat": -36.9209
-    },
-    "name": "Unichem Roskill Village Mobile Vaccination Unit",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/9DpsQiaQrKUWVveX6",
-    "tags": [
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-12-21",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
