@@ -7821,7 +7821,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f89d95999194b89f978a9d959d9c919b9994d69b97d69682\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a7c2cac6cecbe7c0c8d5c2cac2c3cec4c6cb89c4c889c9dd\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -17204,23 +17204,6 @@
     }
   },
   {
-    "lat": -38.1407523,
-    "lng": 176.2515133,
-    "name": "Rotorua COVID-19 Vaccination Centre, Central Mall, Amohau Street, Rotorua",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Central Mall, 1170 Amohau Street, Rotorua 1170",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/rotorua-covid-19-vaccination-centre-central/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -40.6227804,
     "lng": 175.2732981,
     "name": "Horowhenua Events Centre",
@@ -18211,6 +18194,23 @@
     "telephone": "",
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -38.1407523,
+    "lng": 176.2515133,
+    "name": "Rotorua COVID-19 Vaccination Centre, Central Mall, Amohau Street, Rotorua",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Central Mall, 1170 Amohau Street, Rotorua 1170",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/rotorua-covid-19-vaccination-centre-central/",
     "opennningHours": {
       "schedule": {},
       "exceptions": {},
@@ -27291,36 +27291,117 @@
     }
   },
   {
-    "lat": -37.5610921,
-    "lng": 175.9150637,
-    "name": "Katikati RSA and Citizens Club Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "lat": -41.5097576,
+    "lng": 173.93520220000005,
+    "name": "Unichem Springlands Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access"
+    ],
+    "address": "131 Middle Renwick Road, Springlands, Blenheim",
+    "telephone": "(03) 578 2271",
+    "faxNumber": "(03) 579 2371",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-springlands-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat – Sun": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 5:00 PM), Good Friday (15 Apr, 10:00 AM – 5:00 PM), Easter Sunday (17 Apr, 10:00 AM – 5:00 PM), Easter Monday (18 Apr, 10:00 AM – 5:00 PM), ANZAC Day (25 Apr, 10:00 AM – 5:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 5:00 PM), Labour Day (24 Oct, 10:00 AM – 5:00 PM), Marlborough Anniversary (31 Oct, 10:00 AM – 5:00 PM)."
+      },
+      "notesHtml": [
+        "Public Holidays as advertised. Please phone the pharmacy to check."
+      ]
+    }
+  },
+  {
+    "lat": -35.74297910000001,
+    "lng": 174.30785990000004,
+    "name": "Otaika Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "147a Otaika Road, Raumanga, Whangārei",
+    "telephone": "(09)  438 7835",
+    "faxNumber": "(09) 430 0393",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/otaika-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 12:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Northland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.0332591,
+    "lng": 174.86854110000002,
+    "name": "Clendon Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
       "Anyone currently eligible can access",
-      "Eligible GP enrolled patients only",
       "Make an appointment",
       "Walk in"
     ],
-    "address": "Katikati RSA and Citizens Club, Corner of Henry &amp; Main Roads, Katikati, Bay of Plenty 3129",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/western-bay-of-plenty-covid-19-vaccination/",
+    "address": "Clendon Shopping Centre, Roscommon Road, Clendon Park, Auckland",
+    "telephone": "(09) 267 0143",
+    "faxNumber": "(09) 267 3368",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/clendon-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Wed": "10:00 AM – 3:00 PM",
-        "Sat": "9:30 AM – 6:00 PM",
-        "Sun": "10:00 AM – 2:00 PM"
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 1:00 PM",
+        "Sun": "10:00 AM – 1:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
+        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
       },
-      "notesHtml": [
-        "Saturday 29<sup>th</sup> Jan, additional day for \"Special delivery for Paediatric Pfizer\" 9.30am – 6pm."
-      ]
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.6661066,
+    "lng": 175.1488789,
+    "name": "Ngāruawāhia Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "23 Jesmond Street, Ngāruawāhia",
+    "telephone": "(07) 824 8604",
+    "faxNumber": "(07) 824 7944",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/ngaruawahia-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
     }
   },
   {
@@ -28693,117 +28774,34 @@
     }
   },
   {
-    "lat": -41.5097576,
-    "lng": 173.93520220000005,
-    "name": "Unichem Springlands Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access"
-    ],
-    "address": "131 Middle Renwick Road, Springlands, Blenheim",
-    "telephone": "(03) 578 2271",
-    "faxNumber": "(03) 579 2371",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-springlands-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat – Sun": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 5:00 PM), Good Friday (15 Apr, 10:00 AM – 5:00 PM), Easter Sunday (17 Apr, 10:00 AM – 5:00 PM), Easter Monday (18 Apr, 10:00 AM – 5:00 PM), ANZAC Day (25 Apr, 10:00 AM – 5:00 PM), Queen's Birthday (6 Jun, 10:00 AM – 5:00 PM), Labour Day (24 Oct, 10:00 AM – 5:00 PM), Marlborough Anniversary (31 Oct, 10:00 AM – 5:00 PM)."
-      },
-      "notesHtml": [
-        "Public Holidays as advertised. Please phone the pharmacy to check."
-      ]
-    }
-  },
-  {
-    "lat": -35.74297910000001,
-    "lng": 174.30785990000004,
-    "name": "Otaika Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "147a Otaika Road, Raumanga, Whangārei",
-    "telephone": "(09)  438 7835",
-    "faxNumber": "(09) 430 0393",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/otaika-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 12:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Northland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.0332591,
-    "lng": 174.86854110000002,
-    "name": "Clendon Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "lat": -37.5610921,
+    "lng": 175.9150637,
+    "name": "Katikati RSA and Citizens Club Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
       "Anyone currently eligible can access",
+      "Eligible GP enrolled patients only",
       "Make an appointment",
       "Walk in"
     ],
-    "address": "Clendon Shopping Centre, Roscommon Road, Clendon Park, Auckland",
-    "telephone": "(09) 267 0143",
-    "faxNumber": "(09) 267 3368",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/clendon-pharmacy/",
+    "address": "Katikati RSA and Citizens Club, Corner of Henry &amp; Main Roads, Katikati, Bay of Plenty 3129",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/western-bay-of-plenty-covid-19-vaccination/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM",
-        "Sat": "9:00 AM – 1:00 PM",
-        "Sun": "10:00 AM – 1:00 PM"
+        "Wed": "10:00 AM – 3:00 PM",
+        "Sat": "9:30 AM – 6:00 PM",
+        "Sun": "10:00 AM – 2:00 PM"
       },
-      "exceptions": {
-        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.6661066,
-    "lng": 175.1488789,
-    "name": "Ngāruawāhia Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "23 Jesmond Street, Ngāruawāhia",
-    "telephone": "(07) 824 8604",
-    "faxNumber": "(07) 824 7944",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/ngaruawahia-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Auckland Anniversary (31 Jan), Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
+      "exceptions": {},
+      "notesHtml": [
+        "Saturday 29th Jan, additional day for \"Special delivery for Paediatric Pfizer\" 9.30am – 6pm."
+      ]
     }
   }
 ]
