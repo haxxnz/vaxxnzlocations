@@ -19593,31 +19593,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "28 Church Street   Te Aroha  3320",
-    "distanceInMeters": 44852.1870462,
-    "extId": "a0R4a000000Skr3EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-26",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 175.712,
-      "lat": -37.5412
-    },
-    "name": "Health Te Aroha",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Health+Te+Aroha/@-37.5412212,175.709902,17z/data=!4m5!3m4!1s0x6d6d98931798bb3d:0x1d7ea47f01ee8076!8m2!3d-37.5412212!4d175.7120907",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-30",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-02T00:50:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "6427 State Highway 27, Waharoa  3474",
     "distanceInMeters": 39679.13034012,
     "extId": "a0R4a000000SlAoEAK",
@@ -26476,6 +26451,13 @@
       },
       {
         "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "wed"
         ],
         "localStart": "09:00:00",
@@ -26484,13 +26466,6 @@
       {
         "days": [
           "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -27998,7 +27973,7 @@
   },
   {
     "displayAddress": "2/2 Fencible Drive Howick  Auckland  2014",
-    "distanceInMeters": 26996.57424919,
+    "distanceInMeters": 40393.86863715,
     "extId": "a0R4a000000TeSSEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -41545,7 +41520,7 @@
   },
   {
     "displayAddress": "45 Picton Street Howick  Auckland  2014",
-    "distanceInMeters": 27019.19377953,
+    "distanceInMeters": 40490.42827844,
     "extId": "a0R4a000000VAmaEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -45286,20 +45261,6 @@
       },
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "09:00:00",
@@ -45308,6 +45269,20 @@
       {
         "days": [
           "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -53767,6 +53742,13 @@
       },
       {
         "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "fri"
         ],
         "localStart": "09:00:00",
@@ -53782,13 +53764,6 @@
       {
         "days": [
           "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
         ],
         "localStart": "09:00:00",
         "localEnd": "16:00:00"
@@ -54689,6 +54664,13 @@
     "openHours": [
       {
         "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "09:30:00",
@@ -54704,13 +54686,6 @@
       {
         "days": [
           "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:00:00"
@@ -57046,28 +57021,7 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:00:00"
-      },
-      {
-        "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:00:00"
@@ -57081,7 +57035,28 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "sat"
         ],
         "localStart": "09:00:00",
         "localEnd": "18:00:00"
