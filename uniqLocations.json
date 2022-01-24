@@ -1950,7 +1950,7 @@
   },
   {
     "displayAddress": "6 Roulston Street Pukekohe  Auckland  2120",
-    "distanceInMeters": 45498.58061894,
+    "distanceInMeters": 74807.29814148,
     "extId": "a0R4a000000QA9NEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-22",
@@ -2925,7 +2925,7 @@
   },
   {
     "displayAddress": "20 Gateway Lane  Pipitea  Wellington  6011",
-    "distanceInMeters": 74976.07102397,
+    "distanceInMeters": 74092.01356985,
     "extId": "a0R4a000000QD18EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-03-01",
@@ -3736,7 +3736,7 @@
   },
   {
     "displayAddress": "236 Karori Road, Karori, Wellington 6012",
-    "distanceInMeters": 71266.28832455,
+    "distanceInMeters": 70367.11972353,
     "extId": "a0R4a000000QD92EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-25",
@@ -3855,7 +3855,7 @@
   },
   {
     "displayAddress": "113 Broadway   Kaikohe  405",
-    "distanceInMeters": 57838.30953085,
+    "distanceInMeters": 59207.57976247,
     "extId": "a0R4a000000QDAFEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-06",
@@ -4702,7 +4702,7 @@
   },
   {
     "displayAddress": "1 Sammareee Place   Kerikeri  230",
-    "distanceInMeters": 62411.3244455,
+    "distanceInMeters": 65072.70985756,
     "extId": "a0R4a000000QDxXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
@@ -5708,7 +5708,7 @@
   },
   {
     "displayAddress": "19 Henry Street, Unit 3 Blenheim CBD  Blenheim  7201",
-    "distanceInMeters": 1820.33709338,
+    "distanceInMeters": 364.72186415,
     "extId": "a0R4a000000QS0UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -5777,7 +5777,7 @@
   },
   {
     "displayAddress": "253 Queen Street Richmond  Tasman  7020",
-    "distanceInMeters": 67519.51556385,
+    "distanceInMeters": 66990.37702798,
     "extId": "a0R4a000000QS2VEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -5853,7 +5853,7 @@
   },
   {
     "displayAddress": "16 Paru Paru Road   Nelson  7010",
-    "distanceInMeters": 63014.0030541,
+    "distanceInMeters": 62160.79531444,
     "extId": "a0R4a000000QSDxEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -5929,7 +5929,7 @@
   },
   {
     "displayAddress": "Level 1, Opposite Hoyts, Te Awa. Te Rapa Road and Wairere Drive, Hamilton 3200",
-    "distanceInMeters": 21900.47229754,
+    "distanceInMeters": 27877.55960554,
     "extId": "a0R4a000000QV5iEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-20",
@@ -6537,6 +6537,131 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "25 Luxmore Drive,   Te Anau  9600",
+    "distanceInMeters": 0.55132499,
+    "extId": "a0R4a000000QVSKEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2022-03-03",
+    "location": {
+      "lng": 167.72,
+      "lat": -45.4158
+    },
+    "name": "Te Anau - Fiordland Medical Practice",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Fiordland+Medical+Practice/@-45.4163717,167.7189044,18z/data=!4m5!3m4!1s0xa9d40e4beab63259:0xf8bcf13f969a8792!8m2!3d-45.4158815!4d167.7200994",
+    "tags": [
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85187,
+        "externalId": "a0p4a000000EOb5AAG",
+        "name": "Drive-through location",
+        "languageKey": "Drive-through location",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-23T00:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -9638,7 +9763,7 @@
   },
   {
     "displayAddress": "Turangawaewae Marae, Cnr of Kent St and River Rd, Ngaruawahia",
-    "distanceInMeters": 11263.1737252,
+    "distanceInMeters": 33023.63439658,
     "extId": "a0R4a000000R8AbEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
@@ -10216,7 +10341,7 @@
   },
   {
     "displayAddress": "Goldfields Shopping Centre, 100 Mary Street   Thames  3500",
-    "distanceInMeters": 58128.71893077,
+    "distanceInMeters": 57583.53631043,
     "extId": "a0R4a000000Rfp4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-27",
@@ -10493,7 +10618,7 @@
   },
   {
     "displayAddress": "49 Kilbirnie Crescent Kilbirnie  Wellington  6022",
-    "distanceInMeters": 74388.71095252,
+    "distanceInMeters": 73618.89775214,
     "extId": "a0R4a000000RxMPEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
@@ -10910,7 +11035,7 @@
   },
   {
     "displayAddress": "23 Parry Street   Huntly  3700",
-    "distanceInMeters": 347.91669715,
+    "distanceInMeters": 34820.91141715,
     "extId": "a0R4a000000RyESEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
@@ -10971,7 +11096,7 @@
   },
   {
     "displayAddress": "Corner of Hyde Avenue and Grandview Road, Nawton Shopping Centre, Hamilton",
-    "distanceInMeters": 25547.89109408,
+    "distanceInMeters": 29056.22302321,
     "extId": "a0R4a000000RyGnEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-29",
@@ -11033,7 +11158,7 @@
   },
   {
     "displayAddress": "161 Commerce Street Frankton  Hamilton  3204",
-    "distanceInMeters": 27064.39611993,
+    "distanceInMeters": 27290.0585838,
     "extId": "a0R4a000000RzYKEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -11557,7 +11682,7 @@
   },
   {
     "displayAddress": "Shop 123/201 Hukanui Road, Chartwell Shopping Centre Chartwell  Hamilton  3210",
-    "distanceInMeters": 23201.45366036,
+    "distanceInMeters": 23927.85053396,
     "extId": "a0R4a000000SD7DEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-28",
@@ -11748,7 +11873,7 @@
   },
   {
     "displayAddress": "1007 Heaphy Terrace Fairfield  Hamilton  3214",
-    "distanceInMeters": 26021.859486,
+    "distanceInMeters": 25033.42992358,
     "extId": "a0R4a000000SFyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-24",
@@ -11817,7 +11942,7 @@
   },
   {
     "displayAddress": "1158 River Road Flagstaff  Hamilton  3210",
-    "distanceInMeters": 21559.33458417,
+    "distanceInMeters": 25710.05281338,
     "extId": "a0R4a000000SG25EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -11885,7 +12010,7 @@
   },
   {
     "displayAddress": "156 Teasdale St   Te Awamutu  3800",
-    "distanceInMeters": 52048.88569582,
+    "distanceInMeters": 43150.47481208,
     "extId": "a0R4a000000SG2AEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -11910,7 +12035,7 @@
   },
   {
     "displayAddress": "31 Pembroke Street Hamilton Lake  Hamilton  3204",
-    "distanceInMeters": 28431.25420977,
+    "distanceInMeters": 26616.20347309,
     "extId": "a0R4a000000SG3wEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -11985,7 +12110,7 @@
   },
   {
     "displayAddress": "21 Whatawhata Road. Dinsdale , Waikato, 3204",
-    "distanceInMeters": 27298.81361133,
+    "distanceInMeters": 29102.05562477,
     "extId": "a0R4a000000SGSSEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-28",
@@ -13864,7 +13989,7 @@
   },
   {
     "displayAddress": "47 Scott Street Blenheim  Blenheim Marlborough District 7201",
-    "distanceInMeters": 1680.57248303,
+    "distanceInMeters": 703.97282558,
     "extId": "a0R4a000000SKp7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -13926,7 +14051,7 @@
   },
   {
     "displayAddress": "172 St Vincent Street, Toi Toi  Nelson  7010",
-    "distanceInMeters": 63330.27083266,
+    "distanceInMeters": 62526.51936505,
     "extId": "a0R4a000000SKr3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -13987,7 +14112,7 @@
   },
   {
     "displayAddress": "546 Pollen Steet, Thames, Waikato 3500",
-    "distanceInMeters": 58286.92137592,
+    "distanceInMeters": 57599.99882502,
     "extId": "a0R4a000000SKrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -14062,33 +14187,8 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "131 Middle Renwick Road   Blenheim  7201",
-    "distanceInMeters": 2701.87736502,
-    "extId": "a0R4a000000SKulEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-20",
-    "endDate": "2022-03-01",
-    "location": {
-      "lng": 173.935,
-      "lat": -41.5089
-    },
-    "name": "Unichem Springlands Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Unichem+Springlands+Pharmacy/@-41.5095193,173.9352229,15z/data=!4m12!1m6!3m5!1s0x0:0x20bd31a8df9b3dcf!2sUnichem+Springlands+Pharmacy!8m2!3d-41.5095278!4d173.9352235!3m4!1s0x0:0x20bd31a8df9b3dcf!8m2!3d-41.5095278!4d173.935",
-    "tags": [],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T03:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "42 Oxford Street   Richmond  7020",
-    "distanceInMeters": 67445.47854744,
+    "distanceInMeters": 66920.76874132,
     "extId": "a0R4a000000SKzREAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-05",
@@ -14113,7 +14213,7 @@
   },
   {
     "displayAddress": "70 Cleghorn Street   Blenheim  7242",
-    "distanceInMeters": 427.94008066,
+    "distanceInMeters": 2142.02545402,
     "extId": "a0R4a000000SLAZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -14181,7 +14281,7 @@
   },
   {
     "displayAddress": "14 Redwood street   Blenheim  7201",
-    "distanceInMeters": 1875.40643345,
+    "distanceInMeters": 805.61663393,
     "extId": "a0R4a000000SLEbEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -14244,7 +14344,7 @@
   },
   {
     "displayAddress": "6 High Street   Picton  7220",
-    "distanceInMeters": 27219.35962798,
+    "distanceInMeters": 25069.93171585,
     "extId": "a0R4a000000SLKAEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -14305,7 +14405,7 @@
   },
   {
     "displayAddress": "Unit D/16 Francis Street   Blenheim  7210",
-    "distanceInMeters": 1564.05978367,
+    "distanceInMeters": 840.28904814,
     "extId": "a0R4a000000SLONEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -14596,7 +14696,7 @@
   },
   {
     "displayAddress": "2/105 Collingwood Street   Nelson  7010",
-    "distanceInMeters": 62387.62313088,
+    "distanceInMeters": 61541.3437502,
     "extId": "a0R4a000000SLg7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -14712,7 +14812,7 @@
   },
   {
     "displayAddress": "11 Tahunanui Driive Nelson  7011",
-    "distanceInMeters": 64823.95816378,
+    "distanceInMeters": 64044.94324879,
     "extId": "a0R4a000000SLnhEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -14820,7 +14920,7 @@
   },
   {
     "displayAddress": "470 Main Road Stoke Stoke  Nelson  7011",
-    "distanceInMeters": 64578.32927325,
+    "distanceInMeters": 63907.75973763,
     "extId": "a0R4a000000SLwAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -15261,6 +15361,132 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-25T00:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "3 Normans Road, Strowan, Christchurch 8052",
+    "distanceInMeters": 20032.20994543,
+    "extId": "a0R4a000000SPF8EAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-18",
+    "endDate": "2022-02-07",
+    "location": {
+      "lng": 172.607,
+      "lat": -43.5098
+    },
+    "name": "Elmwood Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "11:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "11:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "11:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "11:00:00"
+      }
+    ],
+    "description": "Toilets - Yes. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://g.page/Elmwood-Pharmacy-Christchurch?share",
+    "tags": [
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-18",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:45:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -15823,7 +16049,7 @@
   },
   {
     "displayAddress": "Floor 8, 111 Customhouse Quay   Wellington  6011",
-    "distanceInMeters": 74220.03144673,
+    "distanceInMeters": 73355.73176117,
     "extId": "a0R4a000000ST3pEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -16707,7 +16933,7 @@
   },
   {
     "displayAddress": "104a Wadestown Rd Wadestown  Wellington  6012. Pls text 0273801236 asap if you can't attend, so we avoid wastage.",
-    "distanceInMeters": 0.5060303,
+    "distanceInMeters": 74111.72438826,
     "extId": "a0R4a000000SUl3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-25",
@@ -16783,7 +17009,7 @@
   },
   {
     "displayAddress": "3/670 Cambridge Road Te Awamutu  Waikato  3800",
-    "distanceInMeters": 52334.51491158,
+    "distanceInMeters": 42277.14903738,
     "extId": "a0R4a000000SWkVEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -18225,7 +18451,7 @@
   },
   {
     "displayAddress": "14-16 Rototuna Retail Centre Rototuna  Hamilton  3210",
-    "distanceInMeters": 21491.62548192,
+    "distanceInMeters": 23870.95641507,
     "extId": "a0R4a000000SXiZEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -19393,7 +19619,7 @@
   },
   {
     "displayAddress": "Inside New Nawton Shopping Centre, cnr of Grandview Road and Hyde Ave Nawton  Hamilton  3200",
-    "distanceInMeters": 25547.89109408,
+    "distanceInMeters": 29056.22302321,
     "extId": "a0R4a000000SkqUEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -19494,7 +19720,7 @@
   },
   {
     "displayAddress": "9 Thackeray Street Hamilton Central  Hamilton  3204",
-    "distanceInMeters": 28095.40239739,
+    "distanceInMeters": 26248.50822416,
     "extId": "a0R4a000000SlgmEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -19723,7 +19949,7 @@
   },
   {
     "displayAddress": "Dent Street, Ngatea  3503",
-    "distanceInMeters": 44033.97426501,
+    "distanceInMeters": 42542.52702249,
     "extId": "a0R4a000000SpkTEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -19748,7 +19974,7 @@
   },
   {
     "displayAddress": "6 Avalon Drive Nawton  Hamilton  3200",
-    "distanceInMeters": 25724.58159278,
+    "distanceInMeters": 28038.4660112,
     "extId": "a0R4a000000SpqWEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -20670,7 +20896,7 @@
   },
   {
     "displayAddress": "144 Salisbury Road   Richmond  7020",
-    "distanceInMeters": 66280.20508782,
+    "distanceInMeters": 65720.98819419,
     "extId": "a0R4a000000SsHtEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -21733,7 +21959,7 @@
   },
   {
     "displayAddress": "1 Urlich Avenue Glenview  Hamilton  3206",
-    "distanceInMeters": 30609.07171064,
+    "distanceInMeters": 27899.94676474,
     "extId": "a0R4a000000SwbtEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -22240,7 +22466,7 @@
   },
   {
     "displayAddress": "58 Willis Street   Wellington  6011",
-    "distanceInMeters": 74068.89587965,
+    "distanceInMeters": 73208.54888391,
     "extId": "a0R4a000000SydNEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -23171,7 +23397,7 @@
   },
   {
     "displayAddress": "210 Waikawa Road   Picton  7220",
-    "distanceInMeters": 28960.40630297,
+    "distanceInMeters": 26830.01114609,
     "extId": "a0R4a000000SzqCEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -23197,7 +23423,7 @@
   },
   {
     "displayAddress": "75 Taranaki Street Te Aro  Wellington  6011",
-    "distanceInMeters": 74185.46150658,
+    "distanceInMeters": 73345.46919626,
     "extId": "a0R4a000000T2oqEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-12",
@@ -23329,7 +23555,7 @@
   },
   {
     "displayAddress": "50 Manners Street Te Aro  Wellington  6011",
-    "distanceInMeters": 73950.85330333,
+    "distanceInMeters": 73098.25701773,
     "extId": "a0R4a000000T32LEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -23454,7 +23680,7 @@
   },
   {
     "displayAddress": "100 Riddiford St Newtown  Wellington  6021",
-    "distanceInMeters": 73383.10013318,
+    "distanceInMeters": 72594.74657112,
     "extId": "a0R4a000000T3EMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-28",
@@ -24419,7 +24645,7 @@
   },
   {
     "displayAddress": "244 Arawata Street   Te Awamutu  3800",
-    "distanceInMeters": 52068.78121438,
+    "distanceInMeters": 42743.75153652,
     "extId": "a0R4a000000TCrtEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -24607,7 +24833,7 @@
   },
   {
     "displayAddress": "204 Lambton Quay Wellington Central  Wellington  6011",
-    "distanceInMeters": 74229.15222893,
+    "distanceInMeters": 73356.58426963,
     "extId": "a0R4a000000TCzEEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-24",
@@ -24983,7 +25209,7 @@
   },
   {
     "displayAddress": "750 Victoria Street,   Hamilton  3204",
-    "distanceInMeters": 26926.99814219,
+    "distanceInMeters": 25953.69916199,
     "extId": "a0R4a000000TH2GEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
@@ -25760,7 +25986,7 @@
   },
   {
     "displayAddress": "1 Upland Road Kelburn  Wellington  6012",
-    "distanceInMeters": 73497.29054961,
+    "distanceInMeters": 72626.92074874,
     "extId": "a0R4a000000TQHSEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-12",
@@ -30222,7 +30448,7 @@
   },
   {
     "displayAddress": "951 Wairere Dr Hamilton East  Hamilton  3216",
-    "distanceInMeters": 29143.02289952,
+    "distanceInMeters": 24608.98590692,
     "extId": "a0R4a000000TrQGEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -30276,7 +30502,7 @@
   },
   {
     "displayAddress": "130 Rostrevor Street Hamilton Central,  Hamilton  3204",
-    "distanceInMeters": 26902.95560959,
+    "distanceInMeters": 26438.54030376,
     "extId": "a0R4a000000TrcMEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -32742,7 +32968,7 @@
   },
   {
     "displayAddress": "16 Beale Street Hamilton East  Hamilton  3216",
-    "distanceInMeters": 28208.11550119,
+    "distanceInMeters": 25360.90873412,
     "extId": "a0R4a000000U5NQEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -33659,7 +33885,7 @@
   },
   {
     "displayAddress": "215 Queen Street Richmond  Nelson  7020",
-    "distanceInMeters": 67402.66463234,
+    "distanceInMeters": 66875.93386707,
     "extId": "a0R4a000000UCVtEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -35847,7 +36073,7 @@
   },
   {
     "displayAddress": "9 Wallis street   Raglan  3225",
-    "distanceInMeters": 36296.47628448,
+    "distanceInMeters": 60155.67152388,
     "extId": "a0R4a000000UR8SEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -36211,7 +36437,7 @@
   },
   {
     "displayAddress": "122 Cuba Street Te Aro  Wellington  6011",
-    "distanceInMeters": 73844.59958441,
+    "distanceInMeters": 73000.86300944,
     "extId": "a0R4a000000UUBzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-05",
@@ -38536,7 +38762,7 @@
   },
   {
     "displayAddress": "cnr Ranfurly &, Turongo Street   Otorohanga  3900",
-    "distanceInMeters": 69251.72863346,
+    "distanceInMeters": 64688.93992975,
     "extId": "a0R4a000000UltPEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -44474,7 +44700,7 @@
   },
   {
     "displayAddress": "13a Hall Street Pukekohe  Auckland  2120",
-    "distanceInMeters": 45680.00190427,
+    "distanceInMeters": 74941.22080546,
     "extId": "a0R4a000000Vp48EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -45016,7 +45242,7 @@
   },
   {
     "displayAddress": "32 George Street   Tuakau  2121",
-    "distanceInMeters": 38245.07949865,
+    "distanceInMeters": 67904.85445009,
     "extId": "a0R4a000000VsCMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -47267,8 +47493,8 @@
         "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -47304,6 +47530,13 @@
         ],
         "localStart": "09:00:00",
         "localEnd": "18:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
       }
     ],
     "description": "Foreign spoken languages:  Cantonese, Mandarin",
@@ -48295,7 +48528,7 @@
   },
   {
     "displayAddress": "51/53 George Street   Tuakau  2121",
-    "distanceInMeters": 38047.21801093,
+    "distanceInMeters": 67774.06395596,
     "extId": "a0R4a000000We3JEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
@@ -52348,7 +52581,7 @@
   },
   {
     "displayAddress": "183 Pembroke Street   Hamilton  3204",
-    "distanceInMeters": 29362.16382518,
+    "distanceInMeters": 27030.69115174,
     "extId": "a0R4a000000YBG1EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-01",
@@ -53504,21 +53737,21 @@
     "openHours": [
       {
         "days": [
-          "sun"
+          "mon"
         ],
-        "localStart": "10:15:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:15:00",
+        "localStart": "09:00:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
-          "fri"
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -53526,6 +53759,13 @@
       {
         "days": [
           "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -53540,13 +53780,6 @@
       {
         "days": [
           "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:00:00"
@@ -54612,7 +54845,7 @@
   },
   {
     "displayAddress": "35 Vercoe Road Beerescourt  Hamilton  3200",
-    "distanceInMeters": 24548.89902722,
+    "distanceInMeters": 26452.99502363,
     "extId": "a0R4a000000ZovBEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-22",
@@ -54873,7 +55106,7 @@
   },
   {
     "displayAddress": "14 Beale Street Hamilton East  Hamilton  3216",
-    "distanceInMeters": 28200.64605881,
+    "distanceInMeters": 25421.21590938,
     "extId": "a0R4a000000a1GIEAY",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -54952,7 +55185,7 @@
   },
   {
     "displayAddress": "46G Boundary Rd Claudelands  Hamilton  3214",
-    "distanceInMeters": 26523.69911405,
+    "distanceInMeters": 24782.23557361,
     "extId": "a0R4a000000a78rEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-24",
@@ -54985,7 +55218,7 @@
   },
   {
     "displayAddress": "10A Pukete Road St Andrews  Hamilton  3200",
-    "distanceInMeters": 22435.81923675,
+    "distanceInMeters": 27294.49020066,
     "extId": "a0R4a000000aArCEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -55293,7 +55526,7 @@
   },
   {
     "displayAddress": "38 Tuhikaramea Rd Dinsdale  Hamilton  3204",
-    "distanceInMeters": 27410.46484567,
+    "distanceInMeters": 29155.48427562,
     "extId": "a0R4a000000aYIEEA2",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-01",
@@ -55602,7 +55835,7 @@
   },
   {
     "displayAddress": "8 Bow Street   Raglan  3225",
-    "distanceInMeters": 36376.77239806,
+    "distanceInMeters": 60216.21395916,
     "extId": "a0R4a000000aqvPEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-20",
@@ -55657,7 +55890,7 @@
   },
   {
     "displayAddress": "354 Grey Street Hamilton East  Hamilton  3216",
-    "distanceInMeters": 28595.14318881,
+    "distanceInMeters": 25545.05450058,
     "extId": "a0R4a000000ar5AEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-15",
@@ -55794,7 +56027,7 @@
   },
   {
     "displayAddress": "23 Jesmond Street   Ngaruawahia  3720",
-    "distanceInMeters": 11632.29699179,
+    "distanceInMeters": 33449.88985738,
     "extId": "a0R4a000000avnmEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-13",
@@ -55855,7 +56088,7 @@
   },
   {
     "displayAddress": "1/173 Anglesea Street Hamilton Central  Hamilton  3204",
-    "distanceInMeters": 27994.47463274,
+    "distanceInMeters": 26191.630797,
     "extId": "a0R4a000000b0jkEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-13",
@@ -55931,7 +56164,7 @@
   },
   {
     "displayAddress": "27C Whatawhata Road Dinsdale  Hamilton  3204",
-    "distanceInMeters": 27269.2613637,
+    "distanceInMeters": 29103.64269427,
     "extId": "a0R4a000000b5jzEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-13",
@@ -56241,7 +56474,7 @@
   },
   {
     "displayAddress": "4 Bridge Street Huntly  Waikato  3700",
-    "distanceInMeters": 0.06152217,
+    "distanceInMeters": 34893.34100021,
     "extId": "a0R4a000000bGhMEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-13",
@@ -56457,7 +56690,7 @@
     "extId": "a0R4a000000bYUuEAM",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-14",
-    "endDate": "2022-03-31",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 175.872,
       "lat": -37.2059
@@ -56514,7 +56747,7 @@
   },
   {
     "displayAddress": "Greenmeadows Community Centre, 491 Main Road   Stoke  7011",
-    "distanceInMeters": 64521.37918913,
+    "distanceInMeters": 63863.18984868,
     "extId": "a0R4a000000brgREAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-10",
@@ -56562,7 +56795,7 @@
   },
   {
     "displayAddress": "Nativity Church, 76 Alfred Street   Blenheim  7201",
-    "distanceInMeters": 2166.38824083,
+    "distanceInMeters": 0.48032165,
     "extId": "a0R4a000000brhZEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-10",
@@ -56610,7 +56843,7 @@
   },
   {
     "displayAddress": "107 Grandview Road Nawton  Hamilton  3200",
-    "distanceInMeters": 25439.53100955,
+    "distanceInMeters": 29001.59768492,
     "extId": "a0R4a000000cRV8EAM",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-10",
@@ -56789,7 +57022,7 @@
   },
   {
     "displayAddress": "90 Cleghorn Street Redwoodtown  Blenheim  7201",
-    "distanceInMeters": 0.32769388,
+    "distanceInMeters": 2166.545639,
     "extId": "a0R4a000000cbWCEAY",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-17",
@@ -57035,7 +57268,7 @@
   },
   {
     "displayAddress": "Te Rapa Road &, Wairere Drive,   Hamilton  3200",
-    "distanceInMeters": 21900.47229754,
+    "distanceInMeters": 27877.55960554,
     "extId": "a0R4a000000ciKTEAY",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-17",
