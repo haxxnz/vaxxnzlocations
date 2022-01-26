@@ -292,6 +292,68 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "348 Lincoln Road Addington  Christchurch  8024",
+    "distanceInMeters": 19155.19959684,
+    "extId": "a0R4a000000P74DEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-11",
+    "endDate": "2022-02-06",
+    "location": {
+      "lng": 172.614,
+      "lat": -43.5424
+    },
+    "name": "Addington Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "14:45:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "14:45:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "14:45:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:45:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:45:00",
+        "localEnd": "16:15:00"
+      }
+    ],
+    "description": "Toilets available. Wheelchair ramp access.",
+    "mapUrl": "https://goo.gl/maps/FhC3oowjiGzwByWN8",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-08",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T01:45:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Level 2 Departmental Building, 37 Chapel Street   Masterton  5810",
     "distanceInMeters": 68550.56052639,
     "extId": "a0R4a000000Pd7IEAS",
@@ -19801,6 +19863,31 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T21:30:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "28 Church Street   Te Aroha  3320",
+    "distanceInMeters": 43186.77049644,
+    "extId": "a0R4a000000Skr3EAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-26",
+    "endDate": "2022-06-30",
+    "location": {
+      "lng": 175.712,
+      "lat": -37.5412
+    },
+    "name": "Health Te Aroha",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://www.google.com/maps/place/Health+Te+Aroha/@-37.5412212,175.709902,17z/data=!4m5!3m4!1s0x6d6d98931798bb3d:0x1d7ea47f01ee8076!8m2!3d-37.5412212!4d175.7120907",
+    "tags": [],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-12-02T00:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
