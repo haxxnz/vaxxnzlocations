@@ -8168,6 +8168,54 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "8 Coquet Street   Oamaru  9400",
+    "distanceInMeters": 240.46080629,
+    "extId": "a0R4a000000QZMNEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-01",
+    "endDate": "2022-01-31",
+    "location": {
+      "lng": 170.97,
+      "lat": -45.0977
+    },
+    "name": "Oamaru - Oamaru Doctors",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "13:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/Uhj1yoSkd3fSotoA6",
+    "tags": [
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-18",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-23T00:40:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "32 Ribble Street   Oamaru  6400",
     "distanceInMeters": 0.4221203,
     "extId": "a0R4a000000QZNHEA4",
