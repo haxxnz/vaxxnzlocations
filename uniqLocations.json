@@ -293,7 +293,7 @@
   },
   {
     "displayAddress": "348 Lincoln Road Addington  Christchurch  8024",
-    "distanceInMeters": 19155.19959684,
+    "distanceInMeters": 3420.43409129,
     "extId": "a0R4a000000P74DEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-11",
@@ -5050,38 +5050,38 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
       }
     ],
     "description": "The site is located at 6/29 Totara Street, Taupo,  directly across the road from the Taupo Hospice Shop in the Totara Point Shopping Centre, Taupo",
@@ -5197,38 +5197,38 @@
     "openHours": [
       {
         "days": [
-          "wed"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "07:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "17:15:00"
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "16:00:00"
+        "localStart": "08:00:00",
+        "localEnd": "16:15:00"
       }
     ],
     "description": "Next to Noel Leeming",
@@ -54358,47 +54358,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-22T20:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "96 College Street   Palmerston North  4412",
-    "distanceInMeters": 5703.93637093,
-    "extId": "a0R4a000000YdzLEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-18",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 175.592,
-      "lat": -40.3732
-    },
-    "name": "Unichem Awapuni Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/jgiJQ7pEv94Xuewv9",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-11-08",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-25T01:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
