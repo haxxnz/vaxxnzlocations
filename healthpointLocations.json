@@ -3070,7 +3070,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"cbaea6aaa2a78baca4b9aea6aeafa2a8aaa7e5a8a4e5a5b1\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"650008040c0925020a17000800010c0604094b060a4b0b1f\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -12291,31 +12291,6 @@
       "exceptions": {
         "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov)."
       },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.936480726107,
-    "lng": 174.88073937837842,
-    "name": "Highbrook Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "31 Highbrook Drive, East Tāmaki, Auckland",
-    "telephone": "(09) 212 2000",
-    "faxNumber": "(09) 399 2454",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/highbrook-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -28714,6 +28689,32 @@
       "exceptions": {
         "Public Holidays": "Open on all public holidays.."
       },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.936480726107,
+    "lng": 174.88073937837842,
+    "name": "Highbrook Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 2:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "31 Highbrook Drive, East Tāmaki, Auckland",
+    "telephone": "(09) 212 2000",
+    "faxNumber": "(09) 399 2454",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/highbrook-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 2:00 PM"
+      },
+      "exceptions": {},
       "notesHtml": []
     }
   }
