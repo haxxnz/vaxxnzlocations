@@ -2592,35 +2592,6 @@
     }
   },
   {
-    "lat": -45.0304524,
-    "lng": 168.6578617,
-    "name": "Queenstown Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Cnr Brecon Street & Isle Street, Queenstown",
-    "telephone": "(03) 441 0590",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/queenstown-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 6:00 PM",
-        "Sat – Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays.."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -46.10132460000001,
     "lng": 168.9438404,
     "name": "Unichem Quins Gore Pharmacy",
@@ -2860,38 +2831,6 @@
         "Phone the practice on 417 8226. Your call will be diverted to our after hours service where a Registered Nurse will provide you with advise and assistance. This means that you always have access to medical care – 24 hours a day, 365 days a year.",
         "The Milton Medical Centre’s after hours is covered by Clutha Health First in Balclutha. You will be advised how to access Clutha Health First. Please follow the instructions.",
         "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -45.8828617,
-    "lng": 170.34706919999996,
-    "name": "Mosgiel Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "21 Inglis Street, Mosgiel",
-    "telephone": "(03) 489 5135",
-    "faxNumber": "(03) 489 7700",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mosgiel-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct). Open Otago Anniversary (21 Mar)."
-      },
-      "notesHtml": [
-        "<em>After Hours Week Nights - 6pm-10pm</em>",
-        "<em>After Hours Weekends&nbsp;&amp; Public Holidays - 8am - 10pm</em>",
-        "Phone message gives you the option&nbsp;to either speak to Health-line or the on-call GP until 10pm.&nbsp; From 10pm until 8am the following morning&nbsp;please contact the Dunedin ED.",
-        "<strong>There is an urgent doctor available from 10am - 10pm on all of the public holidays (25th - 28th December, 1 - 4 January).&nbsp;</strong>"
       ]
     }
   },
@@ -23783,7 +23722,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a6c3cbc7cfcae6c1c9d4c3cbc3c2cfc5c7ca88c5c988c8dc\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"583d35393134183f372a3d353d3c313b3934763b37763622\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -28589,6 +28528,38 @@
     }
   },
   {
+    "lat": -45.8828617,
+    "lng": 170.34706919999996,
+    "name": "Mosgiel Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "21 Inglis Street, Mosgiel",
+    "telephone": "(03) 489 5135",
+    "faxNumber": "(03) 489 7700",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mosgiel-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": [
+        "<em>After Hours Week Nights - 6pm-10pm</em>",
+        "<em>After Hours Weekends&nbsp;&amp; Public Holidays - 8am - 10pm</em>",
+        "Phone message gives you the option&nbsp;to either speak to Health-line or the on-call GP until 10pm.&nbsp; From 10pm until 8am the following morning&nbsp;please contact the Dunedin ED.",
+        "<strong>There is an urgent doctor available from 8am - 10pm on all of the public holidays (25th - 28th December, 1 - 4 January).&nbsp;</strong>"
+      ]
+    }
+  },
+  {
     "lat": -36.9048545,
     "lng": 174.68445129999998,
     "name": "The Doctors New Lynn",
@@ -28619,6 +28590,35 @@
         "<strong>Please note we have temporarily updated our opening hours due to the COVID 19 lockdown period.</strong>",
         "Closed Christmas Day. Closed Wednesday 1-2pm for staff training."
       ]
+    }
+  },
+  {
+    "lat": -45.0304524,
+    "lng": 168.6578617,
+    "name": "Queenstown Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Cnr Brecon Street & Isle Street, Queenstown",
+    "telephone": "(03) 441 0590",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/queenstown-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM",
+        "Sat – Sun": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Matariki (24 Jun). Open Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 4:00 PM), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
     }
   },
   {
