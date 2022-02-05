@@ -21719,7 +21719,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"5e3b333f37321e39312c3b333b3a373d3f32703d31703024\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"593c34383035193e362b3c343c3d303a3835773a36773723\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -28503,6 +28503,35 @@
     }
   },
   {
+    "lat": -37.738107,
+    "lng": 175.25274379999996,
+    "name": "Unichem Flagstaff Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "1158 River Road, Flagstaff, Hamilton",
+    "telephone": "(07) 854 0445",
+    "faxNumber": "(07) 854 1542",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-flagstaff-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -38.3343192,
     "lng": 175.15178400000002,
     "name": "Te Kuiti Medical Centre",
@@ -28702,32 +28731,36 @@
     }
   },
   {
-    "lat": -37.738107,
-    "lng": 175.25274379999996,
-    "name": "Unichem Flagstaff Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "lat": -36.9009175,
+    "lng": 174.8574874,
+    "name": "Panmure Medical Centre",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
       "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
+      "Make an appointment"
     ],
-    "address": "1158 River Road, Flagstaff, Hamilton",
-    "telephone": "(07) 854 0445",
-    "faxNumber": "(07) 854 1542",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-flagstaff-pharmacy/",
+    "address": "204 Queens Road, Panmure, Auckland",
+    "telephone": "(09) 570 4019",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/panmure-medical-centre/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 1:00 PM"
+        "Mon – Fri": "8:00 AM – 5:30 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
       },
-      "notesHtml": []
+      "notesHtml": [
+        "During Covid 19 the surgery will close at 5.30pm. You may receive a telephone consultation instead of face to face to reduce the risk of transmission. All appointments will be assessed by a Doctor or Nurse before the appointment is confirmed.&nbsp;",
+        "Due to Covid-19, we are now CLOSED on Saturdays, as well as on Sundays and Public Holidays",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
+        "&nbsp;"
+      ]
     }
   },
   {
@@ -28785,39 +28818,6 @@
       },
       "exceptions": {},
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.9009175,
-    "lng": 174.8574874,
-    "name": "Panmure Medical Centre",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "204 Queens Road, Panmure, Auckland",
-    "telephone": "(09) 570 4019",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/panmure-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "During Covid 19 the surgery will close at 5.30pm. You may receive a telephone consultation instead of face to face to reduce the risk of transmission. All appointments will be assessed by a Doctor or Nurse before the appointment is confirmed.&nbsp;",
-        "Due to Covid-19, we are now CLOSED on Saturdays, as well as on Sundays and Public Holidays",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
-        "&nbsp;"
-      ]
     }
   }
 ]
