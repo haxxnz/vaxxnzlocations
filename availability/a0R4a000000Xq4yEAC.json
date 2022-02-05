@@ -784,10 +784,6 @@
     ],
     "2022-03-01": [
       {
-        "localStartTime": "11:00:00",
-        "durationSeconds": 600
-      },
-      {
         "localStartTime": "11:10:00",
         "durationSeconds": 600
       },
@@ -857,6 +853,10 @@
       },
       {
         "localStartTime": "15:15:00",
+        "durationSeconds": 300
+      },
+      {
+        "localStartTime": "15:20:00",
         "durationSeconds": 300
       },
       {
@@ -3073,5 +3073,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-02-05T01:16:21.827Z"
+  "lastUpdatedAt": "2022-02-05T02:13:05.163Z"
 }
