@@ -30540,49 +30540,49 @@
         "days": [
           "sun"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:30:00"
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "18:00:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "09:30:00",
+        "localStart": "09:00:00",
         "localEnd": "18:00:00"
       }
     ],
@@ -30758,35 +30758,35 @@
         "days": [
           "fri"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "17:45:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "17:45:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "17:45:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "17:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "10:00:00",
+        "localStart": "09:00:00",
         "localEnd": "17:45:00"
       }
     ],
@@ -54749,45 +54749,52 @@
     "openHours": [
       {
         "days": [
+          "sun"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:30:00"
+      },
+      {
+        "days": [
           "wed"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "19:30:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "19:30:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "19:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "19:30:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "19:30:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "11:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "19:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/1YG2gRGY3EB95MdB6",
@@ -60405,6 +60412,13 @@
     "name": "Unichem Takanini Village Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
       {
         "days": [
           "fri"
