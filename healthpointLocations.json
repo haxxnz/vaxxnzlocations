@@ -21343,7 +21343,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"c0a5ada1a9ac80a7afb2a5ada5a4a9a3a1aceea3afeeaeba\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f59098949c99b5929a87909890919c969499db969adb9b8f\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -28954,6 +28954,67 @@
     }
   },
   {
+    "lat": -43.545762,
+    "lng": 172.601278,
+    "name": "Christchurch Arena",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "1:30 PM to 7:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Make an appointment",
+      "No appointment required",
+      "Drive through",
+      "Walk in"
+    ],
+    "address": "55 Jack Hinton Drive, Addington, Christchurch, Canterbury 8024",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/christchurch-arena-covid-19-vaccination-drive/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "1:30 PM – 7:30 PM",
+        "Sat – Sun": "11:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.7504733,
+    "lng": 175.279199,
+    "name": "Life Pharmacy Chartwell",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required"
+    ],
+    "address": "Chartwell Shopping Centre, 201 Hukanui Road, Chartwell, Hamilton",
+    "telephone": "(07) 855 6024",
+    "faxNumber": "(07) 855 6023",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-chartwell/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 6:00 PM",
+        "Thu": "9:00 AM – 9:00 PM",
+        "Fri – Sat": "9:00 AM – 6:00 PM",
+        "Sun": "10:00 AM – 5:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "Please note: During alert levels 3 and 4 pharmacy hours will differ. Monday to Friday 9am to 5pm, Saturdays 9am to 4pm and Sundays 10am to 4pm."
+      ]
+    }
+  },
+  {
     "lat": -37.7256849,
     "lng": 176.19264109999995,
     "name": "Welcome Bay Pharmacy",
@@ -29013,67 +29074,6 @@
         "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb, 8:30 AM – 3:55 PM)."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -43.545762,
-    "lng": 172.601278,
-    "name": "Christchurch Arena",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "1:30 PM to 7:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Make an appointment",
-      "No appointment required",
-      "Drive through",
-      "Walk in"
-    ],
-    "address": "55 Jack Hinton Drive, Addington, Christchurch, Canterbury 8024",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/christchurch-arena-covid-19-vaccination-drive/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "1:30 PM – 7:30 PM",
-        "Sat – Sun": "11:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.7504733,
-    "lng": 175.279199,
-    "name": "Life Pharmacy Chartwell",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
-    ],
-    "address": "Chartwell Shopping Centre, 201 Hukanui Road, Chartwell, Hamilton",
-    "telephone": "(07) 855 6024",
-    "faxNumber": "(07) 855 6023",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-chartwell/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 6:00 PM",
-        "Thu": "9:00 AM – 9:00 PM",
-        "Fri – Sat": "9:00 AM – 6:00 PM",
-        "Sun": "10:00 AM – 5:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Please note: During alert levels 3 and 4 pharmacy hours will differ. Monday to Friday 9am to 5pm, Saturdays 9am to 4pm and Sundays 10am to 4pm."
-      ]
     }
   }
 ]
