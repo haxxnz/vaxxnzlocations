@@ -15956,40 +15956,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "131 Middle Renwick Road   Blenheim  7201",
-    "distanceInMeters": 62506.46991261,
-    "extId": "a0R4a000000SKulEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-20",
-    "endDate": "2022-03-01",
-    "location": {
-      "lng": 173.935,
-      "lat": -41.5089
-    },
-    "name": "Unichem Springlands Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Unichem+Springlands+Pharmacy/@-41.5095193,173.9352229,15z/data=!4m12!1m6!3m5!1s0x0:0x20bd31a8df9b3dcf!2sUnichem+Springlands+Pharmacy!8m2!3d-41.5095278!4d173.9352235!3m4!1s0x0:0x20bd31a8df9b3dcf!8m2!3d-41.5095278!4d173.935",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T03:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "42 Oxford Street   Richmond  7020",
     "distanceInMeters": 5461.00863497,
     "extId": "a0R4a000000SKzREAW",
@@ -23462,126 +23428,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "105 Mana Esplanade, Paremata  Porirua  5026",
-    "distanceInMeters": 13409.93079415,
-    "extId": "a0R4a000000SrnxEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2022-03-30",
-    "location": {
-      "lng": 174.868,
-      "lat": -41.0927
-    },
-    "name": "Mana Vaccine Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:00:00"
-      }
-    ],
-    "description": "Mana Vaccine Clinic",
-    "mapUrl": "https://www.google.com/maps/place/D4/@-41.0927317,174.8660715,17z/data=!4m5!3m4!1s0x6d3f559df4289529:0xe5dc85096065b5c6!8m2!3d-41.0927349!4d174.8682623",
-    "tags": [
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-17",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Cnr Cambridge Road And Masters Avenue   Hamilton  3216",
     "distanceInMeters": 6161.99334104,
     "extId": "a0R4a000000Srq3EAC",
@@ -29531,49 +29377,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:24:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "1107 Heretaunga Street West St Leonards  Hastings  4120",
-    "distanceInMeters": 1674.68965462,
-    "extId": "a0R4a000000TPYBEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-17",
-    "endDate": "2022-02-18",
-    "location": {
-      "lng": 176.832,
-      "lat": -39.6305
-    },
-    "name": "Unichem Stortford Lodge Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "18:00:00"
-      }
-    ],
-    "description": "Pharmacy next to Hastings KFC",
-    "mapUrl": "https://goo.gl/maps/5U4ugsBJC6mVWh7M7",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-12",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T23:15:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -38618,41 +38421,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "84 Queen Street   Waimate  7924",
-    "distanceInMeters": 38968.96306117,
-    "extId": "a0R4a000000UDfdEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-29",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 171.047,
-      "lat": -44.7332
-    },
-    "name": "Waimate Medical Centre - Drive Through Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Drive Through Clinic",
-    "mapUrl": "https://www.google.com/maps/place/Waimate+Medical+Centre/@-44.7333491,171.0469667,15z/data=!4m5!3m4!1s0x0:0xf49be83e8d07c042!8m2!3d-44.7333491!4d171.0469667",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-08T03:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
