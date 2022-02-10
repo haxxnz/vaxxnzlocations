@@ -1855,23 +1855,6 @@
     }
   },
   {
-    "lat": -46.405535,
-    "lng": 168.3483666,
-    "name": "",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/60-victoria-avenue-avenal-invercargill/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -46.4095554,
     "lng": 168.34826339999995,
     "name": "",
@@ -14427,6 +14410,23 @@
     }
   },
   {
+    "lat": -46.405535,
+    "lng": 168.3483666,
+    "name": "",
+    "branch": "primary",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/60-victoria-avenue-avenal-invercargill/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -41.2617759,
     "lng": 174.7745205,
     "name": "Wadestown Medical Practice",
@@ -25887,7 +25887,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"3f5a525e56537f58504d5a525a5b565c5e53115c50115145\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"b5d0d8d4dcd9f5d2dac7d0d8d0d1dcd6d4d99bd6da9bdbcf\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -28938,6 +28938,68 @@
     }
   },
   {
+    "lat": -45.0304524,
+    "lng": 168.6578617,
+    "name": "Queenstown Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Cnr Brecon Street & Isle Street, Queenstown",
+    "telephone": "(03) 441 0590",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/queenstown-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM",
+        "Sat – Sun": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Matariki (24 Jun). Open Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 4:00 PM), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.8097745,
+    "lng": 174.7272158,
+    "name": "VECA Medical Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "225 Onewa Road, Birkenhead, Auckland",
+    "telephone": "(09) 553 9950",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/veca-medical-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "9:00 AM – 6:00 PM",
+        "Fri – Sat": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - Glenfield."
+      },
+      "notesHtml": [
+        "Offers COVID swabbing for surveillance and travel on all opening days.",
+        "Close on public holiday and Sunday."
+      ]
+    }
+  },
+  {
     "lat": -35.1144128,
     "lng": 173.2659045,
     "name": "Kaitaia COVID-19 Vaccination &amp; Testing Centre",
@@ -29075,68 +29137,6 @@
         "<strong>NO BOOKING REQUIRED</strong>",
         "AstraZeneca, Booster doses and 5-11 year old Vaccinations by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
         "Subject to change.&nbsp;&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -45.0304524,
-    "lng": 168.6578617,
-    "name": "Queenstown Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Cnr Brecon Street & Isle Street, Queenstown",
-    "telephone": "(03) 441 0590",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/queenstown-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 6:00 PM",
-        "Sat – Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Matariki (24 Jun). Open Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 4:00 PM), Otago Anniversary (21 Mar), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.8097745,
-    "lng": 174.7272158,
-    "name": "VECA Medical Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "225 Onewa Road, Birkenhead, Auckland",
-    "telephone": "(09) 553 9950",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/veca-medical-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "9:00 AM – 6:00 PM",
-        "Fri – Sat": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "White Cross Urgent Care & GP - Glenfield."
-      },
-      "notesHtml": [
-        "Offers COVID swabbing for surveillance and travel on all opening days.",
-        "Close on public holiday and Sunday."
       ]
     }
   }
