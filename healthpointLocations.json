@@ -16766,33 +16766,6 @@
     }
   },
   {
-    "lat": -41.2069807,
-    "lng": 174.9090734,
-    "name": "Hutt City Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "1/5 Raroa Road, Hutt Central, Lower Hutt",
-    "telephone": "(04) 566 6666",
-    "faxNumber": "(04) 566 6066",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/hutt-city-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -41.1216639,
     "lng": 175.073129,
     "name": "Unichem Upper Hutt Health Pharmacy",
@@ -19042,7 +19015,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"dabfb7bbb3b69abdb5a8bfb7bfbeb3b9bbb6f4b9b5f4b4a0\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"b2d7dfd3dbdef2d5ddc0d7dfd7d6dbd1d3de9cd1dd9cdcc8\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -28352,35 +28325,6 @@
     }
   },
   {
-    "lat": -39.64322249999999,
-    "lng": 176.8354083,
-    "name": "Hastings Racecourse",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "300 Prospect Road, Raureka, Hastings, Hawke's Bay 4120",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hastings-racecourse-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Thu": "8:30 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "To see a list of all clinics within Hawke's Bay please follow the link below and click on the \"whats on where\" image",
-        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
-      ]
-    }
-  },
-  {
     "lat": -41.2225465,
     "lng": 174.9248642,
     "name": "Waiwhetu Sports and Fitness Centre",
@@ -29268,6 +29212,38 @@
     }
   },
   {
+    "lat": -39.64322249999999,
+    "lng": 176.8354083,
+    "name": "Hastings Racecourse",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "300 Prospect Road, Raureka, Hastings, Hawke's Bay 4120",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hastings-racecourse-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Thu": "8:30 AM – 4:30 PM",
+        "Sun": "10:00 AM – 3:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "Please note Sunday 13 Feb is an Essential Workers Clinic",
+        "&nbsp;",
+        "To see a list of all clinics within Hawke's Bay please follow the link below and click on the \"whats on where\" image",
+        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
+      ]
+    }
+  },
+  {
     "lat": -44.4014388,
     "lng": 171.25162420000004,
     "name": "Roberts Pharmacy",
@@ -29296,6 +29272,33 @@
         "COVID vaccinations and Rapid Antigen Test are only available Monday to Friday 9am to 5pm or by prior arrangement please.",
         "Phone 03 6889156 for further information."
       ]
+    }
+  },
+  {
+    "lat": -41.2069807,
+    "lng": 174.9090734,
+    "name": "Hutt City Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "By invitation only",
+      "Walk in"
+    ],
+    "address": "1/5 Raroa Road, Hutt Central, Lower Hutt",
+    "telephone": "(04) 566 6666",
+    "faxNumber": "(04) 566 6066",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/hutt-city-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan)."
+      },
+      "notesHtml": []
     }
   }
 ]
