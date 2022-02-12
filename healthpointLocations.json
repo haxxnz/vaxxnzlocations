@@ -19945,31 +19945,6 @@
     }
   },
   {
-    "lat": -43.53013199999999,
-    "lng": 172.5718778,
-    "name": "20 Brake Street",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "20 Brake Street, Upper Riccarton, Christchurch, Canterbury 8041",
-    "telephone": "(03) 343 3661",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/riccarton-covid-19-vaccination-clinic/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.9148413,
     "lng": 174.80111750000003,
     "name": "Unichem Mt Smart Pharmacy",
@@ -24829,7 +24804,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a2c7cfc3cbcee2c5cdd0c7cfc7c6cbc1c3ce8cc1cd8cccd8\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"abcec6cac2c7ebccc4d9cec6cecfc2c8cac785c8c485c5d1\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -28648,37 +28623,6 @@
     }
   },
   {
-    "lat": -41.1254813,
-    "lng": 175.058222,
-    "name": "Unichem Upper Hutt Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "723 Fergusson Drive, Elderslea, Upper Hutt",
-    "telephone": "(04) 528 4405",
-    "faxNumber": "(04) 528 4406",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-upper-hutt-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:30 PM",
-        "Sat – Sun": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan). Open Easter Monday (18 Apr, 9:00 AM – 3:00 PM), ANZAC Day (25 Apr, 9:00 AM – 3:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -44.4014388,
     "lng": 171.25162420000004,
     "name": "Roberts Pharmacy",
@@ -29218,6 +29162,37 @@
     }
   },
   {
+    "lat": -41.1254813,
+    "lng": 175.058222,
+    "name": "Unichem Upper Hutt Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "723 Fergusson Drive, Elderslea, Upper Hutt",
+    "telephone": "(04) 528 4405",
+    "faxNumber": "(04) 528 4406",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-upper-hutt-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:30 PM",
+        "Sat – Sun": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan). Open Easter Monday (18 Apr, 9:00 AM – 3:00 PM), ANZAC Day (25 Apr, 9:00 AM – 3:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -37.2068112,
     "lng": 175.87129230000005,
     "name": "Whangamatā Pharmacy",
@@ -29245,6 +29220,31 @@
       "notesHtml": [
         "Extended Summer Hours"
       ]
+    }
+  },
+  {
+    "lat": -43.53013199999999,
+    "lng": 172.5718778,
+    "name": "20 Brake Street",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "20 Brake Street, Upper Riccarton, Christchurch, Canterbury 8041",
+    "telephone": "(03) 343 3661",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/riccarton-covid-19-vaccination-clinic/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
     }
   }
 ]
