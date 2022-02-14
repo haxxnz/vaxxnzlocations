@@ -1,5 +1,11 @@
 {
   "availabilityDates": {
+    "2022-02-15": [
+      {
+        "localStartTime": "10:00:00",
+        "durationSeconds": 900
+      }
+    ],
     "2022-02-22": [
       {
         "localStartTime": "10:45:00",
@@ -7,6 +13,10 @@
       },
       {
         "localStartTime": "11:15:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "11:45:00",
         "durationSeconds": 900
       },
       {
@@ -2359,5 +2369,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-02-14T19:37:49.043Z"
+  "lastUpdatedAt": "2022-02-14T20:23:52.432Z"
 }
