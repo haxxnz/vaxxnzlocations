@@ -5101,7 +5101,7 @@
   },
   {
     "displayAddress": "The Old Warehouse Building, 11 Matthews Avenue, Kaitaia  410",
-    "distanceInMeters": 140.51805151,
+    "distanceInMeters": 63733.72195864,
     "extId": "a0R4a000000QDrAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-10",
@@ -21966,40 +21966,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "28 Church Street   Te Aroha  3320",
-    "distanceInMeters": 38942.43396719,
-    "extId": "a0R4a000000Skr3EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-26",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 175.712,
-      "lat": -37.5412
-    },
-    "name": "Health Te Aroha",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Health+Te+Aroha/@-37.5412212,175.709902,17z/data=!4m5!3m4!1s0x6d6d98931798bb3d:0x1d7ea47f01ee8076!8m2!3d-37.5412212!4d175.7120907",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-30",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-02T00:50:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "6427 State Highway 27, Waharoa  3474",
     "distanceInMeters": 33072.11526483,
     "extId": "a0R4a000000SlAoEAK",
@@ -27728,7 +27694,7 @@
   },
   {
     "displayAddress": "15 Mackenzie Drive   Twizel  7910",
-    "distanceInMeters": 60238.14966264,
+    "distanceInMeters": 0.16756394,
     "extId": "a0R4a000000TDDYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -39163,7 +39129,7 @@
   },
   {
     "displayAddress": "53 Commerce Street   Kaitaia  410",
-    "distanceInMeters": 0.57963098,
+    "distanceInMeters": 63837.01505784,
     "extId": "a0R4a000000UOukEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -51745,6 +51711,90 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-21T20:40:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Shop 125, North city shopping centre, 2 Titahi Bay Road   Porirua  5022",
+    "distanceInMeters": 29239.98926284,
+    "extId": "a0R4a000000VwI4EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-28",
+    "endDate": "2022-02-28",
+    "location": {
+      "lng": 174.841,
+      "lat": -41.1372
+    },
+    "name": "Life Pharmacy North City",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/BLQSDAPBE3QWcgiY7",
+    "tags": [
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-09-22",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T21:15:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
