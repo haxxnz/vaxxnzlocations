@@ -10029,7 +10029,9 @@
     "faxNumber": "(03) 441 8874",
     "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mountain-lakes-medical/at/mountain-lakes-medical-mobile-covid-testing/",
     "opennningHours": {
-      "schedule": {},
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:00 PM"
+      },
       "exceptions": {},
       "notesHtml": []
     }
@@ -10250,7 +10252,7 @@
     "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/northcote-family-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "9:00 AM – 6:00 PM",
+        "Mon – Fri": "8:30 AM – 5:30 PM",
         "Sat": "9:00 AM – 2:00 PM"
       },
       "exceptions": {
@@ -17521,46 +17523,6 @@
     }
   },
   {
-    "lat": -40.3582214,
-    "lng": 175.6124109,
-    "name": "Palmerston North Central Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "38 Fitzherbert Avenue, Palmerston North 4410",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-central-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "8:30 AM – 4:00 PM",
-        "Thu": "8:30 AM – 6:00 PM",
-        "Fri – Sun": "8:30 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb, 8:30 AM – 4:00 PM), Wellington Anniversary (23 Jan, 8:30 AM – 4:00 PM)."
-      },
-      "notesHtml": [
-        "&nbsp;",
-        "Walk ins are welcome for Pfizer. <strong>We encourage you to book</strong> to avoid queuing.&nbsp;",
-        "&nbsp;",
-        "<strong>Thursday 17th</strong>&nbsp;February<strong>&nbsp;<em>late night</em> </strong>open till <strong>6pm</strong>",
-        "&nbsp;",
-        "&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -39.52287729999999,
     "lng": 176.8687281,
     "name": "Unichem Greenmeadows Pharmacy",
@@ -17982,7 +17944,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"5f3a323e36331f38302d3a323a3b363c3e33713c30713125\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ddb8b0bcb4b19dbab2afb8b0b8b9b4bebcb1f3beb2f3b3a7\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -27743,6 +27705,205 @@
     }
   },
   {
+    "lat": -37.9499045,
+    "lng": 177.0003272,
+    "name": "Whakatāne Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 3:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "11 Quay Street, Whakatāne, Bay of Plenty 3120",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/eastern-bay-of-plenty-covid-19-vaccination/at/whakatane-vaccination-centre-11-quay-street/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "8:00 AM – 3:30 PM",
+        "Wed": "11:00 AM – 7:00 PM",
+        "Thu – Sun": "8:00 AM – 3:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 3:30 PM), Auckland Anniversary (30 Jan, 8:00 AM – 3:00 PM)."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -38.0865135,
+    "lng": 176.7017669,
+    "name": "Ranfurly Court Concert Chambers",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Kawerau, Bay of Plenty 3127",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/eastern-bay-of-plenty-covid-19-vaccination/at/ranfurly-court-concert-chambers-kawerau-3127/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "9:30 AM – 4:00 PM",
+        "Wed": "1:00 PM – 7:00 PM",
+        "Sat": "9:30 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<span style=\"text-decoration: underline;\"><strong>The Kawerau Concert Chambers vaccination clinic will be closed on: 19/02/2022 (SATURDAY)&nbsp;</strong></span>",
+        "There will be a drive through vaccination centre at the Ron Hardy Recreation Centre on Onslow Street on the day.&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -35.7273362,
+    "lng": 174.3172539,
+    "name": "Whāngarei - 5 Waltons St",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
+    "telephone": "0800 272 4842",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:00 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Northland Anniversary (30 Jan, 9:00 AM – 4:00 PM)."
+      },
+      "notesHtml": [
+        "<strong>WE&nbsp; VACCINATE ADULTS (Ages 12+) &amp; TAMARIKI (Ages 5 to 11yrs)</strong>",
+        "<strong>&nbsp;Just Walk In</strong>",
+        "<strong>OPEN EVERY DAY Monday to Saturday</strong>",
+        "<strong>But you can also book by phoning 0800 272 4842&nbsp;</strong>",
+        "<strong>Mask wearing is mandatory, unless you have an exemption</strong>",
+        "<strong>&nbsp;</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.3788153,
+    "lng": 174.06360510000002,
+    "name": "2-4 Rayner Street",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 2:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "2-4 Rayner Street, Kawakawa, Northland 0210",
+    "telephone": "0800 272 4842",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/2-4-rayner-street-kawakawa/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "10:00 AM – 2:00 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>Everyone aged 12+</strong> can get vaccinated from <strong>Monday to Friday</strong> between <strong>10am and 2pm</strong>",
+        "<strong>Tamariki&nbsp;</strong>can get vaccinated from <strong>Tuesday to Thursday</strong> between&nbsp;<strong>2pm and 4pm</strong>",
+        "<strong>Both Adults &amp; Tamariki </strong>can get vaccinated on&nbsp;<strong>Saturdays&nbsp;</strong>between&nbsp;<strong>9am and 1pm</strong>",
+        "&nbsp;",
+        "We are located at our KAWAKAWA BASE (next to Caltex)",
+        "NO APPOINTMENT IS NECESSARY",
+        "<strong>&nbsp;</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -39.62600339999999,
+    "lng": 176.7845644,
+    "name": "Flaxmere COVID-19 Vaccination Drive Thru",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through",
+      "Walk in"
+    ],
+    "address": "Caernarvon Drive, Flaxmere, Hastings, Hawke's Bay 4120",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/flaxmere-covid-19-vaccination-drive-thru-1/",
+    "opennningHours": {
+      "schedule": {
+        "Sun": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.6750439,
+    "lng": 176.222781,
+    "name": "Life Pharmacy Bayfair",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Bayfair Shopping Centre, Cnr Maunganui Road & Girven Road, Mount Maunganui",
+    "telephone": "(07) 575 0476",
+    "faxNumber": "(07) 575 4146",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-bayfair/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 6:00 PM",
+        "Thu – Fri": "9:00 AM – 9:00 PM",
+        "Sat – Sun": "9:00 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr). Open Waitangi Day (Observed 7/2/22) (7 Feb, 9:00 AM – 6:00 PM), Easter Sunday (17 Apr, 9:00 AM – 6:00 PM), Easter Monday (18 Apr, 9:00 AM – 6:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Queen's Birthday (6 Jun, 9:00 AM – 6:00 PM), Matariki (24 Jun, 9:00 AM – 6:00 PM), Labour Day (24 Oct, 9:00 AM – 6:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 6:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -42.4497378,
     "lng": 171.2106761,
     "name": "Unichem Olsen's Pharmacy",
@@ -29360,205 +29521,6 @@
     }
   },
   {
-    "lat": -37.9499045,
-    "lng": 177.0003272,
-    "name": "Whakatāne Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 3:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "11 Quay Street, Whakatāne, Bay of Plenty 3120",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/eastern-bay-of-plenty-covid-19-vaccination/at/whakatane-vaccination-centre-11-quay-street/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "8:00 AM – 3:30 PM",
-        "Wed": "11:00 AM – 7:00 PM",
-        "Thu – Sun": "8:00 AM – 3:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb, 10:00 AM – 3:30 PM), Auckland Anniversary (30 Jan, 8:00 AM – 3:00 PM)."
-      },
-      "notesHtml": [
-        "&nbsp;",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -38.0865135,
-    "lng": 176.7017669,
-    "name": "Ranfurly Court Concert Chambers",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Kawerau, Bay of Plenty 3127",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/eastern-bay-of-plenty-covid-19-vaccination/at/ranfurly-court-concert-chambers-kawerau-3127/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "9:30 AM – 4:00 PM",
-        "Wed": "1:00 PM – 7:00 PM",
-        "Sat": "9:30 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<span style=\"text-decoration: underline;\"><strong>The Kawerau Concert Chambers vaccination clinic will be closed on: 19/02/2022 (SATURDAY)&nbsp;</strong></span>",
-        "There will be a drive through vaccination centre at the Ron Hardy Recreation Centre on Onslow Street on the day.&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -35.7273362,
-    "lng": 174.3172539,
-    "name": "Whāngarei - 5 Waltons St",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "5 Walton Street, Avenues, Whangārei, Northland 0110",
-    "telephone": "0800 272 4842",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/whangarei-5-waltons-st-whangarei/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:00 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Northland Anniversary (30 Jan, 9:00 AM – 4:00 PM)."
-      },
-      "notesHtml": [
-        "<strong>WE&nbsp; VACCINATE ADULTS (Ages 12+) &amp; TAMARIKI (Ages 5 to 11yrs)</strong>",
-        "<strong>&nbsp;Just Walk In</strong>",
-        "<strong>OPEN EVERY DAY Monday to Saturday</strong>",
-        "<strong>But you can also book by phoning 0800 272 4842&nbsp;</strong>",
-        "<strong>Mask wearing is mandatory, unless you have an exemption</strong>",
-        "<strong>&nbsp;</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.3788153,
-    "lng": 174.06360510000002,
-    "name": "2-4 Rayner Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 2:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "2-4 Rayner Street, Kawakawa, Northland 0210",
-    "telephone": "0800 272 4842",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-hine-health-trust-covid-19-vaccination/at/2-4-rayner-street-kawakawa/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "10:00 AM – 2:00 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>Everyone aged 12+</strong> can get vaccinated from <strong>Monday to Friday</strong> between <strong>10am and 2pm</strong>",
-        "<strong>Tamariki&nbsp;</strong>can get vaccinated from <strong>Tuesday to Thursday</strong> between&nbsp;<strong>2pm and 4pm</strong>",
-        "<strong>Both Adults &amp; Tamariki </strong>can get vaccinated on&nbsp;<strong>Saturdays&nbsp;</strong>between&nbsp;<strong>9am and 1pm</strong>",
-        "&nbsp;",
-        "We are located at our KAWAKAWA BASE (next to Caltex)",
-        "NO APPOINTMENT IS NECESSARY",
-        "<strong>&nbsp;</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -39.62600339999999,
-    "lng": 176.7845644,
-    "name": "Flaxmere COVID-19 Vaccination Drive Thru",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through",
-      "Walk in"
-    ],
-    "address": "Caernarvon Drive, Flaxmere, Hastings, Hawke's Bay 4120",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/flaxmere-covid-19-vaccination-drive-thru-1/",
-    "opennningHours": {
-      "schedule": {
-        "Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.6750439,
-    "lng": 176.222781,
-    "name": "Life Pharmacy Bayfair",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Bayfair Shopping Centre, Cnr Maunganui Road & Girven Road, Mount Maunganui",
-    "telephone": "(07) 575 0476",
-    "faxNumber": "(07) 575 4146",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/life-pharmacy-bayfair/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 6:00 PM",
-        "Thu – Fri": "9:00 AM – 9:00 PM",
-        "Sat – Sun": "9:00 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr). Open Waitangi Day (Observed 7/2/22) (7 Feb, 9:00 AM – 6:00 PM), Easter Sunday (17 Apr, 9:00 AM – 6:00 PM), Easter Monday (18 Apr, 9:00 AM – 6:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Queen's Birthday (6 Jun, 9:00 AM – 6:00 PM), Matariki (24 Jun, 9:00 AM – 6:00 PM), Labour Day (24 Oct, 9:00 AM – 6:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 6:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -40.3581955,
     "lng": 175.6012431,
     "name": "Central Energy Trust ARENA DRIVE THROUGH : COVID-19 Vaccination",
@@ -29579,6 +29541,46 @@
       "exceptions": {},
       "notesHtml": [
         "Closed till further notice"
+      ]
+    }
+  },
+  {
+    "lat": -40.3582214,
+    "lng": 175.6124109,
+    "name": "Palmerston North Central Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 4:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "38 Fitzherbert Avenue, Palmerston North 4410",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-central-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "8:30 AM – 4:00 PM",
+        "Thu": "8:30 AM – 6:00 PM",
+        "Fri – Sun": "8:30 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb, 8:30 AM – 4:00 PM), Wellington Anniversary (23 Jan, 8:30 AM – 4:00 PM)."
+      },
+      "notesHtml": [
+        "&nbsp;",
+        "Walk ins are welcome for Pfizer. <strong>We encourage you to book</strong> to avoid queuing.&nbsp;",
+        "&nbsp;",
+        "<strong>Thursday 17th</strong>&nbsp;February<strong>&nbsp;<em>late night</em> </strong>open till <strong>6pm</strong>",
+        "&nbsp;",
+        "&nbsp;",
+        "&nbsp;"
       ]
     }
   }
