@@ -28921,6 +28921,49 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "1107 Heretaunga Street West St Leonards  Hastings  4120",
+    "distanceInMeters": 12327.41004237,
+    "extId": "a0R4a000000TPYBEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-17",
+    "endDate": "2022-02-18",
+    "location": {
+      "lng": 176.832,
+      "lat": -39.6305
+    },
+    "name": "Unichem Stortford Lodge Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "description": "Pharmacy next to Hastings KFC",
+    "mapUrl": "https://goo.gl/maps/5U4ugsBJC6mVWh7M7",
+    "tags": [
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T23:15:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "1 Upland Road Kelburn  Wellington  6012",
     "distanceInMeters": 2993.18633705,
     "extId": "a0R4a000000TQHSEA4",
