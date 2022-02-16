@@ -1938,7 +1938,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 68184.77798378,
+    "distanceInMeters": 341.02504314,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -2047,133 +2047,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:40:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "94 Rolleston Drive   Rolleston  7614",
-    "distanceInMeters": 27479.66864817,
-    "extId": "a0R4a000000Q4pnEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2022-02-08",
-    "endDate": "2022-02-28",
-    "location": {
-      "lng": 172.38,
-      "lat": -43.5977
-    },
-    "name": "Rolleston Community Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "19:00:00"
-      }
-    ],
-    "description": "Walk-ins Available\r\n\r\nAccess to Clinic via Back Entrance following signage. \r\nMain Entrance will be closed.\r\n\r\nCarparking on grass area adjacent.",
-    "mapUrl": "https://goo.gl/maps/iqaRzWCYANXQPosTA",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-02-03",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -3621,119 +3494,6 @@
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-10",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "260 Botany Road Golflands  Auckland  2013",
-    "distanceInMeters": 2509.45880729,
-    "extId": "a0R4a000000QD47EAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-20",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 174.913,
-      "lat": -36.9221
-    },
-    "name": "East Care Urgent Care Clinic",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "13:00:00"
-      }
-    ],
-    "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - noise only - available on request",
-    "mapUrl": "https://goo.gl/maps/EAv2rine18oLW9Ut5",
-    "tags": [
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
         "isSystemTag": false
       },
       {
@@ -6093,7 +5853,7 @@
   },
   {
     "displayAddress": "295 Palmerston Road, Gisborne  4010",
-    "distanceInMeters": 245.44152147,
+    "distanceInMeters": 0.25764527,
     "extId": "a0R4a000000QNR1EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-19",
@@ -6326,7 +6086,7 @@
   },
   {
     "displayAddress": "253 Queen Street Richmond  Tasman  7020",
-    "distanceInMeters": 8449.54490285,
+    "distanceInMeters": 5386.78092974,
     "extId": "a0R4a000000QS2VEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -6411,7 +6171,7 @@
   },
   {
     "displayAddress": "16 Paru Paru Road   Nelson  7010",
-    "distanceInMeters": 2987.47087586,
+    "distanceInMeters": 5945.55582699,
     "extId": "a0R4a000000QSDxEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -8453,7 +8213,7 @@
   },
   {
     "displayAddress": "65 SCOTLAND STREET   Roxburgh  9500",
-    "distanceInMeters": 31835.49639914,
+    "distanceInMeters": 68548.91944172,
     "extId": "a0R4a000000QWQqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-09",
@@ -10404,7 +10164,7 @@
   },
   {
     "displayAddress": "18 Woollcombe Street, Timaru 7910",
-    "distanceInMeters": 2545.39568727,
+    "distanceInMeters": 67428.17022326,
     "extId": "a0R4a000000Qf41EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -10789,7 +10549,7 @@
   },
   {
     "displayAddress": "73 Wilson Street   Geraldine  7930",
-    "distanceInMeters": 32673.94557503,
+    "distanceInMeters": 45980.7941241,
     "extId": "a0R4a000000QvtIEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -11657,7 +11417,7 @@
   },
   {
     "displayAddress": "248 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 68031.25943237,
+    "distanceInMeters": 0.4056226,
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -11911,7 +11671,7 @@
   },
   {
     "displayAddress": "Goldfields Shopping Centre, 100 Mary Street   Thames  3500",
-    "distanceInMeters": 67440.32551932,
+    "distanceInMeters": 520.62491623,
     "extId": "a0R4a000000Rfp4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-27",
@@ -14966,7 +14726,7 @@
   },
   {
     "displayAddress": "10 Graham Street   Tinwald  7700",
-    "distanceInMeters": 65321.3252316,
+    "distanceInMeters": 2862.06156765,
     "extId": "a0R4a000000SJyIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -15840,7 +15600,7 @@
   },
   {
     "displayAddress": "172 St Vincent Street, Toi Toi  Nelson  7010",
-    "distanceInMeters": 1697.03539741,
+    "distanceInMeters": 4359.31737694,
     "extId": "a0R4a000000SKr3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -15874,7 +15634,7 @@
   },
   {
     "displayAddress": "546 Pollen Steet, Thames, Waikato 3500",
-    "distanceInMeters": 67577.80886762,
+    "distanceInMeters": 277.76885239,
     "extId": "a0R4a000000SKrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -15992,7 +15752,7 @@
   },
   {
     "displayAddress": "42 Oxford Street   Richmond  7020",
-    "distanceInMeters": 8552.75070088,
+    "distanceInMeters": 5461.00863497,
     "extId": "a0R4a000000SKzREAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-05",
@@ -16322,7 +16082,7 @@
   },
   {
     "displayAddress": "4 Edward Street   Wakefield  7025",
-    "distanceInMeters": 22185.28310221,
+    "distanceInMeters": 19350.07247769,
     "extId": "a0R4a000000SLPGEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -16356,7 +16116,7 @@
   },
   {
     "displayAddress": "125 High Street, Motueka   Motueka  7120",
-    "distanceInMeters": 27553.41254392,
+    "distanceInMeters": 29091.92347615,
     "extId": "a0R4a000000SLUfEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-25",
@@ -16511,7 +16271,7 @@
   },
   {
     "displayAddress": "162 High Street   Motueka  7120",
-    "distanceInMeters": 27526.55474266,
+    "distanceInMeters": 29053.91497789,
     "extId": "a0R4a000000SLctEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -16588,7 +16348,7 @@
   },
   {
     "displayAddress": "2/105 Collingwood Street   Nelson  7010",
-    "distanceInMeters": 3253.10583794,
+    "distanceInMeters": 5918.93736805,
     "extId": "a0R4a000000SLg7EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -16659,7 +16419,7 @@
   },
   {
     "displayAddress": "179 High Street   Motueka  7120",
-    "distanceInMeters": 27453.33377336,
+    "distanceInMeters": 28980.40855077,
     "extId": "a0R4a000000SLiXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -16722,7 +16482,7 @@
   },
   {
     "displayAddress": "11 Tahunanui Driive Nelson  7011",
-    "distanceInMeters": 0.39929797,
+    "distanceInMeters": 3422.58648394,
     "extId": "a0R4a000000SLnhEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -16792,7 +16552,7 @@
   },
   {
     "displayAddress": "17 Commercial Street   Takaka  7110",
-    "distanceInMeters": 59836.98213809,
+    "distanceInMeters": 61692.30358219,
     "extId": "a0R4a000000SLofEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -16841,7 +16601,7 @@
   },
   {
     "displayAddress": "470 Main Road Stoke Stoke  Nelson  7011",
-    "distanceInMeters": 3422.59770309,
+    "distanceInMeters": 0.51727499,
     "extId": "a0R4a000000SLwAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -16891,7 +16651,7 @@
   },
   {
     "displayAddress": "62 Aranui Road   Best Island  7005",
-    "distanceInMeters": 13250.00096884,
+    "distanceInMeters": 13309.03841197,
     "extId": "a0R4a000000SLzEEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -17262,7 +17022,7 @@
   },
   {
     "displayAddress": "80 Kapanga Road   Coromandel  3506",
-    "distanceInMeters": 41275.04965381,
+    "distanceInMeters": 42187.54951432,
     "extId": "a0R4a000000SOnsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -20729,7 +20489,7 @@
   },
   {
     "displayAddress": "93 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 69524.62951853,
+    "distanceInMeters": 2411.23171229,
     "extId": "a0R4a000000SY8yEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -20842,7 +20602,7 @@
   },
   {
     "displayAddress": "64 Albert Street   Whitianga  3510",
-    "distanceInMeters": 22677.10811023,
+    "distanceInMeters": 36596.3346016,
     "extId": "a0R4a000000SaclEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -21544,7 +21304,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 2432.73701489,
+    "distanceInMeters": 67789.34489634,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -22898,7 +22658,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 139.70459177,
+    "distanceInMeters": 30976.9830036,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -23264,7 +23024,7 @@
   },
   {
     "displayAddress": "Ruapehu Street   Waiouru  4826",
-    "distanceInMeters": 34526.52514581,
+    "distanceInMeters": 25568.98527603,
     "extId": "a0R4a000000Sr5bEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-08",
@@ -23347,7 +23107,7 @@
   },
   {
     "displayAddress": "144 Salisbury Road   Richmond  7020",
-    "distanceInMeters": 7130.58491701,
+    "distanceInMeters": 3908.05299476,
     "extId": "a0R4a000000SsHtEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -24055,7 +23815,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 69515.44125828,
+    "distanceInMeters": 2333.38879961,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -25150,7 +24910,7 @@
   },
   {
     "displayAddress": "58 Albert Street Whitianga  Waikato  3510",
-    "distanceInMeters": 22625.77707405,
+    "distanceInMeters": 36559.75579524,
     "extId": "a0R4a000000Syg7EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -25475,7 +25235,7 @@
   },
   {
     "displayAddress": "133 Pah Street   Motueka  7120",
-    "distanceInMeters": 28344.08921832,
+    "distanceInMeters": 29775.39016673,
     "extId": "a0R4a000000Sz5AEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -26571,7 +26331,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 1119.44537885,
+    "distanceInMeters": 66927.60051322,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -28140,7 +27900,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 0.49181583,
+    "distanceInMeters": 30928.28485833,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -28857,7 +28617,7 @@
   },
   {
     "displayAddress": "817 Rolleston St   Thames  3500",
-    "distanceInMeters": 67805.50718401,
+    "distanceInMeters": 0.63625352,
     "extId": "a0R4a000000TLe4EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-08",
@@ -29287,7 +29047,7 @@
   },
   {
     "displayAddress": "Shop 9 - 52 Jubilee Drive   Pauanui  3579",
-    "distanceInMeters": 2626.8547145,
+    "distanceInMeters": 30738.39989594,
     "extId": "a0R4a000000TTYkEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -33428,7 +33188,7 @@
   },
   {
     "displayAddress": "Paru Paru Road   Nelson  7010",
-    "distanceInMeters": 2878.25730435,
+    "distanceInMeters": 5962.30401259,
     "extId": "a0R4a000000TqESEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -37107,7 +36867,7 @@
   },
   {
     "displayAddress": "81 King Street   Temuka  7920",
-    "distanceInMeters": 16652.97311068,
+    "distanceInMeters": 53220.88628738,
     "extId": "a0R4a000000U5OJEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-29",
@@ -38162,7 +37922,7 @@
   },
   {
     "displayAddress": "215 Queen Street Richmond  Nelson  7020",
-    "distanceInMeters": 8476.41519617,
+    "distanceInMeters": 5382.96610138,
     "extId": "a0R4a000000UCVtEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38204,7 +37964,7 @@
   },
   {
     "displayAddress": "578 Gladstone Road Te Hapara  Gisborne  4010",
-    "distanceInMeters": 1639.85658929,
+    "distanceInMeters": 1493.62236065,
     "extId": "a0R4a000000UCmGEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-05",
@@ -40514,7 +40274,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 33237.68107426,
+    "distanceInMeters": 45402.71018199,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -42204,7 +41964,7 @@
   },
   {
     "displayAddress": "145 Wai-Iti Road Highfield  Timaru  7910",
-    "distanceInMeters": 0.24823286,
+    "distanceInMeters": 68031.55708083,
     "extId": "a0R4a000000UdxkEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -42829,7 +42589,7 @@
   },
   {
     "displayAddress": "92 De Lautour Road Inner Kaiti  Gisborne  4010",
-    "distanceInMeters": 2300.16613798,
+    "distanceInMeters": 2229.0406903,
     "extId": "a0R4a000000Uf2wEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -42863,7 +42623,7 @@
   },
   {
     "displayAddress": "232 Gladstone Road   Gisborne  4010",
-    "distanceInMeters": 0.52944602,
+    "distanceInMeters": 245.4584993,
     "extId": "a0R4a000000Uf5gEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -49999,7 +49759,7 @@
   },
   {
     "displayAddress": "4/155 Wills Street, Ashburton 7700",
-    "distanceInMeters": 68586.33560849,
+    "distanceInMeters": 583.75895981,
     "extId": "a0R4a000000VexzEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -51386,7 +51146,7 @@
   },
   {
     "displayAddress": "226 West Coast Road Glen Eden  Auckland  602",
-    "distanceInMeters": 56818.0432285,
+    "distanceInMeters": 22856.80597156,
     "extId": "a0R4a000000VuotEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-28",
@@ -54309,7 +54069,7 @@
   },
   {
     "displayAddress": "10 Ballance Street Whataupoko  Gisborne  4010",
-    "distanceInMeters": 1114.16134876,
+    "distanceInMeters": 874.75196119,
     "extId": "a0R4a000000WNbGEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-26",
@@ -59235,7 +58995,7 @@
   },
   {
     "displayAddress": "66 Aranui Rd   Best Island  7005",
-    "distanceInMeters": 13274.73235375,
+    "distanceInMeters": 13353.33576043,
     "extId": "a0R4a000000YH4aEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-15",
@@ -61447,7 +61207,7 @@
   },
   {
     "displayAddress": "178 King Street   Temuka  7920",
-    "distanceInMeters": 17038.66034908,
+    "distanceInMeters": 52952.93559285,
     "extId": "a0R4a000000ZjDpEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -64419,7 +64179,7 @@
   },
   {
     "displayAddress": "Shop 1, Richmond Mall, 216 Queen St   Richmond  7020",
-    "distanceInMeters": 8329.21760255,
+    "distanceInMeters": 5225.39126932,
     "extId": "a0R4a000000brZjEAI",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-26",
@@ -64510,7 +64270,7 @@
   },
   {
     "displayAddress": "Greenmeadows Community Centre, 491 Main Road   Stoke  7011",
-    "distanceInMeters": 3809.52911582,
+    "distanceInMeters": 388.81388565,
     "extId": "a0R4a000000brgREAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-10",
@@ -66205,7 +65965,7 @@
   },
   {
     "displayAddress": "17 Bishopdale Avenue Bishopdale  Nelson  7011",
-    "distanceInMeters": 2209.84080405,
+    "distanceInMeters": 3123.84928121,
     "extId": "a0R4a000000dQhIEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-25",
