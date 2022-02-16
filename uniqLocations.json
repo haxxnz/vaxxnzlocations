@@ -21844,40 +21844,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "28 Church Street   Te Aroha  3320",
-    "distanceInMeters": 39125.06605955,
-    "extId": "a0R4a000000Skr3EAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-26",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 175.712,
-      "lat": -37.5412
-    },
-    "name": "Health Te Aroha",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/Health+Te+Aroha/@-37.5412212,175.709902,17z/data=!4m5!3m4!1s0x6d6d98931798bb3d:0x1d7ea47f01ee8076!8m2!3d-37.5412212!4d175.7120907",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-30",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-02T00:50:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "6427 State Highway 27, Waharoa  3474",
     "distanceInMeters": 33178.58686717,
     "extId": "a0R4a000000SlAoEAK",
@@ -28908,49 +28874,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T23:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "1107 Heretaunga Street West St Leonards  Hastings  4120",
-    "distanceInMeters": 15805.87831592,
-    "extId": "a0R4a000000TPYBEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-17",
-    "endDate": "2022-02-18",
-    "location": {
-      "lng": 176.832,
-      "lat": -39.6305
-    },
-    "name": "Unichem Stortford Lodge Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "18:00:00"
-      }
-    ],
-    "description": "Pharmacy next to Hastings KFC",
-    "mapUrl": "https://goo.gl/maps/5U4ugsBJC6mVWh7M7",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-12",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T23:15:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -36560,69 +36483,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "205 Heretaunga Street West   Hastings  4122",
-    "distanceInMeters": 16551.39318497,
-    "extId": "a0R4a000000U2MmEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-07",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 176.842,
-      "lat": -39.6407
-    },
-    "name": "Life Pharmacy Hastings",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/205+Heretaunga+Street+West,+Hastings+4122,+New+Zealand/@-39.6408754,176.8401904,17z/data=!3m1!4b1!4m5!3m4!1s0x6d69ca481c6d05cf:0xca1c1a2bf3df73cb!8m2!3d-39.6408796!4d176.8423791",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-24",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-30T21:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
