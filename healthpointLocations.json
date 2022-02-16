@@ -1648,17 +1648,31 @@
   {
     "lat": -46.4095554,
     "lng": 168.34826339999995,
-    "name": "",
+    "name": "He Puna Waiora -  Wellness Centre",
     "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/92-spey-street-invercargill/",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "92 Spey Street, Invercargill",
+    "telephone": "(03) 214 5261",
+    "faxNumber": "(03) 218 9523",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/he-puna-waiora-wellness-centre/",
     "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
+      "schedule": {
+        "Mon – Tue": "9:00 AM – 7:00 PM",
+        "Wed": "9:30 AM – 5:00 PM",
+        "Thu – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct).",
+        "Preferred urgent care clinic out of hours": "Invercargill After Hours Doctors."
+      },
       "notesHtml": []
     }
   },
@@ -5468,33 +5482,6 @@
       },
       "exceptions": {
         "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -39.4799909,
-    "lng": 176.8986603,
-    "name": "Ahuriri Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "1/91 Bridge Street, Ahuriri, Napier",
-    "telephone": "(06) 835 7948",
-    "faxNumber": "(06) 835 7930",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/ahuriri-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct)."
       },
       "notesHtml": []
     }
@@ -22290,66 +22277,6 @@
     }
   },
   {
-    "lat": -46.4095554,
-    "lng": 168.34826339999995,
-    "name": "92 Spey Street",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "92 Spey Street, Invercargill, Southland 9810",
-    "telephone": "(03) 214 5261",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/he-puna-waiora-covid-19-vaccination-centres/at/92-spey-street-invercargill/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "9:00 AM – 4:00 PM",
-        "Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Walk-In Vaccinations are not available between 3 and 4.30pm"
-      ]
-    }
-  },
-  {
-    "lat": -46.41058219999999,
-    "lng": 168.35217940000007,
-    "name": "74 Don Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 3:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "74 Don Street, Invercargill, Southland 9810",
-    "telephone": "(03) 214 5261",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/he-puna-waiora-covid-19-vaccination-centres/at/74-don-street-invercargill/",
-    "opennningHours": {
-      "schedule": {
-        "Tue – Wed": "10:00 AM – 3:00 PM",
-        "Thu": "2:00 PM – 7:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.7101823,
     "lng": 176.1843628,
     "name": "Rangataua Sports Club Community Based COVID -19 Testing Station",
@@ -28610,7 +28537,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"086d65696164486f677a6d656d6c616b6964266b67266672\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"1f7a727e76735f78706d7a727a7b767c7e73317c70317165\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -29367,6 +29294,63 @@
         "Our phones are switched over to Homecare Medical (HML) each week day at 5.30pm (or at the scheduled close time).&nbsp; <strong>HML is available for medical advice after hours, on week nights, public holidays and all weekend on 278-2578. &nbsp;</strong>",
         "&nbsp;"
       ]
+    }
+  },
+  {
+    "lat": -46.41058219999999,
+    "lng": 168.35217940000007,
+    "name": "74 Don Street",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "74 Don Street, Invercargill, Southland 9810",
+    "telephone": "(03) 214 5261",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/he-puna-waiora-covid-19-vaccination-centres/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "10:00 AM – 3:00 PM",
+        "Thu": "2:00 PM – 7:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.4799909,
+    "lng": 176.8986603,
+    "name": "Ahuriri Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "1/91 Bridge Street, Ahuriri, Napier",
+    "telephone": "(06) 835 7948",
+    "faxNumber": "(06) 835 7930",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/ahuriri-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
     }
   }
 ]
