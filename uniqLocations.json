@@ -4655,7 +4655,7 @@
     "extId": "a0R4a000000QDq2EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-01",
-    "endDate": "2022-03-05",
+    "endDate": "2022-04-04",
     "location": {
       "lng": 174.923,
       "lat": -41.2252
@@ -6643,7 +6643,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road, Wanaka  Wanaka  9305",
-    "distanceInMeters": 47039.82116449,
+    "distanceInMeters": 38102.46151046,
     "extId": "a0R4a000000QVM7EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6720,7 +6720,7 @@
   },
   {
     "displayAddress": "18 Limerick Street   Alexandra  9320",
-    "distanceInMeters": 57042.31290228,
+    "distanceInMeters": 27824.12051975,
     "extId": "a0R4a000000QVMvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7064,7 +7064,7 @@
   },
   {
     "displayAddress": "93 Tarbert Street   Alexandra  9320",
-    "distanceInMeters": 57029.63759927,
+    "distanceInMeters": 27533.26826482,
     "extId": "a0R4a000000QVV4EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -7575,7 +7575,7 @@
   },
   {
     "displayAddress": "3/39 Barry Avenue   Cromwell  9384",
-    "distanceInMeters": 35626.94605771,
+    "distanceInMeters": 0.29868699,
     "extId": "a0R4a000000QVeXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -7652,7 +7652,7 @@
   },
   {
     "displayAddress": "192 Waenga Drive   Cromwell  9384",
-    "distanceInMeters": 35519.22743554,
+    "distanceInMeters": 1332.39634329,
     "extId": "a0R4a000000QVgsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7876,7 +7876,7 @@
   },
   {
     "displayAddress": "1a Traders Lane   Cromwell  9384",
-    "distanceInMeters": 35084.52224838,
+    "distanceInMeters": 546.84235672,
     "extId": "a0R4a000000QVj3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8094,7 +8094,7 @@
   },
   {
     "displayAddress": "Level 1, 34 Grant Road 5-Mile   Queenstown  9300",
-    "distanceInMeters": 1586.42910019,
+    "distanceInMeters": 35797.65149911,
     "extId": "a0R4a000000QWCUEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8206,7 +8206,7 @@
   },
   {
     "displayAddress": "65 SCOTLAND STREET   Roxburgh  9500",
-    "distanceInMeters": 72153.4559574,
+    "distanceInMeters": 55065.86436877,
     "extId": "a0R4a000000QWQqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-09",
@@ -8290,7 +8290,7 @@
   },
   {
     "displayAddress": "4 Thirteenth Avenue Lower Shotover  Queenstown  9304",
-    "distanceInMeters": 4135.98246553,
+    "distanceInMeters": 32946.96795197,
     "extId": "a0R4a000000QWQvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8360,7 +8360,7 @@
   },
   {
     "displayAddress": "9 Isle Street, Queenstown  9300",
-    "distanceInMeters": 6735.20928219,
+    "distanceInMeters": 42324.63321124,
     "extId": "a0R4a000000QWVCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -12755,6 +12755,40 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "7 Swansea Road Flaxmere  Hastings  4120",
+    "distanceInMeters": 17115.28957632,
+    "extId": "a0R4a000000S1sIEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-27",
+    "endDate": "2022-06-30",
+    "location": {
+      "lng": 176.786,
+      "lat": -39.624
+    },
+    "name": "Flaxmere Cook Island Hall",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/uk2XVvLrsJVrTRjHA",
+    "tags": [
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T21:15:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Shop 12, Johnsonville Shopping Centre, 34 Johnsonville Road Johnsonville  Wellington  6037",
     "distanceInMeters": 10071.79664235,
     "extId": "a0R4a000000S45MEAS",
@@ -13920,7 +13954,7 @@
   },
   {
     "displayAddress": "Shop 7, 32 Grant Road, Five Mile Retail Centre, Frankton  Queenstown  9371",
-    "distanceInMeters": 1594.9761412,
+    "distanceInMeters": 35846.2769671,
     "extId": "a0R4a000000SIJoEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -17192,7 +17226,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road,   Wanaka  9305",
-    "distanceInMeters": 47039.82116449,
+    "distanceInMeters": 38102.46151046,
     "extId": "a0R4a000000SPVuEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-26",
@@ -20160,7 +20194,7 @@
   },
   {
     "displayAddress": "4/6 Centennial Avenue,   Alexandra  9340",
-    "distanceInMeters": 57000.11612178,
+    "distanceInMeters": 27673.28577382,
     "extId": "a0R4a000000SXaCEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -22245,7 +22279,7 @@
   },
   {
     "displayAddress": "Shop C-05, Queenstown, Central Shopping Centre 19 Grant Road Frankton  Queenstown  9300",
-    "distanceInMeters": 1744.17740748,
+    "distanceInMeters": 35892.49120864,
     "extId": "a0R4a000000SqVNEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-09",
@@ -22414,7 +22448,7 @@
   },
   {
     "displayAddress": "53 Hawthorne Drive Frankton  Queenstown  9300",
-    "distanceInMeters": 0.09567949,
+    "distanceInMeters": 35627.16316712,
     "extId": "a0R4a000000SqYMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -22976,7 +23010,7 @@
   },
   {
     "displayAddress": "Ruapehu Street   Waiouru  4826",
-    "distanceInMeters": 25568.98527603,
+    "distanceInMeters": 73049.30589769,
     "extId": "a0R4a000000Sr5bEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-08",
@@ -26647,7 +26681,7 @@
   },
   {
     "displayAddress": "9 Isle Street   Queenstown  9300",
-    "distanceInMeters": 6708.86737955,
+    "distanceInMeters": 42298.10189989,
     "extId": "a0R4a000000T7XLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -26759,7 +26793,7 @@
   },
   {
     "displayAddress": "1091 Frankton Road Frankton  Queenstown  9300",
-    "distanceInMeters": 1586.47760627,
+    "distanceInMeters": 36688.87139956,
     "extId": "a0R4a000000T7atEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -26941,7 +26975,7 @@
   },
   {
     "displayAddress": "Corner Rees Street & The Mall   Queenstown  9300",
-    "distanceInMeters": 6573.60438708,
+    "distanceInMeters": 42129.56945464,
     "extId": "a0R4a000000T7dTEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -27165,7 +27199,7 @@
   },
   {
     "displayAddress": "22 The Mall Cromwell  Central Otago  9310",
-    "distanceInMeters": 35711.27041208,
+    "distanceInMeters": 1389.8259628,
     "extId": "a0R4a000000T7ghEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -28846,6 +28880,97 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T23:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "57 High Street, Leeston 7632",
+    "distanceInMeters": 38236.36712227,
+    "extId": "a0R4a000000TPWoEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-08",
+    "endDate": "2022-02-27",
+    "location": {
+      "lng": 172.3,
+      "lat": -43.7614
+    },
+    "name": "Leeston Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/fYV44DaoPdSwaS5f7",
+    "tags": [
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:24:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -32848,6 +32973,82 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T23:40:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "524 Kennedy Road Greenmeadows  Napier  4112",
+    "distanceInMeters": 4161.40208165,
+    "extId": "a0R4a000000TmYxEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-28",
+    "endDate": "2022-03-31",
+    "location": {
+      "lng": 176.866,
+      "lat": -39.5233
+    },
+    "name": "The Doctors Greenmeadows",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "mapUrl": "https://goo.gl/maps/Tg3Wafwd3PSeBihV6",
+    "tags": [
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-19",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T20:50:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -50959,14 +51160,14 @@
         "days": [
           "thu"
         ],
-        "localStart": "13:30:00",
+        "localStart": "11:00:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "13:30:00",
+        "localStart": "11:00:00",
         "localEnd": "17:00:00"
       },
       {
