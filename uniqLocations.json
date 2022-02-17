@@ -5565,17 +5565,31 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "18:00:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:00:00"
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "18:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
       },
       {
         "days": [
@@ -5593,24 +5607,10 @@
       },
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "19:00:00"
+        "localEnd": "18:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/en68bSpfmR5Cq2r6A",
@@ -6643,7 +6643,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road, Wanaka  Wanaka  9305",
-    "distanceInMeters": 38102.46151046,
+    "distanceInMeters": 38070.25663104,
     "extId": "a0R4a000000QVM7EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6720,7 +6720,7 @@
   },
   {
     "displayAddress": "18 Limerick Street   Alexandra  9320",
-    "distanceInMeters": 27824.12051975,
+    "distanceInMeters": 28106.66683174,
     "extId": "a0R4a000000QVMvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7064,7 +7064,7 @@
   },
   {
     "displayAddress": "93 Tarbert Street   Alexandra  9320",
-    "distanceInMeters": 27533.26826482,
+    "distanceInMeters": 27824.05608775,
     "extId": "a0R4a000000QVV4EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -7575,7 +7575,7 @@
   },
   {
     "displayAddress": "3/39 Barry Avenue   Cromwell  9384",
-    "distanceInMeters": 0.29868699,
+    "distanceInMeters": 546.72434265,
     "extId": "a0R4a000000QVeXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
@@ -7652,7 +7652,7 @@
   },
   {
     "displayAddress": "192 Waenga Drive   Cromwell  9384",
-    "distanceInMeters": 1332.39634329,
+    "distanceInMeters": 1451.63202479,
     "extId": "a0R4a000000QVgsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7876,7 +7876,7 @@
   },
   {
     "displayAddress": "1a Traders Lane   Cromwell  9384",
-    "distanceInMeters": 546.84235672,
+    "distanceInMeters": 0.20388285,
     "extId": "a0R4a000000QVj3EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8094,7 +8094,7 @@
   },
   {
     "displayAddress": "Level 1, 34 Grant Road 5-Mile   Queenstown  9300",
-    "distanceInMeters": 35797.65149911,
+    "distanceInMeters": 35258.32591215,
     "extId": "a0R4a000000QWCUEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8206,7 +8206,7 @@
   },
   {
     "displayAddress": "65 SCOTLAND STREET   Roxburgh  9500",
-    "distanceInMeters": 55065.86436877,
+    "distanceInMeters": 55128.79591553,
     "extId": "a0R4a000000QWQqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-09",
@@ -8290,7 +8290,7 @@
   },
   {
     "displayAddress": "4 Thirteenth Avenue Lower Shotover  Queenstown  9304",
-    "distanceInMeters": 32946.96795197,
+    "distanceInMeters": 32412.68143319,
     "extId": "a0R4a000000QWQvEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8360,7 +8360,7 @@
   },
   {
     "displayAddress": "9 Isle Street, Queenstown  9300",
-    "distanceInMeters": 42324.63321124,
+    "distanceInMeters": 41780.62144338,
     "extId": "a0R4a000000QWVCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -8479,7 +8479,7 @@
   },
   {
     "displayAddress": "4 Frome Street Oamaru    9400",
-    "distanceInMeters": 1864.68226978,
+    "distanceInMeters": 217.24290767,
     "extId": "a0R4a000000QZHzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -8612,7 +8612,7 @@
   },
   {
     "displayAddress": "11 Arun Street   Oamaru  9400",
-    "distanceInMeters": 1378.98521881,
+    "distanceInMeters": 3224.42076141,
     "extId": "a0R4a000000QZKCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8689,7 +8689,7 @@
   },
   {
     "displayAddress": "19 Eden Street, Oamaru 9400",
-    "distanceInMeters": 146.92663092,
+    "distanceInMeters": 1975.79477097,
     "extId": "a0R4a000000QZLFEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8759,7 +8759,7 @@
   },
   {
     "displayAddress": "8 Coquet Street   Oamaru  9400",
-    "distanceInMeters": 280.05437443,
+    "distanceInMeters": 2121.16602108,
     "extId": "a0R4a000000QZMNEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8815,7 +8815,7 @@
   },
   {
     "displayAddress": "32 Ribble Street   Oamaru  6400",
-    "distanceInMeters": 94.32663412,
+    "distanceInMeters": 1881.63319474,
     "extId": "a0R4a000000QZNHEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
@@ -11284,7 +11284,7 @@
   },
   {
     "displayAddress": "51 Tyrone Street Ranfurly  Ranfurly  9332",
-    "distanceInMeters": 68047.055062,
+    "distanceInMeters": 73032.49408685,
     "extId": "a0R4a000000RP9sEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -11333,7 +11333,7 @@
   },
   {
     "displayAddress": "8 Wynyard Street Kurow, 9435",
-    "distanceInMeters": 56587.91612507,
+    "distanceInMeters": 55994.83788917,
     "extId": "a0R4a000000RPAHEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -13954,7 +13954,7 @@
   },
   {
     "displayAddress": "Shop 7, 32 Grant Road, Five Mile Retail Centre, Frankton  Queenstown  9371",
-    "distanceInMeters": 35846.2769671,
+    "distanceInMeters": 35306.95519525,
     "extId": "a0R4a000000SIJoEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -17192,7 +17192,7 @@
   },
   {
     "displayAddress": "23 Cardrona Valley Road,   Wanaka  9305",
-    "distanceInMeters": 38102.46151046,
+    "distanceInMeters": 38070.25663104,
     "extId": "a0R4a000000SPVuEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-26",
@@ -20160,7 +20160,7 @@
   },
   {
     "displayAddress": "4/6 Centennial Avenue,   Alexandra  9340",
-    "distanceInMeters": 27673.28577382,
+    "distanceInMeters": 27958.87440366,
     "extId": "a0R4a000000SXaCEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -22245,7 +22245,7 @@
   },
   {
     "displayAddress": "Shop C-05, Queenstown, Central Shopping Centre 19 Grant Road Frankton  Queenstown  9300",
-    "distanceInMeters": 35892.49120864,
+    "distanceInMeters": 35353.54179964,
     "extId": "a0R4a000000SqVNEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-09",
@@ -22414,7 +22414,7 @@
   },
   {
     "displayAddress": "53 Hawthorne Drive Frankton  Queenstown  9300",
-    "distanceInMeters": 35627.16316712,
+    "distanceInMeters": 35084.30911013,
     "extId": "a0R4a000000SqYMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -22512,7 +22512,7 @@
   },
   {
     "displayAddress": "213-215 Thames Street Oamaru Central  Oamaru  9400",
-    "distanceInMeters": 0.33633723,
+    "distanceInMeters": 1851.15322306,
     "extId": "a0R4a000000Sqc4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -22976,7 +22976,7 @@
   },
   {
     "displayAddress": "Ruapehu Street   Waiouru  4826",
-    "distanceInMeters": 73049.30589769,
+    "distanceInMeters": 25568.98527603,
     "extId": "a0R4a000000Sr5bEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-08",
@@ -23122,7 +23122,7 @@
   },
   {
     "displayAddress": "28 Te Rangitautahanga Road   Turangi  3334",
-    "distanceInMeters": 41701.29125547,
+    "distanceInMeters": 40352.562091,
     "extId": "a0R4a000000Stp2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -26647,7 +26647,7 @@
   },
   {
     "displayAddress": "9 Isle Street   Queenstown  9300",
-    "distanceInMeters": 42298.10189989,
+    "distanceInMeters": 41754.08927005,
     "extId": "a0R4a000000T7XLEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -26759,7 +26759,7 @@
   },
   {
     "displayAddress": "1091 Frankton Road Frankton  Queenstown  9300",
-    "distanceInMeters": 36688.87139956,
+    "distanceInMeters": 36148.51633581,
     "extId": "a0R4a000000T7atEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -26941,7 +26941,7 @@
   },
   {
     "displayAddress": "Corner Rees Street & The Mall   Queenstown  9300",
-    "distanceInMeters": 42129.56945464,
+    "distanceInMeters": 41585.19235954,
     "extId": "a0R4a000000T7dTEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -27165,7 +27165,7 @@
   },
   {
     "displayAddress": "22 The Mall Cromwell  Central Otago  9310",
-    "distanceInMeters": 1389.8259628,
+    "distanceInMeters": 1574.17837933,
     "extId": "a0R4a000000T7ghEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -35671,7 +35671,7 @@
   },
   {
     "displayAddress": "411 Thames Highway Oamaru North  Oamaru  9400",
-    "distanceInMeters": 1851.51008103,
+    "distanceInMeters": 0.33634677,
     "extId": "a0R4a000000U2BFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -35861,7 +35861,7 @@
   },
   {
     "displayAddress": "171 Thames Street   Oamaru  9400",
-    "distanceInMeters": 137.11815041,
+    "distanceInMeters": 1985.27876209,
     "extId": "a0R4a000000U2CmEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -45369,7 +45369,7 @@
   },
   {
     "displayAddress": "161 Queen Street   Waimate  7924",
-    "distanceInMeters": 40231.10486407,
+    "distanceInMeters": 38472.26663493,
     "extId": "a0R4a000000V2eoEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
