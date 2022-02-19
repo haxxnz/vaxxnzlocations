@@ -22653,40 +22653,6 @@
     }
   },
   {
-    "lat": -41.1350218,
-    "lng": 174.84142940000004,
-    "name": "4 Lydney Place North",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 3:55 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "4 Lydney Place North, Porirua, Wellington 5022",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ora-toa-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "8:30 AM – 3:55 PM",
-        "Thu": "12:30 PM – 7:55 PM",
-        "Fri – Sat": "8:30 AM – 3:55 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
-      },
-      "notesHtml": [
-        "We are CLOSED Today 14/02/2022",
-        "We are closed from 12pm to 1pm for lunch. This is for Mon-Tue-Wed-Fri-Sat"
-      ]
-    }
-  },
-  {
     "lat": -43.5424395,
     "lng": 172.6140433,
     "name": "Addington Pharmacy",
@@ -23725,34 +23691,6 @@
       },
       "exceptions": {
         "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -40.9556666,
-    "lng": 175.6509037,
-    "name": "195-197 Chapel Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 4:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "195-197 Chapel Street, Masterton, Wellington 5810",
-    "telephone": "(06) 370 0818",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tekau-ma-iwa-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "9:30 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
       },
       "notesHtml": []
     }
@@ -26580,7 +26518,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"0d68606c64614d6a627f68606869646e6c61236e62236377\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"97f2faf6fefbd7f0f8e5f2faf2f3fef4f6fbb9f4f8b9f9ed\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -29324,6 +29262,67 @@
       },
       "exceptions": {},
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.9556666,
+    "lng": 175.6509037,
+    "name": "195-197 Chapel Street",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 4:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "195-197 Chapel Street, Masterton, Wellington 5810",
+    "telephone": "(06) 370 0818",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tekau-ma-iwa-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "9:30 AM – 4:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.1350218,
+    "lng": 174.84142940000004,
+    "name": "4 Lydney Place North",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 3:55 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "4 Lydney Place North, Porirua, Wellington 5022",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ora-toa-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "8:30 AM – 3:55 PM",
+        "Thu": "12:30 PM – 7:55 PM",
+        "Fri – Sat": "8:30 AM – 3:55 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct)."
+      },
+      "notesHtml": [
+        "We are closed from 12pm to 1pm for lunch. This is for Mon-Tue-Wed-Fri-Sat"
+      ]
     }
   }
 ]
