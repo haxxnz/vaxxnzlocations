@@ -46,14 +46,6 @@
         "durationSeconds": 300
       },
       {
-        "localStartTime": "12:00:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "12:05:00",
-        "durationSeconds": 300
-      },
-      {
         "localStartTime": "12:10:00",
         "durationSeconds": 300
       },
@@ -128,9 +120,17 @@
       {
         "localStartTime": "15:20:00",
         "durationSeconds": 600
+      },
+      {
+        "localStartTime": "16:30:00",
+        "durationSeconds": 600
       }
     ],
     "2022-02-24": [
+      {
+        "localStartTime": "10:00:00",
+        "durationSeconds": 420
+      },
       {
         "localStartTime": "11:24:00",
         "durationSeconds": 420
@@ -2381,5 +2381,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-02-21T21:19:07.666Z"
+  "lastUpdatedAt": "2022-02-21T22:06:32.656Z"
 }
