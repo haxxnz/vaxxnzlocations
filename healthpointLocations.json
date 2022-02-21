@@ -3081,37 +3081,6 @@
     }
   },
   {
-    "lat": -36.8660651,
-    "lng": 174.5793061,
-    "name": "Swanson Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "714 Swanson Road, Swanson, Auckland",
-    "telephone": "(09) 833 9433",
-    "faxNumber": "(09) 832 1206",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/swanson-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions. You will be transferred to an after hours service who will direct you either to our preferred after hours urgent care clinic or Care HQ (Virtual GP consultation service)."
-      ]
-    }
-  },
-  {
     "lat": -36.7310749,
     "lng": 174.7141599,
     "name": "Windsor Medical Centre",
@@ -21962,9 +21931,9 @@
     "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
       "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
+      "Make an appointment"
     ],
     "address": "2 Broadway, Dunedin Central, Dunedin",
     "telephone": "(03) 477 4335",
@@ -23960,34 +23929,6 @@
     }
   },
   {
-    "lat": -37.5410964,
-    "lng": 175.71035430000006,
-    "name": "Te Korowai Hauora o Hauraki - Te Aroha",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "221 Whitaker Street, Te Aroha",
-    "telephone": "(07) 868 0033",
-    "faxNumber": "(07) 868 5389",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-korowai-hauora-o-hauraki-te-aroha/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "After Hours: Phone 07 884 9208 and you will be transferred to an after hours service who shall direct you."
-      ]
-    }
-  },
-  {
     "lat": -44.4014388,
     "lng": 171.25162420000004,
     "name": "Roberts Pharmacy",
@@ -24140,10 +24081,7 @@
       "exceptions": {
         "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
       },
-      "notesHtml": [
-        "<span style=\"text-decoration: underline;\"><strong>The Kawerau Concert Chambers vaccination clinic will be closed on: 19/02/2022 (SATURDAY)&nbsp;</strong></span>",
-        "There will be a drive through vaccination centre at the Ron Hardy Recreation Centre on Onslow Street on the day.&nbsp;"
-      ]
+      "notesHtml": []
     }
   },
   {
@@ -24742,7 +24680,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"82e7efe3ebeec2e5edf0e7efe7e6ebe1e3eeace1edacecf8\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ec89818d8580ac8b839e89818988858f8d80c28f83c28296\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -29461,6 +29399,69 @@
     }
   },
   {
+    "lat": -43.31404790000001,
+    "lng": 172.69767809999996,
+    "name": "Pegasus Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "52 Pegasus Main Street, Pegasus",
+    "telephone": "(03) 920 4060",
+    "faxNumber": "(03) 920 4061",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pegasus-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:00 AM – 6:00 PM",
+        "Fri": "8:00 AM – 5:30 PM",
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+      },
+      "notesHtml": [
+        "<strong>Note: Normal Saturday Clinic - is now cancelled until further notice,&nbsp; instead we&nbsp;are doing COVID clinics on Saturdays.</strong>",
+        "<strong>Closed for lunch between 1:00 PM - 2:00 PM</strong>",
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
+    "lat": -44.3827639,
+    "lng": 171.2370824,
+    "name": "Northtown Mall",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "11:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Waimataitai, Timaru, Canterbury 7910",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northtown-mall-covid-19-vaccination-clinic/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "11:00 AM – 5:30 PM",
+        "Sat – Sun": "11:00 AM – 4:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -37.247354,
     "lng": 175.02396049999993,
     "name": "Pōkeno Family Health",
@@ -29516,98 +29517,6 @@
         "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan)."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -44.3827639,
-    "lng": 171.2370824,
-    "name": "Northtown Mall",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "11:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Waimataitai, Timaru, Canterbury 7910",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northtown-mall-covid-19-vaccination-clinic/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "11:00 AM – 5:30 PM",
-        "Sat – Sun": "11:00 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -43.31404790000001,
-    "lng": 172.69767809999996,
-    "name": "Pegasus Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "52 Pegasus Main Street, Pegasus",
-    "telephone": "(03) 920 4060",
-    "faxNumber": "(03) 920 4061",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pegasus-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:00 AM – 6:00 PM",
-        "Fri": "8:00 AM – 5:30 PM",
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).",
-        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
-      },
-      "notesHtml": [
-        "<strong>Note: Normal Saturday Clinic - is now cancelled until further notice,&nbsp; instead we&nbsp;are doing COVID clinics on Saturdays.</strong>",
-        "<strong>Closed for lunch between 1:00 PM - 2:00 PM</strong>",
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
-    }
-  },
-  {
-    "lat": -35.68353280000001,
-    "lng": 174.3230339,
-    "name": "The Doctors Tikipunga",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "53 Paramount Parade, Tikipunga, Whangārei",
-    "telephone": "09 4352528",
-    "faxNumber": "09 4352350",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-tikipunga/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong> White Cross Whangārei - (09) 470 1083"
-      ]
     }
   },
   {
@@ -29748,6 +29657,94 @@
         "<strong>NO BOOKING REQUIRED</strong>",
         "AstraZeneca, Booster doses and 5-11 year old Vaccinations by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
         "Subject to change.&nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.8660651,
+    "lng": 174.5793061,
+    "name": "Swanson Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "714 Swanson Road, Swanson, Auckland",
+    "telephone": "(09) 833 9433",
+    "faxNumber": "(09) 832 1206",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/swanson-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Henderson 24/7."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions. You will be transferred to an after hours service who will direct you either to our preferred after hours urgent care clinic or Care HQ (Virtual GP consultation service)."
+      ]
+    }
+  },
+  {
+    "lat": -37.5410964,
+    "lng": 175.71035430000006,
+    "name": "Te Korowai Hauora o Hauraki - Te Aroha",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "221 Whitaker Street, Te Aroha",
+    "telephone": "(07) 868 0033",
+    "faxNumber": "(07) 868 5389",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-korowai-hauora-o-hauraki-te-aroha/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "After Hours: Phone 07 884 9208 and you will be transferred to an after hours service who shall direct you."
+      ]
+    }
+  },
+  {
+    "lat": -35.68353280000001,
+    "lng": 174.3230339,
+    "name": "The Doctors Tikipunga",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "53 Paramount Parade, Tikipunga, Whangārei",
+    "telephone": "09 4352528",
+    "faxNumber": "09 4352350",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-tikipunga/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong> White Cross Whangārei - (09) 470 1083"
       ]
     }
   }
