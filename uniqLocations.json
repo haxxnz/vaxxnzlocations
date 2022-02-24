@@ -36507,69 +36507,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "205 Heretaunga Street West   Hastings  4122",
-    "distanceInMeters": 5024.34612414,
-    "extId": "a0R4a000000U2MmEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-07",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 176.842,
-      "lat": -39.6407
-    },
-    "name": "Life Pharmacy Hastings",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/205+Heretaunga+Street+West,+Hastings+4122,+New+Zealand/@-39.6408754,176.8401904,17z/data=!3m1!4b1!4m5!3m4!1s0x6d69ca481c6d05cf:0xca1c1a2bf3df73cb!8m2!3d-39.6408796!4d176.8423791",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-24",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-30T21:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "600 Heretaunga Street West Saint Leonards  Hastings  4122",
     "distanceInMeters": 4435.6500451,
     "extId": "a0R4a000000U3ucEAC",
@@ -63379,40 +63316,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "State Highway 49   Ohakune  4691",
-    "distanceInMeters": 70755.83014841,
-    "extId": "a0R4a000000bC5fEAE",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-12-22",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 175.566,
-      "lat": -39.4647
-    },
-    "name": "Winestone Pulp International Ltd (Tangiwai)",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/cADYgeaJK7Pg9FWZ9",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-12-10",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "4 Bridge Street Huntly  Waikato  3700",
     "distanceInMeters": 28095.22548971,
     "extId": "a0R4a000000bGhMEAU",
@@ -68020,54 +67923,6 @@
         "externalId": "a0p4a000000EOb1AAG",
         "name": "Accessible toilets",
         "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-02-22",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "84 Aorangi St   Feilding  4702",
-    "distanceInMeters": 51245.66196508,
-    "extId": "a0R4a000000fIfFEAU",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2022-02-22",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 175.566,
-      "lat": -40.2243
-    },
-    "name": "Feilding Civic Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/VLbtGcJTUqTCzjpW6",
-    "tags": [
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
         "isSystemTag": false
       },
       {
