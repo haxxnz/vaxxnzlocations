@@ -28068,35 +28068,6 @@
     }
   },
   {
-    "lat": -36.8551457,
-    "lng": 174.7319236,
-    "name": "Home Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "280 Richmond Road, Grey Lynn, Auckland",
-    "telephone": "(09) 281 2812",
-    "faxNumber": "(09) 281 2816",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/home-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM",
-        "Sat": "9:00 AM – 4:00 PM",
-        "Sun": "10:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -35.1144128,
     "lng": 173.2659045,
     "name": "Kaitaia COVID-19 Vaccination &amp; Testing Centre",
@@ -29865,7 +29836,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"6c09010d05002c0b031e09010908050f0d00420f03420216\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"442129252d2804232b36212921202d2725286a272b6a2a3e\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -30075,6 +30046,36 @@
         "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan)."
       },
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.8551457,
+    "lng": 174.7319236,
+    "name": "Home Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "280 Richmond Road, Grey Lynn, Auckland",
+    "telephone": "(09) 281 2812",
+    "faxNumber": "(09) 281 2816",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/home-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>Sun - Temporarily Close due to staff shortage</strong>"
+      ]
     }
   }
 ]
