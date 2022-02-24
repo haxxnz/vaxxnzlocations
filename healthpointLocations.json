@@ -15270,23 +15270,6 @@
     }
   },
   {
-    "lat": -36.91331350000001,
-    "lng": 174.8712569,
-    "name": "",
-    "branch": "pharmacy",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/10-aylesbury-street-pakuranga-auckland/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -35.68292889999999,
     "lng": 174.32198019999998,
     "name": "Unichem Buchanans Pharmacy",
@@ -20844,6 +20827,23 @@
       "exceptions": {
         "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
       },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.91331350000001,
+    "lng": 174.8712569,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/10-aylesbury-street-pakuranga-auckland/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -27680,36 +27680,6 @@
     }
   },
   {
-    "lat": -41.2253125,
-    "lng": 174.87846850000005,
-    "name": "Unichem Petone Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "240-242 Jackson Street, Petone, Lower Hutt",
-    "telephone": "(04) 568 5357",
-    "faxNumber": "(04) 568 5341",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-petone-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:00 AM – 3:00 PM",
-        "Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -44.09114359999999,
     "lng": 171.24367200000006,
     "name": "Geraldine Pharmacy",
@@ -28778,6 +28748,518 @@
     }
   },
   {
+    "lat": -40.2080231,
+    "lng": 176.1022908,
+    "name": "Ngāti Kahungunu ki Tāmaki nui-a-Rua",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "171-173 High Street, Dannevirke, Manawatu-Wanganui 4930",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-kahungunu-ki-tamaki-nui-a-rua-covid/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.7857959,
+    "lng": 176.32641790000002,
+    "name": "Te Puke Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Eligible GP enrolled patients only",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "14 Queen Street, Te Puke",
+    "telephone": "(07) 573 9511",
+    "faxNumber": "(07) 573 4815",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-puke-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "Accident and HealthCare."
+      },
+      "notesHtml": [
+        "After Hours: Please call clinic phone and you will be transferred to an after-hours service."
+      ]
+    }
+  },
+  {
+    "lat": -43.30227600000001,
+    "lng": 172.19161229999997,
+    "name": "Oxford Community Health Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "39 Park Avenue, Oxford",
+    "telephone": "(03) 312 4195",
+    "faxNumber": "(03) 312 3336",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/oxford-community-health-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov)."
+      },
+      "notesHtml": [
+        "<strong>Above are appointment hours. Phones answered from 8:30 AM - 5:00 PM, Monday&nbsp;- Friday.</strong>",
+        "<strong>After Hours: </strong>",
+        "Phone GP and follow instructions. Caller will be transferred to an after hours service"
+      ]
+    }
+  },
+  {
+    "lat": -35.5332157,
+    "lng": 173.3892952,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "295 State Highway 12, Ōmāpere",
+    "telephone": "(09) 405 8888",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/295-state-highway-12-omapere/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "9:00 AM – 3:00 PM",
+        "Thu": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.55556079999999,
+    "lng": 173.47599149999996,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "7232 State Highway 12, Waimamaku",
+    "telephone": "(09) 405 4870",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/7232-state-highway-12-waimamaku/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.45580018861407,
+    "lng": 173.65329824797857,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Taheke Clinic, Horeke Road, Taheke",
+    "telephone": "(09) 401 4819",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/taheke-clinic-horeke-road-taheke/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "9:00 AM – 3:00 PM",
+        "Wed": "9:00 AM – 3:00 PM",
+        "Fri": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.3565982,
+    "lng": 173.59365309999998,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "2093 Horeke Road, Horeke, Ōkaihau",
+    "telephone": "(09) 401 9642",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/2093-horeke-road-horeke-okaihau/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "9:30 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.2371441,
+    "lng": 173.5429734,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Mangamuka Clinic, 8 Mangamuka Road, Mangamuka",
+    "telephone": "(09) 401 8952",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/mangamuka-clinic-8-mangamuka-road-mangamuka/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.3635922,
+    "lng": 173.5432004,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 3:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Kohukohu Clinic, 1 Old Beach Road, Kohukohu",
+    "telephone": "(09) 405 5860",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/kohukohu-clinic-1-old-beach-road-kohukohu/",
+    "opennningHours": {
+      "schedule": {
+        "Thu": "9:30 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>For any emergency calls ring 111 or Hauora Hokianga 094057709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.2604479,
+    "lng": 173.3948254,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Broadwood Clinic, 1046 Broadwood Road, Broadwood",
+    "telephone": "(09) 409 5813",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/broadwood-clinic-1046-broadwood-road-broadwood/",
+    "opennningHours": {
+      "schedule": {
+        "Tue": "9:30 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>For any emergency calls ring 111 or Hauora Hokianga 094057709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.3249234,
+    "lng": 173.31042809999997,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 2:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Pawarenga Clinic, 1026 Pawarenga Road, Pawarenga",
+    "telephone": "(09) 409 5012",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/pawarenga-clinic-1026-pawarenga-road-pawarenga/",
+    "opennningHours": {
+      "schedule": {
+        "Thu": "10:00 AM – 2:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "<strong>For any emergency calls ring 111 or Hauora Hokianga 094057709</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -35.40718630000001,
+    "lng": 173.5067151,
+    "name": "Hauora Hokianga / Hokianga Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Rawene Clinic, 163 Parnell Street, Rawene",
+    "telephone": "(09) 405 7709",
+    "faxNumber": "(09) 405 7875",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/rawene-clinic-163-parnell-street-rawene/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "9:00 AM – 4:00 PM",
+        "Fri": "9:00 AM – 12:30 PM",
+        "Sat – Sun": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb), Northland Anniversary (30 Jan)."
+      },
+      "notesHtml": [
+        "For <strong>Urgent Care appointments please call reception first (09) 405 7709</strong>, if you are a <strong>visitor to Hokianga and have a non-urgent medical problem or you are needing a prescription we suggest you call your normal doctor practice.&nbsp;&nbsp;</strong>",
+        "<strong>If your call is an Emergency please call 111</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -36.84860949999999,
+    "lng": 174.8304257,
+    "name": "Mission Bay Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "10 Marau Crescent, Mission Bay, Auckland",
+    "telephone": "(09) 521 1120",
+    "faxNumber": "(09) 521 1132",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mission-bay-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:00 AM – 5:30 PM",
+        "Fri": "8:00 AM – 5:00 PM",
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "Receptionists&nbsp;available to take calls&nbsp;from 7:30am on each workday.",
+        "After hours call this number and medical advice and help will be provided.",
+        "Existing patients may book standard appointments&nbsp;online using My Indici portal.",
+        "If one of our doctors is not available or it is after hours you can get a virtual GP consultation with a real doctor from the comfort of your home, workplace, holiday house or anywhere by using CareHQ, from 7 am - 7 pm, 7 days per week.&nbsp; Find out more&nbsp;<a href=\"http://www.carehq.co.nz/\">www.carehq.co.nz</a>"
+      ]
+    }
+  },
+  {
+    "lat": -36.969278,
+    "lng": 174.799623,
+    "name": "Baderdrive Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "93 Bader Drive, Māngere, Auckland",
+    "telephone": "(09) 275 8598",
+    "faxNumber": "(09) 275 8544",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/baderdrive-doctors/at/93-bader-drive-mangere-auckland-1/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ōtāhuhu."
+      },
+      "notesHtml": [
+        "During Alert Level 3 &amp; as we move into the traffic light system, Baderdrive Doctors' clinic will continue to be closed on Saturdays and will only be open for our Covid19 Vaccination Clinic."
+      ]
+    }
+  },
+  {
+    "lat": -37.020896,
+    "lng": 174.8965007,
+    "name": "Baderdrive Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "7 Hill Road, Manurewa, Auckland",
+    "telephone": "(09) 275 8598",
+    "faxNumber": "(09) 275 8544",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/baderdrive-doctors/at/7-hill-road-manurewa-auckland/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "Takanini Urgent Care."
+      },
+      "notesHtml": [
+        "Baderdrive Doctors Manurewa is also offering Covid19 Testing for the community.&nbsp; Please call our clinic for more information."
+      ]
+    }
+  },
+  {
+    "lat": -46.4272605,
+    "lng": 168.3616579,
+    "name": "Unichem Southcity Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "248 Elles Road, Strathern, Invercargill",
+    "telephone": "03 214 0006",
+    "faxNumber": "03 214 0066",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-southcity-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat": "9:00 AM – 4:30 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "Note on Saturdays our pharmacy closes at 1pm, however our hours for vaccination are extended until 4:30pm"
+      ]
+    }
+  },
+  {
+    "lat": -36.9797821,
+    "lng": 174.85364270000002,
+    "name": "Papatoetoe Family Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "65 St George Street, Papatoetoe, Auckland",
+    "telephone": "(09) 278 2578",
+    "faxNumber": "(09) 278 2579",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/papatoetoe-family-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:15 AM – 3:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
+      },
+      "notesHtml": [
+        "Reception Hours:",
+        "9:00 am - 5:00 pm (Monday to Friday)",
+        "9:00 am - 12:00 pm (Saturday)",
+        "<strong>Note: $5 surcharge applies on Saturday.</strong>",
+        "<strong><u>AFTER HOURS</u></strong>",
+        "In an emergency, please dial 111. &nbsp;",
+        "If you need medical advice after hours please call (09) 278 2578 and your call will be answered by NZ Registered Nurses. This service is only available for our enrolled patient only.",
+        "Alternatively,",
+        "When we are closed or unavailable, you can get a virtual (online) GP consultation with a doctor from the comfort of your own home, workplace, or anywhere via UnifyHealth<strong>&nbsp;</strong>(7am-9pm, 7 days).&nbsp;",
+        "All you need to do is type in&nbsp;<a href=\"https://book.unifyhealth.co.nz/app/booking\">book.unifyhealth.co.nz</a>&nbsp;into a web browser on your smart phone or computer. You will then be guided through the steps to booking a doctor online.",
+        "*Please be aware this Unifyhealth service incur a charge. Enrolled patients at Papatoetoe Family Doctors will only be charged what they are normally charged at this practice.",
+        "----------------------------------------------",
+        "Our phones are switched over to Homecare Medical (HML) each week day at 5.30pm (or at the scheduled close time).&nbsp; <strong>HML is available for medical advice after hours, on week nights, public holidays and all weekend on 278-2578. &nbsp;</strong>",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
     "lat": -35.7317718,
     "lng": 174.3267202,
     "name": "Chemist Warehouse Okara Park",
@@ -29325,7 +29807,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"0b6e666a62674b6c64796e666e6f62686a67256864256571\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"cfaaa2aea6a38fa8a0bdaaa2aaaba6acaea3e1aca0e1a1b5\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -29480,518 +29962,6 @@
     }
   },
   {
-    "lat": -40.2080231,
-    "lng": 176.1022908,
-    "name": "Ngāti Kahungunu ki Tāmaki nui-a-Rua",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "171-173 High Street, Dannevirke, Manawatu-Wanganui 4930",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ngati-kahungunu-ki-tamaki-nui-a-rua-covid/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.7857959,
-    "lng": 176.32641790000002,
-    "name": "Te Puke Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Eligible GP enrolled patients only",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "14 Queen Street, Te Puke",
-    "telephone": "(07) 573 9511",
-    "faxNumber": "(07) 573 4815",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-puke-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "Accident and HealthCare."
-      },
-      "notesHtml": [
-        "After Hours: Please call clinic phone and you will be transferred to an after-hours service."
-      ]
-    }
-  },
-  {
-    "lat": -43.30227600000001,
-    "lng": 172.19161229999997,
-    "name": "Oxford Community Health Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "39 Park Avenue, Oxford",
-    "telephone": "(03) 312 4195",
-    "faxNumber": "(03) 312 3336",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/oxford-community-health-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov)."
-      },
-      "notesHtml": [
-        "<strong>Above are appointment hours. Phones answered from 8:30 AM - 5:00 PM, Monday&nbsp;- Friday.</strong>",
-        "<strong>After Hours: </strong>",
-        "Phone GP and follow instructions. Caller will be transferred to an after hours service"
-      ]
-    }
-  },
-  {
-    "lat": -35.5332157,
-    "lng": 173.3892952,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "295 State Highway 12, Ōmāpere",
-    "telephone": "(09) 405 8888",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/295-state-highway-12-omapere/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "9:00 AM – 3:00 PM",
-        "Thu": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.55556079999999,
-    "lng": 173.47599149999996,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "7232 State Highway 12, Waimamaku",
-    "telephone": "(09) 405 4870",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/7232-state-highway-12-waimamaku/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.45580018861407,
-    "lng": 173.65329824797857,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Taheke Clinic, Horeke Road, Taheke",
-    "telephone": "(09) 401 4819",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/taheke-clinic-horeke-road-taheke/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "9:00 AM – 3:00 PM",
-        "Wed": "9:00 AM – 3:00 PM",
-        "Fri": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.3565982,
-    "lng": 173.59365309999998,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "2093 Horeke Road, Horeke, Ōkaihau",
-    "telephone": "(09) 401 9642",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/2093-horeke-road-horeke-okaihau/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "9:30 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.2371441,
-    "lng": 173.5429734,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Mangamuka Clinic, 8 Mangamuka Road, Mangamuka",
-    "telephone": "(09) 401 8952",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/mangamuka-clinic-8-mangamuka-road-mangamuka/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "<strong>For Emergency care Dial 111&nbsp;or Call Rawene Hospital (09) 405 - 7709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.3635922,
-    "lng": 173.5432004,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 3:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Kohukohu Clinic, 1 Old Beach Road, Kohukohu",
-    "telephone": "(09) 405 5860",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/kohukohu-clinic-1-old-beach-road-kohukohu/",
-    "opennningHours": {
-      "schedule": {
-        "Thu": "9:30 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>For any emergency calls ring 111 or Hauora Hokianga 094057709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.2604479,
-    "lng": 173.3948254,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Broadwood Clinic, 1046 Broadwood Road, Broadwood",
-    "telephone": "(09) 409 5813",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/broadwood-clinic-1046-broadwood-road-broadwood/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "9:30 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>For any emergency calls ring 111 or Hauora Hokianga 094057709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.3249234,
-    "lng": 173.31042809999997,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 2:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Pawarenga Clinic, 1026 Pawarenga Road, Pawarenga",
-    "telephone": "(09) 409 5012",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/pawarenga-clinic-1026-pawarenga-road-pawarenga/",
-    "opennningHours": {
-      "schedule": {
-        "Thu": "10:00 AM – 2:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "<strong>For any emergency calls ring 111 or Hauora Hokianga 094057709</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -35.40718630000001,
-    "lng": 173.5067151,
-    "name": "Hauora Hokianga / Hokianga Health",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "Rawene Clinic, 163 Parnell Street, Rawene",
-    "telephone": "(09) 405 7709",
-    "faxNumber": "(09) 405 7875",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/hauora-hokianga-hokianga-health/at/rawene-clinic-163-parnell-street-rawene/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "9:00 AM – 4:00 PM",
-        "Fri": "9:00 AM – 12:30 PM",
-        "Sat – Sun": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct). Open Waitangi Day (Observed 7/2/22) (7 Feb), Northland Anniversary (30 Jan)."
-      },
-      "notesHtml": [
-        "For <strong>Urgent Care appointments please call reception first (09) 405 7709</strong>, if you are a <strong>visitor to Hokianga and have a non-urgent medical problem or you are needing a prescription we suggest you call your normal doctor practice.&nbsp;&nbsp;</strong>",
-        "<strong>If your call is an Emergency please call 111</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -36.84860949999999,
-    "lng": 174.8304257,
-    "name": "Mission Bay Doctors",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "10 Marau Crescent, Mission Bay, Auckland",
-    "telephone": "(09) 521 1120",
-    "faxNumber": "(09) 521 1132",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mission-bay-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:00 AM – 5:30 PM",
-        "Fri": "8:00 AM – 5:00 PM",
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "Receptionists&nbsp;available to take calls&nbsp;from 7:30am on each workday.",
-        "After hours call this number and medical advice and help will be provided.",
-        "Existing patients may book standard appointments&nbsp;online using My Indici portal.",
-        "If one of our doctors is not available or it is after hours you can get a virtual GP consultation with a real doctor from the comfort of your home, workplace, holiday house or anywhere by using CareHQ, from 7 am - 7 pm, 7 days per week.&nbsp; Find out more&nbsp;<a href=\"http://www.carehq.co.nz/\">www.carehq.co.nz</a>"
-      ]
-    }
-  },
-  {
-    "lat": -36.969278,
-    "lng": 174.799623,
-    "name": "Baderdrive Doctors",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "93 Bader Drive, Māngere, Auckland",
-    "telephone": "(09) 275 8598",
-    "faxNumber": "(09) 275 8544",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/baderdrive-doctors/at/93-bader-drive-mangere-auckland-1/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ōtāhuhu."
-      },
-      "notesHtml": [
-        "During Alert Level 3 &amp; as we move into the traffic light system, Baderdrive Doctors' clinic will continue to be closed on Saturdays and will only be open for our Covid19 Vaccination Clinic."
-      ]
-    }
-  },
-  {
-    "lat": -37.020896,
-    "lng": 174.8965007,
-    "name": "Baderdrive Doctors",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "7 Hill Road, Manurewa, Auckland",
-    "telephone": "(09) 275 8598",
-    "faxNumber": "(09) 275 8544",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/baderdrive-doctors/at/7-hill-road-manurewa-auckland/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "Takanini Urgent Care."
-      },
-      "notesHtml": [
-        "Baderdrive Doctors Manurewa is also offering Covid19 Testing for the community.&nbsp; Please call our clinic for more information."
-      ]
-    }
-  },
-  {
-    "lat": -46.4272605,
-    "lng": 168.3616579,
-    "name": "Unichem Southcity Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "248 Elles Road, Strathern, Invercargill",
-    "telephone": "03 214 0006",
-    "faxNumber": "03 214 0066",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-southcity-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Note on Saturdays our pharmacy closes at 1pm, however our hours for vaccination are extended until 4:30pm"
-      ]
-    }
-  },
-  {
-    "lat": -36.9797821,
-    "lng": 174.85364270000002,
-    "name": "Papatoetoe Family Doctors",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "65 St George Street, Papatoetoe, Auckland",
-    "telephone": "(09) 278 2578",
-    "faxNumber": "(09) 278 2579",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/papatoetoe-family-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:15 AM – 3:30 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "East Care Urgent Care."
-      },
-      "notesHtml": [
-        "Reception Hours:",
-        "9:00 am - 5:00 pm (Monday to Friday)",
-        "9:00 am - 12:00 pm (Saturday)",
-        "<strong>Note: $5 surcharge applies on Saturday.</strong>",
-        "<strong><u>AFTER HOURS</u></strong>",
-        "In an emergency, please dial 111. &nbsp;",
-        "If you need medical advice after hours please call (09) 278 2578 and your call will be answered by NZ Registered Nurses. This service is only available for our enrolled patient only.",
-        "Alternatively,",
-        "When we are closed or unavailable, you can get a virtual (online) GP consultation with a doctor from the comfort of your own home, workplace, or anywhere via UnifyHealth<strong>&nbsp;</strong>(7am-9pm, 7 days).&nbsp;",
-        "All you need to do is type in&nbsp;<a href=\"https://book.unifyhealth.co.nz/app/booking\">book.unifyhealth.co.nz</a>&nbsp;into a web browser on your smart phone or computer. You will then be guided through the steps to booking a doctor online.",
-        "*Please be aware this Unifyhealth service incur a charge. Enrolled patients at Papatoetoe Family Doctors will only be charged what they are normally charged at this practice.",
-        "----------------------------------------------",
-        "Our phones are switched over to Homecare Medical (HML) each week day at 5.30pm (or at the scheduled close time).&nbsp; <strong>HML is available for medical advice after hours, on week nights, public holidays and all weekend on 278-2578. &nbsp;</strong>",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -37.558343,
     "lng": 175.1537373,
     "name": "23 Parry Street",
@@ -30017,6 +29987,36 @@
       "notesHtml": [
         "<strong>Closed for lunch from 12.30pm to 1pm</strong>"
       ]
+    }
+  },
+  {
+    "lat": -41.2253125,
+    "lng": 174.87846850000005,
+    "name": "Unichem Petone Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "240-242 Jackson Street, Petone, Lower Hutt",
+    "telephone": "(04) 568 5357",
+    "faxNumber": "(04) 568 5341",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-petone-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 3:00 PM",
+        "Sun": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Labour Day (24 Oct), Wellington Anniversary (23 Jan)."
+      },
+      "notesHtml": []
     }
   }
 ]
