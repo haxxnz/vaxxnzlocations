@@ -224,6 +224,10 @@
     ],
     "2022-03-01": [
       {
+        "localStartTime": "09:00:00",
+        "durationSeconds": 300
+      },
+      {
         "localStartTime": "09:20:00",
         "durationSeconds": 300
       },
@@ -301,10 +305,6 @@
       },
       {
         "localStartTime": "10:55:00",
-        "durationSeconds": 300
-      },
-      {
-        "localStartTime": "11:00:00",
         "durationSeconds": 300
       },
       {
@@ -1116,10 +1116,6 @@
       {
         "localStartTime": "10:50:00",
         "durationSeconds": 600
-      },
-      {
-        "localStartTime": "11:00:00",
-        "durationSeconds": 300
       },
       {
         "localStartTime": "11:05:00",
@@ -6601,5 +6597,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-02-28T00:09:12.107Z"
+  "lastUpdatedAt": "2022-02-28T02:22:04.649Z"
 }
