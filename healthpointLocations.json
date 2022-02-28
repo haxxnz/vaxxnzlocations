@@ -17655,30 +17655,6 @@
     }
   },
   {
-    "lat": -37.6415405,
-    "lng": 176.1847823,
-    "name": "266 Maunganui Road",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "266 Maunganui Road, Mount Maunganui, Bay of Plenty 3116",
-    "telephone": "(07) 571 0144 (Nurse Clinic & Go4health) / 0800 464 432 (Go4health)",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/kaitiaki-services/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -42.8128105,
     "lng": 173.2796131,
     "name": "Cheviot Community Health Centre",
@@ -27676,7 +27652,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"fe9b939f9792be99918c9b939b9a979d9f92d09d91d09084\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"b2d7dfd3dbdef2d5ddc0d7dfd7d6dbd1d3de9cd1dd9cdcc8\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -29841,37 +29817,6 @@
     }
   },
   {
-    "lat": -43.5186073,
-    "lng": 172.5255582,
-    "name": "Inspire Health Medical Practice",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "1 Filly Place, Yaldhurst, Christchurch",
-    "telephone": "(03) 372 5190",
-    "faxNumber": "(03) 372 5191",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/inspire-health-medical-practice/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).",
-        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
-    }
-  },
-  {
     "lat": -35.1144128,
     "lng": 173.2659045,
     "name": "Kaitaia COVID-19 Vaccination &amp; Testing Centre",
@@ -30063,6 +30008,61 @@
       "exceptions": {
         "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr). Open Waitangi Day (Observed 7/2/22) (7 Feb, 9:00 AM – 8:00 PM), Easter Monday (18 Apr, 9:00 AM – 8:00 PM), ANZAC Day (25 Apr, 1:00 PM – 8:00 PM), Queen's Birthday (6 Jun, 9:00 AM – 8:00 PM), Matariki (24 Jun, 9:00 AM – 8:00 PM), Labour Day (24 Oct, 9:00 AM – 8:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 8:00 PM)."
       },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.5186073,
+    "lng": 172.5255582,
+    "name": "Inspire Health Medical Practice",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "1 Filly Place, Yaldhurst, Christchurch",
+    "telephone": "(03) 372 5190",
+    "faxNumber": "(03) 372 5191",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/inspire-health-medical-practice/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov).",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
+    "lat": -37.6415405,
+    "lng": 176.1847823,
+    "name": "266 Maunganui Road",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "266 Maunganui Road, Mount Maunganui, Bay of Plenty 3116",
+    "telephone": "(07) 571 0144 (Nurse Clinic & Go4health) / 0800 464 432 (Go4health)",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/kaitiaki-services/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": []
     }
   }
