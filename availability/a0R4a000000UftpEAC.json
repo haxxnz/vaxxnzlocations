@@ -1,18 +1,12 @@
 {
   "availabilityDates": {
-    "2022-02-28": [
-      {
-        "localStartTime": "12:00:00",
-        "durationSeconds": 720
-      },
-      {
-        "localStartTime": "12:12:00",
-        "durationSeconds": 720
-      }
-    ],
     "2022-03-01": [
       {
         "localStartTime": "11:12:00",
+        "durationSeconds": 720
+      },
+      {
+        "localStartTime": "14:48:00",
         "durationSeconds": 720
       }
     ],
@@ -29,10 +23,6 @@
       },
       {
         "localStartTime": "11:48:00",
-        "durationSeconds": 720
-      },
-      {
-        "localStartTime": "12:48:00",
         "durationSeconds": 720
       },
       {
@@ -69,10 +59,6 @@
       }
     ],
     "2022-03-04": [
-      {
-        "localStartTime": "12:24:00",
-        "durationSeconds": 720
-      },
       {
         "localStartTime": "12:36:00",
         "durationSeconds": 720
@@ -529,5 +515,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-02-28T23:35:17.804Z"
+  "lastUpdatedAt": "2022-03-01T00:43:27.839Z"
 }
