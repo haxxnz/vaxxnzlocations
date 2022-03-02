@@ -65444,14 +65444,14 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
       },
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -65808,14 +65808,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "14:30:00"
@@ -65829,7 +65822,14 @@
       },
       {
         "days": [
-          "thu"
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "14:30:00"
