@@ -28001,7 +28001,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"2c49414d45406c4b435e49414948454f4d40024f43024256\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"ceaba3afa7a28ea9a1bcaba3abaaa7adafa2e0ada1e0a0b4\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -29283,223 +29283,116 @@
     }
   },
   {
-    "lat": -41.1415093,
-    "lng": 174.8655834,
-    "name": "Pacific Health Plus",
-    "branch": "primary",
+    "lat": -37.03924949999999,
+    "lng": 174.91452389999995,
+    "name": "Unichem Gateway Pharmacy Takanini",
+    "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 8:00 PM.",
+    "openTodayHours": "8:30 AM to 6:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required"
+    ],
+    "address": "26/108 Great South Road, Takanini",
+    "telephone": "(09) 296 1655",
+    "faxNumber": "(09) 553 8590",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-gateway-pharmacy-takanini/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:30 PM",
+        "Sat – Sun": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.4775552,
+    "lng": 176.88156449999997,
+    "name": "Westshore Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "3 Alfred Street, Westshore, Napier",
+    "telephone": "(06) 835 9561",
+    "faxNumber": "(06) 835 9524",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/westshore-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.936480726107,
+    "lng": 174.88073937837842,
+    "name": "Highbrook Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
       "Anyone currently eligible can access",
-      "Make an appointment",
       "No appointment required",
       "Walk in"
     ],
-    "address": "4 Bedford Court, Cannons Creek, Porirua",
-    "telephone": "(04) 890 3620 or 0800 747 587 (PHPLUS)",
-    "faxNumber": "(04) 890 3629",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pacific-health-plus/at/4-bedford-court-cannons-creek-porirua/",
+    "address": "31 Highbrook Drive, East Tāmaki, Auckland",
+    "telephone": "(09) 212 2000",
+    "faxNumber": "(09) 399 2454",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/highbrook-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Tue": "9:00 AM – 5:30 PM",
-        "Wed – Thu": "9:00 AM – 8:00 PM",
-        "Fri": "9:00 AM – 5:30 PM"
+        "Mon – Fri": "8:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 2:00 PM"
       },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct).",
-        "Preferred urgent care clinic out of hours": "Capital & Coast DHB Kenepuru Accident & Medical Clinic."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -40.90743059999999,
-    "lng": 174.9978359,
-    "name": "Pacific Health Plus",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "9 Milne Drive, Paraparaumu",
-    "telephone": "(04) 777 0050",
-    "faxNumber": "(04) 890 3629",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pacific-health-plus/at/9-milne-drive-paraparaumu/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct).",
-        "Preferred urgent care clinic out of hours": "Capital & Coast DHB Kenepuru Accident & Medical Clinic."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.6312103,
-    "lng": 174.7628532,
-    "name": "Manly Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Eligible GP enrolled patients only"
-    ],
-    "address": "58 Rawhiti Road, Manly, Whangaparāoa",
-    "telephone": "(09) 424 9050",
-    "faxNumber": "(09) 424 1964",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/manly-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "2:00 PM – 2:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
-        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
-      },
-      "notesHtml": [
-        "<strong>* Patient to phone for appointment</strong>",
-        "Closed Saturdays, Sundays and all Public Holidays.",
-        "For AFTER HOURS care, please ring our phoneline (09) 424 9050. It is staffed 24 hours a day.",
-        "From 6pm - 8pm during the week and 8am – 8pm Saturday and Sunday, after hours care can be found at The Doctors Red Beach ph 09 427 9130 or Silverdale Medical Centre ph 09 427 9997. There is also a 24 hour clinic at Shorecare A&amp;M in Smales Farm, Milford ph (09) 486 7777."
-      ]
-    }
-  },
-  {
-    "lat": -46.41058219999999,
-    "lng": 168.35217940000007,
-    "name": "74 Don Street, Invercargill",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "74 Don Street, Invercargill, Southland 9810",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/74-don-street-invercargill/",
-    "opennningHours": {
-      "schedule": {},
       "exceptions": {},
       "notesHtml": []
     }
   },
   {
-    "lat": -38.6604249,
-    "lng": 177.9947644,
-    "name": "Harry Barker",
+    "lat": -38.6618465,
+    "lng": 178.0229811,
+    "name": "295 Palmerston Road",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "4:00 PM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "264A Lytton Road, Elgin, Gisborne 4010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/at/harry-barker-121-lytton-road-te-hapara-gisborne/",
-    "opennningHours": {
-      "schedule": {
-        "Wed": "4:00 PM – 6:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Drive Thru"
-      ]
-    }
-  },
-  {
-    "lat": -38.66025471573023,
-    "lng": 177.99424975224744,
-    "name": " Rugby Park Drive Thru COVID-19 Vaccination clinic",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "264A Lytton Road, Elgin, Gisborne 4010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/at/rugby-park-drive-thru-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Thu": "4:00 PM – 6:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "Drive Thru for 1st, 2nd and Boosters only"
-      ]
-    }
-  },
-  {
-    "lat": -46.41058219999999,
-    "lng": 168.35217940000007,
-    "name": "He Puna Waiora -  Wellness Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 3:00 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
       "AstraZeneca vaccine (18 + years)",
       "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
       "Walk in"
     ],
-    "address": "74 Don Street, Invercargill",
-    "telephone": "(03) 214 5261",
-    "faxNumber": "(03) 218 9523",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/he-puna-waiora-wellness-centre/at/74-don-street-invercargill/",
+    "address": "295 Palmerston Road, Gisborne 4010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-tairawhiti-covid-19-community-vaccination/at/295-palmerston-road-gisborne/",
     "opennningHours": {
       "schedule": {
-        "Tue – Wed": "10:00 AM – 3:00 PM",
-        "Thu": "2:00 PM – 7:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -46.4095554,
-    "lng": 168.34826339999995,
-    "name": "He Puna Waiora -  Wellness Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18 + years)",
-      "Anyone currently eligible can access",
-      "Walk in"
-    ],
-    "address": "92 Spey Street, Invercargill",
-    "telephone": "(03) 214 5261",
-    "faxNumber": "(03) 218 9523",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/he-puna-waiora-wellness-centre/at/92-spey-street-invercargill/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
+        "Mon – Fri": "9:00 AM – 4:30 PM",
+        "Sat": "10:00 AM – 2:00 PM"
       },
       "exceptions": {},
       "notesHtml": [
-        "We are not operating any Late Nights at the moment."
+        "We are accepting Walk-Ins and Bookings at 295 Palmerston Road.&nbsp;"
       ]
     }
   },
@@ -29951,117 +29844,224 @@
     }
   },
   {
-    "lat": -37.03924949999999,
-    "lng": 174.91452389999995,
-    "name": "Unichem Gateway Pharmacy Takanini",
-    "branch": "pharmacy",
+    "lat": -36.6312103,
+    "lng": 174.7628532,
+    "name": "Manly Medical Centre",
+    "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:30 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
+      "Eligible GP enrolled patients only"
     ],
-    "address": "26/108 Great South Road, Takanini",
-    "telephone": "(09) 296 1655",
-    "faxNumber": "(09) 553 8590",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-gateway-pharmacy-takanini/",
+    "address": "58 Rawhiti Road, Manly, Whangaparāoa",
+    "telephone": "(09) 424 9050",
+    "faxNumber": "(09) 424 1964",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/manly-medical-centre/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 6:30 PM",
-        "Sat – Sun": "9:00 AM – 1:00 PM"
+        "Mon – Fri": "2:00 PM – 2:30 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan)."
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan).",
+        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
       },
-      "notesHtml": []
+      "notesHtml": [
+        "<strong>* Patient to phone for appointment</strong>",
+        "Closed Saturdays, Sundays and all Public Holidays.",
+        "For AFTER HOURS care, please ring our phoneline (09) 424 9050. It is staffed 24 hours a day.",
+        "From 6pm - 8pm during the week and 8am – 8pm Saturday and Sunday, after hours care can be found at The Doctors Red Beach ph 09 427 9130 or Silverdale Medical Centre ph 09 427 9997. There is also a 24 hour clinic at Shorecare A&amp;M in Smales Farm, Milford ph (09) 486 7777."
+      ]
     }
   },
   {
-    "lat": -39.4775552,
-    "lng": 176.88156449999997,
-    "name": "Westshore Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "3 Alfred Street, Westshore, Napier",
-    "telephone": "(06) 835 9561",
-    "faxNumber": "(06) 835 9524",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/westshore-pharmacy/",
+    "lat": -46.41058219999999,
+    "lng": 168.35217940000007,
+    "name": "74 Don Street, Invercargill",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "74 Don Street, Invercargill, Southland 9810",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/74-don-street-invercargill/",
     "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM",
-        "Sat": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.936480726107,
-    "lng": 174.88073937837842,
-    "name": "Highbrook Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "31 Highbrook Drive, East Tāmaki, Auckland",
-    "telephone": "(09) 212 2000",
-    "faxNumber": "(09) 399 2454",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/highbrook-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:30 PM",
-        "Sat": "9:00 AM – 2:00 PM"
-      },
+      "schedule": {},
       "exceptions": {},
       "notesHtml": []
     }
   },
   {
-    "lat": -38.6618465,
-    "lng": 178.0229811,
-    "name": "295 Palmerston Road",
+    "lat": -38.6604249,
+    "lng": 177.9947644,
+    "name": "Harry Barker",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:30 PM.",
+    "openTodayHours": "4:00 PM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "264A Lytton Road, Elgin, Gisborne 4010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/at/harry-barker-121-lytton-road-te-hapara-gisborne/",
+    "opennningHours": {
+      "schedule": {
+        "Wed": "4:00 PM – 6:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "Drive Thru"
+      ]
+    }
+  },
+  {
+    "lat": -38.66025471573023,
+    "lng": 177.99424975224744,
+    "name": " Rugby Park Drive Thru COVID-19 Vaccination clinic",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "264A Lytton Road, Elgin, Gisborne 4010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/at/rugby-park-drive-thru-covid-19-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Thu": "4:00 PM – 6:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "Drive Thru for 1st, 2nd and Boosters only"
+      ]
+    }
+  },
+  {
+    "lat": -46.41058219999999,
+    "lng": 168.35217940000007,
+    "name": "He Puna Waiora -  Wellness Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
       "AstraZeneca vaccine (18 + years)",
       "Anyone currently eligible can access",
+      "Walk in"
+    ],
+    "address": "74 Don Street, Invercargill",
+    "telephone": "(03) 214 5261",
+    "faxNumber": "(03) 218 9523",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/he-puna-waiora-wellness-centre/at/74-don-street-invercargill/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Wed": "10:00 AM – 3:00 PM",
+        "Thu": "2:00 PM – 7:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -46.4095554,
+    "lng": 168.34826339999995,
+    "name": "He Puna Waiora -  Wellness Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18 + years)",
+      "Anyone currently eligible can access",
+      "Walk in"
+    ],
+    "address": "92 Spey Street, Invercargill",
+    "telephone": "(03) 214 5261",
+    "faxNumber": "(03) 218 9523",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/he-puna-waiora-wellness-centre/at/92-spey-street-invercargill/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "We are not operating any Late Nights at the moment."
+      ]
+    }
+  },
+  {
+    "lat": -41.1415093,
+    "lng": 174.8655834,
+    "name": "Pacific Health Plus",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
       "Make an appointment",
       "No appointment required",
       "Walk in"
     ],
-    "address": "295 Palmerston Road, Gisborne 4010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hauora-tairawhiti-covid-19-community-vaccination/at/295-palmerston-road-gisborne/",
+    "address": "4 Bedford Court, Cannons Creek, Porirua",
+    "telephone": "(04) 890 3620 or 0800 747 587 (PHPLUS)",
+    "faxNumber": "(04) 890 3629",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pacific-health-plus/at/4-bedford-court-cannons-creek-porirua/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "9:00 AM – 4:30 PM",
-        "Sat": "10:00 AM – 2:00 PM"
+        "Mon – Tue": "9:00 AM – 5:30 PM",
+        "Wed – Thu": "9:00 AM – 8:00 PM",
+        "Fri": "9:00 AM – 5:30 PM"
       },
-      "exceptions": {},
-      "notesHtml": [
-        "We are accepting Walk-Ins and Bookings at 295 Palmerston Road.&nbsp;"
-      ]
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct).",
+        "Preferred urgent care clinic out of hours": "Capital & Coast DHB Kenepuru Accident & Medical Clinic."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.90743059999999,
+    "lng": 174.9978359,
+    "name": "Pacific Health Plus",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "9 Milne Drive, Paraparaumu",
+    "telephone": "(04) 777 0050",
+    "faxNumber": "(04) 890 3629",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pacific-health-plus/at/9-milne-drive-paraparaumu/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (Observed 7/2/22) (7 Feb), Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct).",
+        "Preferred urgent care clinic out of hours": "Capital & Coast DHB Kenepuru Accident & Medical Clinic."
+      },
+      "notesHtml": []
     }
   }
 ]
