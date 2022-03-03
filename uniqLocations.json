@@ -9587,7 +9587,7 @@
           "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:15:00"
+        "localEnd": "12:30:00"
       }
     ],
     "mapUrl": "https://www.google.co.nz/maps/place/23+Gordon+Street,+Dannevirke+4930,+New+Zealand/@-40.2094447,176.0977182,17z/data=!3m1!4b1!4m5!3m4!1s0x6d41f2846869859d:0xecac960c6dfb4a00!8m2!3d-40.2094447!4d176.0999069",
@@ -26210,7 +26210,7 @@
   },
   {
     "displayAddress": "15 Mackenzie Drive   Twizel  7910",
-    "distanceInMeters": 0.16756394,
+    "distanceInMeters": 60238.14966264,
     "extId": "a0R4a000000TDDYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -26788,7 +26788,7 @@
     "extId": "a0R4a000000TKtxEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
-    "endDate": "2022-03-31",
+    "endDate": "2022-06-30",
     "location": {
       "lng": 175.286,
       "lat": -40.6332
@@ -62082,21 +62082,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:30:00"
+        "localEnd": "13:45:00"
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "wed"
+          "fri"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:30:00"
@@ -62110,17 +62103,24 @@
       },
       {
         "days": [
-          "fri"
+          "wed"
         ],
         "localStart": "09:00:00",
         "localEnd": "17:30:00"
       },
       {
         "days": [
-          "sat"
+          "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "13:45:00"
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/htjUz4gsMPi9NGzq7",
@@ -62194,7 +62194,7 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -62208,7 +62208,7 @@
       },
       {
         "days": [
-          "fri"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -65577,7 +65577,7 @@
   },
   {
     "displayAddress": "Market Place Twizel    7901",
-    "distanceInMeters": 549.85510365,
+    "distanceInMeters": 60599.82347516,
     "extId": "a0R4a000000fHreEAE",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-24",
