@@ -10322,40 +10322,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "Hari Hari Community Hall, 37 Main Road, Hari Hari",
-    "distanceInMeters": 58058.38301209,
-    "extId": "a0R4a000000QwfQEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-21",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 170.565,
-      "lat": -43.1506
-    },
-    "name": "Hari Hari Vaccination Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://www.google.com/maps/place/37+Main+Road,+Harihari+7884,+New+Zealand/@-43.1507113,170.5625511,17z/data=!3m1!4b1!4m5!3m4!1s0x6d2946c01559602b:0x88cdcb370ff4f121!8m2!3d-43.1507152!4d170.5647398",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-25",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T22:18:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Ngakawau Health Centre, 1A Main Road, Hector",
     "distanceInMeters": 28350.87854304,
     "extId": "a0R4a000000Qwi1EAC",
@@ -63332,28 +63298,14 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
           "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:00:00"
@@ -63367,10 +63319,24 @@
       },
       {
         "days": [
-          "tue"
+          "thu"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/NbXRdpwSf9De58CaA",
@@ -63703,17 +63669,17 @@
       },
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "13:00:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/rL4jbeWTfcnK1NRR8",
@@ -63920,13 +63886,6 @@
     "openHours": [
       {
         "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:45:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "10:00:00",
@@ -63935,6 +63894,13 @@
       {
         "days": [
           "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:45:00"
+      },
+      {
+        "days": [
+          "fri"
         ],
         "localStart": "10:00:00",
         "localEnd": "15:45:00"
@@ -64528,14 +64494,14 @@
     "openHours": [
       {
         "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
       },
       {
         "days": [
-          "thu"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "13:00:00"
@@ -64577,7 +64543,7 @@
     "openHours": [
       {
         "days": [
-          "wed"
+          "mon"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:45:00"
@@ -64591,7 +64557,7 @@
       },
       {
         "days": [
-          "mon"
+          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:45:00"
@@ -64934,7 +64900,14 @@
     "openHours": [
       {
         "days": [
-          "thu"
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "14:30:00"
+      },
+      {
+        "days": [
+          "mon"
         ],
         "localStart": "09:00:00",
         "localEnd": "14:30:00"
@@ -64948,14 +64921,7 @@
       },
       {
         "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "mon"
+          "thu"
         ],
         "localStart": "09:00:00",
         "localEnd": "14:30:00"
