@@ -1784,7 +1784,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 420.45227459,
+    "distanceInMeters": 68184.77798378,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -4728,7 +4728,7 @@
   },
   {
     "displayAddress": "The Old Warehouse Building, 11 Matthews Avenue, Kaitaia  410",
-    "distanceInMeters": 140.51805151,
+    "distanceInMeters": 0.19078518,
     "extId": "a0R4a000000QDrAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-10",
@@ -5782,7 +5782,7 @@
   },
   {
     "displayAddress": "295 Palmerston Road, Gisborne  4010",
-    "distanceInMeters": 874.74306359,
+    "distanceInMeters": 245.44152147,
     "extId": "a0R4a000000QNR1EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-19",
@@ -9757,7 +9757,7 @@
   },
   {
     "displayAddress": "18 Woollcombe Street, Timaru 7910",
-    "distanceInMeters": 67989.34053177,
+    "distanceInMeters": 2545.39568727,
     "extId": "a0R4a000000Qf41EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -10574,7 +10574,7 @@
   },
   {
     "displayAddress": "248 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 584.27640094,
+    "distanceInMeters": 68031.25943237,
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -19166,14 +19166,7 @@
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
+        "localStart": "14:00:00",
         "localEnd": "17:00:00"
       }
     ],
@@ -19747,7 +19740,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 68350.37464775,
+    "distanceInMeters": 2432.73701489,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -20463,7 +20456,7 @@
   },
   {
     "displayAddress": "24 Kitchener St, Wairoa 4108",
-    "distanceInMeters": 68084.24544775,
+    "distanceInMeters": 67400.77396648,
     "extId": "a0R4a000000Sm1JEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-30",
@@ -22035,7 +22028,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 1871.19433255,
+    "distanceInMeters": 69515.44125828,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -24325,6 +24318,174 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
+    "distanceInMeters": 1119.44537885,
+    "extId": "a0R4a000000T4E3EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-01",
+    "endDate": "2022-03-14",
+    "location": {
+      "lng": 171.236,
+      "lat": -44.3832
+    },
+    "name": "Ashbury Pharmacy Clinic",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "11:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/v8kkCRW5qhaav69e9",
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-05",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T22:20:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "2 Factory Road   Mosgiel  9024",
     "distanceInMeters": 9414.39814995,
     "extId": "a0R4a000000T7VKEA0",
@@ -25244,7 +25405,7 @@
   },
   {
     "displayAddress": "15 Mackenzie Drive   Twizel  7910",
-    "distanceInMeters": 60238.14966264,
+    "distanceInMeters": 0.16756394,
     "extId": "a0R4a000000TDDYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -34981,7 +35142,7 @@
   },
   {
     "displayAddress": "578 Gladstone Road Te Hapara  Gisborne  4010",
-    "distanceInMeters": 1470.40634624,
+    "distanceInMeters": 1639.85658929,
     "extId": "a0R4a000000UCmGEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-05",
@@ -36170,7 +36331,7 @@
   },
   {
     "displayAddress": "53 Commerce Street   Kaitaia  410",
-    "distanceInMeters": 0.57963098,
+    "distanceInMeters": 140.07191509,
     "extId": "a0R4a000000UOukEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -37333,7 +37494,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 45827.89807065,
+    "distanceInMeters": 33237.68107426,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -38960,7 +39121,7 @@
   },
   {
     "displayAddress": "145 Wai-Iti Road Highfield  Timaru  7910",
-    "distanceInMeters": 68586.48174064,
+    "distanceInMeters": 0.24823286,
     "extId": "a0R4a000000UdxkEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -39619,7 +39780,7 @@
   },
   {
     "displayAddress": "92 De Lautour Road Inner Kaiti  Gisborne  4010",
-    "distanceInMeters": 1973.54909926,
+    "distanceInMeters": 2300.16613798,
     "extId": "a0R4a000000Uf2wEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -39653,7 +39814,7 @@
   },
   {
     "displayAddress": "232 Gladstone Road   Gisborne  4010",
-    "distanceInMeters": 1114.18763458,
+    "distanceInMeters": 0.52944602,
     "extId": "a0R4a000000Uf5gEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -46532,7 +46693,7 @@
   },
   {
     "displayAddress": "4/155 Wills Street, Ashburton 7700",
-    "distanceInMeters": 0.23140108,
+    "distanceInMeters": 68586.33560849,
     "extId": "a0R4a000000VexzEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -50615,7 +50776,7 @@
   },
   {
     "displayAddress": "10 Ballance Street Whataupoko  Gisborne  4010",
-    "distanceInMeters": 0.17424164,
+    "distanceInMeters": 1114.16134876,
     "extId": "a0R4a000000WNbGEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-26",
@@ -57555,7 +57716,7 @@
   },
   {
     "displayAddress": "178 King Street   Temuka  7920",
-    "distanceInMeters": 53479.29022203,
+    "distanceInMeters": 17038.66034908,
     "extId": "a0R4a000000ZjDpEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -60234,8 +60395,8 @@
         "days": [
           "sat"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "15:45:00"
+        "localStart": "09:15:00",
+        "localEnd": "12:45:00"
       },
       {
         "days": [
