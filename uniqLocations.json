@@ -64013,6 +64013,69 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "32 Munroe Street Napier South  Napier  4110",
+    "distanceInMeters": 17686.28288838,
+    "extId": "a0R4a000000eVdCEAU",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2022-02-14",
+    "endDate": "2022-06-05",
+    "location": {
+      "lng": 176.915,
+      "lat": -39.4935
+    },
+    "name": "Unichem Munroe Street",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "15:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/J5wuYJ3FLsPRGNrV6",
+    "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2022-02-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "4/39 whatawhata Road   Hamilton  3204",
     "distanceInMeters": 16736.45246076,
     "extId": "a0R4a000000eWaOEAU",
