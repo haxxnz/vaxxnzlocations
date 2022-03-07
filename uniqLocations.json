@@ -4125,7 +4125,7 @@
   },
   {
     "displayAddress": "113 Broadway   Kaikohe  405",
-    "distanceInMeters": 59794.62350786,
+    "distanceInMeters": 58449.10602082,
     "extId": "a0R4a000000QDAFEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-06",
@@ -4728,7 +4728,7 @@
   },
   {
     "displayAddress": "The Old Warehouse Building, 11 Matthews Avenue, Kaitaia  410",
-    "distanceInMeters": 140.51805151,
+    "distanceInMeters": 0.19078518,
     "extId": "a0R4a000000QDrAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-10",
@@ -4896,7 +4896,7 @@
   },
   {
     "displayAddress": "1 Sammareee Place   Kerikeri  230",
-    "distanceInMeters": 64884.3051657,
+    "distanceInMeters": 63733.4311068,
     "extId": "a0R4a000000QDxXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
@@ -36198,7 +36198,7 @@
   },
   {
     "displayAddress": "53 Commerce Street   Kaitaia  410",
-    "distanceInMeters": 0.57963098,
+    "distanceInMeters": 140.07191509,
     "extId": "a0R4a000000UOukEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -44241,6 +44241,77 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-19T21:50:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Northlands Mall, 84/55 Main North Road Papanui  Christchurch  8542",
+    "distanceInMeters": 5452.95158953,
+    "extId": "a0R4a000000VJmWEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2022-03-07",
+    "endDate": "2022-04-30",
+    "location": {
+      "lng": 172.61,
+      "lat": -43.4925
+    },
+    "name": "Life Pharmacy Northlands",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "13:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "description": "Bookings are essential. Required wait time is 15 minutes post vaccination",
+    "mapUrl": "https://goo.gl/maps/Qg4rq4118WBkA8zP7",
+    "tags": [
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2022-03-03",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-23T04:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
