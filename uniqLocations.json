@@ -9061,49 +9061,49 @@
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "sun"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "16:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "16:00:00"
+        "localEnd": "16:30:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/38+Fitzherbert+Avenue,+Palmerston+North+4410,+New+Zealand/@-40.3582214,175.6102222,17z/data=!3m1!4b1!4m5!3m4!1s0x6d41b2d00114dca3:0x22a54c0616cb9f13!8m2!3d-40.3582214!4d175.6124109",
@@ -34738,13 +34738,6 @@
       },
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:30:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "09:00:00",
@@ -54196,7 +54189,7 @@
   },
   {
     "displayAddress": "6/8 Pioneer Street Henderson  Auckland  612",
-    "distanceInMeters": 25315.94093263,
+    "distanceInMeters": 53844.09627697,
     "extId": "a0R4a000000XujgEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-22",
@@ -64414,6 +64407,55 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2022-02-23",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "15 Meijer Drive   Lincoln  7608",
+    "distanceInMeters": 22798.81539956,
+    "extId": "a0R4a000000fO3REAU",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2022-03-19",
+    "endDate": "2022-03-28",
+    "location": {
+      "lng": 172.483,
+      "lat": -43.6362
+    },
+    "name": "Lincoln Events Centre - Nicholas Hall",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "12:30:00",
+        "localEnd": "17:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/W7f7Bm6Xe7kYtSc19",
+    "tags": [
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2022-03-11",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
