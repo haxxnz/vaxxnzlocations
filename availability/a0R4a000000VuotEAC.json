@@ -2,11 +2,19 @@
   "availabilityDates": {
     "2022-03-14": [
       {
+        "localStartTime": "09:00:00",
+        "durationSeconds": 900
+      },
+      {
         "localStartTime": "09:15:00",
         "durationSeconds": 900
       },
       {
         "localStartTime": "09:45:00",
+        "durationSeconds": 900
+      },
+      {
+        "localStartTime": "10:15:00",
         "durationSeconds": 900
       },
       {
@@ -43,10 +51,6 @@
       },
       {
         "localStartTime": "15:15:00",
-        "durationSeconds": 900
-      },
-      {
-        "localStartTime": "15:30:00",
         "durationSeconds": 900
       },
       {
@@ -1959,5 +1963,5 @@
       }
     ]
   },
-  "lastUpdatedAt": "2022-03-13T00:14:28.072Z"
+  "lastUpdatedAt": "2022-03-13T01:27:43.601Z"
 }
