@@ -20664,76 +20664,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "1 Urlich Avenue Glenview  Hamilton  3206",
-    "distanceInMeters": 74049.36033664,
-    "extId": "a0R4a000000SwbtEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-04",
-    "endDate": "2022-03-31",
-    "location": {
-      "lng": 175.283,
-      "lat": -37.8167
-    },
-    "name": "Glenview Medical",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "14:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Glenview+Medical+Centre/@-37.8167866,175.2805807,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6d1f4334328241:0xd46eb2b9d1638b23!8m2!3d-37.8167866!4d175.2827694",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-03",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:45:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "244 Grey Street   Palmerston North  4414",
     "distanceInMeters": 258.60914608,
     "extId": "a0R4a000000SwzEEAS",
@@ -61082,48 +61012,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2022-02-15",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "1/9 Railway Avenue Maidstone  Upper Hutt  5018",
-    "distanceInMeters": 25584.71205021,
-    "extId": "a0R4a000000eurMEAQ",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2022-02-16",
-    "endDate": "2022-04-01",
-    "location": {
-      "lng": 175.069,
-      "lat": -41.1277
-    },
-    "name": "Ōrongomai Marae Upper Hutt",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "15:00:00",
-        "localEnd": "18:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/8rMixXFF2RdVSi5s6",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-02-16",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
