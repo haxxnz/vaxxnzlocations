@@ -15406,38 +15406,6 @@
     }
   },
   {
-    "lat": -36.747317,
-    "lng": 174.73959939999997,
-    "name": "Sunset Road Family Doctors",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "3/317 Sunset Road, Sunnynook, Auckland",
-    "telephone": "(09) 478 2878",
-    "faxNumber": "(09) 478 3007",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/sunset-road-family-doctors/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:30 AM – 6:00 PM",
-        "Fri": "8:30 AM – 5:00 PM",
-        "Sat": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb).",
-        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
-      },
-      "notesHtml": [
-        "After hours contact Shorecare at Takapuna or Northcross -&nbsp;phone (09) 486 7777 for appointment or phone Healthline for advice from a registered nurse on 0800 611 116."
-      ]
-    }
-  },
-  {
     "lat": -36.6312103,
     "lng": 174.7628532,
     "name": "Manly Medical Centre",
@@ -16888,7 +16856,7 @@
       },
       "exceptions": {},
       "notesHtml": [
-        "Community Testing and Vaccination Centre hours - 11am - 5pm 7 days a week",
+        "<strong>Testing &amp; Vaccination 11:00 AM – 5:00 PM, 7 days a week</strong>",
         "<strong>Saturday and Sunday are only open for Testing and Vaccination</strong>",
         "Health Clinics / Te Kakano - click&nbsp;<a href=\"https://www.awarua.nz/clinics\" target=\"_blank\" rel=\"noopener\">here</a>&nbsp;for clinic times"
       ]
@@ -18650,7 +18618,7 @@
         "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Waitangi Day (6 Feb), Taranaki Anniversary (13 Mar)."
       },
       "notesHtml": [
-        "Please continue to conact us through phone 06 764 8188 and have your new prescriptions emailed to us <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f5919c8685909b8694878cb59099819d9498859d94879894968cdb969adb9b8f\">[email&nbsp;protected]</a> and respond to our text reminding service to ensure your continuity of heathcare and wellness. Regards Lorraine and the team"
+        "Please continue to conact us through phone 06 764 8188 and have your new prescriptions emailed to us <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"47232e343722293426353e07222b332f262a372f26352a26243e69242869293d\">[email&nbsp;protected]</a> and respond to our text reminding service to ensure your continuity of heathcare and wellness. Regards Lorraine and the team"
       ]
     }
   },
@@ -28743,7 +28711,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"85e0e8e4ece9c5e2eaf7e0e8e0e1ece6e4e9abe6eaabebff\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"8ce9e1ede5e0ccebe3fee9e1e9e8e5efede0a2efe3a2e2f6\">[email&nbsp;protected]</a>",
         "<br><strong>After Hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service."
       ]
     }
@@ -29278,6 +29246,38 @@
         "<strong>After Hours Phone Line:</strong>",
         "<u>When we are closed or unavailable</u>, you can get a virtual GP consultation with a real doctor from the comfort of your own home, workplace, or anywhere by using UnifyHealth, from 7am – 9pm, 7 days a week. All you need to do is type in <a href=\"https://book.unifyhealth.co.nz/app/booking\">book.unifyhealth.co.nz</a> into a web browser on your smart phone or computer.&nbsp; You will then be guided through the process of booking a Doctor online.",
         "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.747317,
+    "lng": 174.73959939999997,
+    "name": "Sunset Road Family Doctors",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "317 Sunset Road, Sunnynook, Auckland",
+    "telephone": "(09) 478 2878",
+    "faxNumber": "(09) 478 3007",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/sunset-road-family-doctors/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:30 AM – 6:00 PM",
+        "Fri": "8:30 AM – 5:00 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (15 Apr), Easter Sunday (17 Apr), Easter Monday (18 Apr), ANZAC Day (25 Apr), Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb).",
+        "Preferred urgent care clinic out of hours": "Shorecare Urgent Care Smales Farm."
+      },
+      "notesHtml": [
+        "After hours contact Shorecare at Takapuna or Northcross -&nbsp;phone (09) 486 7777 for appointment or phone Healthline for advice from a registered nurse on 0800 611 116."
       ]
     }
   }
