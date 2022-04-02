@@ -19959,41 +19959,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "133 Pah Street   Motueka  7120",
-    "distanceInMeters": 28344.08921832,
-    "extId": "a0R4a000000Sz5AEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-19",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 172.997,
-      "lat": -41.1119
-    },
-    "name": "Te Piki Oranga Motueka",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Nau mai, Haere mai!\r\nTe Piki Oranga provides quality Kaupapa Māori Health services, with an emphasis on whānau well-being. \r\nOur clinics and qualified kaimahi create a supportive and welcoming environment for whānau to access and receive their Covid-19 vaccination.\r\nKarawhiua - Be A Doer!\r\n\"Protecting our whānau is what we do\"",
-    "mapUrl": "https://www.google.com/maps/place/Te+Awhina+Marae/@-41.111894,172.9967767,15z/data=!4m5!3m4!1s0x0:0xd99592cbe59e5a8d!8m2!3d-41.111894!4d172.9967767",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-12-01",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-02T21:20:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "288 Te Atatu Road Te Atatu South  Auckland  0652",
     "distanceInMeters": 51494.52475114,
     "extId": "a0R4a000000Sz8YEAS",
@@ -57448,55 +57413,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2022-02-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "76 South Terrace   Darfield  7510",
-    "distanceInMeters": 42970.14864235,
-    "extId": "a0R4a000000fO3CEAU",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2022-03-25",
-    "endDate": "2022-04-03",
-    "location": {
-      "lng": 172.108,
-      "lat": -43.4891
-    },
-    "name": "Darfield Vaccination Event - Four Square Carpark",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/CBhMppgcsYYyYzK47",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-03-22",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
