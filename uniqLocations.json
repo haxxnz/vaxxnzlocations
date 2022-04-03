@@ -4020,7 +4020,7 @@
   },
   {
     "displayAddress": "22 Normanby Street   Dargaville  310",
-    "distanceInMeters": 47662.3946757,
+    "distanceInMeters": 48639.47698938,
     "extId": "a0R4a000000QDS5EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-11",
@@ -5667,14 +5667,14 @@
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "17:15:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:30:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -5752,7 +5752,7 @@
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
@@ -5766,28 +5766,28 @@
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "fri"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localEnd": "17:00:00"
       }
     ],
     "description": "COVID-19 Vaccination Centre in the heart of Nelson.",
@@ -7322,7 +7322,7 @@
   },
   {
     "displayAddress": "65 SCOTLAND STREET   Roxburgh  9500",
-    "distanceInMeters": 56387.04371095,
+    "distanceInMeters": 31835.49639914,
     "extId": "a0R4a000000QWQqEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-09",
@@ -15458,55 +15458,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "4 Howden Street   Green Island  9018",
-    "distanceInMeters": 7030.30320607,
-    "extId": "a0R4a000000SUXuEAO",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2022-04-17",
-    "location": {
-      "lng": 170.429,
-      "lat": -45.9027
-    },
-    "name": "Green Island Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "16:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Green+Island+Medical+Centre/@-45.9028604,170.4286153,18z/data=!4m5!3m4!1s0xa82ea998bbf2bedd:0xd3cbde38fc16fa95!8m2!3d-45.9028402!4d170.4291731",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T03:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "10 Beaumaris Street   Outram  9019",
     "distanceInMeters": 21581.23093501,
     "extId": "a0R4a000000SUaZEAW",
@@ -18091,7 +18042,7 @@
   },
   {
     "displayAddress": "24 Kitchener St, Wairoa 4108",
-    "distanceInMeters": 67410.36770592,
+    "distanceInMeters": 71376.10678366,
     "extId": "a0R4a000000Sm1JEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-30",
@@ -26530,40 +26481,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T19:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Maniaroa Marae   Mōkau  4376",
-    "distanceInMeters": 60251.86806177,
-    "extId": "a0R4a000000TgDfEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-20",
-    "endDate": "2022-04-30",
-    "location": {
-      "lng": 174.622,
-      "lat": -38.6687
-    },
-    "name": "Tui Ora, Mōkau",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/2m1hhPgNnbByPdej7",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-17",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -56091,7 +56008,7 @@
   },
   {
     "displayAddress": "1B Ngawaka Lane One Tree Point    118",
-    "distanceInMeters": 17112.15350892,
+    "distanceInMeters": 19578.34817591,
     "extId": "a0R4a000000eJnoEAE",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-11",
