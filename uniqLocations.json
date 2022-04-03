@@ -55263,13 +55263,6 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:45:00",
-        "localEnd": "13:15:00"
-      },
-      {
-        "days": [
           "tue"
         ],
         "localStart": "09:45:00",
@@ -55302,6 +55295,13 @@
         ],
         "localStart": "09:45:00",
         "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:45:00",
+        "localEnd": "13:15:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/puWGKeNTPSMeLTSY7",
