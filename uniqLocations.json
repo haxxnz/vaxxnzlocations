@@ -1657,7 +1657,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 66934.51472977,
+    "distanceInMeters": 67953.39273812,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -4630,7 +4630,7 @@
   },
   {
     "displayAddress": "1 Sammareee Place   Kerikeri  230",
-    "distanceInMeters": 62411.3244455,
+    "distanceInMeters": 0.24870967,
     "extId": "a0R4a000000QDxXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
@@ -4749,7 +4749,7 @@
   },
   {
     "displayAddress": "51 Okara Drive, Whangarei 0110   Whangarei  110",
-    "distanceInMeters": 2952.1465988,
+    "distanceInMeters": 65170.5506939,
     "extId": "a0R4a000000QE3BEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
@@ -8883,7 +8883,7 @@
   },
   {
     "displayAddress": "18 Woollcombe Street, Timaru 7910",
-    "distanceInMeters": 2302.98006304,
+    "distanceInMeters": 366.0725305,
     "extId": "a0R4a000000Qf41EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-29",
@@ -9330,6 +9330,69 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "71 Water Walk Road   Greymouth  7892",
+    "distanceInMeters": 1987.41773618,
+    "extId": "a0R4a000000QwdeEAC",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-06-29",
+    "endDate": "2022-06-30",
+    "location": {
+      "lng": 171.194,
+      "lat": -42.4623
+    },
+    "name": "Te Nikau - Greymouth Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "mapUrl": "https://g.page/te-nikau-ed?share",
+    "tags": [
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-25",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T21:16:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Turangawaewae Marae, Cnr of Kent St and River Rd, Ngaruawahia",
     "distanceInMeters": 0.43497467,
     "extId": "a0R4a000000R8AbEAK",
@@ -9450,7 +9513,7 @@
   },
   {
     "displayAddress": "121 Hakiaha Street, Taumarunui, 3920",
-    "distanceInMeters": 73335.49057114,
+    "distanceInMeters": 61810.7072414,
     "extId": "a0R4a000000RKWsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -9548,7 +9611,7 @@
   },
   {
     "displayAddress": "Ground Floor, 135 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 66843.75293639,
+    "distanceInMeters": 67858.28775832,
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -17326,7 +17389,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 2381.92070207,
+    "distanceInMeters": 0.23748898,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -19188,7 +19251,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 68270.87494463,
+    "distanceInMeters": 69335.92979916,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -22117,7 +22180,7 @@
   },
   {
     "displayAddress": "116 Onerahi Road Onerahi  Whangarei  110",
-    "distanceInMeters": 6698.47814055,
+    "distanceInMeters": 69062.57571735,
     "extId": "a0R4a000000THWzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -22229,7 +22292,7 @@
   },
   {
     "displayAddress": "Shop 1-5, 81 Paramount Parade Tikipunga  Whangarei  0112",
-    "distanceInMeters": 2824.87190645,
+    "distanceInMeters": 60117.41452708,
     "extId": "a0R4a000000THjAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -22637,7 +22700,7 @@
   },
   {
     "displayAddress": "4 Kensington Avenue Kensington  Whangarei  112",
-    "distanceInMeters": 0.17853613,
+    "distanceInMeters": 62411.1645828,
     "extId": "a0R4a000000TLq9EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-12",
@@ -22905,7 +22968,7 @@
   },
   {
     "displayAddress": "Shops 2&3 Otaika Shopping Centre, 147a Otaika Road Raumanga  Whangarei  0110",
-    "distanceInMeters": 3990.35175591,
+    "distanceInMeters": 65072.96689397,
     "extId": "a0R4a000000TTn6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -23187,7 +23250,7 @@
   },
   {
     "displayAddress": "521A Kamo Road Kamo  Whangarei  112",
-    "distanceInMeters": 3325.79747419,
+    "distanceInMeters": 59085.48107054,
     "extId": "a0R4a000000TZBmEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -30292,7 +30355,7 @@
   },
   {
     "displayAddress": "2/32 Reyburn Street   Whangārei  110",
-    "distanceInMeters": 2120.10251735,
+    "distanceInMeters": 64428.76218077,
     "extId": "a0R4a000000U8hJEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-27",
@@ -32553,7 +32616,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 32374.07388148,
+    "distanceInMeters": 34482.26979008,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -33977,7 +34040,7 @@
   },
   {
     "displayAddress": "145 Wai-Iti Road Highfield  Timaru  7910",
-    "distanceInMeters": 1274.25825523,
+    "distanceInMeters": 2432.30422288,
     "extId": "a0R4a000000UdxkEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -40434,7 +40497,7 @@
   },
   {
     "displayAddress": "4/155 Wills Street, Ashburton 7700",
-    "distanceInMeters": 67335.62077274,
+    "distanceInMeters": 68350.30586571,
     "extId": "a0R4a000000VexzEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -46854,7 +46917,7 @@
   },
   {
     "displayAddress": "38 Seddon Street   Raetihi  4632",
-    "distanceInMeters": 59275.12294267,
+    "distanceInMeters": 60399.48843997,
     "extId": "a0R4a000000XlHCEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-19",
@@ -54760,7 +54823,7 @@
   },
   {
     "displayAddress": "6D Three Mile Bush Road Kamo  Whangarei  112",
-    "distanceInMeters": 3408.9662612,
+    "distanceInMeters": 59003.48101629,
     "extId": "a0R4a000000dXgpEAE",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-10",
@@ -56622,36 +56685,7 @@
     },
     "name": "Anzac Park Vaccination Centre",
     "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "13:00:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
+    "openHours": [],
     "mapUrl": "https://goo.gl/maps/MNt8iHzDTAMYvL518",
     "tags": [
       {
