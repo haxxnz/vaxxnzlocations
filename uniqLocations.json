@@ -1551,7 +1551,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 2001.26258064,
+    "distanceInMeters": 420.45227459,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8501,7 +8501,7 @@
   },
   {
     "displayAddress": "Ground Floor, 135 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 2164.517477,
+    "distanceInMeters": 492.25378923,
     "extId": "a0R4a000000RelGEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -15378,7 +15378,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 69335.44932549,
+    "distanceInMeters": 68350.37464775,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -16932,7 +16932,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 0.39765557,
+    "distanceInMeters": 1871.19433255,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -18542,7 +18542,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 68416.33176554,
+    "distanceInMeters": 67483.02318613,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -20198,6 +20198,239 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-19T20:35:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "1 Guinness Street   Greymouth  7805",
+    "distanceInMeters": 1987.19676444,
+    "extId": "a0R4a000000TL0yEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2022-01-29",
+    "endDate": "2022-06-30",
+    "location": {
+      "lng": 171.211,
+      "lat": -42.4496
+    },
+    "name": "Unichem Olsens Pharmacy - Greymouth",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "description": "Access through doors with Covid-19 flag outside. Make yourself known to staff further instructions.",
+    "mapUrl": "https://goo.gl/maps/d2D9M5g6iDJfEmq66",
+    "tags": [
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2022-01-27",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "4 Kensington Avenue Kensington  Whangarei  112",
+    "distanceInMeters": 2951.9460149,
+    "extId": "a0R4a000000TLq9EAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-12",
+    "endDate": "2023-07-31",
+    "location": {
+      "lng": 174.321,
+      "lat": -35.7085
+    },
+    "name": "Kensington Pharmacy",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      }
+    ],
+    "description": "Wheelchair accessible- Yes\r\nForeign language translation service provided- Yes\r\nOn-site parking  ",
+    "mapUrl": "https://www.google.com/maps/place/Kensington+Pharmacy/@-35.708547,174.3184213,17z/data=!4m5!3m4!1s0x6d0b7ed8b4ea082b:0xc48669c6aa7a0f0f!8m2!3d-35.708629!4d174.3206342",
+    "tags": [
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-11",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -29229,7 +29462,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 46000.2610398,
+    "distanceInMeters": 45827.89807065,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -37574,7 +37807,7 @@
   },
   {
     "displayAddress": "4/155 Wills Street, Ashburton 7700",
-    "distanceInMeters": 1871.27974885,
+    "distanceInMeters": 0.23140108,
     "extId": "a0R4a000000VexzEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
