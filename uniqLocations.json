@@ -2345,7 +2345,7 @@
   },
   {
     "displayAddress": "1 Lincoln Street   Patea",
-    "distanceInMeters": 25685.00099851,
+    "distanceInMeters": 25455.46339978,
     "extId": "a0R4a000000QCw6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-13",
@@ -19365,6 +19365,41 @@
         ],
         "localStart": "10:00:00",
         "localEnd": "12:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "11:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "11:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "11:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "11:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "11:30:00",
+        "localEnd": "17:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Cromwell+Pharmacy/@-45.0373503,169.194369,17z/data=!4m8!1m2!3m1!2sCromwell+Pharmacy!3m4!1s0xa82ad4dc4627aeb1:0xea67e4edf92f5b8c!8m2!3d-45.0372764!4d169.1965477",
@@ -27539,76 +27574,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-19T00:15:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "195b Main South Road Green Island  Dunedin  9018",
-    "distanceInMeters": 4706.09083848,
-    "extId": "a0R4a000000U2KqEAK",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-31",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 170.43,
-      "lat": -45.9017
-    },
-    "name": "Green Island Boutique Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "12:30:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/Green+Island+Boutique+Pharmacy/@-45.9017352,170.4273483,17z/data=!4m5!3m4!1s0xa82ea998db82fce9:0x38173c7970debe33!8m2!3d-45.9018062!4d170.4295361?shorturl=1",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-24",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:10:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -40666,35 +40631,35 @@
         "days": [
           "mon"
         ],
-        "localStart": "14:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "14:00:00",
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "14:00:00",
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "14:00:00",
+        "localStart": "09:00:00",
         "localEnd": "16:00:00"
       }
     ],
@@ -50754,7 +50719,7 @@
     "extId": "a0R4a000000d3l0EAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-10",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 175.072,
       "lat": -41.1227
