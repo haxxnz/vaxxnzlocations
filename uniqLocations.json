@@ -5116,11 +5116,11 @@
           "tue"
         ],
         "localStart": "10:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
-          "sun"
+          "sat"
         ],
         "localStart": "09:30:00",
         "localEnd": "15:00:00"
@@ -5130,14 +5130,14 @@
           "wed"
         ],
         "localStart": "10:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "10:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:15:00"
       }
     ],
     "description": "**Walk-Ins welcomed**",
@@ -7259,6 +7259,118 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T19:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "4 Frome Street Oamaru    9400",
+    "distanceInMeters": 217.24290767,
+    "extId": "a0R4a000000QZHzEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-30",
+    "endDate": "2022-05-25",
+    "location": {
+      "lng": 170.98,
+      "lat": -45.08
+    },
+    "name": "Oamaru - Northend Health Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "16:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/koinjQFGutUNzZaTA",
+    "tags": [
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T04:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -51837,31 +51949,31 @@
     "openHours": [
       {
         "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "15:00:00"
+      },
+      {
+        "days": [
           "thu"
         ],
         "localStart": "10:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "10:30:00",
-        "localEnd": "17:30:00"
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "10:30:00",
-        "localEnd": "17:30:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:00:00"
+        "localEnd": "17:15:00"
       }
     ],
     "description": "**Walk-Ins welcomed**",
