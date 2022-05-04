@@ -4363,13 +4363,6 @@
     "mapUrl": "https://www.google.com/maps/place/1+Sammaree+Place,+Kerikeri+0230/@-35.2345938,173.950228,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0bb7f4af316115:0xa102ef3e67ba5989!8m2!3d-35.2345938!4d173.9524167",
     "tags": [
       {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
         "id": 48791,
         "externalId": "a0p4a000000E7ytAAC",
         "name": "Wheelchair access",
@@ -4424,6 +4417,13 @@
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
         "isSystemTag": false
+      },
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
       },
       {
         "id": 85183,
