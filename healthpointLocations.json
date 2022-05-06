@@ -11195,17 +11195,27 @@
   {
     "lat": -43.5938932,
     "lng": 172.3874769,
-    "name": "",
+    "name": "Unichem Rolleston Central Pharmacy",
     "branch": "pharmacy",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "9 Masefield Drive, Rolleston",
+    "telephone": "(03) 347 2498",
     "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/9-masefield-drive-rolleston-2/",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-rolleston-central-pharmacy/",
     "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat – Sun": "9:30 AM – 4:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr). Open Easter Sunday (9 Apr, 9:30 AM – 4:30 PM)."
+      },
       "notesHtml": []
     }
   },
@@ -13137,7 +13147,7 @@
         "Public Holidays": "Closed Queen's Birthday (6 Jun), Matariki (24 Jun), Labour Day (24 Oct), Waitangi Day (6 Feb), Taranaki Anniversary (13 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr)."
       },
       "notesHtml": [
-        "Please continue to contact us through phone 06 764 8188 and have your new prescriptions emailed to us <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a1c5c8d2d1c4cfd2c0d3d8e1c4cdd5c9c0ccd1c9c0d3ccc0c2d88fc2ce8fcfdb\">[email&nbsp;protected]</a> and respond to our text reminding service to ensure your continuity of heathcare and wellness. Regards Lorraine and the team"
+        "Please continue to contact us through phone 06 764 8188 and have your new prescriptions emailed to us <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a6c2cfd5d6c3c8d5c7d4dfe6c3cad2cec7cbd6cec7d4cbc7c5df88c5c988c8dc\">[email&nbsp;protected]</a> and respond to our text reminding service to ensure your continuity of heathcare and wellness. Regards Lorraine and the team"
       ]
     }
   },
@@ -26998,34 +27008,6 @@
     }
   },
   {
-    "lat": -39.535198,
-    "lng": 176.848406,
-    "name": "Glenns Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "Glenns Pharmacy, 245 Gloucester Street, Taradale, Napier",
-    "telephone": "(06) 844 6383",
-    "faxNumber": "(06) 844 6583",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/glenns-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM",
-        "Sat": "9:00 AM – 12:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen's Birthday (6 Jun), Matariki (24 Jun), Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.5110614,
     "lng": 172.55607380000004,
     "name": "Avonhead Pharmacy",
@@ -27081,7 +27063,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"17727a767e7b57707865727a72737e74767b39747839796d\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please use the fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"fb9e969a9297bb9c94899e969e9f92989a97d59894d59581\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -27663,7 +27645,7 @@
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-covid-19-vaccination-centres/at/kerikeri-covid-19-vaccination-clinic-1-sammaree/",
     "opennningHours": {
       "schedule": {
-        "Mon – Tue": "10:00 AM – 3:00 PM",
+        "Tue": "10:00 AM – 3:00 PM",
         "Wed": "10:00 AM – 5:00 PM",
         "Thu": "12:00 PM – 7:00 PM",
         "Fri": "10:00 AM – 3:00 PM",
@@ -27701,7 +27683,7 @@
     "opennningHours": {
       "schedule": {
         "Mon": "10:00 AM – 5:00 PM",
-        "Tue – Thu": "10:00 AM – 3:00 PM",
+        "Tue – Wed": "10:00 AM – 3:00 PM",
         "Sat": "9:00 AM – 3:00 PM"
       },
       "exceptions": {
