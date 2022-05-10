@@ -1163,147 +1163,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "15 Durham Street, Rangiora 7400",
-    "distanceInMeters": 26392.4075607,
-    "extId": "a0R4a000000PrgtEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-22",
-    "endDate": "2022-08-31",
-    "location": {
-      "lng": 172.592,
-      "lat": -43.3026
-    },
-    "name": "Rangiora Durham Health CBAC",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "12:00:00"
-      },
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "12:00:00",
-        "localEnd": "14:00:00"
-      }
-    ],
-    "description": "Wheelchair accessible toilets, Wheelchair ramp access to site.\r\nOn-site parking",
-    "mapUrl": "https://goo.gl/maps/eS52iNJPnEN3XrLs5",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85187,
-        "externalId": "a0p4a000000EOb5AAG",
-        "name": "Drive-through location",
-        "languageKey": "Drive-through location",
-        "isSystemTag": false
-      },
-      {
-        "id": 48793,
-        "externalId": "a0p4a000000E7yvAAC",
-        "name": "NZSL interpreter",
-        "languageKey": "NZSL interpreter",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48789,
-        "externalId": "a0p4a000000E7yrAAC",
-        "name": "More space to move around",
-        "languageKey": "More space to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-02",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T04:55:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "55 Wharerangi Road Greenmeadows  Napier  4112",
     "distanceInMeters": 14105.86906727,
     "extId": "a0R4a000000PvP1EAK",
@@ -4288,7 +4147,7 @@
     "extId": "a0R4a000000QDxXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-01",
     "location": {
       "lng": 173.95,
       "lat": -35.2346
@@ -4414,7 +4273,7 @@
     "extId": "a0R4a000000QE3BEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-01",
     "location": {
       "lng": 174.327,
       "lat": -35.7346
@@ -5706,11 +5565,11 @@
   },
   {
     "displayAddress": "11 Quay Street   Whakatane 3120",
-    "distanceInMeters": 61980.3703297,
+    "distanceInMeters": 5678.80458624,
     "extId": "a0R4a000000QVAOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 177,
       "lat": -37.9499
@@ -7402,7 +7261,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 67766.22210791,
+    "distanceInMeters": 67738.12981991,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -9031,6 +8890,161 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "The Hub Hornby, 418 Main South Road Hornby  Christchurch  8042",
+    "distanceInMeters": 9027.15177495,
+    "extId": "a0R4a000000RxNXEA0",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2022-05-31",
+    "location": {
+      "lng": 172.524,
+      "lat": -43.543
+    },
+    "name": "Māui Clinic @ The Hub Hornby",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "19:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "description": "Toilets - Yes wheelchair accessible. Wheelchair ramp access. Onsite parking.",
+    "mapUrl": "https://g.page/HubHornby?share",
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85185,
+        "externalId": "a0p4a000000EOb3AAG",
+        "name": "Public transport options",
+        "languageKey": "Public transport options",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -17505,7 +17519,7 @@
   },
   {
     "displayAddress": "Orewa Medical Plaza, 08 Tamariki Avenue, Orewa 0931",
-    "distanceInMeters": 21311.56991005,
+    "distanceInMeters": 21291.43490334,
     "extId": "a0R4a000000Syu4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -21806,7 +21820,7 @@
   },
   {
     "displayAddress": "11 Alnwick Street  Warkworth  0910",
-    "distanceInMeters": 324.75939321,
+    "distanceInMeters": 295.62929439,
     "extId": "a0R4a000000TayxEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-12",
@@ -21897,7 +21911,7 @@
   },
   {
     "displayAddress": "Unit 2/347 Mahurangi East Road   Snells Beach  920",
-    "distanceInMeters": 6445.70044958,
+    "distanceInMeters": 6415.02185668,
     "extId": "a0R4a000000Tb46EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -23535,11 +23549,11 @@
   },
   {
     "displayAddress": "48 Queen Street, Warkworth 0910",
-    "distanceInMeters": 0.30576553,
+    "distanceInMeters": 31.03415426,
     "extId": "a0R4a000000Tg1uEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 174.664,
       "lat": -36.3975
@@ -23619,7 +23633,7 @@
   },
   {
     "displayAddress": "8 Tamariki Avenue   Orewa  931",
-    "distanceInMeters": 21305.0465848,
+    "distanceInMeters": 21284.93027072,
     "extId": "a0R4a000000Tg7gEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -23710,7 +23724,7 @@
   },
   {
     "displayAddress": "855 East Coast Road Northcross  Auckland  630",
-    "distanceInMeters": 35084.16696968,
+    "distanceInMeters": 35063.27282331,
     "extId": "a0R4a000000Tg85EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
@@ -23830,7 +23844,7 @@
   },
   {
     "displayAddress": "66 Clyde Road, Browns Bay, Auckland 0630",
-    "distanceInMeters": 35992.98779274,
+    "distanceInMeters": 35971.07829603,
     "extId": "a0R4a000000TgB0EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-26",
@@ -27114,7 +27128,7 @@
   },
   {
     "displayAddress": "50 Commercial Road Helensville  Auckland  800",
-    "distanceInMeters": 36428.90182491,
+    "distanceInMeters": 36428.0156116,
     "extId": "a0R4a000000U2HwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27345,7 +27359,7 @@
   },
   {
     "displayAddress": "53B Rawhiti Rd Manly  Whangaparaoa  932",
-    "distanceInMeters": 27418.04695176,
+    "distanceInMeters": 27393.69249029,
     "extId": "a0R4a000000U2KbEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-22",
@@ -29596,7 +29610,7 @@
   },
   {
     "displayAddress": "Unit C13, Village, 5/19 Factory Road, Waimauku 0812",
-    "distanceInMeters": 43791.37490114,
+    "distanceInMeters": 43784.42306887,
     "extId": "a0R4a000000UU8REAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -30098,7 +30112,7 @@
     "extId": "a0R4a000000UWLIEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 176.185,
       "lat": -37.6413
@@ -36210,7 +36224,7 @@
   },
   {
     "displayAddress": "13-15 Bute Road Browns Bay  Auckland  630",
-    "distanceInMeters": 35924.99788346,
+    "distanceInMeters": 35903.17742183,
     "extId": "a0R4a000000VSRpEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-23",
@@ -36524,7 +36538,7 @@
     "extId": "a0R4a000000VSvpEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-23",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 174.609,
       "lat": -36.8185
@@ -37625,7 +37639,7 @@
   },
   {
     "displayAddress": "2/3 Brian Smith Drive Silverdale  Auckland  932",
-    "distanceInMeters": 24710.11445394,
+    "distanceInMeters": 24692.57594499,
     "extId": "a0R4a000000VkLwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -37737,7 +37751,7 @@
   },
   {
     "displayAddress": "5/651 Whangaparaoa Road Stanmore Bay  Auckland  0932",
-    "distanceInMeters": 27190.3299364,
+    "distanceInMeters": 27167.53392371,
     "extId": "a0R4a000000VleXEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-08",
@@ -37807,7 +37821,7 @@
   },
   {
     "displayAddress": "323 Main Rd Huapai  Auckland  810",
-    "distanceInMeters": 42940.84178639,
+    "distanceInMeters": 42930.80141044,
     "extId": "a0R4a000000VqoNEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-01",
@@ -39967,7 +39981,7 @@
   },
   {
     "displayAddress": "B2/570 Whangaparaoa Road Stanmore Bay  Auckland  0932",
-    "distanceInMeters": 26322.03358188,
+    "distanceInMeters": 26299.66843764,
     "extId": "a0R4a000000W3JVEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -40294,7 +40308,7 @@
     "extId": "a0R4a000000WCmxEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-05",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 174.754,
       "lat": -36.7816
@@ -40727,7 +40741,7 @@
   },
   {
     "displayAddress": "16 Wade River Road Arkles Bay  Auckland  932",
-    "distanceInMeters": 27591.53567619,
+    "distanceInMeters": 27568.31947326,
     "extId": "a0R4a000000WMzMEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-02",
@@ -41663,7 +41677,7 @@
   },
   {
     "displayAddress": "90A/90D Main Road   Kumeu  810",
-    "distanceInMeters": 43072.4856259,
+    "distanceInMeters": 43061.78849037,
     "extId": "a0R4a000000WmzaEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-15",
@@ -44605,7 +44619,7 @@
     "extId": "a0R4a000000XupZEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-01",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 174.831,
       "lat": -36.8885
@@ -48696,7 +48710,7 @@
   },
   {
     "displayAddress": "25/61 Silverdale St   Silverdale  932",
-    "distanceInMeters": 24163.31345711,
+    "distanceInMeters": 24144.79629998,
     "extId": "a0R4a000000aqipEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-27",
@@ -53896,7 +53910,7 @@
   },
   {
     "displayAddress": "1040 Beach Road Torbay  Auckland  630",
-    "distanceInMeters": 33592.23061064,
+    "distanceInMeters": 33569.82046937,
     "extId": "a0R4a000000fTrZEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-28",
@@ -54169,7 +54183,7 @@
   },
   {
     "displayAddress": "16A Moana Avenue Orewa  Auckland  0931",
-    "distanceInMeters": 21203.45387688,
+    "distanceInMeters": 21183.41709512,
     "extId": "a0R4a000000fsVYEAY",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-03-23",
