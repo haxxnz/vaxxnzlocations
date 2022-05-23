@@ -1191,7 +1191,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 2001.26258064,
+    "distanceInMeters": 66934.51472977,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -1992,7 +1992,7 @@
   },
   {
     "displayAddress": "1 Lincoln Street   Patea",
-    "distanceInMeters": 53210.77189783,
+    "distanceInMeters": 25455.46339978,
     "extId": "a0R4a000000QCw6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-13",
@@ -6824,7 +6824,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 67766.22210791,
+    "distanceInMeters": 67738.12981991,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -14819,7 +14819,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 69335.44932549,
+    "distanceInMeters": 2381.92070207,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -16310,7 +16310,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 0.39765557,
+    "distanceInMeters": 68270.87494463,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -17892,7 +17892,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 68416.33176554,
+    "distanceInMeters": 157.53092828,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -28548,7 +28548,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 46000.2610398,
+    "distanceInMeters": 32374.07388148,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -34650,7 +34650,7 @@
     "extId": "a0R4a000000VPkSEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-27",
-    "endDate": "2022-12-23",
+    "endDate": "2022-05-28",
     "location": {
       "lng": 176.223,
       "lat": -37.675
@@ -36020,7 +36020,7 @@
       "lng": 176.302,
       "lat": -38.1296
     },
-    "name": "at Owhata Pharmacy - next door to Tiaho Medical Centre",
+    "name": "Owhata Pharmacy - next door to Tiaho Medical Centre",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -50713,133 +50713,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2022-01-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "20 Buckleys Road Linwood  Christchurch  8062",
-    "distanceInMeters": 3246.54690831,
-    "extId": "a0R4a000000dWNIEA2",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2022-03-29",
-    "endDate": "2022-06-30",
-    "location": {
-      "lng": 172.675,
-      "lat": -43.533
-    },
-    "name": "Ki te tihi Hapori Hauora - Eastgate (5-11 year old bookings)",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "sat"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "15:15:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:15:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "17:15:00"
-      }
-    ],
-    "description": "**Walk-Ins welcomed**",
-    "mapUrl": "https://g.page/EastgateChristchurch?share",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 85182,
-        "externalId": "a0p4a000000EOb0AAG",
-        "name": "Toilets",
-        "languageKey": "Toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-03-28",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
