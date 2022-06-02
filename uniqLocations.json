@@ -7491,62 +7491,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "51 Tyrone Street Ranfurly  Ranfurly  9332",
-    "distanceInMeters": 68963.96146799,
-    "extId": "a0R4a000000RP9sEAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-20",
-    "endDate": "2022-06-02",
-    "location": {
-      "lng": 170.109,
-      "lat": -45.1285
-    },
-    "name": "Ranfurly - Ranfurly Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/4FFQ5fYTFDHDfJ7m6",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-05",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-24T01:10:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Goldfields Shopping Centre, 100 Mary Street   Thames  3500",
     "distanceInMeters": 67440.32551932,
     "extId": "a0R4a000000Rfp4EAC",
@@ -45805,41 +45749,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2022-02-07",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Shop 12, 12 Swansea Road Flaxmere  Hastings  4120",
-    "distanceInMeters": 5384.97741173,
-    "extId": "a0R4a000000aNYAEA2",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-12-06",
-    "endDate": "2022-12-23",
-    "location": {
-      "lng": 176.787,
-      "lat": -39.6257
-    },
-    "name": "Flaxmere Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Walk-ins Welcome",
-    "mapUrl": "https://goo.gl/maps/jPp9sBeExWYsFiC47",
-    "tags": [
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-12-03",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
