@@ -995,7 +995,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 66934.51472977,
+    "distanceInMeters": 67081.91206517,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7912,9 +7912,30 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:15:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
           "tue"
         ],
-        "localStart": "09:30:00",
+        "localStart": "08:15:00",
         "localEnd": "17:00:00"
       },
       {
@@ -7922,34 +7943,13 @@
           "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localEnd": "12:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:30:00",
+        "localStart": "08:15:00",
         "localEnd": "17:00:00"
       }
     ],
@@ -13879,7 +13879,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 2381.92070207,
+    "distanceInMeters": 2377.9557151,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -15447,7 +15447,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 68270.87494463,
+    "distanceInMeters": 68416.98790016,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -17029,7 +17029,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 157.53092828,
+    "distanceInMeters": 0.41282663,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -25498,7 +25498,7 @@
   },
   {
     "displayAddress": "600 Heretaunga Street West Saint Leonards  Hastings  4122",
-    "distanceInMeters": 5090.60335969,
+    "distanceInMeters": 12930.42065364,
     "extId": "a0R4a000000U3ucEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-28",
@@ -27194,7 +27194,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 32374.07388148,
+    "distanceInMeters": 32458.13974508,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -30594,7 +30594,7 @@
   },
   {
     "displayAddress": "522 Kennedy Road Greenmeadows  Napier  4112",
-    "distanceInMeters": 16394.89673506,
+    "distanceInMeters": 0.52090123,
     "extId": "a0R4a000000V1EfEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -32366,7 +32366,7 @@
   },
   {
     "displayAddress": "5 Sale Street Napier South  Napier  4110",
-    "distanceInMeters": 19470.393141,
+    "distanceInMeters": 4880.00281121,
     "extId": "a0R4a000000VBXREA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -34669,7 +34669,7 @@
   },
   {
     "displayAddress": "5/10 Porter Drive   Havelock North  4130",
-    "distanceInMeters": 0.30159919,
+    "distanceInMeters": 16394.95899593,
     "extId": "a0R4a000000VdLzEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -43517,7 +43517,7 @@
   },
   {
     "displayAddress": "14/221 Russell Street North   Hastings  4122",
-    "distanceInMeters": 4270.2489117,
+    "distanceInMeters": 13089.35679671,
     "extId": "a0R4a000000YhomEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-03",
@@ -45032,44 +45032,44 @@
     "openHours": [
       {
         "days": [
-          "sat"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "12:30:00"
-      },
-      {
-        "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:15:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:15:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:15:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:15:00",
         "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "12:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:00:00",
+        "localStart": "08:15:00",
         "localEnd": "17:00:00"
       }
     ],
@@ -50317,7 +50317,7 @@
   },
   {
     "displayAddress": "32 Munroe Street Napier South  Napier  4110",
-    "distanceInMeters": 19936.47991261,
+    "distanceInMeters": 5160.19013937,
     "extId": "a0R4a000000eVdCEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-14",
@@ -52185,7 +52185,7 @@
   },
   {
     "displayAddress": "135 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 66869.14128652,
+    "distanceInMeters": 67016.65906447,
     "extId": "a0R4a000000k5jZEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-06-11",
