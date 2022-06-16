@@ -473,7 +473,7 @@
   },
   {
     "displayAddress": "41 Hunter Street   Hawera  4610",
-    "distanceInMeters": 60802.08732925,
+    "distanceInMeters": 631.57230011,
     "extId": "a0R4a000000Pit9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -551,7 +551,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 0.22695513,
+    "distanceInMeters": 60753.73693612,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -706,7 +706,7 @@
   },
   {
     "displayAddress": "17 Camberwell Road Hāwera  New Plymouth  4610",
-    "distanceInMeters": 60753.71346805,
+    "distanceInMeters": 0.23583785,
     "extId": "a0R4a000000PjaAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -995,7 +995,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 67081.91206517,
+    "distanceInMeters": 66934.51472977,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -5130,6 +5130,132 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "25 Luxmore Drive,   Te Anau  9600",
+    "distanceInMeters": 0.55132499,
+    "extId": "a0R4a000000QVSKEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2022-09-04",
+    "location": {
+      "lng": 167.72,
+      "lat": -45.4158
+    },
+    "name": "Te Anau - Fiordland Medical Practice",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "18:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/Fiordland+Medical+Practice/@-45.4163717,167.7189044,18z/data=!4m5!3m4!1s0xa9d40e4beab63259:0xf8bcf13f969a8792!8m2!3d-45.4158815!4d167.7200994",
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85187,
+        "externalId": "a0p4a000000EOb5AAG",
+        "name": "Drive-through location",
+        "languageKey": "Drive-through location",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-12",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-23T00:45:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "93 Tarbert Street   Alexandra  9320",
     "distanceInMeters": 57814.81100135,
     "extId": "a0R4a000000QVV4EAO",
@@ -5452,8 +5578,85 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "192 Waenga Drive   Cromwell  9384",
+    "distanceInMeters": 35679.85249654,
+    "extId": "a0R4a000000QVgsEAG",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-23",
+    "endDate": "2022-09-30",
+    "location": {
+      "lng": 169.194,
+      "lat": -45.0378
+    },
+    "name": "Cromwell - Cromwell Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/place/192+Waenga+Drive,+Cromwell+9310,+New+Zealand/@-45.0378056,169.1940886,17z/data=!4m13!1m7!3m6!1s0xa82ad4c4747e1f45:0xc4b8e83e59a7fbaa!2s192+Waenga+Drive,+Cromwell+9310,+New+Zealand!3b1!8m2!3d-45.0378094!4d169.1962773!3m4!1",
+    "tags": [
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-23T01:40:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "153 Hanover Street   Dunedin  9016",
-    "distanceInMeters": 2521.67506522,
+    "distanceInMeters": 1763.32751861,
     "extId": "a0R4a000000QVmvEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -6217,7 +6420,7 @@
   },
   {
     "displayAddress": "38 Fitzherbert Ave,   Palmerston North  4410",
-    "distanceInMeters": 1655.48377693,
+    "distanceInMeters": 65860.54950192,
     "extId": "a0R4a000000Qa3eEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -6897,7 +7100,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 15875.66742923,
+    "distanceInMeters": 64904.80723089,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -7454,7 +7657,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 1748.64690132,
+    "distanceInMeters": 59607.62106513,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8127,7 +8330,7 @@
   },
   {
     "displayAddress": "8 Broadway Central Dunedin  Dunedin  9016",
-    "distanceInMeters": 1401.85408701,
+    "distanceInMeters": 2914.03355774,
     "extId": "a0R4a000000SI5cEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -8267,7 +8470,7 @@
   },
   {
     "displayAddress": "40 Clyde Street, Balclutha",
-    "distanceInMeters": 69804.86510416,
+    "distanceInMeters": 73858.7033294,
     "extId": "a0R4a000000SIDWEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-24",
@@ -8386,7 +8589,7 @@
   },
   {
     "displayAddress": "130 Gordon Road Fairfield  Mosgiel  9024",
-    "distanceInMeters": 10708.94176586,
+    "distanceInMeters": 13424.09551884,
     "extId": "a0R4a000000SIHYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -8743,7 +8946,7 @@
   },
   {
     "displayAddress": "98 Macandrew Road, South Dunedin  Dunedin  9012",
-    "distanceInMeters": 1631.5760669,
+    "distanceInMeters": 4914.01495087,
     "extId": "a0R4a000000SIRTEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -8904,7 +9107,7 @@
   },
   {
     "displayAddress": "Shop G10a, 267 George Street   Dunedin  9016",
-    "distanceInMeters": 2248.27280043,
+    "distanceInMeters": 2028.20161886,
     "extId": "a0R4a000000SISlEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -9051,7 +9254,7 @@
   },
   {
     "displayAddress": "402 George Street North Dunedin  Dunedin  9016",
-    "distanceInMeters": 2592.49230634,
+    "distanceInMeters": 1669.33181316,
     "extId": "a0R4a000000SITyEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -10752,7 +10955,7 @@
   },
   {
     "displayAddress": "80 Kapanga Road   Coromandel  3506",
-    "distanceInMeters": 41275.04965381,
+    "distanceInMeters": 41169.21797238,
     "extId": "a0R4a000000SOnsEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -12238,7 +12441,7 @@
   },
   {
     "displayAddress": "351A King Edward Street South Dunedin  Dunedin  9012",
-    "distanceInMeters": 1845.71465862,
+    "distanceInMeters": 4926.37626714,
     "extId": "a0R4a000000SXJBEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -12525,7 +12728,7 @@
   },
   {
     "displayAddress": "133 Great King Street Dunedin Central  Dunedin  9016",
-    "distanceInMeters": 2338.78672611,
+    "distanceInMeters": 1980.54005079,
     "extId": "a0R4a000000SXPOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -12672,7 +12875,7 @@
   },
   {
     "displayAddress": "216 Main South Road Green Island  Dunedin  9018",
-    "distanceInMeters": 4795.64319482,
+    "distanceInMeters": 8751.809769,
     "extId": "a0R4a000000SXV2EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -12952,7 +13155,7 @@
   },
   {
     "displayAddress": "1 North Road North East Valley  Dunedin  9010",
-    "distanceInMeters": 4249.97401212,
+    "distanceInMeters": 0.17649328,
     "extId": "a0R4a000000SXZ9EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -13204,7 +13407,7 @@
   },
   {
     "displayAddress": "287A Highgate Roslyn  Dunedin  9010",
-    "distanceInMeters": 2019.14709928,
+    "distanceInMeters": 2672.78422733,
     "extId": "a0R4a000000SXgUEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -13323,7 +13526,7 @@
   },
   {
     "displayAddress": "64 Albert Street   Whitianga  3510",
-    "distanceInMeters": 22677.10811023,
+    "distanceInMeters": 22551.47280061,
     "extId": "a0R4a000000SaclEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -13626,7 +13829,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 2377.9557151,
+    "distanceInMeters": 2381.92070207,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -14034,7 +14237,7 @@
   },
   {
     "displayAddress": "21 Inglis Street   Mosgiel  9024",
-    "distanceInMeters": 10771.80130387,
+    "distanceInMeters": 13717.98894359,
     "extId": "a0R4a000000SjnHEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -14792,7 +14995,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 139.70459177,
+    "distanceInMeters": 0.24263186,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -14962,7 +15165,7 @@
   },
   {
     "displayAddress": "27 Albany Street North Dunedin  Dunedin  9016",
-    "distanceInMeters": 2776.31431075,
+    "distanceInMeters": 1479.65969017,
     "extId": "a0R4a000000SqhdEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -15201,7 +15404,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 68416.98790016,
+    "distanceInMeters": 68270.87494463,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -15328,7 +15531,7 @@
   },
   {
     "displayAddress": "244 Grey Street   Palmerston North  4414",
-    "distanceInMeters": 357.0570878,
+    "distanceInMeters": 67039.74217044,
     "extId": "a0R4a000000SwzEEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -15482,7 +15685,7 @@
   },
   {
     "displayAddress": "2 Pitt Street,   Dunedin  9016",
-    "distanceInMeters": 2550.78981118,
+    "distanceInMeters": 1703.38939644,
     "extId": "a0R4a000000Sy8yEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -15657,7 +15860,7 @@
   },
   {
     "displayAddress": "58 Albert Street Whitianga  Waikato  3510",
-    "distanceInMeters": 22625.77707405,
+    "distanceInMeters": 22500.17058436,
     "extId": "a0R4a000000Syg7EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-10",
@@ -16741,7 +16944,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 0.41282663,
+    "distanceInMeters": 157.53092828,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -16895,7 +17098,7 @@
   },
   {
     "displayAddress": "2 Factory Road   Mosgiel  9024",
-    "distanceInMeters": 10735.32856197,
+    "distanceInMeters": 13418.26725366,
     "extId": "a0R4a000000T7VKEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-05-25",
@@ -17840,7 +18043,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 0.49181583,
+    "distanceInMeters": 139.81839452,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -18929,7 +19132,7 @@
   },
   {
     "displayAddress": "325 Broadway Avenue Terrace End  Palmerston North  4414",
-    "distanceInMeters": 0.25921282,
+    "distanceInMeters": 66936.62758908,
     "extId": "a0R4a000000TZO8EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-24",
@@ -24719,7 +24922,7 @@
   },
   {
     "displayAddress": "170 Eglinton Road Mornington  Dunedin  9011",
-    "distanceInMeters": 440.48522666,
+    "distanceInMeters": 4093.96186685,
     "extId": "a0R4a000000U2FwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -25133,7 +25336,7 @@
   },
   {
     "displayAddress": "195b Main South Road Green Island  Dunedin  9018",
-    "distanceInMeters": 4706.09083848,
+    "distanceInMeters": 8661.48285983,
     "extId": "a0R4a000000U2KqEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -25203,7 +25406,7 @@
   },
   {
     "displayAddress": "300 George Street Dunedin Central  Dunedin  9016",
-    "distanceInMeters": 2348.55967174,
+    "distanceInMeters": 1924.31275406,
     "extId": "a0R4a000000U2MDEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-31",
@@ -26605,7 +26808,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 1178.00093007,
+    "distanceInMeters": 60903.55881779,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -26843,7 +27046,7 @@
   },
   {
     "displayAddress": "289 Broadway   Stratford  4322",
-    "distanceInMeters": 36203.64335065,
+    "distanceInMeters": 27083.53679671,
     "extId": "a0R4a000000UPRYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27039,7 +27242,7 @@
   },
   {
     "displayAddress": "235 Broadway   Stratford  4332",
-    "distanceInMeters": 36054.36343145,
+    "distanceInMeters": 27239.16179574,
     "extId": "a0R4a000000UPhIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27116,7 +27319,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 32458.13974508,
+    "distanceInMeters": 32374.07388148,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -34473,7 +34676,7 @@
   },
   {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
-    "distanceInMeters": 3937.09412953,
+    "distanceInMeters": 61048.25678456,
     "extId": "a0R4a000000VXrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -36962,7 +37165,7 @@
   },
   {
     "displayAddress": "281 Broadway Ave   Palmerston North  4410",
-    "distanceInMeters": 321.62557502,
+    "distanceInMeters": 66787.30943502,
     "extId": "a0R4a000000W1Z1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-28",
@@ -39051,7 +39254,7 @@
   },
   {
     "displayAddress": "1/445 Ferguson Street   Palmerston North  4410",
-    "distanceInMeters": 1074.714509,
+    "distanceInMeters": 66077.789387,
     "extId": "a0R4a000000WnE1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
@@ -47315,7 +47518,7 @@
   },
   {
     "displayAddress": "360 Albert Street Hokowhitu  Palmerston North  4410",
-    "distanceInMeters": 1817.56221977,
+    "distanceInMeters": 65202.67664097,
     "extId": "a0R4a000000ccrrEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-18",
@@ -49673,7 +49876,7 @@
   },
   {
     "displayAddress": "132 Ronaldsay Street Palmerston  Otago  9430",
-    "distanceInMeters": 49596.45821369,
+    "distanceInMeters": 43847.52708561,
     "extId": "a0R4a000000eJAmEAM",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-08",
@@ -50303,7 +50506,7 @@
   },
   {
     "displayAddress": "309 Cumberland Street Dunedin Central  Dunedin  9016",
-    "distanceInMeters": 0.48888282,
+    "distanceInMeters": 4250.39314194,
     "extId": "a0R4a000000eUBREA2",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-14",
@@ -51234,7 +51437,7 @@
   },
   {
     "displayAddress": "Dunedin North  Dunedin  9016",
-    "distanceInMeters": 2580.81958543,
+    "distanceInMeters": 1674.33920804,
     "extId": "a0R4a000000fjvDEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-03-01",
@@ -52221,7 +52424,7 @@
   },
   {
     "displayAddress": "287 South Road Caversham  Dunedin  9012",
-    "distanceInMeters": 1357.47898095,
+    "distanceInMeters": 5583.19256321,
     "extId": "a0R4a000000k2FREAY",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-06-14",
@@ -52270,7 +52473,7 @@
   },
   {
     "displayAddress": "135 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 67016.65906447,
+    "distanceInMeters": 66869.14128652,
     "extId": "a0R4a000000k5jZEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-06-11",
