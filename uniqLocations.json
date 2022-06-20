@@ -128,7 +128,7 @@
   },
   {
     "displayAddress": "81 Finlayson Avenue, Clendon Park, Manukau City, 2102",
-    "distanceInMeters": 20065.54743114,
+    "distanceInMeters": 18722.02106816,
     "extId": "a0R4a000000OOysEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-04-13",
@@ -473,7 +473,7 @@
   },
   {
     "displayAddress": "41 Hunter Street   Hawera  4610",
-    "distanceInMeters": 631.57230011,
+    "distanceInMeters": 60802.08732925,
     "extId": "a0R4a000000Pit9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -551,7 +551,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 60753.73693612,
+    "distanceInMeters": 0.22695513,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -706,7 +706,7 @@
   },
   {
     "displayAddress": "17 Camberwell Road Hāwera  New Plymouth  4610",
-    "distanceInMeters": 0.23583785,
+    "distanceInMeters": 60753.71346805,
     "extId": "a0R4a000000PjaAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -853,6 +853,188 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "55 Wharerangi Road Greenmeadows  Napier  4112",
+    "distanceInMeters": 17229.18450917,
+    "extId": "a0R4a000000PvP1EAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-21",
+    "endDate": "2022-12-23",
+    "location": {
+      "lng": 176.858,
+      "lat": -39.5162
+    },
+    "name": "Taradale Club Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "Wheelchair accessible toilets, Wheelchair ramp access to site.\r\nForeign language translation service provided by appointment only \r\nSign language translator on site by appointment only\r\nOn-site parking",
+    "mapUrl": "https://www.google.co.nz/maps/place/55+Wharerangi+Road,+Greenmeadows,+Napier+4112/@-39.5163921,176.8553997,892m/data=!3m1!1e3!4m13!1m7!3m6!1s0x6d69b38356e78103:0xd1a406e2755351f6!2s55+Wharerangi+Road,+Greenmeadows,+Napier+4112!3b1!8m2!3d-39.5163963!4d176.",
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-23T19:45:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "Waipawa Coronation Park, Tikokino Road   Waipawa  4210",
+    "distanceInMeters": 39551.30802789,
+    "extId": "a0R4a000000PvSyEAK",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-20",
+    "endDate": "2022-12-23",
+    "location": {
+      "lng": 176.58,
+      "lat": -39.9437
+    },
+    "name": "Waipawa Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "Wheelchair accessible toilets, Wheelchair ramp access to site.\r\nForeign language translation service provided by appointment only \r\nSign language translator on site by appointment only\r\nOn-site parking",
+    "mapUrl": "https://www.google.co.nz/maps/place/Waipawa/@-39.9439735,176.5777462,575m/data=!3m1!1e3!4m5!3m4!1s0x6d69e102dfe53de5:0x500ef6143a31540!8m2!3d-39.9415369!4d176.5896168",
+    "tags": [
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-17",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T21:15:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Barrington Shopping Centre, 256 Barrington Street, Spreydon, 8024\r\n(Inside the shopping centre, across from Majestic Tea Bar)",
     "distanceInMeters": 2382.85228084,
     "extId": "a0R4a000000PwooEAC",
@@ -995,7 +1177,7 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 66934.51472977,
+    "distanceInMeters": 67081.91206517,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -1932,7 +2114,7 @@
   },
   {
     "displayAddress": "16A Bakerfield Place, Manukau City Centre, Auckland 2104",
-    "distanceInMeters": 23666.06095678,
+    "distanceInMeters": 22322.84828062,
     "extId": "a0R4a000000QCynEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-02",
@@ -2568,7 +2750,7 @@
   },
   {
     "displayAddress": "Level 2,  211 Ormiston Road Flat Bush  Auckland  2019",
-    "distanceInMeters": 26105.53874551,
+    "distanceInMeters": 24780.64813417,
     "extId": "a0R4a000000QD7uEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -4801,7 +4983,7 @@
   },
   {
     "displayAddress": "11 Quay Street   Whakatane 3120",
-    "distanceInMeters": 69883.89341352,
+    "distanceInMeters": 61980.3703297,
     "extId": "a0R4a000000QVAOEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -5852,7 +6034,7 @@
   },
   {
     "displayAddress": "4 Frome Street Oamaru    9400",
-    "distanceInMeters": 217.24290767,
+    "distanceInMeters": 1979.6682912,
     "extId": "a0R4a000000QZHzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -5964,7 +6146,7 @@
   },
   {
     "displayAddress": "19 Eden Street, Oamaru 9400",
-    "distanceInMeters": 1975.79477097,
+    "distanceInMeters": 0.34490953,
     "extId": "a0R4a000000QZLFEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6279,7 +6461,7 @@
   },
   {
     "displayAddress": "38 Fitzherbert Ave,   Palmerston North  4410",
-    "distanceInMeters": 0.18069572,
+    "distanceInMeters": 65836.39757868,
     "extId": "a0R4a000000Qa3eEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -6448,7 +6630,7 @@
   },
   {
     "displayAddress": "133 Wicksteed Street   Whanganui  4500",
-    "distanceInMeters": 67374.28239404,
+    "distanceInMeters": 67420.1828077,
     "extId": "a0R4a000000QsKBEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-05",
@@ -6602,7 +6784,7 @@
   },
   {
     "displayAddress": "4 Criterion Street   Bulls  4818",
-    "distanceInMeters": 28353.86043006,
+    "distanceInMeters": 51897.3107216,
     "extId": "a0R4a000000QsKkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-26",
@@ -6959,7 +7141,7 @@
   },
   {
     "displayAddress": "51 Tyrone Street Ranfurly  Ranfurly  9332",
-    "distanceInMeters": 68963.96146799,
+    "distanceInMeters": 67917.35504898,
     "extId": "a0R4a000000RP9sEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -7043,7 +7225,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 64904.80723089,
+    "distanceInMeters": 15875.66742923,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -7600,7 +7782,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 59607.62106513,
+    "distanceInMeters": 1748.64690132,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -10779,7 +10961,7 @@
   },
   {
     "displayAddress": "85 Henderson Line   Marton  4710",
-    "distanceInMeters": 36939.65184887,
+    "distanceInMeters": 61569.48702959,
     "extId": "a0R4a000000SMxCEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-27",
@@ -12180,7 +12362,7 @@
   },
   {
     "displayAddress": "2/65 St George Street Papatoetoe  Auckland  2025",
-    "distanceInMeters": 25041.03839194,
+    "distanceInMeters": 23694.45263431,
     "extId": "a0R4a000000SWxPEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -12300,7 +12482,7 @@
   },
   {
     "displayAddress": "2/63 St George Street Papatoetoe  Auckland  2025",
-    "distanceInMeters": 25033.30676896,
+    "distanceInMeters": 23686.74676247,
     "extId": "a0R4a000000SX2UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-16",
@@ -13772,7 +13954,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 2381.92070207,
+    "distanceInMeters": 2377.9557151,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -14861,7 +15043,7 @@
   },
   {
     "displayAddress": "213-215 Thames Street Oamaru Central  Oamaru  9400",
-    "distanceInMeters": 1851.15322306,
+    "distanceInMeters": 147.02272263,
     "extId": "a0R4a000000Sqc4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -15213,7 +15395,7 @@
   },
   {
     "displayAddress": "281 College St   Palmerston North  4412",
-    "distanceInMeters": 986.92572577,
+    "distanceInMeters": 64998.19122722,
     "extId": "a0R4a000000SvJaEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-05",
@@ -15445,7 +15627,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 68270.87494463,
+    "distanceInMeters": 68416.98790016,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -15572,7 +15754,7 @@
   },
   {
     "displayAddress": "244 Grey Street   Palmerston North  4414",
-    "distanceInMeters": 1495.59673063,
+    "distanceInMeters": 67030.95855474,
     "extId": "a0R4a000000SwzEEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -16922,7 +17104,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 157.53092828,
+    "distanceInMeters": 0.41282663,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -19110,7 +19292,7 @@
   },
   {
     "displayAddress": "325 Broadway Avenue Terrace End  Palmerston North  4414",
-    "distanceInMeters": 1655.36500707,
+    "distanceInMeters": 66933.57978716,
     "extId": "a0R4a000000TZO8EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-24",
@@ -19336,7 +19518,7 @@
   },
   {
     "displayAddress": "10/792 Great South Road, Wiri,  Auckland  2104",
-    "distanceInMeters": 22358.36581421,
+    "distanceInMeters": 21016.63418964,
     "extId": "a0R4a000000Ta0wEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
@@ -20345,7 +20527,7 @@
   },
   {
     "displayAddress": "124 Dawson Road Flat Bush  Auckland  2023",
-    "distanceInMeters": 24967.02748405,
+    "distanceInMeters": 23629.81215794,
     "extId": "a0R4a000000TbuHEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -20896,7 +21078,7 @@
   },
   {
     "displayAddress": "3/400 George Bolt Memorial Drive, Airport Shopping Centre Mangere  Auckland  2150",
-    "distanceInMeters": 25096.67896293,
+    "distanceInMeters": 23803.26588945,
     "extId": "a0R4a000000TegAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-05",
@@ -23254,7 +23436,7 @@
   },
   {
     "displayAddress": "240 Ormiston Road Flat Bush  Auckland  2019",
-    "distanceInMeters": 26277.91621714,
+    "distanceInMeters": 24952.86055712,
     "extId": "a0R4a000000TrlxEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-09",
@@ -23726,7 +23908,7 @@
   },
   {
     "displayAddress": "8a/597 Great South Road Manukau City Centre  Auckland  2104",
-    "distanceInMeters": 24234.51673606,
+    "distanceInMeters": 22889.22420846,
     "extId": "a0R4a000000TsNMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-10",
@@ -24365,7 +24547,7 @@
   },
   {
     "displayAddress": "252 The Strand   Whakatane  3120",
-    "distanceInMeters": 69193.37181407,
+    "distanceInMeters": 61415.46770108,
     "extId": "a0R4a000000TvHwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-13",
@@ -24703,7 +24885,7 @@
   },
   {
     "displayAddress": "411 Thames Highway Oamaru North  Oamaru  9400",
-    "distanceInMeters": 0.33634677,
+    "distanceInMeters": 1976.07864899,
     "extId": "a0R4a000000U2BFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -26736,7 +26918,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 60903.55881779,
+    "distanceInMeters": 1178.00093007,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -26974,7 +27156,7 @@
   },
   {
     "displayAddress": "289 Broadway   Stratford  4322",
-    "distanceInMeters": 27083.53679671,
+    "distanceInMeters": 36203.64335065,
     "extId": "a0R4a000000UPRYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27170,7 +27352,7 @@
   },
   {
     "displayAddress": "235 Broadway   Stratford  4332",
-    "distanceInMeters": 27239.16179574,
+    "distanceInMeters": 36054.36343145,
     "extId": "a0R4a000000UPhIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27247,7 +27429,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 32374.07388148,
+    "distanceInMeters": 32458.13974508,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -28384,7 +28566,7 @@
   },
   {
     "displayAddress": "26 College Road   Edgecumbe  3120",
-    "distanceInMeters": 54559.24989759,
+    "distanceInMeters": 48794.22140098,
     "extId": "a0R4a000000UaqYEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
@@ -30556,7 +30738,7 @@
   },
   {
     "displayAddress": "Shop 38, Westfield Manukau Shopping Centre, Manukau City Centre,  Auckland  2104",
-    "distanceInMeters": 23423.6396243,
+    "distanceInMeters": 22079.27071075,
     "extId": "a0R4a000000V15WEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-16",
@@ -30999,7 +31181,7 @@
   },
   {
     "displayAddress": "121 Victoria Avenue   Whanganui  4500",
-    "distanceInMeters": 67400.47741322,
+    "distanceInMeters": 67452.57963656,
     "extId": "a0R4a000000V289EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -31786,7 +31968,7 @@
   },
   {
     "displayAddress": "211 Ormiston Road Flatbush  Auckland  2019",
-    "distanceInMeters": 26112.11516144,
+    "distanceInMeters": 24787.78871285,
     "extId": "a0R4a000000V8kAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -32391,7 +32573,7 @@
   },
   {
     "displayAddress": "Manukau Supa Centa, Shop 201a Corner of Cavendish and Lambie Drive Manukau  Auckland  2104",
-    "distanceInMeters": 23667.2773669,
+    "distanceInMeters": 22320.17050005,
     "extId": "a0R4a000000VB4UEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-14",
@@ -34604,7 +34786,7 @@
   },
   {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
-    "distanceInMeters": 61048.25678456,
+    "distanceInMeters": 3937.09412953,
     "extId": "a0R4a000000VXrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -34674,7 +34856,7 @@
   },
   {
     "displayAddress": "262 Pohutukawa Ave   Ohope  3121",
-    "distanceInMeters": 74101.72072801,
+    "distanceInMeters": 67595.00722024,
     "extId": "a0R4a000000Vc9WEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-25",
@@ -37093,7 +37275,7 @@
   },
   {
     "displayAddress": "281 Broadway Ave   Palmerston North  4410",
-    "distanceInMeters": 1344.46806703,
+    "distanceInMeters": 66779.50428158,
     "extId": "a0R4a000000W1Z1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-28",
@@ -37845,7 +38027,7 @@
   },
   {
     "displayAddress": "Southpoint Shopping Centre, Level 1, 652 Great South Road Manukau  Auckland  2104",
-    "distanceInMeters": 23940.11264348,
+    "distanceInMeters": 22596.37584353,
     "extId": "a0R4a000000WMl0EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-06",
@@ -39182,7 +39364,7 @@
   },
   {
     "displayAddress": "1/445 Ferguson Street   Palmerston North  4410",
-    "distanceInMeters": 646.58868757,
+    "distanceInMeters": 66063.9637636,
     "extId": "a0R4a000000WnE1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
@@ -40706,7 +40888,7 @@
   },
   {
     "displayAddress": "277 East Tamaki Road Otara  Auckland  2023",
-    "distanceInMeters": 26738.8253792,
+    "distanceInMeters": 25397.77861344,
     "extId": "a0R4a000000XQEPEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-25",
@@ -41943,7 +42125,7 @@
   },
   {
     "displayAddress": "111 Saint George Street Papatoetoe  Auckland  2025",
-    "distanceInMeters": 25013.94669878,
+    "distanceInMeters": 23667.07672624,
     "extId": "a0R4a000000Y05cEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-26",
@@ -42021,7 +42203,7 @@
   },
   {
     "displayAddress": "32 Dennis Avenue Manurewa  Auckland  2102",
-    "distanceInMeters": 20847.15643782,
+    "distanceInMeters": 19512.29505567,
     "extId": "a0R4a000000Y0G7EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-31",
@@ -42833,7 +43015,7 @@
   },
   {
     "displayAddress": "235 Browns Road Manurewa  Auckland  2102",
-    "distanceInMeters": 20713.3244408,
+    "distanceInMeters": 19366.57230736,
     "extId": "a0R4a000000YJ2VEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-06",
@@ -44188,7 +44370,7 @@
   },
   {
     "displayAddress": "Unit 4, 129a Beachlands Road   Beachlands  2018",
-    "distanceInMeters": 35875.20902683,
+    "distanceInMeters": 62728.39366545,
     "extId": "a0R4a000000Z6h7EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-22",
@@ -46893,7 +47075,7 @@
   },
   {
     "displayAddress": "503 Port Road   Whangamata  3620",
-    "distanceInMeters": 58136.9222235,
+    "distanceInMeters": 56530.75874936,
     "extId": "a0R4a000000bYUuEAM",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-14",
@@ -47250,7 +47432,7 @@
   },
   {
     "displayAddress": "360 Albert Street Hokowhitu  Palmerston North  4410",
-    "distanceInMeters": 1900.4356277,
+    "distanceInMeters": 65209.14556521,
     "extId": "a0R4a000000ccrrEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-18",
@@ -48051,7 +48233,7 @@
   },
   {
     "displayAddress": "10 Aylesbury Street Pakuranga  Auckland  2010",
-    "distanceInMeters": 23615.54653479,
+    "distanceInMeters": 22268.47124085,
     "extId": "a0R4a000000dGT8EAM",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-11",
@@ -49608,7 +49790,7 @@
   },
   {
     "displayAddress": "132 Ronaldsay Street Palmerston  Otago  9430",
-    "distanceInMeters": 45959.53638843,
+    "distanceInMeters": 47623.25694009,
     "extId": "a0R4a000000eJAmEAM",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-08",
@@ -50875,7 +51057,7 @@
   },
   {
     "displayAddress": "4 Colombo Rd Lansdowne  Masterton  5810",
-    "distanceInMeters": 57186.76844505,
+    "distanceInMeters": 1122.25079041,
     "extId": "a0R4a000000f1ZZEAY",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-06-27",
@@ -51457,7 +51639,7 @@
   },
   {
     "displayAddress": "69 High Street   Bulls  4818",
-    "distanceInMeters": 28074.56756787,
+    "distanceInMeters": 51694.83695175,
     "extId": "a0R4a000000g3H4EAI",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-03-07",
@@ -52297,7 +52479,7 @@
   },
   {
     "displayAddress": "135 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 66869.14128652,
+    "distanceInMeters": 67016.65906447,
     "extId": "a0R4a000000k5jZEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-06-11",
