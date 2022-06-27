@@ -523,7 +523,7 @@
   },
   {
     "displayAddress": "41 Hunter Street   Hawera  4610",
-    "distanceInMeters": 0.400056,
+    "distanceInMeters": 60802.08732925,
     "extId": "a0R4a000000Pit9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -601,7 +601,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 60801.84623032,
+    "distanceInMeters": 0.22695513,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -756,7 +756,7 @@
   },
   {
     "displayAddress": "17 Camberwell Road Hāwera  New Plymouth  4610",
-    "distanceInMeters": 632.13430798,
+    "distanceInMeters": 60753.71346805,
     "extId": "a0R4a000000PjaAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -1861,7 +1861,7 @@
   },
   {
     "displayAddress": "1 Lincoln Street   Patea",
-    "distanceInMeters": 25685.00099851,
+    "distanceInMeters": 25455.46339978,
     "extId": "a0R4a000000QCw6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-13",
@@ -4501,7 +4501,7 @@
     "extId": "a0R4a000000QMMLEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-22",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 172.675,
       "lat": -43.5328
@@ -7554,7 +7554,7 @@
   },
   {
     "displayAddress": "121 Hakiaha Street, Taumarunui, 3920",
-    "distanceInMeters": 61810.7072414,
+    "distanceInMeters": 61646.46529635,
     "extId": "a0R4a000000RKWsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -7694,7 +7694,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 65103.76120297,
+    "distanceInMeters": 15875.66742923,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8251,7 +8251,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 59641.96178325,
+    "distanceInMeters": 1748.64690132,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -15722,7 +15722,7 @@
   },
   {
     "displayAddress": "Cnr Cambridge Road And Masters Avenue   Hamilton  3216",
-    "distanceInMeters": 67423.10267354,
+    "distanceInMeters": 70784.03328489,
     "extId": "a0R4a000000Srq3EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-14",
@@ -27489,7 +27489,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 60963.75101634,
+    "distanceInMeters": 1178.00093007,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27727,7 +27727,7 @@
   },
   {
     "displayAddress": "289 Broadway   Stratford  4322",
-    "distanceInMeters": 27336.11639696,
+    "distanceInMeters": 36203.64335065,
     "extId": "a0R4a000000UPRYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -27814,6 +27814,104 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:30:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
+    "distanceInMeters": 7754.05901737,
+    "extId": "a0R4a000000UPXsEAO",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-09-20",
+    "endDate": "2022-12-23",
+    "location": {
+      "lng": 174.15,
+      "lat": -39.0283
+    },
+    "name": "Pharmacy @ Bell Block",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "mapUrl": "https://www.google.co.nz/maps/place/Pharmacy@Bell+Block/@-39.0321509,174.1415876,16z/data=!4m9!1m2!2m1!1sPharmacy+@+Bellblock!3m5!1s0x6d14508cb0ff26f7:0xa9f4d83d0cd87bb5!8m2!3d-39.0286693!4d174.1494854!15sChRQaGFybWFjeSBAIEJlbGxibG9ja1oUIhJwaGFybWFjeSBiZW",
+    "tags": [
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-30",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T01:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -27923,7 +28021,7 @@
   },
   {
     "displayAddress": "235 Broadway   Stratford  4332",
-    "distanceInMeters": 27490.97891002,
+    "distanceInMeters": 36054.36343145,
     "extId": "a0R4a000000UPhIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -34928,7 +35026,7 @@
   },
   {
     "displayAddress": "55 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 59839.70002152,
+    "distanceInMeters": 1380.90395624,
     "extId": "a0R4a000000VX91EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -35231,7 +35329,7 @@
   },
   {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
-    "distanceInMeters": 61136.83010867,
+    "distanceInMeters": 3937.09412953,
     "extId": "a0R4a000000VXrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -38281,52 +38379,38 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "mon"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "sun"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:00:00",
+        "localEnd": "17:15:00"
       }
     ],
     "description": "Foreign spoken languages:  Cantonese, Mandarin",
@@ -45798,7 +45882,7 @@
   },
   {
     "displayAddress": "93 Hakiaha Street   Taumarunui  3920",
-    "distanceInMeters": 61812.66891649,
+    "distanceInMeters": 61648.41729814,
     "extId": "a0R4a000000a2eAEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-26",
