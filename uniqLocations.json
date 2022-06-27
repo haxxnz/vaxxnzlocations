@@ -16480,6 +16480,13 @@
     "openHours": [
       {
         "days": [
+          "fri"
+        ],
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
+      },
+      {
+        "days": [
           "mon"
         ],
         "localStart": "10:30:00",
@@ -16502,13 +16509,6 @@
       {
         "days": [
           "tue"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
-          "fri"
         ],
         "localStart": "10:30:00",
         "localEnd": "16:15:00"
@@ -44887,17 +44887,38 @@
     "openHours": [
       {
         "days": [
-          "fri"
+          "thu"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:00:00"
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:45:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "10:00:00",
-        "localEnd": "17:00:00"
+        "localEnd": "16:45:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:45:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/qCYaJkF4V8Btzqyu9",
