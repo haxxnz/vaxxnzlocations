@@ -423,6 +423,7 @@
     "openTodayHours": "8:30 AM to 7:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
       "Anyone currently eligible can access",
       "No appointment required",
       "Walk in"
@@ -22956,9 +22957,7 @@
         "Preferred urgent care clinic out of hours": "East Care Urgent Care."
       },
       "notesHtml": [
-        "<strong>Open on Matariki Day Friday 24th June 2022 for free GP/Nurse consultation appointment.&nbsp;</strong>",
-        "<strong>Please contact the clinic to book an appointment.</strong>",
-        "<strong>Open: 8:30am - 7pm</strong>",
+        "&nbsp;",
         "<strong>Closed for lunch 1-2pm daily.</strong>"
       ]
     }
@@ -24008,7 +24007,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"2f4a424e46436f48405d4a424a4b464c4e43014c40014155\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f59098949c99b5929a87909890919c969499db969adb9b8f\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -24807,39 +24806,6 @@
     }
   },
   {
-    "lat": -39.9436733,
-    "lng": 176.5802245,
-    "name": "CHB Rugby Club",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "AstraZeneca vaccine (18+ years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Coronation Park, 1 Tikokino Road, Waipawa, Hawke's Bay 4210",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/chb-rugby-club-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Tue": "9:00 AM – 4:00 PM",
-        "Thu": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": [
-        "This clinic is not open everyday.",
-        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
-        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
-      ]
-    }
-  },
-  {
     "lat": -41.3389368,
     "lng": 173.1839792,
     "name": "Richmond Vaccination Centre",
@@ -25121,6 +25087,38 @@
         "<strong>NO BOOKING REQUIRED</strong>",
         "AstraZeneca &amp; Novavax vaccinations by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
         "Subject to change.&nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -39.9436733,
+    "lng": 176.5802245,
+    "name": "CHB Rugby Club",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "AstraZeneca vaccine (18+ years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Coronation Park, 1 Tikokino Road, Waipawa, Hawke's Bay 4210",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/chb-rugby-club-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Thu": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": [
+        "This clinic is not open everyday.",
+        "To see a list of dates and times of when this clinic is open please follow the link below and click on the \"whats on where\" image",
+        "<a href=\"http://www.ourhealthhb.nz/community-services/current-public-health-warnings-and-alerts/covid-19-vaccine-information/\">Hawke's Bay COVID-19 Vaccine Information - Hawkes Bay District Health Board – Our Health (ourhealthhb.nz)</a>"
       ]
     }
   }
