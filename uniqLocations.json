@@ -1227,11 +1227,11 @@
   },
   {
     "displayAddress": "262 East Street   Ashburton  7700",
-    "distanceInMeters": 66934.51472977,
+    "distanceInMeters": 67081.91206517,
     "extId": "a0R4a000000Q4nwEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2022-06-30",
+    "endDate": "2022-09-30",
     "location": {
       "lng": 171.747,
       "lat": -43.9048
@@ -2305,17 +2305,17 @@
     "openHours": [
       {
         "days": [
-          "mon"
-        ],
-        "localStart": "15:00:00",
-        "localEnd": "16:15:00"
-      },
-      {
-        "days": [
           "wed"
         ],
         "localStart": "15:00:00",
-        "localEnd": "16:15:00"
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "15:00:00",
+        "localEnd": "16:00:00"
       }
     ],
     "description": "Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
@@ -7540,7 +7540,7 @@
   },
   {
     "displayAddress": "121 Hakiaha Street, Taumarunui, 3920",
-    "distanceInMeters": 61646.46529635,
+    "distanceInMeters": 61810.7072414,
     "extId": "a0R4a000000RKWsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-21",
@@ -14198,13 +14198,6 @@
     "openHours": [
       {
         "days": [
-          "sun"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "15:00:00"
-      },
-      {
-        "days": [
           "sat"
         ],
         "localStart": "10:00:00",
@@ -14620,7 +14613,7 @@
   },
   {
     "displayAddress": "45 Heaton Street Parkside  Timaru  7910",
-    "distanceInMeters": 2381.92070207,
+    "distanceInMeters": 2377.9557151,
     "extId": "a0R4a000000SevuEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -16243,7 +16236,7 @@
   },
   {
     "displayAddress": "67 Harrison Street Allenton  Ashburton  7700",
-    "distanceInMeters": 68270.87494463,
+    "distanceInMeters": 68416.98790016,
     "extId": "a0R4a000000SwFwEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -18036,7 +18029,7 @@
   },
   {
     "displayAddress": "98 Evans Street Waimataitai  Timaru  7910",
-    "distanceInMeters": 157.53092828,
+    "distanceInMeters": 0.41282663,
     "extId": "a0R4a000000T4E3EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-01",
@@ -27757,6 +27750,140 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "51 Tongariro Street   Taupō  3330",
+    "distanceInMeters": 53844.23945814,
+    "extId": "a0R4a000000UM0TEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-08-30",
+    "endDate": "2022-12-23",
+    "location": {
+      "lng": 176.07,
+      "lat": -38.6873
+    },
+    "name": "Mainstreet Pharmacy Taupo",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "17:30:00",
+        "localEnd": "19:15:00"
+      },
+      {
+        "days": [
+          "sun"
+        ],
+        "localStart": "16:30:00",
+        "localEnd": "19:15:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "17:30:00",
+        "localEnd": "19:15:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "17:30:00",
+        "localEnd": "18:45:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "17:30:00",
+        "localEnd": "19:15:00"
+      }
+    ],
+    "description": "Evening appointments available Sunday - Friday",
+    "mapUrl": "https://www.google.com/maps/place/Unichem+Mainstreet+Pharmacy/@-38.6874655,176.0674202,17z/data=!3m1!4b1!4m5!3m4!1s0x6d6bf0faaaaaaaab:0x428aa17fda3967d9!8m2!3d-38.6874678!4d176.0696201",
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-08-28",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T05:35:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "283 Devon Street West   New Plymouth  4310",
     "distanceInMeters": 60857.0640192,
     "extId": "a0R4a000000UOrIEAW",
@@ -28557,7 +28684,7 @@
   },
   {
     "displayAddress": "24 Talbot Street   Geraldine  7930",
-    "distanceInMeters": 32374.07388148,
+    "distanceInMeters": 32458.13974508,
     "extId": "a0R4a000000UQLJEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -34031,7 +34158,7 @@
     "extId": "a0R4a000000VJmWEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-03-07",
-    "endDate": "2022-07-31",
+    "endDate": "2022-09-30",
     "location": {
       "lng": 172.61,
       "lat": -43.4925
@@ -46341,7 +46468,7 @@
   },
   {
     "displayAddress": "93 Hakiaha Street   Taumarunui  3920",
-    "distanceInMeters": 61648.41729814,
+    "distanceInMeters": 61812.66891649,
     "extId": "a0R4a000000a2eAEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-26",
@@ -51754,14 +51881,14 @@
         "days": [
           "thu"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "10:30:00"
+        "localStart": "09:30:00",
+        "localEnd": "11:45:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "15:00:00",
+        "localStart": "14:00:00",
         "localEnd": "16:30:00"
       }
     ],
@@ -53433,11 +53560,11 @@
   },
   {
     "displayAddress": "135 Tancred Street   Ashburton  7700",
-    "distanceInMeters": 66869.14128652,
+    "distanceInMeters": 67016.65906447,
     "extId": "a0R4a000000k5jZEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-06-11",
-    "endDate": "2022-07-03",
+    "endDate": "2022-07-31",
     "location": {
       "lng": 171.748,
       "lat": -43.9061
@@ -53445,7 +53572,6 @@
     "name": "Eastfield Health, Ashburton",
     "timezone": "Pacific/Auckland",
     "openHours": [],
-    "description": "Pop up event",
     "mapUrl": "https://www.google.co.nz/maps/place/135+Tancred+Street,+Ashburton+7700/@-43.9062277,171.7459322,17z/data=!3m1!4b1!4m5!3m4!1s0x6d2dbba5c9016fa9:0x2836b90cc2e3c7aa!8m2!3d-43.9062316!4d171.7481209",
     "tags": [
       {
