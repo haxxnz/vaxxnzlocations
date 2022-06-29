@@ -2759,8 +2759,8 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
+        "localStart": "13:00:00",
+        "localEnd": "15:45:00"
       }
     ],
     "description": "Onsite parking | Wheelchair accessible | Accessible toilets | Language interpreter service available by appointment | Low sensory environment - available on request",
@@ -6486,7 +6486,7 @@
     "extId": "a0R4a000000QZPMEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2022-06-30",
+    "endDate": "2022-09-04",
     "location": {
       "lng": 168.326,
       "lat": -46.1345
@@ -6626,7 +6626,7 @@
     "extId": "a0R4a000000QZaXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2022-06-30",
+    "endDate": "2022-07-31",
     "location": {
       "lng": 167.69,
       "lat": -46.1278
@@ -7656,83 +7656,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "12 Mahara Place, Waikanae",
-    "distanceInMeters": 34247.21922924,
-    "extId": "a0R4a000000RxZMEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-07-14",
-    "endDate": "2022-12-24",
-    "location": {
-      "lng": 175.064,
-      "lat": -40.8767
-    },
-    "name": "Westbury Pharmacy in Waikanae",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "16:45:00"
-      }
-    ],
-    "mapUrl": "https://www.google.com/maps/place/12+Mahara+Place,+Waikanae+5036/@-40.8767445,175.061941,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a25f6fb68645:0x386347dfbf8818d1!8m2!3d-40.8767445!4d175.0641297",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-14",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T23:00:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -8873,7 +8796,7 @@
     "extId": "a0R4a000000SIHYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
-    "endDate": "2022-07-31",
+    "endDate": "2022-11-30",
     "location": {
       "lng": 170.349,
       "lat": -45.8748
@@ -27996,7 +27919,7 @@
     "extId": "a0R4a000000UOycEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
-    "endDate": "2022-06-30",
+    "endDate": "2022-12-23",
     "location": {
       "lng": 176.843,
       "lat": -39.6421
@@ -28015,29 +27938,29 @@
         "days": [
           "sat"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "17:45:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "14:00:00"
+        "localStart": "09:00:00",
+        "localEnd": "18:45:00"
       },
       {
         "days": [
           "thu"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localEnd": "18:45:00"
       },
       {
         "days": [
           "wed"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:00:00"
+        "localEnd": "18:45:00"
       },
       {
         "days": [
@@ -53621,6 +53544,133 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2022-05-31",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "21 Pakington Street Westport  Westport  7825",
+    "distanceInMeters": 0.10471647,
+    "extId": "a0R4a000000k5mTEAQ",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2022-06-30",
+    "endDate": "2022-09-30",
+    "location": {
+      "lng": 171.606,
+      "lat": -41.7493
+    },
+    "name": "Buller Health Medical Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "This vaccine centre is set up for enrolled patients of Buller Health Medical Centre only.\r\nEntrance is at the back of the Buller Health Medical Centre – off Pakington Street – Follow the signs\r\nParking is on Pakington Street\r\nYou are welcome to bring along a friend or whanau member for support.\r\nWe will accommodate walk-ins as we are able to. Bookings are preferred and will be prioritised",
+    "mapUrl": "https://www.google.co.nz/maps/place/21+Pakington+Street,+Westport+7825/@-41.74941,171.6047041,18z/data=!3m1!4b1!4m5!3m4!1s0x6d2505def7d47dad:0xea9c4cb2332abc1d!8m2!3d-41.749412!4d171.6057984",
+    "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48788,
+        "externalId": "a0p4a000000E7yqAAC",
+        "name": "Quiet or low sensory environment",
+        "languageKey": "Quiet or low sensory environment",
+        "isSystemTag": false
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 48789,
+        "externalId": "a0p4a000000E7yrAAC",
+        "name": "More space to move around",
+        "languageKey": "More space to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85187,
+        "externalId": "a0p4a000000EOb5AAG",
+        "name": "Drive-through location",
+        "languageKey": "Drive-through location",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2022-06-29",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
