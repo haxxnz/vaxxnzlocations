@@ -523,7 +523,7 @@
   },
   {
     "displayAddress": "41 Hunter Street   Hawera  4610",
-    "distanceInMeters": 631.57230011,
+    "distanceInMeters": 62746.32379135,
     "extId": "a0R4a000000Pit9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -601,7 +601,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 60753.73693612,
+    "distanceInMeters": 7753.7687588,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -756,7 +756,7 @@
   },
   {
     "displayAddress": "17 Camberwell Road Hāwera  New Plymouth  4610",
-    "distanceInMeters": 0.23583785,
+    "distanceInMeters": 62621.75118727,
     "extId": "a0R4a000000PjaAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -2379,6 +2379,154 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
+    "displayAddress": "92 Kapiti Road   Paraparaumu  5032",
+    "distanceInMeters": 28439.70267387,
+    "extId": "a0R4a000000QD5FEAW",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-05-01",
+    "endDate": "2022-12-23",
+    "location": {
+      "lng": 175.001,
+      "lat": -40.909
+    },
+    "name": "Kapiti Road Community Vaccination Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "description": "We have relocated from Te Roto Drive.\r\n\r\n Kapiti Community Vaccination Centre offers vaccines for all. We cater for those with needle phobia – let staff know as soon as you arrive and we will arrange a support person (unless you have your own to bring!)  Call us on 022 021 8683 should you wish to discuss any concerns with a trained vaccinator.",
+    "mapUrl": "https://www.google.com/maps/place/92+Kapiti+Road,+Paraparaumu+5032/@-40.9091013,175.0004682,20z/data=!4m13!1m7!3m6!1s0x6d40a1151b29cb69:0x65c96f464e8c889e!2s92+Kapiti+Road,+Paraparaumu+5032!3b1!8m2!3d-40.9090238!4d175.000723!3m4!1s0x6d40a1151b29cb69:0x65c",
+    "tags": [
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 48793,
+        "externalId": "a0p4a000000E7yvAAC",
+        "name": "NZSL interpreter",
+        "languageKey": "NZSL interpreter",
+        "isSystemTag": false
+      },
+      {
+        "id": 48790,
+        "externalId": "a0p4a000000E7ysAAC",
+        "name": "Assistance to move around",
+        "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 48792,
+        "externalId": "a0p4a000000E7yuAAC",
+        "name": "Support to make decisions",
+        "languageKey": "Support to make decisions",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 48787,
+        "externalId": "a0p4a000000E7ypAAC",
+        "name": "Longer appointment time",
+        "languageKey": "Longer appointment time",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-06-10",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-18T20:05:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -6018,7 +6166,7 @@
   },
   {
     "displayAddress": "4 Frome Street Oamaru    9400",
-    "distanceInMeters": 217.24290767,
+    "distanceInMeters": 0.2400409,
     "extId": "a0R4a000000QZHzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -6144,7 +6292,7 @@
   },
   {
     "displayAddress": "19 Eden Street, Oamaru 9400",
-    "distanceInMeters": 1975.79477097,
+    "distanceInMeters": 1979.7970055,
     "extId": "a0R4a000000QZLFEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6522,7 +6670,7 @@
   },
   {
     "displayAddress": "38 Fitzherbert Ave,   Palmerston North  4410",
-    "distanceInMeters": 73968.82655161,
+    "distanceInMeters": 40376.77728282,
     "extId": "a0R4a000000Qa3eEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -6845,7 +6993,7 @@
   },
   {
     "displayAddress": "4 Criterion Street   Bulls  4818",
-    "distanceInMeters": 28353.86043006,
+    "distanceInMeters": 50705.41741614,
     "extId": "a0R4a000000QsKkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-26",
@@ -7209,7 +7357,7 @@
   },
   {
     "displayAddress": "51 Tyrone Street Ranfurly  Ranfurly  9332",
-    "distanceInMeters": 68963.96146799,
+    "distanceInMeters": 68777.18880412,
     "extId": "a0R4a000000RP9sEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -7293,7 +7441,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 64904.80723089,
+    "distanceInMeters": 8135.21572972,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -7816,7 +7964,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 59607.62106513,
+    "distanceInMeters": 9293.9944668,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -15383,7 +15531,7 @@
   },
   {
     "displayAddress": "213-215 Thames Street Oamaru Central  Oamaru  9400",
-    "distanceInMeters": 1851.15322306,
+    "distanceInMeters": 1864.79768567,
     "extId": "a0R4a000000Sqc4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -15776,7 +15924,7 @@
   },
   {
     "displayAddress": "281 College St   Palmerston North  4412",
-    "distanceInMeters": 72999.38655963,
+    "distanceInMeters": 39425.90518653,
     "extId": "a0R4a000000SvJaEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-05",
@@ -15793,7 +15941,7 @@
           "thu"
         ],
         "localStart": "10:00:00",
-        "localEnd": "16:30:00"
+        "localEnd": "16:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/CookStPharmacy/@-40.366003,175.6047957,17z/data=!3m1!4b1!4m5!3m4!1s0x6d41b2c97f12f593:0x3176c94890c78fd!8m2!3d-40.366008!4d175.606985",
@@ -16283,7 +16431,7 @@
   },
   {
     "displayAddress": "244 Grey Street   Palmerston North  4414",
-    "distanceInMeters": 1495.59673063,
+    "distanceInMeters": 41852.47432116,
     "extId": "a0R4a000000SwzEEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -20172,7 +20320,7 @@
   },
   {
     "displayAddress": "325 Broadway Avenue Terrace End  Palmerston North  4414",
-    "distanceInMeters": 1655.36500707,
+    "distanceInMeters": 42031.17732029,
     "extId": "a0R4a000000TZO8EAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-24",
@@ -25800,7 +25948,7 @@
   },
   {
     "displayAddress": "411 Thames Highway Oamaru North  Oamaru  9400",
-    "distanceInMeters": 0.33634677,
+    "distanceInMeters": 217.31581305,
     "extId": "a0R4a000000U2BFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -27974,7 +28122,7 @@
   },
   {
     "displayAddress": "283 Devon Street West   New Plymouth  4310",
-    "distanceInMeters": 60815.4922443,
+    "distanceInMeters": 8365.18511263,
     "extId": "a0R4a000000UOrIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -28164,7 +28312,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 60903.55881779,
+    "distanceInMeters": 6578.40894977,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -28402,7 +28550,7 @@
   },
   {
     "displayAddress": "289 Broadway   Stratford  4322",
-    "distanceInMeters": 27083.53679671,
+    "distanceInMeters": 36546.8302233,
     "extId": "a0R4a000000UPRYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -28493,7 +28641,7 @@
   },
   {
     "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
-    "distanceInMeters": 62621.94145355,
+    "distanceInMeters": 0.51431892,
     "extId": "a0R4a000000UPXsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -28696,7 +28844,7 @@
   },
   {
     "displayAddress": "235 Broadway   Stratford  4332",
-    "distanceInMeters": 27239.16179574,
+    "distanceInMeters": 36389.1199716,
     "extId": "a0R4a000000UPhIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -35861,7 +36009,7 @@
   },
   {
     "displayAddress": "55 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 59801.99749013,
+    "distanceInMeters": 8936.11702741,
     "extId": "a0R4a000000VX91EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -36164,7 +36312,7 @@
   },
   {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
-    "distanceInMeters": 61048.25678456,
+    "distanceInMeters": 3893.13394849,
     "extId": "a0R4a000000VXrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -38632,7 +38780,7 @@
   },
   {
     "displayAddress": "281 Broadway Ave   Palmerston North  4410",
-    "distanceInMeters": 1344.46806703,
+    "distanceInMeters": 41721.11287893,
     "extId": "a0R4a000000W1Z1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-28",
@@ -40714,7 +40862,7 @@
   },
   {
     "displayAddress": "1/445 Ferguson Street   Palmerston North  4410",
-    "distanceInMeters": 74543.7862681,
+    "distanceInMeters": 40974.00096396,
     "extId": "a0R4a000000WnE1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-20",
@@ -48699,7 +48847,7 @@
   },
   {
     "displayAddress": "360 Albert Street Hokowhitu  Palmerston North  4410",
-    "distanceInMeters": 74709.35478324,
+    "distanceInMeters": 41271.0035845,
     "extId": "a0R4a000000ccrrEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-18",
@@ -50425,7 +50573,7 @@
   },
   {
     "displayAddress": "32 King Street Opotiki    3122",
-    "distanceInMeters": 25892.14601828,
+    "distanceInMeters": 26481.59258131,
     "extId": "a0R4a000000dZHUEA2",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-27",
@@ -52948,7 +53096,7 @@
   },
   {
     "displayAddress": "69 High Street   Bulls  4818",
-    "distanceInMeters": 28074.56756787,
+    "distanceInMeters": 50504.16692878,
     "extId": "a0R4a000000g3H4EAI",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-03-07",
