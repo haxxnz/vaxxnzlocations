@@ -22496,37 +22496,6 @@
     }
   },
   {
-    "lat": -41.1350218,
-    "lng": 174.84142940000004,
-    "name": "4 Lydney Place North",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18+ years)",
-      "Novavax vaccine (18+ years)",
-      "Make an appointment",
-      "No appointment required",
-      "Drive through",
-      "Walk in"
-    ],
-    "address": "4 Lydney Place North, Porirua, Wellington 5022",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ora-toa-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -39.4272765,
     "lng": 175.27927120000004,
     "name": "Ruapehu Health Limited",
@@ -25205,6 +25174,39 @@
         "<strong>After Hours:</strong>",
         "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you",
         "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -41.1350218,
+    "lng": 174.84142940000004,
+    "name": "4 Lydney Place North",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18+ years)",
+      "Novavax vaccine (18+ years)",
+      "Make an appointment",
+      "No appointment required",
+      "Drive through",
+      "Walk in"
+    ],
+    "address": "4 Lydney Place North, Porirua, Wellington 5022",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ora-toa-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "We are closed Monday 4th July&nbsp;"
       ]
     }
   }
