@@ -4873,6 +4873,20 @@
     "mapUrl": "https://www.google.com/maps/place/54+Montgomery+Square,+Nelson+7010/@-41.2730093,173.2802969,17z/data=!3m1!4b1!4m5!3m4!1s0x6d3bed11cd52338f:0xc81ce30fcf29f632!8m2!3d-41.2730134!4d173.2824909",
     "tags": [
       {
+        "id": 1032351,
+        "externalId": "a0p4a000000HQwMAAW",
+        "name": "Pfizer (12+) Pfizer (ages 5-11)",
+        "languageKey": "Pfizer(12+)Tag",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "isSystemTag": false
+      },
+      {
         "id": 1,
         "externalId": "a0p4a000000CInuAAG",
         "name": "Group Booking",
@@ -30656,118 +30670,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T21:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "Queen Street Car Park, Queen Street   Upper Hutt  5018",
-    "distanceInMeters": 31066.8721118,
-    "extId": "a0R4a000000UeolEAC",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-09-21",
-    "endDate": "2022-12-23",
-    "location": {
-      "lng": 175.073,
-      "lat": -41.1218
-    },
-    "name": "Upper Hutt Health Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "10:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "10:00:00"
-      }
-    ],
-    "mapUrl": "https://www.google.co.nz/maps/place/Upper+Hutt+Health+Centre/@-41.1220455,175.0726724,18.5z/data=!4m8!1m2!3m1!2sUpper+Hutt+Health+Centre!3m4!1s0x6d40adb1a7271107:0xc9e99551a3d05dca!8m2!3d-41.1218951!4d175.0731879",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 85185,
-        "externalId": "a0p4a000000EOb3AAG",
-        "name": "Public transport options",
-        "languageKey": "Public transport options",
-        "isSystemTag": false
-      },
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false
-      },
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 48787,
-        "externalId": "a0p4a000000E7ypAAC",
-        "name": "Longer appointment time",
-        "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-02",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-19T20:05:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
