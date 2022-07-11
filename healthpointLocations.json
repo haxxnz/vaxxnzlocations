@@ -3170,36 +3170,6 @@
     }
   },
   {
-    "lat": -43.4978564,
-    "lng": 172.5727096,
-    "name": "Kendal Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment",
-      "Drive through",
-      "Walk in"
-    ],
-    "address": "66 Kendal Avenue, Burnside, Christchurch",
-    "telephone": "(03) 358 8266",
-    "faxNumber": "(03) 358 8214",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kendal-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun).",
-        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.5213561,
     "lng": 172.6369238,
     "name": "Menz Medical",
@@ -14191,29 +14161,6 @@
     }
   },
   {
-    "lat": -37.7198023,
-    "lng": 175.2413188,
-    "name": "Tui Medical - Borman",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:30 PM.",
-    "instructionLis": [],
-    "address": "60 Hare Puke Drive, Flagstaff, Hamilton",
-    "telephone": "0800 175 175",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-medical-borman/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
-        "Preferred urgent care clinic out of hours": "Tui Medical - Te Rapa Urgent Care and Medical Centre."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.7687081,
     "lng": 174.7580438,
     "name": "Coast Care Pharmacy",
@@ -21629,7 +21576,7 @@
     "name": "Palmerston North Central Vaccination Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -21645,9 +21592,9 @@
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-central-covid-19-vaccination/",
     "opennningHours": {
       "schedule": {
-        "Mon – Wed": "9:30 AM – 5:00 PM",
+        "Mon – Wed": "9:00 AM – 5:00 PM",
         "Thu": "11:00 AM – 6:30 PM",
-        "Fri – Sat": "9:30 AM – 5:00 PM"
+        "Fri – Sat": "9:00 AM – 5:00 PM"
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Good Friday (7 Apr), Easter Sunday (9 Apr), Queen's Birthday (5 Jun). Open Wellington Anniversary (23 Jan, 8:30 AM – 4:00 PM), Waitangi Day (6 Feb, 8:30 AM – 4:00 PM), Easter Monday (10 Apr, 9:00 AM – 5:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Matariki (14 Jul, 9:30 AM – 5:00 PM)."
@@ -22928,36 +22875,6 @@
         "&nbsp;",
         "<strong>PLEASE NOTE ANY SATURDAY THAT FALLS WITHIN A&nbsp; LONG WEEKEND WE ARE CLOSED .</strong>"
       ]
-    }
-  },
-  {
-    "lat": -39.5164267,
-    "lng": 176.8574307,
-    "name": "Taradale Club",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "AstraZeneca vaccine (18+ years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "55 Wharerangi Road, Greenmeadows, Napier, Hawke's Bay 4112",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taradale-club-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "9:00 AM – 4:00 PM",
-        "Wed": "9:00 AM – 4:00 PM",
-        "Fri": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {},
-      "notesHtml": []
     }
   },
   {
@@ -24653,11 +24570,7 @@
     "branch": "primary",
     "isOpenToday": true,
     "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Make an appointment"
-    ],
+    "instructionLis": [],
     "address": "283 Breezes Road, Aranui, Christchurch",
     "telephone": "(03) 388 8800",
     "faxNumber": "",
@@ -24865,6 +24778,94 @@
     }
   },
   {
+    "lat": -37.748637,
+    "lng": 175.29345020000005,
+    "name": "Tui Medical - Parkwood",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "6 Gordonton Road, Chartwell, Hamilton",
+    "telephone": "0800 175 175",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-medical-parkwood/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
+        "Preferred urgent care clinic out of hours": "Tui Medical - Te Rapa Urgent Care and Medical Centre."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.5402819,
+    "lng": 173.9508379,
+    "name": "Manu Ora",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "219 Howick Road, Blenheim",
+    "telephone": "(03) 577 5810",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/manu-ora/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Marlborough Anniversary (31 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
+        "Preferred urgent care clinic out of hours": "Marlborough Urgent Care Centre."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong>",
+        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
+      ]
+    }
+  },
+  {
+    "lat": -39.5164267,
+    "lng": 176.8574307,
+    "name": "Taradale Club",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "AstraZeneca vaccine (18+ years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "55 Wharerangi Road, Greenmeadows, Napier, Hawke's Bay 4112",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taradale-club-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "9:00 AM – 4:00 PM",
+        "Wed": "9:00 AM – 4:00 PM",
+        "Fri": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -38.217811,
     "lng": 175.8724701,
     "name": "Tokoroa Whare Rongoā Āraimate Community Vaccination Centre",
@@ -24968,97 +24969,55 @@
     }
   },
   {
-    "lat": -41.5402819,
-    "lng": 173.9508379,
-    "name": "Manu Ora",
+    "lat": -43.4978564,
+    "lng": 172.5727096,
+    "name": "Kendal Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "219 Howick Road, Blenheim",
-    "telephone": "(03) 577 5810",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/manu-ora/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Marlborough Anniversary (31 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
-        "Preferred urgent care clinic out of hours": "Marlborough Urgent Care Centre."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong>",
-        "Phone GP practice and follow instructions.&nbsp;You will be transferred to an after hours service who will direct you"
-      ]
-    }
-  },
-  {
-    "lat": -37.748637,
-    "lng": 175.29345020000005,
-    "name": "Tui Medical - Parkwood",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
+      "Eligible GP enrolled patients only",
+      "Make an appointment",
+      "Drive through"
     ],
-    "address": "6 Gordonton Road, Chartwell, Hamilton",
-    "telephone": "0800 175 175",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-medical-parkwood/",
+    "address": "66 Kendal Avenue, Burnside, Christchurch",
+    "telephone": "(03) 358 8266",
+    "faxNumber": "(03) 358 8214",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kendal-medical-centre/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 5:00 PM"
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun).",
+        "Preferred urgent care clinic out of hours": "24 Hour Surgery Pegasus Health."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.7198023,
+    "lng": 175.2413188,
+    "name": "Tui Medical - Borman",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:30 PM.",
+    "instructionLis": [],
+    "address": "60 Hare Puke Drive, Flagstaff, Hamilton",
+    "telephone": "0800 175 175",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tui-medical-borman/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:30 PM"
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
         "Preferred urgent care clinic out of hours": "Tui Medical - Te Rapa Urgent Care and Medical Centre."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -35.2273862,
-    "lng": 173.94760810000002,
-    "name": "The Doctors Kerikeri",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "4 Homestead Road, Kerikeri",
-    "telephone": "(09) 407 7777",
-    "faxNumber": "(09) 407 6594",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-kerikeri/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "8:00 AM – 5:00 PM",
-        "Wed": "9:00 AM – 5:00 PM",
-        "Thu": "8:30 AM – 5:00 PM",
-        "Fri": "8:00 AM – 5:00 PM",
-        "Sat": "8:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Northland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "<strong>After Hours:<br></strong>The After Hours service is located at the Bay of Islands Hospital in Kawakawa. If you have an urgent problem after hours, call the practice number (09) 407 7777 and a nurse will contact the After Hours Doctor to make an appointment for you. If your problem is a medical emergency, please call 111",
-        "THE LAST WEDNESDAY OF THE MONTH is a full staff meeting, start time 9.00 am.",
-        "&nbsp;",
-        "Thursday 16th June admin meeting until 8.30am",
-        "&nbsp;"
-      ]
     }
   }
 ]
