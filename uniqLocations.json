@@ -47699,55 +47699,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "146 Stokes Valley Road Stokes Valley  Lower Hutt  5019",
-    "distanceInMeters": 12381.28708288,
-    "extId": "a0R4a000000aHLVEA2",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-26",
-    "endDate": "2022-07-13",
-    "location": {
-      "lng": 174.981,
-      "lat": -41.1705
-    },
-    "name": "Koraunui Marae Stokes Valley",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/rSwXXnDGP8iAGzbk6",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-02-07",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "Shop 12, 12 Swansea Road Flaxmere  Hastings  4120",
     "distanceInMeters": 5118.77315564,
     "extId": "a0R4a000000aNYAEA2",
@@ -55062,17 +55013,24 @@
     "mapUrl": "https://goo.gl/maps/5Q1PHQ2vQPWEiUNG8",
     "tags": [
       {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false
-      },
-      {
         "id": 48790,
         "externalId": "a0p4a000000E7ysAAC",
         "name": "Assistance to move around",
         "languageKey": "Assistance to move around",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
         "isSystemTag": false
       },
       {
@@ -55087,13 +55045,6 @@
         "externalId": "a0p4a000000E7ypAAC",
         "name": "Longer appointment time",
         "languageKey": "Longer appointment time",
-        "isSystemTag": false
-      },
-      {
-        "id": 85188,
-        "externalId": "a0p4a000000EOb6AAG",
-        "name": "Disabled car parking",
-        "languageKey": "Disabled car parking",
         "isSystemTag": false
       },
       {
