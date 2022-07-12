@@ -904,7 +904,7 @@
   },
   {
     "displayAddress": "55 Wharerangi Road Greenmeadows  Napier  4112",
-    "distanceInMeters": 17229.18450917,
+    "distanceInMeters": 14038.29939696,
     "extId": "a0R4a000000PvP1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-21",
@@ -1002,7 +1002,7 @@
   },
   {
     "displayAddress": "Waipawa Coronation Park, Tikokino Road   Waipawa  4210",
-    "distanceInMeters": 39551.30802789,
+    "distanceInMeters": 40333.97442841,
     "extId": "a0R4a000000PvSyEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -8389,7 +8389,7 @@
   },
   {
     "displayAddress": "7 Swansea Road Flaxmere  Hastings  4120",
-    "distanceInMeters": 9330.4760412,
+    "distanceInMeters": 5238.91810437,
     "extId": "a0R4a000000S1sIEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-27",
@@ -10845,7 +10845,7 @@
   },
   {
     "displayAddress": "546 Pollen Steet, Thames, Waikato 3500",
-    "distanceInMeters": 57543.39280267,
+    "distanceInMeters": 56696.62726955,
     "extId": "a0R4a000000SKrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -16341,7 +16341,7 @@
   },
   {
     "displayAddress": "Shop 3. 237 Main Road   Tairua  3508",
-    "distanceInMeters": 139.70459177,
+    "distanceInMeters": 61546.12398352,
     "extId": "a0R4a000000Sqd2EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-11",
@@ -19942,7 +19942,7 @@
   },
   {
     "displayAddress": "226 Main Road North   Tairua  3508",
-    "distanceInMeters": 0.49181583,
+    "distanceInMeters": 61406.64286433,
     "extId": "a0R4a000000TH05EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-19",
@@ -25258,7 +25258,7 @@
   },
   {
     "displayAddress": "35 Napier Road   Havelock North  4130",
-    "distanceInMeters": 482.70652138,
+    "distanceInMeters": 4221.27577392,
     "extId": "a0R4a000000Ts1zEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -28817,7 +28817,7 @@
   },
   {
     "displayAddress": "110 Russell Street South   Hastings  4122",
-    "distanceInMeters": 4311.13123108,
+    "distanceInMeters": 0.07278885,
     "extId": "a0R4a000000UOycEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-31",
@@ -29623,7 +29623,7 @@
   },
   {
     "displayAddress": "104 Kennedy Road Marewa  Napier  4110",
-    "distanceInMeters": 19148.87638632,
+    "distanceInMeters": 16685.24481932,
     "extId": "a0R4a000000UU7xEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-12",
@@ -32947,7 +32947,7 @@
   },
   {
     "displayAddress": "522 Kennedy Road Greenmeadows  Napier  4112",
-    "distanceInMeters": 16394.89673506,
+    "distanceInMeters": 13395.44502173,
     "extId": "a0R4a000000V1EfEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -34860,6 +34860,98 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "19 London Street Lyttelton  Christchurch  8082",
+    "distanceInMeters": 11117.93990287,
+    "extId": "a0R4a000000VJSXEA4",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-06",
+    "endDate": "2022-12-23",
+    "location": {
+      "lng": 172.721,
+      "lat": -43.6027
+    },
+    "name": "Lyttelton Pharmacy & Post Centre",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "mon"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "17:00:00"
+      }
+    ],
+    "description": "**Walk-ins Welcome**",
+    "mapUrl": "https://goo.gl/maps/irv2g49b3zde3hWy8",
+    "tags": [
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-11-04",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T21:50:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Northlands Mall, 84/55 Main North Road Papanui  Christchurch  8542",
     "distanceInMeters": 4088.70704045,
     "extId": "a0R4a000000VJmWEAW",
@@ -36404,13 +36496,6 @@
         "isSystemTag": false
       },
       {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
         "id": 592498,
         "externalId": "a0p4a000000GfNBAA0",
         "name": "Pfizer",
@@ -36972,7 +37057,7 @@
   },
   {
     "displayAddress": "5/10 Porter Drive   Havelock North  4130",
-    "distanceInMeters": 0.30159919,
+    "distanceInMeters": 4311.05652363,
     "extId": "a0R4a000000VdLzEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-30",
@@ -45870,7 +45955,7 @@
   },
   {
     "displayAddress": "14/221 Russell Street North   Hastings  4122",
-    "distanceInMeters": 4270.2489117,
+    "distanceInMeters": 446.53870942,
     "extId": "a0R4a000000YhomEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-03",
@@ -47560,7 +47645,7 @@
   },
   {
     "displayAddress": "Shop 12, 12 Swansea Road Flaxmere  Hastings  4120",
-    "distanceInMeters": 9181.31144953,
+    "distanceInMeters": 5118.77315564,
     "extId": "a0R4a000000aNYAEA2",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-12-06",
