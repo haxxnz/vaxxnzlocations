@@ -34872,13 +34872,6 @@
     "openHours": [
       {
         "days": [
-          "thu"
-        ],
-        "localStart": "09:30:00",
-        "localEnd": "18:45:00"
-      },
-      {
-        "days": [
           "mon"
         ],
         "localStart": "09:30:00",
@@ -34886,21 +34879,28 @@
       },
       {
         "days": [
-          "sun"
+          "thu"
         ],
-        "localStart": "10:30:00",
-        "localEnd": "15:45:00"
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "16:45:00"
+        "localEnd": "17:00:00"
       },
       {
         "days": [
           "fri"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "17:00:00"
+      },
+      {
+        "days": [
+          "tue"
         ],
         "localStart": "09:30:00",
         "localEnd": "17:00:00"
@@ -34914,10 +34914,10 @@
       },
       {
         "days": [
-          "tue"
+          "sun"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "17:00:00"
+        "localStart": "10:30:00",
+        "localEnd": "15:45:00"
       }
     ],
     "description": "Present your Living Rewards card to receive 25 points for 1st dose, 50 points for 2nd dose, 50 points for booster . Located next to the food court Johnsonville Shopping Centre.",
