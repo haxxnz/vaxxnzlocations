@@ -6796,69 +6796,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "7 Eden Street   Milton  9220",
-    "distanceInMeters": 51126.45843357,
-    "extId": "a0R4a000000QZRDEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2022-08-21",
-    "location": {
-      "lng": 169.956,
-      "lat": -46.1207
-    },
-    "name": "Milton - Milton Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/GgcU1YeBu2odyN926",
-    "tags": [
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false
-      },
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-18",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T00:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "29 Main Road   Owaka  9535",
     "distanceInMeters": 68040.54589801,
     "extId": "a0R4a000000QZSaEAO",
@@ -47710,55 +47647,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-11-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "146 Stokes Valley Road Stokes Valley  Lower Hutt  5019",
-    "distanceInMeters": 21278.27650754,
-    "extId": "a0R4a000000aHLVEA2",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-26",
-    "endDate": "2022-07-27",
-    "location": {
-      "lng": 174.981,
-      "lat": -41.1705
-    },
-    "name": "Koraunui Marae Stokes Valley",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "17:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/rSwXXnDGP8iAGzbk6",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-02-07",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
