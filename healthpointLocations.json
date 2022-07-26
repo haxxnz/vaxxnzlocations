@@ -2095,7 +2095,7 @@
     "name": "St Martins Medical Practice",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 6:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -2918,7 +2918,7 @@
     "name": "Ranfurly Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 1:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -3063,7 +3063,7 @@
     "name": "Capital Care Health Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:45 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -3779,7 +3779,7 @@
     "name": "Unichem Stortford Lodge Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "openTodayHours": "9:00 AM to 6:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -4551,7 +4551,7 @@
     "name": "Pauanui Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "openTodayHours": "9:00 AM to 12:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -5966,7 +5966,7 @@
     "name": "Frankton Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 6:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -6516,7 +6516,7 @@
     "name": "Warkworth Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 7:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -7970,8 +7970,8 @@
     "lng": 175.8664218,
     "name": "Woodville Health Centre",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:45 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -9031,7 +9031,7 @@
     "name": "Botany Terrace Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -9247,7 +9247,7 @@
     "name": "Redicare Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 7:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -9642,7 +9642,7 @@
     "name": "Ōpōtiki Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 6:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -9679,8 +9679,8 @@
     "lng": 176.5802245,
     "name": "CHB Rugby Club",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "AstraZeneca vaccine (18+ years)",
@@ -9752,6 +9752,31 @@
         "<strong>For Coronavirus advice call Healthline 0800 358 5453</strong>",
         "&nbsp;",
         "<strong>PLEASE NOTE ANY SATURDAY THAT FALLS WITHIN A&nbsp; LONG WEEKEND WE ARE CLOSED .</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -44.3827639,
+    "lng": 171.2370824,
+    "name": "Northtown Mall",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Waimataitai, Timaru, Canterbury 7910",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northtown-mall-covid-19-vaccination-clinic/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "Clinic is only opened certain dates, please check dates and times below.&nbsp; Thank You."
       ]
     }
   },
@@ -10039,8 +10064,8 @@
     "lng": 175.9174861,
     "name": "Katikati Memorial Hall",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -10323,7 +10348,7 @@
     "name": "All Care Family Medical Centre - Ponsonby",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 12:00 PM.",
+    "openTodayHours": "3:00 PM to 7:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -10886,7 +10911,7 @@
     "name": "Queenstown Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 12:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -10979,8 +11004,8 @@
     "lng": 175.000723,
     "name": "Kapiti Road Vaccination Centre",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:30 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -11011,8 +11036,8 @@
     "lng": 171.27784759999997,
     "name": "94 King Street",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 4:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -11297,8 +11322,8 @@
     "lng": 174.9068929,
     "name": "330 High Street",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 1:30 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -11330,7 +11355,7 @@
     "name": "92 Spey Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 6:30 PM.",
+    "openTodayHours": "10:00 AM to 4:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -11496,8 +11521,8 @@
     "lng": 174.4573839,
     "name": "Bream Bay Clinic &amp; COVID Vax",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 12:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -11772,7 +11797,7 @@
     "name": "Westland Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:45 PM.",
+    "openTodayHours": "8:00 AM to 4:45 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -12284,8 +12309,8 @@
     "lng": 173.79938059999995,
     "name": "113 Broadway",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -12374,7 +12399,7 @@
     "name": "Whakawhiti Ora Pai Community Health Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -12407,8 +12432,8 @@
     "lng": 172.90963395102574,
     "name": "Whakawhiti Ora Pai Community Health Centre",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 3:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -12624,8 +12649,8 @@
     "lng": 175.1497638,
     "name": "Z Station",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "1:00 PM to 7:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -12692,8 +12717,8 @@
     "lng": 174.9147844,
     "name": "Waiwhetu Sports and Fitness Centre",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 1:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -12723,8 +12748,8 @@
     "lng": 174.9812201,
     "name": "Koraunui Marae",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "2:00 PM to 5:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -12955,8 +12980,8 @@
     "lng": 176.2402622,
     "name": "Te Hau O Rehua",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 4:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -12991,8 +13016,8 @@
     "lng": 176.0882046350427,
     "name": "Taupō Vaccination Centre",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 4:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -14189,8 +14214,8 @@
     "lng": 172.6323721,
     "name": "Rehua Marae",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "3:00 PM to 7:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -14263,8 +14288,8 @@
     "lng": 176.3283959,
     "name": "Poutiri Wellness Centre (PWC) 35 Commerce Lane",
     "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "3:00 PM to 6:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -14291,8 +14316,8 @@
     "lng": 174.06360510000002,
     "name": "Ngāti Hine Health Trust",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 2:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -14610,7 +14635,7 @@
     "name": "Pahiatua Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -14865,7 +14890,7 @@
     "name": "Barraud St Health Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:45 AM to 5:00 PM.",
+    "openTodayHours": "7:30 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -15286,7 +15311,7 @@
     "name": "My Pharmacy Pāpāmoa Plaza",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 7:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -15379,7 +15404,7 @@
     "name": "Clevedon Village Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 12:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -15601,7 +15626,7 @@
     "name": "Devonport Family Medicine",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 7:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -15637,7 +15662,7 @@
     "name": "Doctors @ 42",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 7:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -17931,7 +17956,7 @@
     "name": "Pacific Health Plus",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
+    "openTodayHours": "9:00 AM to 10:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -18209,7 +18234,7 @@
     "name": "Ōtorohanga Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -18480,7 +18505,7 @@
     "name": "Whitby Doctors",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 8:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Eligible GP enrolled patients only",
@@ -18519,7 +18544,7 @@
     "name": "Greytown Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "7:30 AM to 7:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -18555,7 +18580,7 @@
     "name": "Bank Street Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 1:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -18748,8 +18773,8 @@
     "lng": 167.9568925,
     "name": "Tuatapere Medical Centre",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -19032,7 +19057,7 @@
     "name": "Eden-Epsom Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -19325,7 +19350,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e7828a868e8ba7808895828a82838e84868bc98488c9899d\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"acc9c1cdc5c0eccbc3dec9c1c9c8c5cfcdc082cfc382c2d6\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -19435,8 +19460,8 @@
     "lng": 173.47599149999996,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -19463,8 +19488,8 @@
     "lng": 173.65329824797857,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 3:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -19493,8 +19518,8 @@
     "lng": 173.59365309999998,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -19573,8 +19598,8 @@
     "lng": 173.3948254,
     "name": "Hauora Hokianga / Hokianga Health",
     "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 3:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -19776,8 +19801,8 @@
     "lng": 174.74905749999994,
     "name": "Auckland Central Medical & Health Centre",
     "branch": "primary",
-    "isOpenToday": false,
-    "openTodayHours": ".",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -19962,7 +19987,7 @@
     "name": "Howick Health and Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -20153,7 +20178,7 @@
     "name": "Kurow Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "openTodayHours": "8:30 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -20185,7 +20210,7 @@
     "name": "Tairua Medical Centre",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 1:00 PM.",
+    "openTodayHours": "9:00 AM to 4:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -20523,7 +20548,7 @@
     "name": "Marina Medical",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -21092,7 +21117,7 @@
     "name": "Capital Gateway",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:15 PM.",
+    "openTodayHours": "11:00 AM to 6:15 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -21592,8 +21617,8 @@
     "lng": 173.9524167,
     "name": "Kerikeri COVID-19 Vaccination Clinic",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 4:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -21664,7 +21689,7 @@
     "name": "Semenoff Stadium",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 2:00 PM.",
+    "openTodayHours": "10:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -21729,7 +21754,7 @@
     "name": "36 Maratahu Street",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "openTodayHours": "9:30 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -21782,8 +21807,8 @@
     "lng": 174.23738159999994,
     "name": "14 Domett Street",
     "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:00 PM.",
+    "isOpenToday": false,
+    "openTodayHours": ".",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -22034,7 +22059,7 @@
     "name": "NorthCare Pukete Road",
     "branch": "primary",
     "isOpenToday": true,
-    "openTodayHours": "7:00 AM to 5:00 PM.",
+    "openTodayHours": "8:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -22916,6 +22941,35 @@
     }
   },
   {
+    "lat": -46.405535,
+    "lng": 168.3483666,
+    "name": "Gaius Family Health",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "60 Victoria Avenue, Avenal, Invercargill",
+    "telephone": "(03) 218 8669",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/gaius-family-health/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), Southland Anniversary (11 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
+        "Preferred urgent care clinic out of hours": "Invercargill After Hours Doctors."
+      },
+      "notesHtml": [
+        "After Hours: Call clinic number. If no response, call Invercargill Urgent Doctors (03) 218 8821"
+      ]
+    }
+  },
+  {
     "lat": -36.7365497,
     "lng": 174.7254325,
     "name": "Healthcare Pharmacy Rosedale",
@@ -23271,7 +23325,7 @@
     "name": "Bay Plaza Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 6:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Anyone currently eligible can access",
@@ -24554,7 +24608,7 @@
     "name": "Vogel Street Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:30 AM to 6:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
