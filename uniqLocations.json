@@ -2814,7 +2814,7 @@
         "localEnd": "16:30:00"
       }
     ],
-    "description": "Karori Vaccination Hub is located in the western suburbs of Wellington. The Hub is within the Karori Mall with access close to the exit of Countdown. Disabled parking is available on Raine Street.\r\n\r\n***August open Monday and Thursday only***",
+    "description": "***August open Monday and Thursday only***\r\n\r\nKarori Vaccination Hub is located in the western suburbs of Wellington. The Hub is within the Karori Mall with access close to the exit of Countdown. Disabled parking is available on Raine Street.",
     "mapUrl": "https://www.google.com/maps/place/K%C4%81rori+Mall/@-41.284107,174.7377597,15z/data=!4m12!1m6!3m5!1s0x0:0x40582ff0013ae90f!2sK%C4%81rori+Mall!8m2!3d-41.284107!4d174.7377597!3m4!1s0x0:0x40582ff0013ae90f!8m2!3d-41.284107!4d174.7377597",
     "tags": [
       {
@@ -7370,7 +7370,7 @@
   },
   {
     "displayAddress": "71 Water Walk Road   Greymouth  7892",
-    "distanceInMeters": 1987.41773618,
+    "distanceInMeters": 0.28328112,
     "extId": "a0R4a000000QwdeEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-29",
@@ -20270,7 +20270,7 @@
   },
   {
     "displayAddress": "1 Guinness Street   Greymouth  7805",
-    "distanceInMeters": 0.05109906,
+    "distanceInMeters": 1987.19676444,
     "extId": "a0R4a000000TL0yEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-29",
@@ -29874,7 +29874,7 @@
   },
   {
     "displayAddress": "10 Weld Street   Hokitika  7810",
-    "distanceInMeters": 36043.02275078,
+    "distanceInMeters": 34090.62501365,
     "extId": "a0R4a000000UUbdEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-31",
@@ -47684,69 +47684,6 @@
       }
     ],
     "mapUrl": "https://goo.gl/maps/21VV8KvKgctpoLL68",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-12-01",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "38 Tuhikaramea Rd Dinsdale  Hamilton  3204",
-    "distanceInMeters": 7688.25391615,
-    "extId": "a0R4a000000aYIEEA2",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-12-01",
-    "endDate": "2022-12-23",
-    "location": {
-      "lng": 175.247,
-      "lat": -37.7964
-    },
-    "name": "Westend Health Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "15:30:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/96CM2uBkQCmv5b9t8",
     "tags": [
       {
         "id": 1,
