@@ -10795,34 +10795,6 @@
     }
   },
   {
-    "lat": -37.03924949999999,
-    "lng": 174.91452389999995,
-    "name": "Unichem Gateway Pharmacy Takanini",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
-    ],
-    "address": "26/108 Great South Road, Takanini",
-    "telephone": "(09) 296 1655",
-    "faxNumber": "(09) 553 8590",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-gateway-pharmacy-takanini/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:30 PM",
-        "Sat – Sun": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.5263056,
     "lng": 172.6383586,
     "name": "Unichem Forté Pharmacy",
@@ -18662,7 +18634,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f59098949c99b5929a87909890919c969499db969adb9b8f\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"62070f030b0e22050d10070f07060b01030e4c010d4c0c18\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -22449,32 +22421,6 @@
     }
   },
   {
-    "lat": -45.8671052,
-    "lng": 170.48892420000004,
-    "name": "Roslyn Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access"
-    ],
-    "address": "Roslyn Pharmacy, Roslyn Village, 287A Highgate, Roslyn, Dunedin",
-    "telephone": "(03) 477 9793",
-    "faxNumber": "(03) 477 9739",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/roslyn-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.735662,
     "lng": 174.72740699999997,
     "name": "Unichem Apollo Drive Pharmacy",
@@ -25037,6 +24983,61 @@
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), Southland Anniversary (11 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.03924949999999,
+    "lng": 174.91452389999995,
+    "name": "Unichem Gateway Pharmacy Takanini",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required"
+    ],
+    "address": "26/108 Great South Road, Takanini",
+    "telephone": "(09) 296 1655",
+    "faxNumber": "(09) 553 8590",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-gateway-pharmacy-takanini/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:30 PM",
+        "Sat": "9:00 AM – 3:00 PM",
+        "Sun": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -45.8671052,
+    "lng": 170.48892420000004,
+    "name": "Roslyn Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access"
+    ],
+    "address": "Roslyn Pharmacy, Roslyn Village, 287A Highgate, Roslyn, Dunedin",
+    "telephone": "(03) 477 9793",
+    "faxNumber": "(03) 477 9739",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/roslyn-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
       "notesHtml": []
     }
