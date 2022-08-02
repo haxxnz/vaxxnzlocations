@@ -5066,18 +5066,43 @@
   {
     "lat": -36.7666421,
     "lng": 174.49526820000006,
-    "name": "",
+    "name": "The Doctors Silver Fern",
     "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/silver-fern-the-triangle-waimauku/",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "The Triangle, Factory Road, Waimauku",
+    "telephone": "(09) 411 5222",
+    "faxNumber": "(09) 411 5276",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-silver-fern/",
     "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
+      "schedule": {
+        "Mon": "8:30 AM – 3:30 PM",
+        "Tue – Thu": "8:00 AM – 5:00 PM",
+        "Fri": "8:30 AM – 3:30 PM",
+        "Tue": "8:00 AM – 3:30 PM",
+        "Wed": "9:00 AM – 3:30 PM",
+        "Thu": "8:00 AM – 3:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "<strong>THE ABOVE TIMES MAY BE SUBJECT TO CHANGE.</strong>",
+        "<strong>Saturday morning clinic is available at Waimauku Doctors site for same day appointments only.</strong>",
+        "<strong>What happens if I need to see a doctor outside of these hours?</strong>",
+        "There are several options locally for provision of care out of normal opening hours. This partly depends on how urgent the problem is.",
+        "If you have <strong>an emergency</strong> please DO NOT contact the surgery but dial 111.",
+        "If your problem is fairly urgent (e.g. needs to be dealt with that day and cannot wait until the opening of the surgery the next day) then there are several choices.",
+        "If you are an enrolled patient you may call the surgery number Ph 411 5222 and be transferred through to our triage line for advice from our on call Nurse and Doctor.",
+        "<strong>Waitakere Hospital </strong>(open 24 hours), or<strong> North Shore Hospital</strong> (open 24 hours).",
+        "Our palliative care patients are cared for by the doctors at our surgery 24 hours a day and may contact the palliative care team (09 8349755) or phone the doctors directly on their cell phones."
+      ]
     }
   },
   {
@@ -7319,28 +7344,6 @@
       "exceptions": {
         "Public Holidays": "Open on all public holidays.."
       },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -40.3573359,
-    "lng": 175.5769814,
-    "name": "Bill Brown Park",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "Havelock Avenue, Westbrook, Palmerston North, Manawatu-Wanganui 4412",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-pop-up-pasifika-vaccination/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -10878,35 +10881,6 @@
     }
   },
   {
-    "lat": -35.7085691,
-    "lng": 174.3206953,
-    "name": "Kensington Pharmacy Ltd",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 8:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "4 Kensington Avenue, Kensington, Whangārei",
-    "telephone": "(09) 437 3722",
-    "faxNumber": "(09) 437 3726",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/kensington-pharmacy-ltd/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sat": "8:30 AM – 8:30 PM",
-        "Sun": "10:00 AM – 8:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 10:00 AM – 8:30 PM), Northland Anniversary (30 Jan, 10:00 AM – 8:30 PM), Waitangi Day (6 Feb, 10:00 AM – 8:30 PM), Good Friday (7 Apr, 10:00 AM – 8:30 PM), Easter Sunday (9 Apr, 10:00 AM – 8:30 PM), Easter Monday (10 Apr, 10:00 AM – 8:30 PM), ANZAC Day (25 Apr, 10:00 AM – 8:30 PM), Queen's Birthday (5 Jun, 10:00 AM – 8:30 PM), Matariki (14 Jul, 10:00 AM – 8:30 PM)."
-      },
-      "notesHtml": [
-        "<br>After Hours fee applies:<br>Monday-Saturday 6:00 PM - 8:30 PM<br>Sundays &amp; Public Holidays"
-      ]
-    }
-  },
-  {
     "lat": -40.2093114,
     "lng": 176.09717980000005,
     "name": "Dannevirke Pharmacy",
@@ -11897,35 +11871,6 @@
     }
   },
   {
-    "lat": -40.3471821,
-    "lng": 175.6221867,
-    "name": "244 Grey Street",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "244 Grey Street, Palmerston North, Manawatu-Wanganui 4414",
-    "telephone": "(06) 353 7310",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ww-clinic-on-grey/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:30 AM – 5:00 PM",
-        "Fri": "8:30 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.03390540000001,
     "lng": 174.9088124,
     "name": "Takanini Vaccination Centre, 8 Great South Road, Takanini",
@@ -12329,72 +12274,6 @@
         "* Phones divert to Afterhours Service at 1700hrs on Wednesday.",
         "*From 1700-1900hrs this clinic is for patients that have had their appts pre-booked by the practice. CAN BE FOR A GP [DR GATES] OR NURSE MELISSA DUNN [DEPO, FLU B12 DRESSINGS ONLY]",
         "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -40.3582214,
-    "lng": 175.6124109,
-    "name": "Palmerston North Central Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "AstraZeneca vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "38 Fitzherbert Avenue, Palmerston North 4410",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-central-covid-19-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 5:00 PM",
-        "Thu": "11:00 AM – 6:30 PM",
-        "Fri – Sat": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Good Friday (7 Apr), Easter Sunday (9 Apr), Queen's Birthday (5 Jun). Open Wellington Anniversary (23 Jan, 8:30 AM – 4:00 PM), Waitangi Day (6 Feb, 8:30 AM – 4:00 PM), Easter Monday (10 Apr, 9:00 AM – 5:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Matariki (14 Jul, 9:30 AM – 5:00 PM)."
-      },
-      "notesHtml": [
-        "Walk ins are welcome for Pfizer. <strong>We encourage you to book</strong> to avoid queuing.&nbsp;",
-        "<strong>Closed on Sunday&nbsp;</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -40.6228615,
-    "lng": 175.28505569999993,
-    "name": "Levin Mall",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "191 Oxford Street, Horowhenua, Levin 5510",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/horowhenua-covid-19-vaccination-centre-levin/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "Relocated Vaccination Clinic from the Youth Space at Levin Library"
       ]
     }
   },
@@ -15392,7 +15271,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"6d08000c04012d0a021f08000809040e0c01430e02430317\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"93f6fef2faffd3f4fce1f6fef6f7faf0f2ffbdf0fcbdfde9\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -23886,39 +23765,6 @@
     }
   },
   {
-    "lat": -41.7481924,
-    "lng": 171.6045066,
-    "name": "Buller Health Medical Centre",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:45 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "46B Cobden Street, Westport",
-    "telephone": "(03) 788 9277",
-    "faxNumber": "(03) 788 9279",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/buller-health-medical-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:45 AM – 5:00 PM",
-        "Sat – Sun": "2:00 PM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 2:00 PM – 4:00 PM), Buller Anniversary (30 Jan, 2:00 PM – 4:00 PM), Waitangi Day (6 Feb, 2:00 PM – 4:00 PM), Good Friday (7 Apr, 2:00 PM – 4:00 PM), Easter Sunday (9 Apr, 2:00 PM – 4:00 PM), Easter Monday (10 Apr, 2:00 PM – 4:00 PM), ANZAC Day (25 Apr, 2:00 PM – 4:00 PM), Queen's Birthday (5 Jun, 2:00 PM – 4:00 PM), Matariki (14 Jul, 2:00 PM – 4:00 PM)."
-      },
-      "notesHtml": [
-        "<strong>Notes: </strong>",
-        "<strong>1. On weekends and public holidays we provide a walk in clinic between 2pm and 4pm shared with Coastal Medical</strong>",
-        "<strong>2. Phone is answered at 0900hrs - DAILY</strong>",
-        "<strong>After Hours:</strong> Phone diverts to an after hours service, staffed by registered nurses."
-      ]
-    }
-  },
-  {
     "lat": -38.0067611,
     "lng": 175.3388251,
     "name": "Sanders Pharmacy",
@@ -25141,6 +24987,81 @@
     }
   },
   {
+    "lat": -37.64881949999999,
+    "lng": 176.19148719999998,
+    "name": "Maunganui Road Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:15 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "436 Maunganui Road, Mount Maunganui",
+    "telephone": "(07) 572 0505",
+    "faxNumber": "(07) 572 0575",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/maunganui-road-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Tue – Fri": "9:00 AM – 5:15 PM",
+        "Sat": "9:00 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "<strong>Flu Vaccinations:</strong> We don't do vaccinations every day so PLEASE phone us prior to when you need one and make a booking&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -36.87648009999999,
+    "lng": 174.8506834,
+    "name": "Tāmaki Health Hub Community Testing, RATS Collection and Vaccination Centre, 75 Felton Mathew Avenue, Saint Johns, Auckland",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "75 Felton Mathew Avenue, Saint Johns, Auckland 1072",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/tamaki-health-hub-community-testing-rats/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -35.7085691,
+    "lng": 174.3206953,
+    "name": "Kensington Pharmacy Ltd",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 8:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "4 Kensington Avenue, Kensington, Whangārei",
+    "telephone": "(09) 437 3722",
+    "faxNumber": "(09) 437 3726",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/kensington-pharmacy-ltd/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sat": "8:30 AM – 8:30 PM",
+        "Sun": "10:00 AM – 8:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 10:00 AM – 8:30 PM), Northland Anniversary (30 Jan, 10:00 AM – 8:30 PM), Waitangi Day (6 Feb, 10:00 AM – 8:30 PM), Good Friday (7 Apr, 10:00 AM – 8:30 PM), Easter Sunday (9 Apr, 10:00 AM – 8:30 PM), Easter Monday (10 Apr, 10:00 AM – 8:30 PM), ANZAC Day (25 Apr, 10:00 AM – 8:30 PM), Queen's Birthday (5 Jun, 10:00 AM – 8:30 PM), Matariki (14 Jul, 10:00 AM – 8:30 PM)."
+      },
+      "notesHtml": [
+        "<br>After Hours fee applies:<br>Monday-Saturday 6:00 PM - 8:30 PM<br>Sundays &amp; Public Holidays"
+      ]
+    }
+  },
+  {
     "lat": -36.7681204,
     "lng": 174.49287800000002,
     "name": "Waimauku Pharmacy",
@@ -25187,10 +25108,10 @@
       "No appointment required",
       "Walk in"
     ],
-    "address": "Silver Fern - The Triangle, Waimauku",
+    "address": "The Triangle, Factory Road, Waimauku",
     "telephone": "(09) 411 7989",
     "faxNumber": "(09) 411 7985",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/waimauku-pharmacy/at/silver-fern-the-triangle-waimauku/",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/waimauku-pharmacy/at/the-triangle-factory-road-waimauku/",
     "opennningHours": {
       "schedule": {
         "Mon – Fri": "9:00 AM – 6:00 PM",
@@ -25204,31 +25125,153 @@
     }
   },
   {
-    "lat": -37.64881949999999,
-    "lng": 176.19148719999998,
-    "name": "Maunganui Road Pharmacy",
-    "branch": "pharmacy",
+    "lat": -40.3582214,
+    "lng": 175.6124109,
+    "name": "Palmerston North Central Vaccination Centre",
+    "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:15 PM.",
+    "openTodayHours": "9:00 AM to 5:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "AstraZeneca vaccine (18+ years)",
       "Anyone currently eligible can access",
-      "Make an appointment"
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
     ],
-    "address": "436 Maunganui Road, Mount Maunganui",
-    "telephone": "(07) 572 0505",
-    "faxNumber": "(07) 572 0575",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/maunganui-road-pharmacy/",
+    "address": "38 Fitzherbert Avenue, Palmerston North 4410",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-central-covid-19-vaccination/",
     "opennningHours": {
       "schedule": {
-        "Tue – Fri": "9:00 AM – 5:15 PM",
-        "Sat": "9:00 AM – 2:00 PM"
+        "Mon – Wed": "9:00 AM – 5:00 PM",
+        "Thu": "11:00 AM – 6:30 PM",
+        "Fri – Sat": "9:00 AM – 5:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+        "Public Holidays": "Closed Labour Day (24 Oct), Good Friday (7 Apr), Easter Sunday (9 Apr), Queen's Birthday (5 Jun). Open Wellington Anniversary (23 Jan, 8:30 AM – 4:00 PM), Waitangi Day (6 Feb, 8:30 AM – 4:00 PM), Easter Monday (10 Apr, 9:00 AM – 5:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Matariki (14 Jul, 9:30 AM – 5:00 PM)."
       },
       "notesHtml": [
-        "<strong>Flu Vaccinations:</strong> We don't do vaccinations every day so PLEASE phone us prior to when you need one and make a booking&nbsp;"
+        "Walk ins are welcome for Pfizer. <strong>We encourage you to book</strong> to avoid queuing.&nbsp;",
+        "<strong>Closed on Sunday&nbsp;</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -40.6228615,
+    "lng": 175.28505569999993,
+    "name": "Levin Mall",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "191 Oxford Street, Horowhenua, Levin 5510",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/horowhenua-covid-19-vaccination-centre-levin/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "Relocated Vaccination Clinic from the Youth Space at Levin Library"
+      ]
+    }
+  },
+  {
+    "lat": -40.3573359,
+    "lng": 175.5769814,
+    "name": "Bill Brown Park",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "Havelock Avenue, Westbrook, Palmerston North, Manawatu-Wanganui 4412",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-pop-up-pasifika-vaccination/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.3471821,
+    "lng": 175.6221867,
+    "name": "244 Grey Street",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "244 Grey Street, Palmerston North, Manawatu-Wanganui 4414",
+    "telephone": "(06) 353 7310",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/ww-clinic-on-grey/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:30 AM – 5:00 PM",
+        "Fri": "8:30 AM – 2:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.7481924,
+    "lng": 171.6045066,
+    "name": "Buller Health Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:45 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "46B Cobden Street, Westport",
+    "telephone": "(03) 788 9277",
+    "faxNumber": "(03) 788 9279",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/buller-health-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:45 AM – 5:00 PM",
+        "Sat – Sun": "2:00 PM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 2:00 PM – 4:00 PM), Buller Anniversary (30 Jan, 2:00 PM – 4:00 PM), Waitangi Day (6 Feb, 2:00 PM – 4:00 PM), Good Friday (7 Apr, 2:00 PM – 4:00 PM), Easter Sunday (9 Apr, 2:00 PM – 4:00 PM), Easter Monday (10 Apr, 2:00 PM – 4:00 PM), ANZAC Day (25 Apr, 2:00 PM – 4:00 PM), Queen's Birthday (5 Jun, 2:00 PM – 4:00 PM), Matariki (14 Jul, 2:00 PM – 4:00 PM)."
+      },
+      "notesHtml": [
+        "<strong>Notes: </strong>",
+        "<strong>1. On weekends and public holidays we provide a walk in clinic between 2pm and 4pm shared with Coastal Medical</strong>",
+        "<strong>2. Phone is answered at 0900hrs - DAILY</strong>",
+        "<strong>After Hours:</strong> Phone diverts to an after hours service, staffed by registered nurses."
       ]
     }
   }
