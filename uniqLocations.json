@@ -7867,17 +7867,17 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "100 Ngarara Road, Waikanae 5036",
-    "distanceInMeters": 0.5857257,
+    "displayAddress": "12 Mahara Place   Waikanae  5036",
+    "distanceInMeters": 1018.14803014,
     "extId": "a0R4a000000RxZMEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-14",
     "endDate": "2022-12-23",
     "location": {
-      "lng": 175.052,
-      "lat": -40.8718
+      "lng": 175.062,
+      "lat": -40.8767
     },
-    "name": "Waikanae Vaccination Centre Waikanae Rugby Club – Westbury Pharmacy",
+    "name": "Westbury Pharmacy",
     "timezone": "Pacific/Auckland",
     "openHours": [
       {
@@ -7916,7 +7916,7 @@
         "localEnd": "16:45:00"
       }
     ],
-    "mapUrl": "https://www.google.com/maps/place/100+Ngarara+Road,+Waikanae+5036/@-40.8717647,175.049531,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a269ca097d55:0xc19a9f0def2805fd!8m2!3d-40.8717647!4d175.0517197",
+    "mapUrl": "https://www.google.com/maps/place/Westbury+Pharmacy/@-40.8767445,175.061941,17z/data=!3m1!4b1!4m5!3m4!1s0x6d40a2f5101dd6e9:0x64b1ac60605e9454!8m2!3d-40.8767445!4d175.0641297",
     "tags": [
       {
         "id": 1,
@@ -17897,6 +17897,13 @@
     "name": "Unichem Upper Hutt Pharmacy - (Broadway on Fergusson Drive)",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "11:00:00"
+      },
       {
         "days": [
           "tue"
