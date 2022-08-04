@@ -786,36 +786,36 @@
         "days": [
           "fri"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "15:30:00"
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "15:30:00"
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
       },
       {
         "days": [
           "mon"
         ],
-        "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localStart": "10:30:00",
+        "localEnd": "16:15:00"
       }
     ],
     "description": "Wheelchair accessible toilets, Wheelchair ramp access to site.\r\nForeign language translation service provided by appointment only \r\nSign language translator on site by appointment only\r\nOn-site parking",
@@ -1446,7 +1446,7 @@
   },
   {
     "displayAddress": "72 School Road, Wellsford 0900",
-    "distanceInMeters": 69529.32321519,
+    "distanceInMeters": 18509.79037025,
     "extId": "a0R4a000000QCrPEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-08",
@@ -1798,7 +1798,7 @@
   },
   {
     "displayAddress": "1 Lincoln Street   Patea",
-    "distanceInMeters": 52722.91368296,
+    "distanceInMeters": 53726.04262646,
     "extId": "a0R4a000000QCw6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-13",
@@ -2893,7 +2893,7 @@
   },
   {
     "displayAddress": "113 Broadway   Kaikohe  405",
-    "distanceInMeters": 23641.07183282,
+    "distanceInMeters": 58449.10602082,
     "extId": "a0R4a000000QDAFEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-06",
@@ -3540,7 +3540,7 @@
   },
   {
     "displayAddress": "The Old Warehouse Building, 11 Matthews Avenue, Kaitaia  410",
-    "distanceInMeters": 63733.72195864,
+    "distanceInMeters": 0.19078518,
     "extId": "a0R4a000000QDrAEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-10",
@@ -3666,7 +3666,7 @@
   },
   {
     "displayAddress": "1 Sammareee Place   Kerikeri  230",
-    "distanceInMeters": 0.24870967,
+    "distanceInMeters": 63733.4311068,
     "extId": "a0R4a000000QDxXEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-08",
@@ -6796,7 +6796,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 67738.12981991,
+    "distanceInMeters": 67766.22210791,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -10767,7 +10767,7 @@
   },
   {
     "displayAddress": "546 Pollen Steet, Thames, Waikato 3500",
-    "distanceInMeters": 57543.39280267,
+    "distanceInMeters": 67577.80886762,
     "extId": "a0R4a000000SKrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-04",
@@ -33970,7 +33970,7 @@
   },
   {
     "displayAddress": "12c Wood Street Mangawhai Heads  Mangawhai  505",
-    "distanceInMeters": 67051.78438326,
+    "distanceInMeters": 34307.4586622,
     "extId": "a0R4a000000V7iNEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-15",
@@ -52190,7 +52190,7 @@
   },
   {
     "displayAddress": "1B Ngawaka Lane One Tree Point    118",
-    "distanceInMeters": 55468.14598675,
+    "distanceInMeters": 64472.63495498,
     "extId": "a0R4a000000eJnoEAE",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-02-11",
@@ -53816,17 +53816,10 @@
       },
       {
         "days": [
-          "wed"
+          "sat"
         ],
-        "localStart": "08:30:00",
-        "localEnd": "19:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "08:30:00",
-        "localEnd": "17:45:00"
+        "localStart": "09:00:00",
+        "localEnd": "12:30:00"
       },
       {
         "days": [
@@ -53837,10 +53830,17 @@
       },
       {
         "days": [
-          "sat"
+          "thu"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "12:30:00"
+        "localStart": "08:30:00",
+        "localEnd": "17:45:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "08:30:00",
+        "localEnd": "19:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Henderson+Medical+Centre+Pharmacy/@-36.8811086,174.6377568,15z/data=!4m5!3m4!1s0x0:0xfb90af36ec87d953!8m2!3d-36.8810958!4d174.6377373",
@@ -53970,14 +53970,14 @@
     "openHours": [
       {
         "days": [
-          "tue"
+          "wed"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
       },
       {
         "days": [
-          "wed"
+          "tue"
         ],
         "localStart": "09:30:00",
         "localEnd": "16:45:00"
@@ -56498,7 +56498,7 @@
   },
   {
     "displayAddress": "Chester Street   Waverley  4510",
-    "distanceInMeters": 39398.67247904,
+    "distanceInMeters": 40410.98471114,
     "extId": "a0R4a000000m9pAEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -56540,7 +56540,7 @@
   },
   {
     "displayAddress": "37 Ayr Street   Ohakune  4625",
-    "distanceInMeters": 62341.32148769,
+    "distanceInMeters": 62314.61031415,
     "extId": "a0R4a000000m9pyEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -56582,7 +56582,7 @@
   },
   {
     "displayAddress": "25 Queree Drive   Waiouru  4826",
-    "distanceInMeters": 72133.70279487,
+    "distanceInMeters": 71776.1089305,
     "extId": "a0R4a000000m9uVEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -56700,7 +56700,7 @@
   },
   {
     "displayAddress": "Kai Iwi Beach Carpark",
-    "distanceInMeters": 13327.6250952,
+    "distanceInMeters": 14305.83418011,
     "extId": "a0R4a000000mA3cEAE",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
