@@ -523,7 +523,7 @@
   },
   {
     "displayAddress": "41 Hunter Street   Hawera  4610",
-    "distanceInMeters": 62746.32379135,
+    "distanceInMeters": 60802.08732925,
     "extId": "a0R4a000000Pit9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -601,7 +601,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 7753.7687588,
+    "distanceInMeters": 0.22695513,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -756,7 +756,7 @@
   },
   {
     "displayAddress": "17 Camberwell Road Hāwera  New Plymouth  4610",
-    "distanceInMeters": 62621.75118727,
+    "distanceInMeters": 60753.71346805,
     "extId": "a0R4a000000PjaAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -3411,6 +3411,13 @@
     "name": "Waiwhetū Community Clinic",
     "timezone": "Pacific/Auckland",
     "openHours": [
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "13:00:00"
+      },
       {
         "days": [
           "thu"
@@ -6355,7 +6362,7 @@
   },
   {
     "displayAddress": "4 Frome Street Oamaru    9400",
-    "distanceInMeters": 1979.6682912,
+    "distanceInMeters": 0.2400409,
     "extId": "a0R4a000000QZHzEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -6488,7 +6495,7 @@
   },
   {
     "displayAddress": "11 Arun Street   Oamaru  9400",
-    "distanceInMeters": 1248.92924636,
+    "distanceInMeters": 3221.41479151,
     "extId": "a0R4a000000QZKCEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -6572,7 +6579,7 @@
   },
   {
     "displayAddress": "19 Eden Street, Oamaru 9400",
-    "distanceInMeters": 0.34490953,
+    "distanceInMeters": 1979.7970055,
     "extId": "a0R4a000000QZLFEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-23",
@@ -7363,7 +7370,7 @@
   },
   {
     "displayAddress": "71 Water Walk Road   Greymouth  7892",
-    "distanceInMeters": 0.28328112,
+    "distanceInMeters": 1987.41773618,
     "extId": "a0R4a000000QwdeEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-29",
@@ -7406,6 +7413,48 @@
     ],
     "mapUrl": "https://g.page/te-nikau-ed?share",
     "tags": [
+      {
+        "id": 85184,
+        "externalId": "a0p4a000000EOb2AAG",
+        "name": "Onsite parking",
+        "languageKey": "Onsite parking",
+        "isSystemTag": false
+      },
+      {
+        "id": 85182,
+        "externalId": "a0p4a000000EOb0AAG",
+        "name": "Toilets",
+        "languageKey": "Toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 85183,
+        "externalId": "a0p4a000000EOb1AAG",
+        "name": "Accessible toilets",
+        "languageKey": "Accessible toilets",
+        "isSystemTag": false
+      },
+      {
+        "id": 48791,
+        "externalId": "a0p4a000000E7ytAAC",
+        "name": "Wheelchair access",
+        "languageKey": "Wheelchair access",
+        "isSystemTag": false
+      },
+      {
+        "id": 85186,
+        "externalId": "a0p4a000000EOb4AAG",
+        "name": "Walk-ins available",
+        "languageKey": "Walk-ins available",
+        "isSystemTag": false
+      },
+      {
+        "id": 85188,
+        "externalId": "a0p4a000000EOb6AAG",
+        "name": "Disabled car parking",
+        "languageKey": "Disabled car parking",
+        "isSystemTag": false
+      },
       {
         "id": 1,
         "externalId": "a0p4a000000CInuAAG",
@@ -7622,7 +7671,7 @@
   },
   {
     "displayAddress": "51 Tyrone Street Ranfurly  Ranfurly  9332",
-    "distanceInMeters": 67917.35504898,
+    "distanceInMeters": 68777.18880412,
     "extId": "a0R4a000000RP9sEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -7706,7 +7755,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 8135.21572972,
+    "distanceInMeters": 15875.66742923,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -8345,7 +8394,7 @@
   },
   {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 9293.9944668,
+    "distanceInMeters": 1748.64690132,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -11302,35 +11351,35 @@
         "days": [
           "mon"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "thu"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "wed"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "tue"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       },
       {
         "days": [
           "fri"
         ],
-        "localStart": "09:00:00",
+        "localStart": "09:30:00",
         "localEnd": "17:00:00"
       }
     ],
@@ -16040,7 +16089,7 @@
   },
   {
     "displayAddress": "213-215 Thames Street Oamaru Central  Oamaru  9400",
-    "distanceInMeters": 147.02272263,
+    "distanceInMeters": 1864.79768567,
     "extId": "a0R4a000000Sqc4EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-18",
@@ -20411,7 +20460,7 @@
   },
   {
     "displayAddress": "1 Guinness Street   Greymouth  7805",
-    "distanceInMeters": 1987.19676444,
+    "distanceInMeters": 0.05109906,
     "extId": "a0R4a000000TL0yEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-29",
@@ -26439,7 +26488,7 @@
   },
   {
     "displayAddress": "411 Thames Highway Oamaru North  Oamaru  9400",
-    "distanceInMeters": 1976.07864899,
+    "distanceInMeters": 217.31581305,
     "extId": "a0R4a000000U2BFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-07",
@@ -26643,7 +26692,7 @@
   },
   {
     "displayAddress": "171 Thames Street   Oamaru  9400",
-    "distanceInMeters": 110.68407691,
+    "distanceInMeters": 2001.28934195,
     "extId": "a0R4a000000U2CmEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-30",
@@ -28591,7 +28640,7 @@
   },
   {
     "displayAddress": "283 Devon Street West   New Plymouth  4310",
-    "distanceInMeters": 8365.18511263,
+    "distanceInMeters": 633.50527513,
     "extId": "a0R4a000000UOrIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -28781,7 +28830,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 6578.40894977,
+    "distanceInMeters": 1178.00093007,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -29019,7 +29068,7 @@
   },
   {
     "displayAddress": "289 Broadway   Stratford  4322",
-    "distanceInMeters": 36546.8302233,
+    "distanceInMeters": 36203.64335065,
     "extId": "a0R4a000000UPRYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -29110,7 +29159,7 @@
   },
   {
     "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
-    "distanceInMeters": 0.51431892,
+    "distanceInMeters": 7754.05901737,
     "extId": "a0R4a000000UPXsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -29313,7 +29362,7 @@
   },
   {
     "displayAddress": "99 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 9285.55804765,
+    "distanceInMeters": 1736.42988996,
     "extId": "a0R4a000000UPwKEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -29972,7 +30021,7 @@
   },
   {
     "displayAddress": "10 Weld Street   Hokitika  7810",
-    "distanceInMeters": 34090.62501365,
+    "distanceInMeters": 36043.02275078,
     "extId": "a0R4a000000UUbdEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-31",
@@ -35648,7 +35697,7 @@
           "sat"
         ],
         "localStart": "09:30:00",
-        "localEnd": "15:15:00"
+        "localEnd": "14:45:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/280+Richmond+Road,+Grey+Lynn,+Auckland+1021,+New+Zealand/@-36.8551457,174.7297349,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d479e18a25c9b:0xb4ec9eb65151fb44!8m2!3d-36.8551457!4d174.7319236",
@@ -36575,7 +36624,7 @@
   },
   {
     "displayAddress": "55 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 8936.11702741,
+    "distanceInMeters": 1380.90395624,
     "extId": "a0R4a000000VX91EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -36878,7 +36927,7 @@
   },
   {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
-    "distanceInMeters": 3893.13394849,
+    "distanceInMeters": 3937.09412953,
     "extId": "a0R4a000000VXrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -39563,6 +39612,13 @@
     "openHours": [
       {
         "days": [
+          "tue"
+        ],
+        "localStart": "10:00:00",
+        "localEnd": "16:00:00"
+      },
+      {
+        "days": [
           "sat"
         ],
         "localStart": "10:00:00",
@@ -39578,13 +39634,6 @@
       {
         "days": [
           "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
         ],
         "localStart": "10:00:00",
         "localEnd": "16:00:00"
@@ -47590,6 +47639,55 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "146 Stokes Valley Road Stokes Valley  Lower Hutt  5019",
+    "distanceInMeters": 12381.28708288,
+    "extId": "a0R4a000000aHLVEA2",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-11-26",
+    "endDate": "2022-08-31",
+    "location": {
+      "lng": 174.981,
+      "lat": -41.1705
+    },
+    "name": "Koraunui Marae Stokes Valley",
+    "timezone": "Pacific/Auckland",
+    "openHours": [
+      {
+        "days": [
+          "tue"
+        ],
+        "localStart": "14:00:00",
+        "localEnd": "16:30:00"
+      }
+    ],
+    "mapUrl": "https://goo.gl/maps/rSwXXnDGP8iAGzbk6",
+    "tags": [
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2022-02-07",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": null,
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "Shop 12, 12 Swansea Road Flaxmere  Hastings  4120",
     "distanceInMeters": 5118.77315564,
     "extId": "a0R4a000000aNYAEA2",
@@ -51173,7 +51271,7 @@
   },
   {
     "displayAddress": "32 King Street Opotiki    3122",
-    "distanceInMeters": 26481.59258131,
+    "distanceInMeters": 20371.41365595,
     "extId": "a0R4a000000dZHUEA2",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-01-27",
@@ -52219,45 +52317,52 @@
     "openHours": [
       {
         "days": [
-          "sat"
+          "sun"
         ],
-        "localStart": "09:00:00",
-        "localEnd": "14:45:00"
-      },
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localStart": "09:30:00",
+        "localEnd": "13:30:00"
       },
       {
         "days": [
           "tue"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "fri"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "thu"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "wed"
+        ],
+        "localStart": "09:00:00",
+        "localEnd": "17:30:00"
+      },
+      {
+        "days": [
+          "sat"
+        ],
+        "localStart": "09:30:00",
+        "localEnd": "13:30:00"
       },
       {
         "days": [
           "mon"
         ],
         "localStart": "09:00:00",
-        "localEnd": "18:15:00"
+        "localEnd": "17:30:00"
       }
     ],
     "mapUrl": "https://goo.gl/maps/bGCk5faexUfVsB9UA",
@@ -54791,7 +54896,7 @@
   },
   {
     "displayAddress": "41 Weld Street   Hokitika  7810",
-    "distanceInMeters": 34034.0082694,
+    "distanceInMeters": 35983.54372319,
     "extId": "a0R4a000000iodrEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-05-02",
