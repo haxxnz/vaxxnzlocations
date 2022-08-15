@@ -3142,36 +3142,6 @@
     }
   },
   {
-    "lat": -37.6682327,
-    "lng": 176.14000580000004,
-    "name": "Unichem Cherrywood Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "52-54 Cherrywood Drive, Otumoetai, Tauranga",
-    "telephone": "(07) 576 9404",
-    "faxNumber": "(07) 576 8293",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-cherrywood-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM",
-        "Sat": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.8503776,
     "lng": 174.7650025,
     "name": "Unichem Queen St Pharmacy",
@@ -5476,23 +5446,6 @@
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -39.62235069999999,
-    "lng": 176.8153549,
-    "name": "Hauora Heretaunga, 821 Orchard Road, Camberley, Hastings",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "821 Orchard Road, Camberley, Hastings, Hawke's Bay 4120",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/hauora-heretaunga-821-orchard-road-camberley/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -13461,17 +13414,27 @@
   {
     "lat": -45.8675867,
     "lng": 170.506651,
-    "name": "",
+    "name": "Pitt Street Medical",
     "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/2-pitt-street-north-dunedin-dunedin/",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "2 Pitt Street, North Dunedin, Dunedin",
+    "telephone": "(03) 474 1348",
+    "faxNumber": "(03) 477 3188",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/pitt-street-medical/",
     "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun).",
+        "Preferred urgent care clinic out of hours": "Dunedin Urgent Doctors & Accident Centre."
+      },
       "notesHtml": []
     }
   },
@@ -15554,6 +15517,33 @@
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.62235069999999,
+    "lng": 176.8153549,
+    "name": "Taiwhenua Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Hauora Heretaunga, 821 Orchard Road, Camberley, Hastings",
+    "telephone": "(06) 871 5359",
+    "faxNumber": "(06) 871 5365",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/taiwhenua-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
       },
       "notesHtml": []
     }
@@ -23875,7 +23865,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"5b3e363a32371b3c34293e363e3f32383a37753834753521\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"f7929a969e9bb7909885929a92939e94969bd99498d9998d\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -25239,6 +25229,64 @@
       },
       "exceptions": {
         "Public Holidays": "Closed Good Friday (7 Apr), Easter Sunday (9 Apr), Matariki (14 Jul). Open Labour Day (24 Oct, 10:00 AM – 4:00 PM), Wellington Anniversary (23 Jan, 10:00 AM – 4:00 PM), Waitangi Day (6 Feb, 10:00 AM – 4:00 PM), Easter Monday (10 Apr, 10:00 AM – 4:00 PM), ANZAC Day (25 Apr, 1:00 PM – 4:00 PM), Queen's Birthday (5 Jun, 10:00 AM – 4:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -45.867696,
+    "lng": 170.5066633,
+    "name": "Dunedin City GP",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "2B Pitt Street, Dunedin",
+    "telephone": "(03) 926 9727",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/dunedin-city-gp/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun).",
+        "Preferred urgent care clinic out of hours": "Dunedin Urgent Doctors & Accident Centre."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.6682327,
+    "lng": 176.14000580000004,
+    "name": "Unichem Cherrywood Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "52-54 Cherrywood Drive, Otumoetai, Tauranga",
+    "telephone": "(07) 576 9404",
+    "faxNumber": "(07) 576 8293",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-cherrywood-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM",
+        "Sat": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
       "notesHtml": []
     }
