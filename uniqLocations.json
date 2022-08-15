@@ -599,7 +599,7 @@
   },
   {
     "displayAddress": "41 Hunter Street   Hawera  4610",
-    "distanceInMeters": 59839.96124705,
+    "distanceInMeters": 72492.14769758,
     "extId": "a0R4a000000Pit9EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-08",
@@ -687,7 +687,7 @@
   },
   {
     "displayAddress": "109 Powderham St   New Plymouth  4310",
-    "distanceInMeters": 1380.75583099,
+    "distanceInMeters": 7753.7687588,
     "extId": "a0R4a000000PjSoEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -861,7 +861,7 @@
   },
   {
     "displayAddress": "17 Camberwell Road Hāwera  New Plymouth  4610",
-    "distanceInMeters": 59801.99525729,
+    "distanceInMeters": 72120.4225698,
     "extId": "a0R4a000000PjaAEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-17",
@@ -2044,7 +2044,7 @@
   },
   {
     "displayAddress": "1 Lincoln Street   Patea",
-    "distanceInMeters": 53726.04262646,
+    "distanceInMeters": 48026.65494853,
     "extId": "a0R4a000000QCw6EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-06-13",
@@ -7591,7 +7591,7 @@
   },
   {
     "displayAddress": "29 Main Road   Owaka  9535",
-    "distanceInMeters": 67766.22210791,
+    "distanceInMeters": 68040.54589801,
     "extId": "a0R4a000000QZSaEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -7952,7 +7952,7 @@
   },
   {
     "displayAddress": "133 Wicksteed Street   Whanganui  4500",
-    "distanceInMeters": 2279.38655704,
+    "distanceInMeters": 6106.17214808,
     "extId": "a0R4a000000QsKBEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-05",
@@ -8125,7 +8125,7 @@
   },
   {
     "displayAddress": "4 Criterion Street   Bulls  4818",
-    "distanceInMeters": 51897.3107216,
+    "distanceInMeters": 43234.98239739,
     "extId": "a0R4a000000QsKkEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-07-26",
@@ -8579,7 +8579,7 @@
   },
   {
     "displayAddress": "51 Tyrone Street Ranfurly  Ranfurly  9332",
-    "distanceInMeters": 73032.49408685,
+    "distanceInMeters": 67917.35504898,
     "extId": "a0R4a000000RP9sEAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-20",
@@ -8666,7 +8666,7 @@
   },
   {
     "displayAddress": "56 McLean St   Waitara  4320",
-    "distanceInMeters": 17012.22121782,
+    "distanceInMeters": 8135.21572972,
     "extId": "a0R4a000000RnKFEA0",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -9302,8 +9302,60 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
+    "displayAddress": "7 Swansea Road Flaxmere  Hastings  4120",
+    "distanceInMeters": 5238.91810437,
+    "extId": "a0R4a000000S1sIEAS",
+    "regionExternalId": "a0X4a000000IylMEAS",
+    "startDate": "2021-07-27",
+    "endDate": "2022-12-23",
+    "location": {
+      "lng": 176.78648,
+      "lat": -39.62402
+    },
+    "name": "Flaxmere Cook Island Hall",
+    "timezone": "Pacific/Auckland",
+    "openHours": [],
+    "description": "Walk-Ins Welcome",
+    "mapUrl": "https://goo.gl/maps/uk2XVvLrsJVrTRjHA",
+    "tags": [
+      {
+        "id": 1,
+        "externalId": "a0p4a000000CInuAAG",
+        "name": "Group Booking",
+        "languageKey": "GroupBookingTag",
+        "isSystemTag": true,
+        "type": "location"
+      },
+      {
+        "id": 1905901,
+        "externalId": "a0p4a000000IbbHAAS",
+        "name": "Large Group Booking",
+        "languageKey": "large.group.booking",
+        "isSystemTag": true,
+        "type": "location"
+      },
+      {
+        "id": 592498,
+        "externalId": "a0p4a000000GfNBAA0",
+        "name": "Pfizer",
+        "languageKey": "PfizerTag",
+        "showInFilter": false,
+        "isSystemTag": false,
+        "type": "vaccine"
+      }
+    ],
+    "type": "OnlineBooking",
+    "availableDate": "2021-07-15",
+    "locationPool": "default",
+    "exhausted": false,
+    "exhaustedOnlySlots": false,
+    "excludeFromSearch": false,
+    "nextAvailableSlot": "2021-11-19T21:15:00.000Z",
+    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
+  },
+  {
     "displayAddress": "99 Tukapa St   New Plymouth  4310",
-    "distanceInMeters": 373.64015484,
+    "distanceInMeters": 9293.9944668,
     "extId": "a0R4a000000SABZEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -18895,7 +18947,7 @@
   },
   {
     "displayAddress": "244 Grey Street   Palmerston North  4414",
-    "distanceInMeters": 42678.09922787,
+    "distanceInMeters": 71161.96161983,
     "extId": "a0R4a000000SwzEEAS",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-03",
@@ -31133,7 +31185,7 @@
   },
   {
     "displayAddress": "283 Devon Street West   New Plymouth  4310",
-    "distanceInMeters": 1080.7246836,
+    "distanceInMeters": 8365.18511263,
     "extId": "a0R4a000000UOrIEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -31344,7 +31396,7 @@
   },
   {
     "displayAddress": "173 Courtenay Street   New Plymouth  4310",
-    "distanceInMeters": 2425.56264215,
+    "distanceInMeters": 6578.40894977,
     "extId": "a0R4a000000UOyDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -31615,7 +31667,7 @@
   },
   {
     "displayAddress": "289 Broadway   Stratford  4322",
-    "distanceInMeters": 35532.6418206,
+    "distanceInMeters": 36546.8302233,
     "extId": "a0R4a000000UPRYEA4",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -31720,7 +31772,7 @@
   },
   {
     "displayAddress": "188 Parklands Avenue Bell Block  New Plymouth  4312",
-    "distanceInMeters": 8936.79992455,
+    "distanceInMeters": 0.51431892,
     "extId": "a0R4a000000UPXsEAO",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -31945,7 +31997,7 @@
   },
   {
     "displayAddress": "99 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 362.59984271,
+    "distanceInMeters": 9285.55804765,
     "extId": "a0R4a000000UPwKEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-01",
@@ -36277,7 +36329,7 @@
   },
   {
     "displayAddress": "121 Victoria Avenue   Whanganui  4500",
-    "distanceInMeters": 2518.74842821,
+    "distanceInMeters": 5893.43587295,
     "extId": "a0R4a000000V289EAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-21",
@@ -39888,7 +39940,7 @@
   },
   {
     "displayAddress": "55 Tukapa Street Westown  New Plymouth  4310",
-    "distanceInMeters": 0.29201315,
+    "distanceInMeters": 8936.11702741,
     "extId": "a0R4a000000VX91EAG",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -40231,7 +40283,7 @@
   },
   {
     "displayAddress": "The Valley Mega Centre, Unit 4, 1 Smart Road Waiwhakaiho  New Plymouth  4312",
-    "distanceInMeters": 5053.67205879,
+    "distanceInMeters": 3893.13394849,
     "extId": "a0R4a000000VXrDEAW",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-20",
@@ -42740,7 +42792,7 @@
   },
   {
     "displayAddress": "281 Broadway Ave   Palmerston North  4410",
-    "distanceInMeters": 42541.9238186,
+    "distanceInMeters": 71376.08483523,
     "extId": "a0R4a000000W1Z1EAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-10-28",
@@ -61263,7 +61315,7 @@
   },
   {
     "displayAddress": "4 Criterion Street   Bulls  4818",
-    "distanceInMeters": 51552.87375355,
+    "distanceInMeters": 43560.72562402,
     "extId": "a0R4a000000m9lrEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61314,7 +61366,7 @@
   },
   {
     "displayAddress": "7 Blackwell Street, Marton 4710   Marton  4710",
-    "distanceInMeters": 63052.54115158,
+    "distanceInMeters": 36864.45403189,
     "extId": "a0R4a000000m9nnEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61365,7 +61417,7 @@
   },
   {
     "displayAddress": "Chester Street   Waverley  4510",
-    "distanceInMeters": 40410.98471114,
+    "distanceInMeters": 35404.96437442,
     "extId": "a0R4a000000m9pAEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61416,7 +61468,7 @@
   },
   {
     "displayAddress": "37 Ayr Street   Ohakune  4625",
-    "distanceInMeters": 62314.61031415,
+    "distanceInMeters": 68246.21194102,
     "extId": "a0R4a000000m9pyEAA",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61467,7 +61519,7 @@
   },
   {
     "displayAddress": "38 Queree Drive   Waiouru  4826",
-    "distanceInMeters": 71778.20184251,
+    "distanceInMeters": 74426.12661925,
     "extId": "a0R4a000000m9uVEAQ",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61519,7 +61571,7 @@
   },
   {
     "displayAddress": "19-21 Bruce Street   Hunterville  4730",
-    "distanceInMeters": 43062.53395166,
+    "distanceInMeters": 50181.05120925,
     "extId": "a0R4a000000mA0TEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61571,7 +61623,7 @@
   },
   {
     "displayAddress": "Pavilion Parking by Castlecliff Beach",
-    "distanceInMeters": 7685.97240446,
+    "distanceInMeters": 0.27212779,
     "extId": "a0R4a000000mA2FEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61614,7 +61666,7 @@
   },
   {
     "displayAddress": "Kai Iwi Beach Carpark",
-    "distanceInMeters": 14305.83418011,
+    "distanceInMeters": 8873.42318359,
     "extId": "a0R4a000000mA3cEAE",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61665,7 +61717,7 @@
   },
   {
     "displayAddress": "Ratana Medical Centre Taihauauru Street   Turakina  4581",
-    "distanceInMeters": 66591.88603468,
+    "distanceInMeters": 20173.98122379,
     "extId": "a0R4a000000mA6HEAU",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61716,7 +61768,7 @@
   },
   {
     "displayAddress": "Williams Domain   Whanganui  4500",
-    "distanceInMeters": 0.61087382,
+    "distanceInMeters": 7685.68144109,
     "extId": "a0R4a000000mA9kEAE",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
@@ -61759,7 +61811,7 @@
   },
   {
     "displayAddress": "Somme Parade   Whanganui  4500",
-    "distanceInMeters": 1013.50952078,
+    "distanceInMeters": 7037.58346356,
     "extId": "a0R4a000000mACeEAM",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2022-07-08",
