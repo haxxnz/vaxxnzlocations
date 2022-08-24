@@ -16617,7 +16617,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"33565e525a5f73545c41565e56575a50525f1d505c1d5d49\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"0c69616d65604c6b637e69616968656f6d60226f63226276\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -23159,36 +23159,6 @@
     }
   },
   {
-    "lat": -41.3189819,
-    "lng": 174.79496300000005,
-    "name": "Unichem Kilbirnie Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Unichem Kilbirnie Pharmacy, 37 Bay Road, Kilbirnie, Wellington",
-    "telephone": "(04) 387 9254",
-    "faxNumber": "(04) 387 3541",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kilbirnie-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat – Sun": "10:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.53242170908535,
     "lng": 172.67531937196225,
     "name": "Eastgate Mall",
@@ -25110,33 +25080,6 @@
     }
   },
   {
-    "lat": -45.2556751,
-    "lng": 169.39255939999998,
-    "name": "Unichem Alexandra Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "4-6 Centennial Ave, Alexandra",
-    "telephone": "(03) 448 8871",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-alexandra-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:30 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun). Open Labour Day (24 Oct, 10:00 AM – 2:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.7716146,
     "lng": 175.28273890000003,
     "name": "Fairfield Pharmacy",
@@ -25193,6 +25136,63 @@
       },
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Wellington Anniversary (23 Jan, 9:00 AM – 4:30 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.3189819,
+    "lng": 174.79496300000005,
+    "name": "Unichem Kilbirnie Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Unichem Kilbirnie Pharmacy, 37 Bay Road, Kilbirnie, Wellington",
+    "telephone": "(04) 387 9254",
+    "faxNumber": "(04) 387 3541",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-kilbirnie-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat – Sun": "10:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -45.2556751,
+    "lng": 169.39255939999998,
+    "name": "Unichem Alexandra Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "4-6 Centennial Ave, Alexandra",
+    "telephone": "(03) 448 8871",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-alexandra-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:30 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun). Open Labour Day (24 Oct, 10:00 AM – 2:00 PM)."
       },
       "notesHtml": []
     }
