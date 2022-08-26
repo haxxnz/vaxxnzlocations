@@ -16181,7 +16181,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"2b4e464a42476b4c44594e464e4f42484a47054844054551\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"b6d3dbd7dfdaf6d1d9c4d3dbd3d2dfd5d7da98d5d998d8cc\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -24333,27 +24333,236 @@
     }
   },
   {
-    "lat": -36.96339,
-    "lng": 174.83954199999994,
-    "name": "Haumanu Pharmacy",
+    "lat": -41.2811762,
+    "lng": 173.24970859999996,
+    "name": "Tahunanui Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "8:30 AM to 5:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
-      "Make an appointment"
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
     ],
-    "address": "Middlemore Hospital",
-    "telephone": "(09) 277 3425",
-    "faxNumber": "(09) 277 3424",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/haumanu-pharmacy/",
+    "address": "11 Tahunanui Drive, Tahunanui, Nelson",
+    "telephone": "(03) 548 6495",
+    "faxNumber": "(03) 546 4063",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/tahunanui-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:00 AM – 6:00 PM",
-        "Sat – Sun": "9:00 AM – 6:00 PM"
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "10:00 AM – 12:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 9:00 AM – 6:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 6:00 PM), Waitangi Day (6 Feb, 9:00 AM – 6:00 PM), Good Friday (7 Apr, 9:00 AM – 6:00 PM), Easter Sunday (9 Apr, 9:00 AM – 6:00 PM), Easter Monday (10 Apr, 9:00 AM – 6:00 PM), ANZAC Day (25 Apr, 9:00 AM – 6:00 PM), Queen's Birthday (5 Jun, 9:00 AM – 6:00 PM), Matariki (14 Jul, 9:00 AM – 6:00 PM)."
+        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.3402183,
+    "lng": 173.18608599999993,
+    "name": "Unichem Richmond Mall Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "216 Queen Street, Richmond",
+    "telephone": "(03) 544 8547",
+    "faxNumber": "(03) 544 8540",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-richmond-mall-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (7 Apr), Easter Sunday (9 Apr). Open Labour Day (24 Oct, 10:00 AM – 4:00 PM), Waitangi Day (6 Feb, 10:00 AM – 4:00 PM), Easter Monday (10 Apr, 10:00 AM – 4:00 PM), ANZAC Day (25 Apr, 1:00 PM – 4:00 PM), Queen's Birthday (5 Jun, 10:00 AM – 4:00 PM), Matariki (14 Jul, 10:00 AM – 4:00 PM)."
+      },
+      "notesHtml": [
+        "We are temporarily closed on Sundays due to Covid related staff shortages"
+      ]
+    }
+  },
+  {
+    "lat": -41.4058809,
+    "lng": 173.0425288,
+    "name": "Wakefield Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "4 Edward Street, Wakefield",
+    "telephone": "(03) 541 8418",
+    "faxNumber": "(03) 541 9100",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/wakefield-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "8:30 AM – 5:30 PM",
+        "Wed": "8:30 AM – 6:00 PM",
+        "Thu – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "10:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.1112562,
+    "lng": 173.01082180000003,
+    "name": "Unichem Motueka Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "162 High Street, Motueka",
+    "telephone": "(03) 528 9559",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-motueka-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM",
+        "Sun": "10:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Nelson Anniversary (30 Jan, 10:00 AM – 1:00 PM), Waitangi Day (6 Feb, 10:00 AM – 1:00 PM), Good Friday (7 Apr, 10:00 AM – 1:00 PM), Easter Sunday (9 Apr, 10:00 AM – 1:00 PM), Easter Monday (10 Apr, 10:00 AM – 1:00 PM), ANZAC Day (25 Apr, 10:00 AM – 1:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.3126282,
+    "lng": 173.23410480000007,
+    "name": "Unichem Hurst and Taylor Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "512 Main Road Stoke, Stoke, Nelson",
+    "telephone": "(03) 547 9689",
+    "faxNumber": "(03) 547 9688",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hurst-and-taylor-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 12:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.33987469999999,
+    "lng": 173.18501709999998,
+    "name": "Queen Street Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "215 Queen Street, Richmond",
+    "telephone": "(03) 543 9034",
+    "faxNumber": "(03) 543 9037",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/queen-street-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:30 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.2936975,
+    "lng": 174.7786946,
+    "name": "Wellworks Pharmacy Taranaki Street",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "75 Taranaki Street, Te Aro, Wellington",
+    "telephone": "(04) 555 0522",
+    "faxNumber": "(04) 555 0520",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/wellworks-pharmacy-taranaki-street/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Thu": "8:30 AM – 6:00 PM",
+        "Fri": "8:30 AM – 5:00 PM",
+        "Sat": "10:00 AM – 3:30 AM",
+        "Mon – Fri": "9:00 AM – 5:30 AM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.3405817,
+    "lng": 173.1842105,
+    "name": "McGlashen Pharmacy Ltd",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "42 Oxford Street, Richmond",
+    "telephone": "(03) 544 4244",
+    "faxNumber": "(03) 544 4305",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/mcglashen-pharmacy-ltd/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
       },
       "notesHtml": []
     }
@@ -24933,236 +25142,27 @@
     }
   },
   {
-    "lat": -41.1112562,
-    "lng": 173.01082180000003,
-    "name": "Unichem Motueka Pharmacy",
+    "lat": -36.96339,
+    "lng": 174.83954199999994,
+    "name": "Haumanu Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "openTodayHours": "8:00 AM to 6:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "162 High Street, Motueka",
-    "telephone": "(03) 528 9559",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-motueka-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 1:00 PM",
-        "Sun": "10:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Nelson Anniversary (30 Jan, 10:00 AM – 1:00 PM), Waitangi Day (6 Feb, 10:00 AM – 1:00 PM), Good Friday (7 Apr, 10:00 AM – 1:00 PM), Easter Sunday (9 Apr, 10:00 AM – 1:00 PM), Easter Monday (10 Apr, 10:00 AM – 1:00 PM), ANZAC Day (25 Apr, 10:00 AM – 1:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.3126282,
-    "lng": 173.23410480000007,
-    "name": "Unichem Hurst and Taylor Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
       "Make an appointment"
     ],
-    "address": "512 Main Road Stoke, Stoke, Nelson",
-    "telephone": "(03) 547 9689",
-    "faxNumber": "(03) 547 9688",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-hurst-and-taylor-pharmacy/",
+    "address": "Middlemore Hospital",
+    "telephone": "(09) 277 3425",
+    "faxNumber": "(09) 277 3424",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/haumanu-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 12:30 PM"
+        "Mon – Fri": "8:00 AM – 6:00 PM",
+        "Sat – Sun": "9:00 AM – 6:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.33987469999999,
-    "lng": 173.18501709999998,
-    "name": "Queen Street Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "215 Queen Street, Richmond",
-    "telephone": "(03) 543 9034",
-    "faxNumber": "(03) 543 9037",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/queen-street-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:30 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.2936975,
-    "lng": 174.7786946,
-    "name": "Wellworks Pharmacy Taranaki Street",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "75 Taranaki Street, Te Aro, Wellington",
-    "telephone": "(04) 555 0522",
-    "faxNumber": "(04) 555 0520",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/wellworks-pharmacy-taranaki-street/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Thu": "8:30 AM – 6:00 PM",
-        "Fri": "8:30 AM – 5:00 PM",
-        "Sat": "10:00 AM – 3:30 AM",
-        "Mon – Fri": "9:00 AM – 5:30 AM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.2811762,
-    "lng": 173.24970859999996,
-    "name": "Tahunanui Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "11 Tahunanui Drive, Tahunanui, Nelson",
-    "telephone": "(03) 548 6495",
-    "faxNumber": "(03) 546 4063",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/tahunanui-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "10:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.3402183,
-    "lng": 173.18608599999993,
-    "name": "Unichem Richmond Mall Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "216 Queen Street, Richmond",
-    "telephone": "(03) 544 8547",
-    "faxNumber": "(03) 544 8540",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-richmond-mall-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 6:00 PM",
-        "Sat": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (7 Apr), Easter Sunday (9 Apr). Open Labour Day (24 Oct, 10:00 AM – 4:00 PM), Waitangi Day (6 Feb, 10:00 AM – 4:00 PM), Easter Monday (10 Apr, 10:00 AM – 4:00 PM), ANZAC Day (25 Apr, 1:00 PM – 4:00 PM), Queen's Birthday (5 Jun, 10:00 AM – 4:00 PM), Matariki (14 Jul, 10:00 AM – 4:00 PM)."
-      },
-      "notesHtml": [
-        "We are temporarily closed on Sundays due to Covid related staff shortages"
-      ]
-    }
-  },
-  {
-    "lat": -41.4058809,
-    "lng": 173.0425288,
-    "name": "Wakefield Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "4 Edward Street, Wakefield",
-    "telephone": "(03) 541 8418",
-    "faxNumber": "(03) 541 9100",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/wakefield-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "8:30 AM – 5:30 PM",
-        "Wed": "8:30 AM – 6:00 PM",
-        "Thu – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "10:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -41.3405817,
-    "lng": 173.1842105,
-    "name": "McGlashen Pharmacy Ltd",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "42 Oxford Street, Richmond",
-    "telephone": "(03) 544 4244",
-    "faxNumber": "(03) 544 4305",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/mcglashen-pharmacy-ltd/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Nelson Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 9:00 AM – 6:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 6:00 PM), Waitangi Day (6 Feb, 9:00 AM – 6:00 PM), Good Friday (7 Apr, 9:00 AM – 6:00 PM), Easter Sunday (9 Apr, 9:00 AM – 6:00 PM), Easter Monday (10 Apr, 9:00 AM – 6:00 PM), ANZAC Day (25 Apr, 9:00 AM – 6:00 PM), Queen's Birthday (5 Jun, 9:00 AM – 6:00 PM), Matariki (14 Jul, 9:00 AM – 6:00 PM)."
       },
       "notesHtml": []
     }
