@@ -7235,73 +7235,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "7 Eden Street   Milton  9220",
-    "distanceInMeters": 52630.72538479,
-    "extId": "a0R4a000000QZRDEA4",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-23",
-    "endDate": "2022-08-31",
-    "location": {
-      "lng": 169.95609,
-      "lat": -46.120735
-    },
-    "name": "Milton - Milton Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "13:00:00",
-        "localEnd": "15:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/GgcU1YeBu2odyN926",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 48790,
-        "externalId": "a0p4a000000E7ysAAC",
-        "name": "Assistance to move around",
-        "languageKey": "Assistance to move around",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 48792,
-        "externalId": "a0p4a000000E7yuAAC",
-        "name": "Support to make decisions",
-        "languageKey": "Support to make decisions",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-06-18",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T00:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "29 Main Road   Owaka  9535",
     "distanceInMeters": 68040.54589801,
     "extId": "a0R4a000000QZSaEAO",
@@ -9011,49 +8944,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "190 Riverbend Road Meeanee  Napier  4110",
-    "distanceInMeters": 14037.37028231,
-    "extId": "a0R4a000000S1tLEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-03",
-    "endDate": "2022-12-23",
-    "location": {
-      "lng": 176.90112,
-      "lat": -39.52053
-    },
-    "name": "Maraenui Kings House Church",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "mapUrl": "https://goo.gl/maps/5Bu5u1LdiwNSJ5Fy8",
-    "tags": [
-      {
-        "id": 1905901,
-        "externalId": "a0p4a000000IbbHAAS",
-        "name": "Large Group Booking",
-        "languageKey": "large.group.booking",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-08-22",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-12-01T21:15:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -11641,102 +11531,6 @@
     "exhaustedOnlySlots": false,
     "excludeFromSearch": false,
     "nextAvailableSlot": "2021-11-18T20:32:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "47 Scott Street Blenheim  Blenheim Marlborough District 7201",
-    "distanceInMeters": 73011.92611515,
-    "extId": "a0R4a000000SKp7EAG",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-08-10",
-    "endDate": "2022-08-30",
-    "location": {
-      "lng": 173.95718,
-      "lat": -41.515816
-    },
-    "name": "Wairau Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "description": "Walk ins available 9:30 am till 5pm weekdays with no booking required.",
-    "mapUrl": "https://www.google.com/maps/place/Wairau+Pharmacy%2FBeauty+Therapy/@-41.515842,173.954967,17z/data=!3m1!4b1!4m5!3m4!1s0x6d391499133efea1:0x8d3dea10475960bc!8m2!3d-41.515849!4d173.957025",
-    "tags": [
-      {
-        "id": 85186,
-        "externalId": "a0p4a000000EOb4AAG",
-        "name": "Walk-ins available",
-        "languageKey": "Walk-ins available",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 1905901,
-        "externalId": "a0p4a000000IbbHAAS",
-        "name": "Large Group Booking",
-        "languageKey": "large.group.booking",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 1032351,
-        "externalId": "a0p4a000000HQwMAAW",
-        "name": "Pfizer (12+) Pfizer (ages 5-11)",
-        "languageKey": "Pfizer(12+)Tag",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-07-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-23T20:33:00.000Z",
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
@@ -23113,7 +22907,7 @@
   },
   {
     "displayAddress": "10/792 Great South Road, Wiri,  Auckland  2104",
-    "distanceInMeters": 22358.36581421,
+    "distanceInMeters": 19750.95841843,
     "extId": "a0R4a000000Ta0wEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-08-27",
@@ -50437,74 +50231,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "3A/160 Hobsonville Point Road Hobsonville  Auckland  0616",
-    "distanceInMeters": 11190.13847807,
-    "extId": "a0R4a000000ZbMUEA0",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-24",
-    "endDate": "2022-12-23",
-    "location": {
-      "lng": 174.66084,
-      "lat": -36.792828
-    },
-    "name": "Hobsonville Point Medical Centre",
-    "timezone": "Pacific/Auckland",
-    "openHours": [],
-    "description": "Language interpreter service available by appointment | Low sensory environment - available on request",
-    "mapUrl": "https://goo.gl/maps/c3moTD3E56ATyZYH7",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-11-16",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-18T20:00:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "105 Rora Street   Te Kuiti  3910",
     "distanceInMeters": 64336.2301006,
     "extId": "a0R4a000000ZjTxEAK",
@@ -51361,65 +51087,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-11-26",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "146 Stokes Valley Road Stokes Valley  Lower Hutt  5019",
-    "distanceInMeters": 21545.23358089,
-    "extId": "a0R4a000000aHLVEA2",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-26",
-    "endDate": "2022-09-01",
-    "location": {
-      "lng": 174.9812,
-      "lat": -41.1705
-    },
-    "name": "Koraunui Marae Stokes Valley",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "14:00:00",
-        "localEnd": "16:30:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/rSwXXnDGP8iAGzbk6",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 1905901,
-        "externalId": "a0p4a000000IbbHAAS",
-        "name": "Large Group Booking",
-        "languageKey": "large.group.booking",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-02-07",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
