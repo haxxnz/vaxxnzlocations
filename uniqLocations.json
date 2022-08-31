@@ -24456,90 +24456,6 @@
     "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
   },
   {
-    "displayAddress": "2 Fred Thomas Drive Takapuna  Auckland  622",
-    "distanceInMeters": 32024.03238326,
-    "extId": "a0R4a000000TesGEAS",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-10-04",
-    "endDate": "2022-08-31",
-    "location": {
-      "lng": 174.76372,
-      "lat": -36.79119
-    },
-    "name": "The Doctors Fred Thomas Health",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "11:00:00",
-        "localEnd": "14:00:00"
-      }
-    ],
-    "description": "Language interpreter service available by appointment | Low sensory environment - available on request",
-    "mapUrl": "https://www.google.co.nz/maps/place/2+Fred+Thomas+Drive,+Takapuna,+Auckland+0622,+New+Zealand/@-36.7912136,174.7614523,17z/data=!3m1!4b1!4m5!3m4!1s0x6d0d39d21b1a4fad:0x94cb3df75566d4f!8m2!3d-36.7912136!4d174.763641",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 48788,
-        "externalId": "a0p4a000000E7yqAAC",
-        "name": "Quiet or low sensory environment",
-        "languageKey": "Quiet or low sensory environment",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-09-27",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": "2021-11-22T20:30:00.000Z",
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
     "displayAddress": "215 Massey Road Mangere East  Auckland  2024",
     "distanceInMeters": 13103.36827041,
     "extId": "a0R4a000000Tf8JEAS",
@@ -26505,7 +26421,7 @@
   },
   {
     "displayAddress": "Shop 228, Level 2, Glenfield Mall, Downing Street, Glenfield, Auckland 0629",
-    "distanceInMeters": 25789.77158013,
+    "distanceInMeters": 34702.64234441,
     "extId": "a0R4a000000Tr8iEAC",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-09-06",
@@ -48686,7 +48602,7 @@
   },
   {
     "displayAddress": "407 Glenfield Road Glenfield  Auckland  0629",
-    "distanceInMeters": 25833.26261391,
+    "distanceInMeters": 34836.81029603,
     "extId": "a0R4a000000YaOfEAK",
     "regionExternalId": "a0X4a000000IylMEAS",
     "startDate": "2021-11-17",
@@ -50709,93 +50625,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2021-11-23",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "93 Hakiaha Street   Taumarunui  3920",
-    "distanceInMeters": 8.30838196,
-    "extId": "a0R4a000000a2eAEAQ",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2021-11-26",
-    "endDate": "2022-08-31",
-    "location": {
-      "lng": 175.26363,
-      "lat": -38.883198
-    },
-    "name": "Unichem Taumarunui Pharmacy",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "fri"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "wed"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "tue"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      },
-      {
-        "days": [
-          "mon"
-        ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/LK9bV7JAQLGuy9MbA",
-    "tags": [
-      {
-        "id": 1,
-        "externalId": "a0p4a000000CInuAAG",
-        "name": "Group Booking",
-        "languageKey": "GroupBookingTag",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 1905901,
-        "externalId": "a0p4a000000IbbHAAS",
-        "name": "Large Group Booking",
-        "languageKey": "large.group.booking",
-        "isSystemTag": true,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2021-11-24",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
