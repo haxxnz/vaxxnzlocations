@@ -1,5 +1,36 @@
 [
   {
+    "lat": -41.2840609,
+    "lng": 174.7368178,
+    "name": "Karori Medical Centre",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "Karori Medical Centre, 11 Parkvale Road, Karori, Wellington",
+    "telephone": "(04) 920 4562",
+    "faxNumber": "(04) 939 8772",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/karori-medical-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "1:00 PM – 2:00 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
+        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -37.7256849,
     "lng": 176.19264109999995,
     "name": "Welcome Bay Pharmacy",
@@ -57,6 +88,101 @@
       "exceptions": {
         "Public Holidays": "Closed South Canterbury Anniversary (26 Sep), Labour Day (24 Oct), Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -40.3573359,
+    "lng": 175.5769814,
+    "name": "Bill Brown Park",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required"
+    ],
+    "address": "Havelock Avenue, Westbrook, Palmerston North, Manawatu-Wanganui 4412",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-pop-up-pasifika-vaccination/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": [
+        "This clinic is open every second Friday."
+      ]
+    }
+  },
+  {
+    "lat": -36.9298183808592,
+    "lng": 174.84264850616455,
+    "name": "Etu Pasifika Auckland Ltd (Formerly Mt Wellington Integrated Healthcare)",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "1/627 Mount Wellington Highway, Mount Wellington, Auckland",
+    "telephone": "(09) 276 8640",
+    "faxNumber": "(09) 276 9849",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/etu-pasifika-auckland-ltd-formerly-mt-wellington/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ōtāhuhu."
+      },
+      "notesHtml": [
+        "<strong style=\"font-weight: bold; box-sizing: border-box;\">For emergencies, please call Healthline free on <a style=\"color: #005d85; text-decoration: underline; box-sizing: border-box;\" href=\"tel:0800611116\">0800 611 116</a></strong> &nbsp;or go to White Cross Ōtāhuhu or Middlemore Hospital.&nbsp;",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -38.664669,
+    "lng": 178.0218152,
+    "name": "145 Derby Street",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Drive through"
+    ],
+    "address": "145 Derby Street, Gisborne 4010",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.87587749999999,
+    "lng": 174.82816460000004,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/meadowbank-shopping-centre-35-47-saint-johns/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -7486,35 +7612,6 @@
     }
   },
   {
-    "lat": -41.1216639,
-    "lng": 175.073129,
-    "name": "Unichem Upper Hutt Health Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 7:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required"
-    ],
-    "address": "6 Sinclair Street, Ebdentown, Upper Hutt",
-    "telephone": "(04) 528 7440",
-    "faxNumber": "(04) 528 7990",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-upper-hutt-health-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 7:00 PM",
-        "Sat – Sun": "10:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (7 Apr), Easter Sunday (9 Apr), Matariki (14 Jul). Open Labour Day (24 Oct, 10:00 AM – 4:00 PM), Wellington Anniversary (23 Jan, 10:00 AM – 4:00 PM), Waitangi Day (6 Feb, 10:00 AM – 4:00 PM), Easter Monday (10 Apr, 10:00 AM – 4:00 PM), ANZAC Day (25 Apr, 1:00 PM – 4:00 PM), Queen's Birthday (5 Jun, 10:00 AM – 4:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -44.73334910000001,
     "lng": 171.04696669999998,
     "name": "Waimate Medical Centre",
@@ -10159,37 +10256,6 @@
     }
   },
   {
-    "lat": -36.9298183808592,
-    "lng": 174.84264850616455,
-    "name": "Etu Pasifika Auckland Ltd (Formerly Mt Wellington Integrated Healthcare)",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "1/627 Mount Wellington Highway, Mount Wellington, Auckland",
-    "telephone": "(09) 276 8640",
-    "faxNumber": "(09) 276 9849",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/etu-pasifika-auckland-ltd-formerly-mt-wellington/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ōtāhuhu."
-      },
-      "notesHtml": [
-        "<strong style=\"font-weight: bold; box-sizing: border-box;\">For emergencies, please call Healthline free on <a style=\"color: #005d85; text-decoration: underline; box-sizing: border-box;\" href=\"tel:0800611116\">0800 611 116</a></strong> &nbsp;or go to the nearest hospital.",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -37.6988311,
     "lng": 176.2831526,
     "name": "My Pharmacy Pāpāmoa Plaza",
@@ -12464,23 +12530,6 @@
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Easter Sunday (9 Apr)."
       },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.87587749999999,
-    "lng": 174.82816460000004,
-    "name": "",
-    "branch": "pharmacy",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/meadowbank-shopping-centre-35-47-saint-johns/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
       "notesHtml": []
     }
   },
@@ -14848,29 +14897,6 @@
     }
   },
   {
-    "lat": -38.664669,
-    "lng": 178.0218152,
-    "name": "145 Derby Street",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Drive through"
-    ],
-    "address": "145 Derby Street, Gisborne 4010",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/turanga-health-covid-19-vaccination-centres/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.852067,
     "lng": 174.76998600000002,
     "name": "Unichem Campus Pharmacy",
@@ -15850,42 +15876,6 @@
       "notesHtml": [
         "Walk ins are welcome for Pfizer. <strong>We encourage you to book</strong> to avoid queuing.&nbsp;",
         "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -43.556888,
-    "lng": 172.61871070000007,
-    "name": "Barrington Shopping Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "256 Barrington Street, Spreydon, Christchurch, Canterbury 8024",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/barrington-vaccination-hub/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 5:30 PM",
-        "Thu": "9:00 AM – 6:00 PM",
-        "Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "<strong>Closed between 1:30pm - 2:30pm for lunch</strong>",
-        "<strong>Closed on Monday 26th September 2022 (One-off public holiday)</strong>",
-        "<strong>Closed on Saturday 22nd October 2022 &amp; Saturday 12th November 2022</strong>"
       ]
     }
   },
@@ -19344,7 +19334,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"6e0b030f07022e09011c0b030b0a070d0f02400d01400014\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"60050d01090c20070f12050d05040903010c4e030f4e0e1a\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -20847,37 +20837,6 @@
     }
   },
   {
-    "lat": -39.6305549,
-    "lng": 176.8318274,
-    "name": "Unichem Stortford Lodge Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "1107 Heretaunga Street West, Hastings",
-    "telephone": "(06) 878 9812",
-    "faxNumber": "(06) 876 4110",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-stortford-lodge-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "9:00 AM – 5:30 PM",
-        "Wed": "9:00 AM – 6:30 PM",
-        "Thu – Fri": "9:00 AM – 5:30 PM",
-        "Sat": "9:00 AM – 7:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Easter Sunday (9 Apr). Open Hawke's Bay Anniversary (21 Oct, 10:00 AM – 4:00 PM), Labour Day (24 Oct, 10:00 AM – 4:00 PM), Waitangi Day (6 Feb, 10:00 AM – 4:00 PM), Good Friday (7 Apr, 10:00 AM – 4:00 PM), Easter Monday (10 Apr, 10:00 AM – 4:00 PM), ANZAC Day (25 Apr, 10:00 AM – 4:00 PM), Queen's Birthday (5 Jun, 10:00 AM – 4:00 PM), Matariki (14 Jul, 10:00 AM – 4:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -36.63142500000001,
     "lng": 174.76342499999998,
     "name": "Unichem Manly Pharmacy",
@@ -22026,30 +21985,6 @@
       "schedule": {},
       "exceptions": {},
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -40.3573359,
-    "lng": 175.5769814,
-    "name": "Bill Brown Park",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required"
-    ],
-    "address": "Havelock Avenue, Westbrook, Palmerston North, Manawatu-Wanganui 4412",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/palmerston-north-pop-up-pasifika-vaccination/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": [
-        "This clinic is open every second Friday."
-      ]
     }
   },
   {
@@ -25006,34 +24941,39 @@
     }
   },
   {
-    "lat": -41.2840609,
-    "lng": 174.7368178,
-    "name": "Karori Medical Centre",
-    "branch": "primary",
+    "lat": -43.556888,
+    "lng": 172.61871070000007,
+    "name": "Barrington Shopping Centre",
+    "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:00 PM.",
+    "openTodayHours": "9:00 AM to 5:30 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
       "Novavax vaccine (18+ years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment",
+      "Anyone currently eligible can access",
+      "No appointment required",
       "Walk in"
     ],
-    "address": "Karori Medical Centre, 11 Parkvale Road, Karori, Wellington",
-    "telephone": "(04) 920 4562",
-    "faxNumber": "(04) 939 8772",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/karori-medical-centre/",
+    "address": "256 Barrington Street, Spreydon, Christchurch, Canterbury 8024",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/barrington-vaccination-hub/",
     "opennningHours": {
       "schedule": {
-        "Mon – Fri": "1:00 PM – 2:00 PM",
-        "Sat": "9:00 AM – 12:00 PM"
+        "Mon – Wed": "9:00 AM – 5:30 PM",
+        "Thu": "9:00 AM – 6:00 PM",
+        "Fri": "9:00 AM – 5:30 PM",
+        "Sat": "9:00 AM – 4:30 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
-        "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
+        "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
-      "notesHtml": []
+      "notesHtml": [
+        "<strong>Closed between 1:30pm - 2:30pm for lunch</strong>",
+        "<strong>Closed on Monday 26th September 2022 (One-off public holiday)</strong>",
+        "<strong>Closed on Saturday 22nd October 2022 &amp; Saturday 12th November 2022</strong>"
+      ]
     }
   }
 ]
