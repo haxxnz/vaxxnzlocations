@@ -1669,36 +1669,6 @@
     }
   },
   {
-    "lat": -36.9298183808592,
-    "lng": 174.84264850616455,
-    "name": "Etu Pasifika Auckland Ltd (Formerly Mt Wellington Integrated Healthcare)",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "1/627 Mount Wellington Highway, Mount Wellington, Auckland",
-    "telephone": "(09) 276 8640",
-    "faxNumber": "(09) 276 9849",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/etu-pasifika-auckland-ltd-formerly-mt-wellington/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "<strong>After hours&nbsp;</strong>advice is available on our practice phone number: (09) 276 8640. Your call will be answered by a Registered Nurse. For emergencies, please ring 111."
-      ]
-    }
-  },
-  {
     "lat": -35.1191857,
     "lng": 173.260926,
     "name": "The Whare @ Kaitaia Hospital Vaccination Clinic",
@@ -9205,7 +9175,7 @@
     "name": "Waiwhetu Sports and Fitness Centre",
     "branch": "community",
     "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 1:00 PM.",
+    "openTodayHours": "1:00 PM to 4:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
@@ -9220,12 +9190,12 @@
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tamaiti-whangai-covid-19-vaccination-centre/at/waiwhetu-sports-and-fitness-centre-170a-whites/",
     "opennningHours": {
       "schedule": {
-        "Wed": "10:00 AM – 1:00 PM",
+        "Wed": "1:00 PM – 4:00 PM",
         "Thu": "2:00 PM – 5:00 PM",
-        "Fri": "10:00 AM – 1:00 PM"
+        "Fri": "1:00 PM – 4:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
       "notesHtml": []
     }
@@ -9251,7 +9221,7 @@
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tamaiti-whangai-covid-19-vaccination-centre/at/koraunui-marae-146-stokes-valley-road-lower/",
     "opennningHours": {
       "schedule": {
-        "Tue": "2:00 PM – 5:00 PM"
+        "Tue": "2:00 PM – 4:30 PM"
       },
       "exceptions": {},
       "notesHtml": []
@@ -19731,7 +19701,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a1c4ccc0c8cde1c6ced3c4ccc4c5c8c2c0cd8fc2ce8fcfdb\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"2c49414d45406c4b435e49414948454f4d40024f43024256\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -24928,6 +24898,36 @@
         "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9298183808592,
+    "lng": 174.84264850616455,
+    "name": "Etu Pasifika Auckland Ltd (Formerly Mt Wellington Integrated Healthcare)",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "1/627 Mount Wellington Highway, Mount Wellington, Auckland",
+    "telephone": "(09) 276 8640",
+    "faxNumber": "(09) 276 9849",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/etu-pasifika-auckland-ltd-formerly-mt-wellington/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>After hours&nbsp;</strong>advice is available on our practice phone number: (09) 276 8640. Your call will be answered by a Registered Nurse. For emergencies, please ring 111."
+      ]
     }
   }
 ]
