@@ -1,29 +1,513 @@
 [
   {
-    "lat": -43.53683789999999,
-    "lng": 172.6026916,
-    "name": "Bargain Chemist Tower Junction",
+    "lat": -36.9594182,
+    "lng": 174.8706227,
+    "name": "Ōtara Vaccination Centre, 5 Ōtara Road, Ōtara",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "5 Ōtara Road, Ōtara, Auckland 2023",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/otara-vaccination-centre-5-otara-road-otara/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.864551179552514,
+    "lng": 174.63020145893097,
+    "name": "Unichem Medi-Centre Pharmacy",
     "branch": "pharmacy",
     "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "openTodayHours": "8:30 AM to 10:00 PM.",
     "instructionLis": [
       "Pfizer vaccine (12+ years)",
       "Child Pfizer vaccine (5-11 years)",
       "Anyone currently eligible can access",
-      "Make an appointment"
+      "No appointment required",
+      "Walk in"
     ],
-    "address": "Tower Junction Shopping Complex, Addington, Christchurch",
-    "telephone": "(03) 595 2841",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-tower-junction/",
+    "address": "131 Lincoln Road, Henderson, Auckland",
+    "telephone": "(09) 838 8404",
+    "faxNumber": "(09) 838 8606",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-medi-centre-pharmacy/",
     "opennningHours": {
       "schedule": {
-        "Mon – Sun": "8:00 AM – 8:00 PM"
+        "Mon – Fri": "8:30 AM – 10:00 PM",
+        "Sat – Sun": "9:00 AM – 10:00 PM"
       },
       "exceptions": {
-        "Public Holidays": "Open on all public holidays.."
+        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 9:00 AM – 10:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 10:00 PM), Waitangi Day (6 Feb, 9:00 AM – 10:00 PM), Good Friday (7 Apr, 9:00 AM – 10:00 PM), Easter Sunday (9 Apr, 9:00 AM – 10:00 PM), Easter Monday (10 Apr, 9:00 AM – 10:00 PM), ANZAC Day (25 Apr, 9:00 AM – 10:00 PM), Queen's Birthday (5 Jun, 9:00 AM – 10:00 PM), Matariki (14 Jul, 9:00 AM – 10:00 PM)."
       },
       "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.5119294,
+    "lng": 172.580221,
+    "name": "Unichem Ilam Healthworks Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "110 Memorial Avenue, Burnside, Christchurch",
+    "telephone": "(03) 351 8633",
+    "faxNumber": "(03) 351 8613",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ilam-healthworks-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -45.2577457,
+    "lng": 169.39176150000003,
+    "name": "Alexandra Family Medical",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "18 Limerick Street, Alexandra",
+    "telephone": "(03) 901 6277",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/alexandra-family-medical/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 4:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Waitangi Day (6 Feb), Otago Anniversary (20 Mar), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Labour Day (24 Oct), Good Friday (7 Apr, 9:00 AM – 5:00 PM), Easter Sunday (9 Apr, 9:00 AM – 5:00 PM), Easter Monday (10 Apr, 9:00 AM – 5:00 PM)."
+      },
+      "notesHtml": [
+        "Appointments between 9.00am to 4.45pm, with GP or Practice Nurse",
+        "We share after hours cover with other Alexandra medical practices for patients needing attention outisde business hours, in the weekend and during public holidays. Alexandra Family Medical is also a participant in the Central Otago After Hours service that provides cover for the whole Central Otago region.",
+        "Our on call hours are <strong>9:00 AM to 11:00 AM and 15:00pm to 17:00pm</strong>"
+      ]
+    }
+  },
+  {
+    "lat": -43.5564314,
+    "lng": 172.70037100000002,
+    "name": "Countdown Pharmacy Ferrymead",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "999 Ferry Road, Ferrymead, Christchurch",
+    "telephone": "(03) 384 1279",
+    "faxNumber": "(03) 384 3306",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-ferrymead/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "9:00 AM – 8:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Good Friday (7 Apr), Easter Sunday (9 Apr). Open Labour Day (24 Oct, 9:00 AM – 8:00 PM), Waitangi Day (6 Feb, 9:00 AM – 8:00 PM), Easter Monday (10 Apr, 9:00 AM – 8:00 PM), ANZAC Day (25 Apr, 1:00 PM – 8:00 PM), Queen's Birthday (5 Jun, 9:00 AM – 8:00 PM), Matariki (14 Jul, 9:00 AM – 8:00 PM)."
+      },
+      "notesHtml": [
+        "Public Holidays:&nbsp; Open on selected public holidays. Hours may vary."
+      ]
+    }
+  },
+  {
+    "lat": -37.7256849,
+    "lng": 176.19264109999995,
+    "name": "Welcome Bay Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "252 Welcome Bay Road, Welcome Bay, Tauranga",
+    "telephone": "(07) 544 2418",
+    "faxNumber": "(07) 544 2419",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/welcome-bay-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 12:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "VACCINATIONS ARE AVAILABLE Monday to Friday 9am - 4.45pm.&nbsp;",
+        "Bookings are helpful but we welcome walk ins."
+      ]
+    }
+  },
+  {
+    "lat": -35.1191857,
+    "lng": 173.260926,
+    "name": "The Whare @ Kaitaia Hospital Vaccination Clinic",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "29 Redan Road, Kaitaia, Northland 0410",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/the-whare-kaitaia-hospital-vaccination-clinic/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "10:00 AM – 5:00 PM",
+        "Sat": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "Novavax by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
+        "Subject to change.&nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -35.2345938,
+    "lng": 173.9524167,
+    "name": "Kerikeri Vaccination Clinic",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "1 Sammaree Place, Kerikeri, Northland 0230",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/kerikeri-vaccination-clinic-1-sammaree-place/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "10:00 AM – 5:00 PM",
+        "Tue": "10:00 AM – 4:00 PM",
+        "Thu": "10:00 AM – 5:00 PM",
+        "Fri": "10:00 AM – 4:00 PM",
+        "Sat": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Northland Anniversary (30 Jan, 10:00 AM – 3:00 PM), Waitangi Day (6 Feb, 10:00 AM – 3:00 PM)."
+      },
+      "notesHtml": [
+        "Hours are subject to change.",
+        "Please note as of the week of 26 September the Immunisation and Testing centre in Kerikeri will be open:&nbsp;",
+        "Novavax by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -35.9427501,
+    "lng": 173.8667727,
+    "name": "Dargaville Vaccination Clinic",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "22A Normanby Street, Dargaville, Northland 0310",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/dargaville-vaccination-clinic-22a-normanby/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "10:00 AM – 5:00 PM",
+        "Tue – Wed": "10:00 AM – 3:00 PM",
+        "Sat": "9:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Northland Anniversary (30 Jan, 10:00 AM – 3:00 PM), Waitangi Day (6 Feb, 10:00 AM – 3:00 PM)."
+      },
+      "notesHtml": [
+        "Next to the Dargaville Yugoslav Hall - on the opposite side of the road between Caltex and the Farm Machinery Centre (look for the flags out on the road).&nbsp;",
+        "Novavax vaccinations by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>"
+      ]
+    }
+  },
+  {
+    "lat": -35.7345945,
+    "lng": 174.3293066,
+    "name": "Semenoff Stadium",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "11:00 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "51 Okara Drive, Whangārei, Northland 0110",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/semenoff-stadium-northland-events-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon": "10:00 AM – 5:00 PM",
+        "Tue": "8:00 AM – 2:00 PM",
+        "Wed": "10:00 AM – 5:00 PM",
+        "Thu": "11:00 AM – 6:00 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Northland Anniversary (30 Jan, 10:00 AM – 3:00 PM), Waitangi Day (6 Feb, 10:00 AM – 3:00 PM), Good Friday (7 Apr, 9:00 AM – 3:00 PM)."
+      },
+      "notesHtml": [
+        "<strong>NO BOOKING REQUIRED</strong>",
+        "Novavax vaccinations by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
+        "Subject to change.&nbsp;&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -39.06019810000001,
+    "lng": 174.0699326,
+    "name": "New Plymouth Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "12:00 PM to 7:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "109 Powderham Street, (ground floor of the Baker Tilly Staples Rodway building), New Plymouth, Taranaki 4310",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/new-plymouth-vaccination-centre-109-powderham/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 4:30 PM",
+        "Thu": "12:00 PM – 7:30 PM",
+        "Fri – Sat": "9:00 AM – 4:30 PM",
+        "Sun": "12:00 PM – 7:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Good Friday (7 Apr), Easter Sunday (9 Apr). Open Labour Day (24 Oct, 9:00 AM – 4:30 PM), Waitangi Day (6 Feb, 9:00 AM – 4:30 PM), Taranaki Anniversary (13 Mar, 9:00 AM – 4:30 PM), Easter Monday (10 Apr, 9:00 AM – 4:30 PM), ANZAC Day (25 Apr, 12:00 PM – 4:30 PM), Queen's Birthday (5 Jun, 9:00 AM – 4:30 PM), Matariki (14 Jul, 9:00 AM – 4:30 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.5840857,
+    "lng": 174.2743421,
+    "name": "Hāwera Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:30 AM to 4:15 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "Camberwell Road, Hāwera, Taranaki 4610",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/hawera-vaccination-centre-tsb-hub-camberwell/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "10:30 AM – 4:15 PM",
+        "Sat – Sun": "9:30 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Waitangi Day (6 Feb), Taranaki Anniversary (13 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr). Open Labour Day (24 Oct, 10:30 AM – 4:15 PM), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -38.1373033,
+    "lng": 176.2402622,
+    "name": "Te Hau O Rehua",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 4:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "1530 Amohau Street, Rotorua, Bay of Plenty 3010",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/lakes-vaccination-centres/at/te-hau-o-rehua-lakes-dhb-covid-centre-1138/",
+    "opennningHours": {
+      "schedule": {
+        "Wed – Sat": "8:30 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -38.681953301979526,
+    "lng": 176.0882046350427,
+    "name": "Taupō Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 4:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "6/29 Tōtara Street, Taupō, Waikato 3330",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/lakes-vaccination-centres/at/taupo-vaccination-centre-6-29-totara-street/",
+    "opennningHours": {
+      "schedule": {
+        "Wed – Sat": "8:30 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "<strong>Travel Directions:</strong>",
+        "The Taupō COVID-19 Immunisation Hub is located approximately 1.8km from the Taupō CBD, travelling along Spa Road.&nbsp; The building is directly across the road from the Hospice Shop Taupō.",
+        "<strong>Parking:</strong>",
+        "Parking is available at the front door entrance of the Taupō COVID-19 Immunisation Hub, although limited. The majority of car parking is available at the rear of the building."
+      ]
+    }
+  },
+  {
+    "lat": -38.98795469999999,
+    "lng": 175.807231,
+    "name": "28 Te Rangitautahanga Road",
+    "branch": "community",
+    "openTodayHours": "",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Tūrangi COVID-19 Vaccination Centre, 28 Te Rangitautahanga Road, Tūrangi, Waikato 3334",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/lakes-vaccination-centres/at/28-te-rangitautahanga-road-turangi/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -37.6957574,
+    "lng": 176.11016159999997,
+    "name": "Bethlehem Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "229D State Highway 2, Bethlehem, Tauranga",
+    "telephone": "(07) 576 9770",
+    "faxNumber": "(07) 576 5840",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/bethlehem-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 1:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -36.9298183808592,
+    "lng": 174.84264850616455,
+    "name": "Etu Pasifika Auckland Ltd (Formerly Mt Wellington Integrated Healthcare)",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Eligible GP enrolled patients only",
+      "Make an appointment"
+    ],
+    "address": "1/627 Mount Wellington Highway, Mount Wellington, Auckland",
+    "telephone": "(09) 276 8640",
+    "faxNumber": "(09) 276 9849",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/etu-pasifika-auckland-ltd-formerly-mt-wellington/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
+        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
+      },
+      "notesHtml": [
+        "<strong>After hours&nbsp;</strong>advice is available on our practice phone number: (09) 276 8640. Your call will be answered by a Registered Nurse. For emergencies, please ring 111."
+      ]
     }
   },
   {
@@ -53,35 +537,6 @@
       "exceptions": {
         "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
         "Preferred urgent care clinic out of hours": "Wellington Accident and Urgent Medical Centre."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -45.87751669999999,
-    "lng": 170.50015859999996,
-    "name": "Anderson's Exchange Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "8 Broadway, Dunedin Central, Dunedin",
-    "telephone": "(03) 477 8247",
-    "faxNumber": "(03) 477 4262",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/andersons-exchange-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed South Canterbury Anniversary (26 Sep), Labour Day (24 Oct), Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
       "notesHtml": []
     }
@@ -134,6 +589,35 @@
     }
   },
   {
+    "lat": -45.87751669999999,
+    "lng": 170.50015859999996,
+    "name": "Anderson's Exchange Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "8 Broadway, Dunedin Central, Dunedin",
+    "telephone": "(03) 477 8247",
+    "faxNumber": "(03) 477 4262",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/andersons-exchange-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 6:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed South Canterbury Anniversary (26 Sep), Labour Day (24 Oct), Waitangi Day (6 Feb), Otago Anniversary (20 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -43.556888,
     "lng": 172.61871070000007,
     "name": "Barrington Shopping Centre",
@@ -167,6 +651,161 @@
         "<strong>Closed on Monday 26th September 2022 (One-off public holiday)</strong>",
         "<strong>Closed on Saturday 22nd October 2022 &amp; Saturday 12th November 2022</strong>"
       ]
+    }
+  },
+  {
+    "lat": -38.68932580000001,
+    "lng": 176.07655309999996,
+    "name": "Taupō Medical Centre Ltd",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "117 Heuheu Street, Taupō",
+    "telephone": "(07) 378 4080",
+    "faxNumber": "(07) 378 4493",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/taupo-medical-centre-ltd/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open ANZAC Day (25 Apr, 8:30 AM – 5:00 PM)."
+      },
+      "notesHtml": [
+        "<strong>After Hours:</strong> phone your practice (07 3784080) and follow instructions. Call will be diverted to whichever surgery is on duty or transferred to an after hours service who can contact a GP on call",
+        "<strong>**Saturday Clinic</strong>&nbsp;(only on scheduled dates) - NOT a Walk in Clinic - Patients need to call practice to make an appointment&nbsp;&nbsp;",
+        "&nbsp;",
+        "<strong>After hours Option: </strong>We partner with <a href=\"https://practiceplus.nz/\">Practice Plus</a> to provide same day virtual after-hours GP appointments for enrolled patients, as an extension of our regular medical centre team.",
+        "Practice Plus is available weekdays 5pm-10pm and weekends/public holidays 8am-8pm.",
+        "<a href=\"https://practiceplus.nz/\">Click here</a> to find out more and to register/book an appointment.",
+        "&nbsp;"
+      ]
+    }
+  },
+  {
+    "lat": -37.7808801,
+    "lng": 175.2362428,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/new-nawton-shopping-centre-hyde-avenue-nawton/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.6670982,
+    "lng": 176.87982169999998,
+    "name": "Te Mata Peak Practice",
+    "branch": "primary",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 5:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Walk in"
+    ],
+    "address": "33-35 Napier Road, Havelock North",
+    "telephone": "(06) 873 0752",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-mata-peak-practice/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "10:00 AM – 2:00 PM",
+        "Sat": "9:00 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "<strong>Please note&nbsp;we&nbsp;are NOT&nbsp;an Accident &amp; Urgent Medical Centre.</strong>",
+        "<strong>After Hours:</strong><br>Your call will be transferred to an after hours service who has contact with a provider on call",
+        "<strong>Christmas Day:<br></strong>Your call will be transferred to an after hours service who has contact with a provider on call."
+      ]
+    }
+  },
+  {
+    "lat": -36.87587749999999,
+    "lng": 174.82816460000004,
+    "name": "",
+    "branch": "pharmacy",
+    "openTodayHours": "",
+    "instructionLis": [],
+    "address": "Healthcare ServicesRegionWas this page helpful?",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/meadowbank-shopping-centre-35-47-saint-johns/",
+    "opennningHours": {
+      "schedule": {},
+      "exceptions": {},
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -43.53683789999999,
+    "lng": 172.6026916,
+    "name": "Bargain Chemist Tower Junction",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 8:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment"
+    ],
+    "address": "Tower Junction Shopping Complex, Addington, Christchurch",
+    "telephone": "(03) 595 2841",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/bargain-chemist-tower-junction/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Sun": "8:00 AM – 8:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Open on all public holidays.."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -41.31600770000001,
+    "lng": 174.81504240000004,
+    "name": "Unichem Miramar Healthcare Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:00 AM to 6:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Anyone currently eligible can access"
+    ],
+    "address": "58 Miramar Avenue, Miramar, Wellington",
+    "telephone": "(04) 388 8516",
+    "faxNumber": "(04) 388 6587",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-miramar-healthcare-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:00 AM – 6:30 PM",
+        "Sat": "9:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
     }
   },
   {
@@ -3728,23 +4367,6 @@
     "telephone": "",
     "faxNumber": "",
     "url": "https://www.healthpoint.co.nz/community-health-services/community-health/poutini-waiora-covid-19-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -38.9879736,
-    "lng": 175.80724759999998,
-    "name": "",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/28-te-rangitautahanga-road-turangi/",
     "opennningHours": {
       "schedule": {},
       "exceptions": {},
@@ -12589,23 +13211,6 @@
     }
   },
   {
-    "lat": -36.87587749999999,
-    "lng": 174.82816460000004,
-    "name": "",
-    "branch": "primary",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Healthcare ServicesRegionWas this page helpful?",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/meadowbank-shopping-centre-35-47-saint-johns/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.4914223,
     "lng": 172.613138,
     "name": "Main North Road Medical Centre",
@@ -16488,42 +17093,6 @@
     }
   },
   {
-    "lat": -38.68932580000001,
-    "lng": 176.07655309999996,
-    "name": "Taupō Medical Centre Ltd",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "117 Heuheu Street, Taupō",
-    "telephone": "(07) 378 4080",
-    "faxNumber": "(07) 378 4493",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/taupo-medical-centre-ltd/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open ANZAC Day (25 Apr, 8:30 AM – 5:00 PM)."
-      },
-      "notesHtml": [
-        "<strong>After Hours:</strong> phone your practice (07 3784080) and follow instructions. Call will be diverted to whichever surgery is on duty or transferred to an after hours service who can contact a GP on call",
-        "<strong>**Saturday Clinic</strong>&nbsp;(only on scheduled dates) - NOT a Walk in Clinic - Patients need to call practice to make an appointment&nbsp;&nbsp;",
-        "&nbsp;",
-        "<strong>After hours Option: </strong>We partner with <a href=\"https://practiceplus.nz/\">Practice Plus</a> to provide same day virtual after-hours GP appointments for enrolled patients, as an extension of our regular medical centre team.",
-        "Practice Plus is available weekdays 5pm-10pm and weekends/public holidays 8am-8pm.",
-        "<a href=\"https://practiceplus.nz/\">Click here</a> to find out more and to register/book an appointment.",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
     "lat": -45.2556751,
     "lng": 169.39255939999998,
     "name": "Unichem Alexandra Pharmacy",
@@ -18132,23 +18701,6 @@
     }
   },
   {
-    "lat": -37.7808801,
-    "lng": 175.2362428,
-    "name": "New Nawton Shopping Centre, Hyde Avenue, Nawton, Hamilton",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "Cnr Grandview Road and Hyde Avenue, Nawton, Hamilton, Waikato 3200",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/new-nawton-shopping-centre-hyde-avenue-nawton/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -43.4751212,
     "lng": 172.6598818,
     "name": "Unichem Prestons Pharmacy",
@@ -18890,7 +19442,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"01646c60686d41666e73646c64656862606d2f626e2f6f7b\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"c0a5ada1a9ac80a7afb2a5ada5a4a9a3a1aceea3afeeaeba\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -22073,6 +22625,36 @@
     }
   },
   {
+    "lat": -37.7121883,
+    "lng": 176.1529231,
+    "name": "Rangiora - Tauranga Moana",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:30 AM to 6:00 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Shop T18, 219-261 Fraser Street, Tauranga South, Tauranga, Bay of Plenty 3112",
+    "telephone": "0800 28 29 26",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tauranga-community-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "10:30 AM – 6:00 PM",
+        "Sat – Sun": "9:30 AM – 5:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr). Open Labour Day (24 Oct), Waitangi Day (6 Feb), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
     "lat": -37.662825,
     "lng": 175.1542428,
     "name": "Tūrangawaewae Marae",
@@ -24310,605 +24892,6 @@
         "After Hours: <a href=\"https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/hutt-valley-after-hours-medical-centre/\">Lower Hutt After Hours Medical Centre</a>",
         "After 11:00 PM:&nbsp;<a href=\"https://www.healthpoint.co.nz/wellington-hospital-nga-puna-waiora/\">Hutt ED</a>"
       ]
-    }
-  },
-  {
-    "lat": -39.6670982,
-    "lng": 176.87982169999998,
-    "name": "Te Mata Peak Practice",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Walk in"
-    ],
-    "address": "33-35 Napier Road, Havelock North",
-    "telephone": "(06) 873 0752",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/te-mata-peak-practice/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "10:00 AM – 2:00 PM",
-        "Sat": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "<strong>Please note&nbsp;we&nbsp;are NOT&nbsp;an Accident &amp; Urgent Medical Centre.</strong>",
-        "<strong>After Hours:</strong><br>Your call will be transferred to an after hours service who has contact with a provider on call",
-        "<strong>Christmas Day:<br></strong>Your call will be transferred to an after hours service who has contact with a provider on call."
-      ]
-    }
-  },
-  {
-    "lat": -41.31600770000001,
-    "lng": 174.81504240000004,
-    "name": "Unichem Miramar Healthcare Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:00 AM to 6:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access"
-    ],
-    "address": "58 Miramar Avenue, Miramar, Wellington",
-    "telephone": "(04) 388 8516",
-    "faxNumber": "(04) 388 6587",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-miramar-healthcare-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:00 AM – 6:30 PM",
-        "Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -43.5119294,
-    "lng": 172.580221,
-    "name": "Unichem Ilam Healthworks Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "110 Memorial Avenue, Burnside, Christchurch",
-    "telephone": "(03) 351 8633",
-    "faxNumber": "(03) 351 8613",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-ilam-healthworks-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 6:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Canterbury Anniversary (11 Nov), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -45.2577457,
-    "lng": 169.39176150000003,
-    "name": "Alexandra Family Medical",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "18 Limerick Street, Alexandra",
-    "telephone": "(03) 901 6277",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/alexandra-family-medical/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 4:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Waitangi Day (6 Feb), Otago Anniversary (20 Mar), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Labour Day (24 Oct), Good Friday (7 Apr, 9:00 AM – 5:00 PM), Easter Sunday (9 Apr, 9:00 AM – 5:00 PM), Easter Monday (10 Apr, 9:00 AM – 5:00 PM)."
-      },
-      "notesHtml": [
-        "Appointments between 9.00am to 4.45pm, with GP or Practice Nurse",
-        "We share after hours cover with other Alexandra medical practices for patients needing attention outisde business hours, in the weekend and during public holidays. Alexandra Family Medical is also a participant in the Central Otago After Hours service that provides cover for the whole Central Otago region.",
-        "Our on call hours are <strong>9:00 AM to 11:00 AM and 15:00pm to 17:00pm</strong>"
-      ]
-    }
-  },
-  {
-    "lat": -43.5564314,
-    "lng": 172.70037100000002,
-    "name": "Countdown Pharmacy Ferrymead",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 8:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "999 Ferry Road, Ferrymead, Christchurch",
-    "telephone": "(03) 384 1279",
-    "faxNumber": "(03) 384 3306",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/countdown-pharmacy-ferrymead/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Sun": "9:00 AM – 8:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Good Friday (7 Apr), Easter Sunday (9 Apr). Open Labour Day (24 Oct, 9:00 AM – 8:00 PM), Waitangi Day (6 Feb, 9:00 AM – 8:00 PM), Easter Monday (10 Apr, 9:00 AM – 8:00 PM), ANZAC Day (25 Apr, 1:00 PM – 8:00 PM), Queen's Birthday (5 Jun, 9:00 AM – 8:00 PM), Matariki (14 Jul, 9:00 AM – 8:00 PM)."
-      },
-      "notesHtml": [
-        "Public Holidays:&nbsp; Open on selected public holidays. Hours may vary."
-      ]
-    }
-  },
-  {
-    "lat": -37.7121883,
-    "lng": 176.1529231,
-    "name": "Rangiora - Tauranga Moana",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:30 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Shop T18, 219-261 Fraser Street, Tauranga South, Tauranga, Bay of Plenty 3112",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/tauranga-community-vaccination-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "10:30 AM – 6:00 PM",
-        "Sat – Sun": "9:30 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr). Open Labour Day (24 Oct), Waitangi Day (6 Feb), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.864551179552514,
-    "lng": 174.63020145893097,
-    "name": "Unichem Medi-Centre Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 10:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "131 Lincoln Road, Henderson, Auckland",
-    "telephone": "(09) 838 8404",
-    "faxNumber": "(09) 838 8606",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/unichem-medi-centre-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 10:00 PM",
-        "Sat – Sun": "9:00 AM – 10:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Open on all public holidays. The following public holidays differ to standard opening hours:  Labour Day (24 Oct, 9:00 AM – 10:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 10:00 PM), Waitangi Day (6 Feb, 9:00 AM – 10:00 PM), Good Friday (7 Apr, 9:00 AM – 10:00 PM), Easter Sunday (9 Apr, 9:00 AM – 10:00 PM), Easter Monday (10 Apr, 9:00 AM – 10:00 PM), ANZAC Day (25 Apr, 9:00 AM – 10:00 PM), Queen's Birthday (5 Jun, 9:00 AM – 10:00 PM), Matariki (14 Jul, 9:00 AM – 10:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.7256849,
-    "lng": 176.19264109999995,
-    "name": "Welcome Bay Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "252 Welcome Bay Road, Welcome Bay, Tauranga",
-    "telephone": "(07) 544 2418",
-    "faxNumber": "(07) 544 2419",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/welcome-bay-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 12:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "VACCINATIONS ARE AVAILABLE Monday to Friday 9am - 4.45pm.&nbsp;",
-        "Bookings are helpful but we welcome walk ins."
-      ]
-    }
-  },
-  {
-    "lat": -35.1191857,
-    "lng": 173.260926,
-    "name": "The Whare @ Kaitaia Hospital Vaccination Clinic",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "29 Redan Road, Kaitaia, Northland 0410",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/the-whare-kaitaia-hospital-vaccination-clinic/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "10:00 AM – 5:00 PM",
-        "Sat": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "Novavax by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
-        "Subject to change.&nbsp;&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -35.2345938,
-    "lng": 173.9524167,
-    "name": "Kerikeri Vaccination Clinic",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "1 Sammaree Place, Kerikeri, Northland 0230",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/kerikeri-vaccination-clinic-1-sammaree-place/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "10:00 AM – 5:00 PM",
-        "Tue": "10:00 AM – 4:00 PM",
-        "Thu": "10:00 AM – 5:00 PM",
-        "Fri": "10:00 AM – 4:00 PM",
-        "Sat": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Northland Anniversary (30 Jan, 10:00 AM – 3:00 PM), Waitangi Day (6 Feb, 10:00 AM – 3:00 PM)."
-      },
-      "notesHtml": [
-        "Hours are subject to change.",
-        "Please note as of the week of 26 September the Immunisation and Testing centre in Kerikeri will be open:&nbsp;",
-        "Novavax by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
-        "&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -35.9427501,
-    "lng": 173.8667727,
-    "name": "Dargaville Vaccination Clinic",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "22A Normanby Street, Dargaville, Northland 0310",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/dargaville-vaccination-clinic-22a-normanby/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "10:00 AM – 5:00 PM",
-        "Tue – Wed": "10:00 AM – 3:00 PM",
-        "Sat": "9:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Northland Anniversary (30 Jan, 10:00 AM – 3:00 PM), Waitangi Day (6 Feb, 10:00 AM – 3:00 PM)."
-      },
-      "notesHtml": [
-        "Next to the Dargaville Yugoslav Hall - on the opposite side of the road between Caltex and the Farm Machinery Centre (look for the flags out on the road).&nbsp;",
-        "Novavax vaccinations by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>"
-      ]
-    }
-  },
-  {
-    "lat": -35.7345945,
-    "lng": 174.3293066,
-    "name": "Semenoff Stadium",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "11:00 AM to 6:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment"
-    ],
-    "address": "51 Okara Drive, Whangārei, Northland 0110",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/northland-vaccination-clinics/at/semenoff-stadium-northland-events-centre/",
-    "opennningHours": {
-      "schedule": {
-        "Mon": "10:00 AM – 5:00 PM",
-        "Tue": "8:00 AM – 2:00 PM",
-        "Wed": "10:00 AM – 5:00 PM",
-        "Thu": "11:00 AM – 6:00 PM",
-        "Sat": "9:00 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul). Open Northland Anniversary (30 Jan, 10:00 AM – 3:00 PM), Waitangi Day (6 Feb, 10:00 AM – 3:00 PM), Good Friday (7 Apr, 9:00 AM – 3:00 PM)."
-      },
-      "notesHtml": [
-        "<strong>NO BOOKING REQUIRED</strong>",
-        "Novavax vaccinations by BOOKING ONLY via <a href=\"https://bookmyvaccine.covid19.health.nz/\">BookMyVaccine</a>",
-        "Subject to change.&nbsp;&nbsp;"
-      ]
-    }
-  },
-  {
-    "lat": -36.9594182,
-    "lng": 174.8706227,
-    "name": "Ōtara Vaccination Centre, 5 Ōtara Road, Ōtara",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [],
-    "address": "5 Ōtara Road, Ōtara, Auckland 2023",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/otara-vaccination-centre-5-otara-road-otara/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -37.6957574,
-    "lng": 176.11016159999997,
-    "name": "Bethlehem Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "229D State Highway 2, Bethlehem, Tauranga",
-    "telephone": "(07) 576 9770",
-    "faxNumber": "(07) 576 5840",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/bethlehem-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -36.9298183808592,
-    "lng": 174.84264850616455,
-    "name": "Etu Pasifika Auckland Ltd (Formerly Mt Wellington Integrated Healthcare)",
-    "branch": "primary",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 5:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Eligible GP enrolled patients only",
-      "Make an appointment"
-    ],
-    "address": "1/627 Mount Wellington Highway, Mount Wellington, Auckland",
-    "telephone": "(09) 276 8640",
-    "faxNumber": "(09) 276 9849",
-    "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/primary-healthcare-accident-medical/etu-pasifika-auckland-ltd-formerly-mt-wellington/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "9:00 AM – 5:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Auckland Anniversary (30 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul).",
-        "Preferred urgent care clinic out of hours": "White Cross Accident & Urgent Medical - Ascot 24/7."
-      },
-      "notesHtml": [
-        "<strong>After hours&nbsp;</strong>advice is available on our practice phone number: (09) 276 8640. Your call will be answered by a Registered Nurse. For emergencies, please ring 111."
-      ]
-    }
-  },
-  {
-    "lat": -39.06019810000001,
-    "lng": 174.0699326,
-    "name": "New Plymouth Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "12:00 PM to 7:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "109 Powderham Street, (ground floor of the Baker Tilly Staples Rodway building), New Plymouth, Taranaki 4310",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/new-plymouth-vaccination-centre-109-powderham/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 4:30 PM",
-        "Thu": "12:00 PM – 7:30 PM",
-        "Fri – Sat": "9:00 AM – 4:30 PM",
-        "Sun": "12:00 PM – 7:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Good Friday (7 Apr), Easter Sunday (9 Apr). Open Labour Day (24 Oct, 9:00 AM – 4:30 PM), Waitangi Day (6 Feb, 9:00 AM – 4:30 PM), Taranaki Anniversary (13 Mar, 9:00 AM – 4:30 PM), Easter Monday (10 Apr, 9:00 AM – 4:30 PM), ANZAC Day (25 Apr, 12:00 PM – 4:30 PM), Queen's Birthday (5 Jun, 9:00 AM – 4:30 PM), Matariki (14 Jul, 9:00 AM – 4:30 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -39.5840857,
-    "lng": 174.2743421,
-    "name": "Hāwera Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:30 AM to 4:15 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "Camberwell Road, Hāwera, Taranaki 4610",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/hawera-vaccination-centre-tsb-hub-camberwell/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "10:30 AM – 4:15 PM",
-        "Sat – Sun": "9:30 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Waitangi Day (6 Feb), Taranaki Anniversary (13 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr). Open Labour Day (24 Oct, 10:30 AM – 4:15 PM), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -38.1373033,
-    "lng": 176.2402622,
-    "name": "Te Hau O Rehua",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "1530 Amohau Street, Rotorua, Bay of Plenty 3010",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/lakes-vaccination-centres/at/te-hau-o-rehua-lakes-dhb-covid-centre-1138/",
-    "opennningHours": {
-      "schedule": {
-        "Wed – Sat": "8:30 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -38.681953301979526,
-    "lng": 176.0882046350427,
-    "name": "Taupō Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 4:00 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "6/29 Tōtara Street, Taupō, Waikato 3330",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/lakes-vaccination-centres/at/taupo-vaccination-centre-6-29-totara-street/",
-    "opennningHours": {
-      "schedule": {
-        "Wed – Sat": "8:30 AM – 4:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Hawke's Bay Anniversary (21 Oct), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "<strong>Travel Directions:</strong>",
-        "The Taupō COVID-19 Immunisation Hub is located approximately 1.8km from the Taupō CBD, travelling along Spa Road.&nbsp; The building is directly across the road from the Hospice Shop Taupō.",
-        "<strong>Parking:</strong>",
-        "Parking is available at the front door entrance of the Taupō COVID-19 Immunisation Hub, although limited. The majority of car parking is available at the rear of the building."
-      ]
-    }
-  },
-  {
-    "lat": -38.98795469999999,
-    "lng": 175.807231,
-    "name": "28 Te Rangitautahanga Road",
-    "branch": "community",
-    "openTodayHours": "",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Tūrangi COVID-19 Vaccination Centre, 28 Te Rangitautahanga Road, Tūrangi, Waikato 3334",
-    "telephone": "0800 28 29 26",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/lakes-vaccination-centres/at/28-te-rangitautahanga-road-turangi/",
-    "opennningHours": {
-      "schedule": {},
-      "exceptions": {},
-      "notesHtml": []
     }
   },
   {
