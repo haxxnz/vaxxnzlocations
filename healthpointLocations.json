@@ -3735,68 +3735,6 @@
     }
   },
   {
-    "lat": -39.06019810000001,
-    "lng": 174.0699326,
-    "name": "New Plymouth Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "9:00 AM to 4:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "109 Powderham Street, (ground floor of the Baker Tilly Staples Rodway building), New Plymouth, Taranaki 4310",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/new-plymouth-vaccination-centre-109-powderham/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Wed": "9:00 AM – 4:30 PM",
-        "Thu": "12:00 PM – 7:30 PM",
-        "Fri – Sat": "9:00 AM – 4:30 PM",
-        "Sun": "12:00 PM – 7:30 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Good Friday (7 Apr), Easter Sunday (9 Apr). Open Labour Day (24 Oct, 9:00 AM – 4:30 PM), Waitangi Day (6 Feb, 9:00 AM – 4:30 PM), Taranaki Anniversary (13 Mar, 9:00 AM – 4:30 PM), Easter Monday (10 Apr, 9:00 AM – 4:30 PM), ANZAC Day (25 Apr, 12:00 PM – 4:30 PM), Queen's Birthday (5 Jun, 9:00 AM – 4:30 PM), Matariki (14 Jul, 9:00 AM – 4:30 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
-    "lat": -39.5840857,
-    "lng": 174.2743421,
-    "name": "Hāwera Vaccination Centre",
-    "branch": "community",
-    "isOpenToday": true,
-    "openTodayHours": "10:30 AM to 4:15 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "Walk in"
-    ],
-    "address": "Camberwell Road, Hāwera, Taranaki 4610",
-    "telephone": "",
-    "faxNumber": "",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/taranaki-covid-19-vaccination-centres/at/hawera-vaccination-centre-tsb-hub-camberwell/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "10:30 AM – 4:15 PM",
-        "Sat – Sun": "9:30 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Waitangi Day (6 Feb), Taranaki Anniversary (13 Mar), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr). Open Labour Day (24 Oct, 10:30 AM – 4:15 PM), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -37.07020840000001,
     "lng": 174.95916680000005,
     "name": "Papakura Marae Health Clinic",
@@ -5999,6 +5937,135 @@
       },
       "exceptions": {
         "Public Holidays": "Closed Good Friday (7 Apr). Open Labour Day (24 Oct, 9:00 AM – 6:00 PM), Auckland Anniversary (30 Jan, 9:00 AM – 6:00 PM), Waitangi Day (6 Feb, 9:00 AM – 6:00 PM), Easter Sunday (9 Apr, 9:00 AM – 6:00 PM), Easter Monday (10 Apr, 9:00 AM – 6:00 PM), ANZAC Day (25 Apr, 1:00 PM – 6:00 PM), Queen's Birthday (5 Jun, 9:00 AM – 6:00 PM), Matariki (14 Jul, 9:00 AM – 6:00 PM)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -39.06019810000001,
+    "lng": 174.0699326,
+    "name": "New Plymouth Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "9:00 AM to 4:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "109 Powderham Street, (ground floor of the Baker Tilly Staples Rodway building), New Plymouth, Taranaki 4310",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/new-plymouth-covid-19-vaccination-centre/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Wed": "9:00 AM – 4:30 PM",
+        "Thu": "12:00 PM – 7:30 PM",
+        "Fri – Sat": "9:00 AM – 4:30 PM",
+        "Sun": "12:00 PM – 7:30 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
+    }
+  },
+  {
+    "lat": -45.8549341,
+    "lng": 170.5187562,
+    "name": "Antidote Gardens",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "Gardens Shopping Mall, 1 North Road, North East Valley, Dunedin",
+    "telephone": "(03) 473 8248",
+    "faxNumber": "(03) 473 8249",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-gardens-1/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "8:30 AM – 5:30 PM",
+        "Sat – Sun": "10:00 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": [
+        "<span class=\"hours-holidays-title\">We will be running COVID-19 Vaccination clinics during the week and from 9:30 to 5:00 on Saturdays and Sundays 10:15 to 3:00. Walk-ins welcomed!</span>",
+        "<span class=\"hours-holidays-title\">Public Holidays:</span> Closed on all public holidays."
+      ]
+    }
+  },
+  {
+    "lat": -40.3315054,
+    "lng": 175.6313169,
+    "name": "Vogel Street Pharmacy",
+    "branch": "pharmacy",
+    "isOpenToday": true,
+    "openTodayHours": "8:30 AM to 5:30 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "47 Vogel Street, Roslyn, Palmerston North",
+    "telephone": "(06) 355 1905",
+    "faxNumber": "(06) 355 1904",
+    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/vogel-street-pharmacy/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Tue": "8:30 AM – 5:30 PM",
+        "Wed": "8:30 AM – 6:30 PM",
+        "Thu – Fri": "8:30 AM – 5:30 PM",
+        "Sat": "9:00 AM – 7:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Easter Sunday (9 Apr). Open Queen Elizabeth 2 Memorial Day (26 Sep, 8:30 AM – 5:30 PM), Labour Day (24 Oct, 10:00 AM – 5:00 PM), Wellington Anniversary (23 Jan, 8:30 AM – 5:30 PM), Waitangi Day (6 Feb, 8:30 AM – 5:30 PM), Good Friday (7 Apr, 10:00 AM – 2:00 PM), Easter Monday (10 Apr, 10:00 AM – 3:00 PM), ANZAC Day (25 Apr, 10:00 AM – 4:00 PM), Queen's Birthday (5 Jun, 10:00 AM – 5:00 PM), Matariki (14 Jul, 10:00 AM – 5:00 PM)."
+      },
+      "notesHtml": [
+        "In light of the recent news, we'd like to extend our sincere condolences following the passing of Her Majesty the Queen at the age of 96. Our thoughts are with the Royal Family at this sad time.&nbsp;",
+        "At Vogel Street Pharmacy, we will continue to support our community by opening as per normal hours (8:30am to 5:30pm) on Monday 26 September 2022.&nbsp;",
+        "Let's be happy and healthy everyone!"
+      ]
+    }
+  },
+  {
+    "lat": -42.4632728,
+    "lng": 171.1920973,
+    "name": "Te Nikau Grey Hospital",
+    "branch": "community",
+    "isOpenToday": false,
+    "openTodayHours": ".",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Novavax vaccine (18+ years)",
+      "Anyone currently eligible can access",
+      "No appointment required",
+      "Walk in"
+    ],
+    "address": "71 Water Walk Road, Greymouth 7805",
+    "telephone": "(03) 769 7400",
+    "faxNumber": "(03) 769 7699",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/",
+    "opennningHours": {
+      "schedule": {
+        "Fri": "10:00 AM – 4:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
       },
       "notesHtml": []
     }
@@ -9150,38 +9217,6 @@
     }
   },
   {
-    "lat": -40.3315054,
-    "lng": 175.6313169,
-    "name": "Vogel Street Pharmacy",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "Make an appointment",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "47 Vogel Street, Roslyn, Palmerston North",
-    "telephone": "(06) 355 1905",
-    "faxNumber": "(06) 355 1904",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/vogel-street-pharmacy/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Tue": "8:30 AM – 5:30 PM",
-        "Wed": "8:30 AM – 6:30 PM",
-        "Thu – Fri": "8:30 AM – 5:30 PM",
-        "Sat": "9:00 AM – 7:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Easter Sunday (9 Apr). Open Labour Day (24 Oct, 10:00 AM – 5:00 PM), Wellington Anniversary (23 Jan, 8:30 AM – 5:30 PM), Waitangi Day (6 Feb, 8:30 AM – 5:30 PM), Good Friday (7 Apr, 10:00 AM – 2:00 PM), Easter Monday (10 Apr, 10:00 AM – 3:00 PM), ANZAC Day (25 Apr, 10:00 AM – 4:00 PM), Queen's Birthday (5 Jun, 10:00 AM – 5:00 PM), Matariki (14 Jul, 10:00 AM – 5:00 PM)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -41.1350218,
     "lng": 174.84142940000004,
     "name": "4 Lydney Place North",
@@ -11564,7 +11599,7 @@
       },
       "notesHtml": [
         "Appointments are available from 9:00 AM&nbsp;– 11:45 AM&nbsp;and 1:30 PM&nbsp;– 4:45 PM&nbsp;with a doctor, or from 8:30 AM&nbsp;- 4:45 PM&nbsp;with a nurse.",
-        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"c0a5ada1a9ac80a7afb2a5ada5a4a9a3a1aceea3afeeaeba\">[email&nbsp;protected]</a>",
+        "<br>Please phone for a suitable appointment time with your doctor or nurse. For those with a hearing impairment, please&nbsp; fax us on (03) 2081926 or email us at <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"97f2faf6fefbd7f0f8e5f2faf2f3fef4f6fbb9f4f8b9f9ed\">[email&nbsp;protected]</a>",
         "<br><strong>After hours:</strong> Call clinic phone&nbsp;- 03 2089222&nbsp;and follow instructions to speak to the after hours service.",
         "Morning clinic: 10:00am - 11:00am",
         "Evening clinic: 6:00 pm - 7:00pm"
@@ -19302,36 +19337,6 @@
     }
   },
   {
-    "lat": -42.4632728,
-    "lng": 171.1920973,
-    "name": "Te Nikau Grey Hospital",
-    "branch": "community",
-    "isOpenToday": false,
-    "openTodayHours": ".",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Novavax vaccine (18+ years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "71 Water Walk Road, Greymouth 7805",
-    "telephone": "(03) 769 7400",
-    "faxNumber": "(03) 769 7699",
-    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/west-coast-covid-19-community-vaccination/",
-    "opennningHours": {
-      "schedule": {
-        "Thu – Fri": "10:00 AM – 4:00 PM",
-        "Sat": "10:00 AM – 1:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": []
-    }
-  },
-  {
     "lat": -38.1296298,
     "lng": 176.3024154,
     "name": "Owhata Pharmacy",
@@ -20477,38 +20482,6 @@
         "Public Holidays": "Closed Labour Day (24 Oct), Wellington Anniversary (23 Jan), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun)."
       },
       "notesHtml": []
-    }
-  },
-  {
-    "lat": -45.8549341,
-    "lng": 170.5187562,
-    "name": "Antidote Gardens",
-    "branch": "pharmacy",
-    "isOpenToday": true,
-    "openTodayHours": "8:30 AM to 5:30 PM.",
-    "instructionLis": [
-      "Pfizer vaccine (12+ years)",
-      "Child Pfizer vaccine (5-11 years)",
-      "Anyone currently eligible can access",
-      "No appointment required",
-      "Walk in"
-    ],
-    "address": "Gardens Shopping Mall, 1 North Road, North East Valley, Dunedin",
-    "telephone": "(03) 473 8248",
-    "faxNumber": "(03) 473 8249",
-    "url": "https://www.healthpoint.co.nz/pharmacy/pharmacy/antidote-gardens-1/",
-    "opennningHours": {
-      "schedule": {
-        "Mon – Fri": "8:30 AM – 5:30 PM",
-        "Sat – Sun": "10:00 AM – 3:00 PM"
-      },
-      "exceptions": {
-        "Public Holidays": "Closed Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
-      },
-      "notesHtml": [
-        "<span class=\"hours-holidays-title\">We will be running COVID-19 Vaccination clinics during the week and from 9:30 to 5:00 on Saturdays and Sundays 10:15 to 3:00. Walk-ins welcomed!</span>",
-        "<span class=\"hours-holidays-title\">Public Holidays:</span> Closed on all public holidays."
-      ]
     }
   },
   {
@@ -24969,6 +24942,35 @@
       "notesHtml": [
         "Close for lunch daily 11.30am - 1pm"
       ]
+    }
+  },
+  {
+    "lat": -39.5840857,
+    "lng": 174.2743421,
+    "name": "Hāwera Vaccination Centre",
+    "branch": "community",
+    "isOpenToday": true,
+    "openTodayHours": "10:30 AM to 4:15 PM.",
+    "instructionLis": [
+      "Pfizer vaccine (12+ years)",
+      "Child Pfizer vaccine (5-11 years)",
+      "Anyone currently eligible can access",
+      "Make an appointment",
+      "Walk in"
+    ],
+    "address": "Camberwell Road, Hāwera, Taranaki 4610",
+    "telephone": "",
+    "faxNumber": "",
+    "url": "https://www.healthpoint.co.nz/community-health-services/community-health/hawera-vaccination-centre-tsb-hub-camberwell-1/",
+    "opennningHours": {
+      "schedule": {
+        "Mon – Fri": "10:30 AM – 4:15 PM",
+        "Sat – Sun": "9:30 AM – 3:00 PM"
+      },
+      "exceptions": {
+        "Public Holidays": "Closed Queen Elizabeth 2 Memorial Day (26 Sep), Labour Day (24 Oct), Waitangi Day (6 Feb), Good Friday (7 Apr), Easter Sunday (9 Apr), Easter Monday (10 Apr), ANZAC Day (25 Apr), Queen's Birthday (5 Jun), Matariki (14 Jul)."
+      },
+      "notesHtml": []
     }
   }
 ]
