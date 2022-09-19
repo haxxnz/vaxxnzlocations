@@ -25142,15 +25142,15 @@
         "days": [
           "sun"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "11:00:00",
+        "localEnd": "15:00:00"
       },
       {
         "days": [
           "sat"
         ],
-        "localStart": "10:00:00",
-        "localEnd": "16:00:00"
+        "localStart": "11:00:00",
+        "localEnd": "15:00:00"
       }
     ],
     "mapUrl": "https://www.google.com/maps/place/Shop+17%2F588+Chapel+Road,+Botany+Downs,+Auckland+2013,+New+Zealand/@-36.9335178,174.911221,17z/data=!3m2!4b1!5s0x6d0d4c9dc79bc35b:0xfa3b791211832620!4m5!3m4!1s0x6d0d4c9dce47d5bf:0x8ad0604c9c0e9405!8m2!3d-36.9335221!4d174",
@@ -56300,73 +56300,6 @@
     ],
     "type": "OnlineBooking",
     "availableDate": "2022-03-22",
-    "locationPool": "default",
-    "exhausted": false,
-    "exhaustedOnlySlots": false,
-    "excludeFromSearch": false,
-    "nextAvailableSlot": null,
-    "vaccineData": "WyJhMVQ0YTAwMDAwMEhJS0NFQTQiXQ=="
-  },
-  {
-    "displayAddress": "1 Commercial Bay, Shop 12 Level/7 Queen Street Auckland CBD  Auckland  1010",
-    "distanceInMeters": 5831.55196646,
-    "extId": "a0R4a000000fspwEAA",
-    "regionExternalId": "a0X4a000000IylMEAS",
-    "startDate": "2022-03-24",
-    "endDate": "2022-12-23",
-    "location": {
-      "lng": 174.76605,
-      "lat": -36.84305
-    },
-    "name": "Life Pharmacy Commercial Bay",
-    "timezone": "Pacific/Auckland",
-    "openHours": [
-      {
-        "days": [
-          "thu"
-        ],
-        "localStart": "10:30:00",
-        "localEnd": "16:00:00"
-      }
-    ],
-    "mapUrl": "https://goo.gl/maps/4jLQLpDPEi43Wy1Z7",
-    "tags": [
-      {
-        "id": 48791,
-        "externalId": "a0p4a000000E7ytAAC",
-        "name": "Wheelchair access",
-        "languageKey": "Wheelchair access",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 85183,
-        "externalId": "a0p4a000000EOb1AAG",
-        "name": "Accessible toilets",
-        "languageKey": "Accessible toilets",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 85184,
-        "externalId": "a0p4a000000EOb2AAG",
-        "name": "Onsite parking",
-        "languageKey": "Onsite parking",
-        "isSystemTag": false,
-        "type": "location"
-      },
-      {
-        "id": 592498,
-        "externalId": "a0p4a000000GfNBAA0",
-        "name": "Pfizer",
-        "languageKey": "PfizerTag",
-        "showInFilter": false,
-        "isSystemTag": false,
-        "type": "vaccine"
-      }
-    ],
-    "type": "OnlineBooking",
-    "availableDate": "2022-03-23",
     "locationPool": "default",
     "exhausted": false,
     "exhaustedOnlySlots": false,
